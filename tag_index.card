@@ -1,0 +1,41 @@
+:index:
+= short =
+Index of all the tags in this belief web
+
+to refresh use the following commands (<CTRL>r<CTRL>w is your friend)
+:VimwikiRebuildTags					# makes everything else work
+:VimwikiGenerateTagLinks [<TAG>]	# by default build the list below
+
+also recall :T <TAG> will produce a locationlist of <TAG> instances
+
+
+= Generated Tags =
+== article ==
+    - [[were_right_theyre_wrong]]
+
+== book ==
+    - [[tractatus]]
+
+== enlightenment ==
+    - [[descartes]]
+
+== index ==
+    - [[tag_index]]
+
+== modality ==
+    - [[inconceivability_guide_to_impossibility]]
+    - [[tractatus#theses#modal isomorphism]]
+
+== passing_thought ==
+    - [[theories_as_suits_of_armour]]
+
+== person ==
+    - [[descartes]]
+    - [[wittgenstein]]
+
+== representation ==
+    - [[tractatus#theses#modal isomorphism]]
+
+== text ==
+    - [[tractatus]]
+    - [[were_right_theyre_wrong]]

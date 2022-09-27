@@ -1,0 +1,107 @@
+:article:text:
+= short =
+[[file:zz.texts/inwagen2010.wereRightTheyreWrong.pdf|We're right. They're wrong.]] by van_inwagen
+published 2010<br>
+One line: If I'm so damn right why doesn't everyone agree with me? A recognition
+of the problem of philosophers' confidence.
+
+= synopsis =
+== the problem ==
+*weak exclusivism* := It is "rational" to accept X and X is incompatible with
+<i></i>				other beliefs(/isms)<br>
+is claimed to entail<br>
+*strong exclusivism* := weak + not "rational" to accept
+<i></i>				  other incompatible beliefs(/isms)
+
+when combined with something along the lines of the following
+plausible((according to inwagen)) claim:
+    (p.11.1) If it is rational for a person to accept a certain proposition, it
+    cannot also be rational for that person (at the same time, in the same
+    circumstances) to accept its denial.
+
+which inwagen ultimately fleshes out into the claim that:
+    (p.12.1) Consider any person as he is at a certain moment. That person has
+    available to him, at that time, a body of evidence, his total evidence at
+    that moment. Call it E. Of metaphysical necessity, E has the following
+    property (of itself, regardless of who may have it) with respect to any
+    proposition p: either (i) it would be rational for anyone to accept p on the
+    basis of E, or (ii) it would be rational for anyone to accept the denial of
+    p on the basis of E, or (iii) it would be not be rational for anyone to
+    accept either p or the denial of p on the basis of E. This 'or' is
+    exclusive. It cannot be that it would be rational to accept p on the basis
+    of E and rational to accept the denial of p on the basis of E. Loosely
+    speaking, a body of evidence cannot have the power to confer rationality on
+    both a proposition and its denial. And, finally, it is rational for one to
+    accept a proposition at a certain moment if and only if one's total evidence
+    at that moment bears this impersonal "confers rationality upon" relation to
+    that proposition.
+
+This seems to force one of the following four "extraordinarily unappealing
+options" (where Ism is a controvertial philosophical doctrine one believes):
+    (p.14.1)
+    1. It is not after all rational for me to accept Ism.
+    2. It is not rational for any trained philosopher to accept Nism((a theory incompatible with Ism)).
+    3. Some trained philosophers who accept Nism are in epistemic circumstances
+       that are inferior to mine in the matter of deciding what to believe about
+       Ism and Nism.
+    4. Some of the philosophers who accept Nism are less intelligent than me (or
+       labor under some other relevant cognitive disadvantage; lack of
+       philosophical talent, perhaps).
+
+Inwagen is very unhappy about all these options.
+
+As a penultimate solution he claims/conceeds/wails that
+    (p.15.1) therefore, the epistemological principles I have laid out, the
+    principles that allowed us to deduce strong exclusivism from weak
+    exclusivism, must be wrong.
+
+(Thus he comes dangerously close to considering
+[[sum(P(t_given_e)_for_all_t)_must_be_over1_for_some_e]], but has already
+rejected it as ridiculous.)
+
+As a final solution he considers access to private inchoate solutions
+
+== my solution ==
+=== A preliminary flaw ===
+the paper suffers from the [[problem_of_treating_belief_as_binary]] i.e. the
+focus throughout is on "rational to accept p" and never on "rationmal to accept
+p with degree of credence C"
+
+This is manifest in the first section where inwagen argues:
+
+It is true that it must be rational to believe that other religions are partly
+wrong, but it may be the case that it rational to beleive something false. Hence
+even though we are rational in believing Ism it may turn out that some other
+religion is in fact true.
+
+=== main solution ===
+notice how much the atomistic/rationalistic assumptions underpin this problem
+
+For each belief, it is either rational or not to accept it (given the evidence
+available to me and perhaps if we are genuine . Insofar as I
+accept that belief then I am irrational, 
+
+[[sum(P(TgivenE)_for_all_t)_must_be_over1_for_some_e]]
+
+==== However, a genuine problem remains ====
+All these dogmatic philosophers, each filled by
+confidence in their own particular obsession, all wildly disagreeing with each
+other. Surely it gives one pause.
+
+[[explanation_of_philosophers_dogmatism]]
+
+=== can be expressed as a problem of philosophical progress ===
+
+
+My suggestion is that we have misdiagnosed the intu
+
+= triviata =
+It does not follow that if "Ism" is "weakly exclusivist" (defined as: Ism
+incompatible with other Xisms and Ism holds that it is rational to accept Ism)
+then those who believe Ism must((if logical and "rational")) also believe that
+"The teachings of all other religions are at least partly wrong, and it is
+rational for us to believe this about the teachings of all other religions".
+
+https://drive.google.com/file/d/1G6q2KihReyzREwGgoffx0k1Pq6pt8zs9/view?usp=sharing
+
+venDoes this matter. 

@@ -1,0 +1,19 @@
+.vimwiki_tags
+00.card
+zz.texts/
+zz.images/
+.DS_Store
+
+
+# vi swp files
+*.swp
+*.swo
+
+# who knows but one day some python might be involved
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python

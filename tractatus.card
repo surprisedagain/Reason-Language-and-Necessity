@@ -1,0 +1,57 @@
+:book:text:
+= short =
+[[file:~/wa/phil/00.sinclairWeb/zz.texts/wittgenstein1922.tractatusLogicoPhilosophicus.pdf|Tractatus Logico-Philosophicus]] by [[wittgenstein]]
+published 1921 (German), 1922 (English)
+
+= theses =
+== modal isomorphism ==
+:representation:modality:
+Language represents a system(/the world) by virtue of an ismorphism between
+the permissible arrangements of symbols into sentences and the possible
+arrangements of the system they represent.
+
+This (purports to) explain how we know necessary truths about such external
+systems.  We can be taught the [[wittgenstein_grammar_vs_grammar|grammatically]]
+permissible combinations of symbols by experience, and the modal structure of
+the represented systems MUST be the same since this is a pre-requisite of it
+being the thing (the type of thing) that those symbols represent.
+
+The apparent dependency on normativity can be largely dispelled by simply
+specifying the relevant grammtical constructions explicitly. While it is
+normative rules that give rise to "grammaticality" in natural langauges, one can
+simply stipulate the set of [[wittgenstein_grammar_vs_grammar|grammatically]]
+correct sentences and thus establish the relevant space of gramatical
+possibilities.
+
+There are at least two suspicions remaining however:
+1) Is there still a reliance upon an unresolved knowledge of modality?
+
+	At first, perhaps it seems that we surely know the possibilities of ur own
+	minds better than the possibilities of some external objects/states of
+	affairs. We can "directly" experience the possibilites of our own mind
+	unconstriained by the limits of base external reality.
+	How is it that we know what combinations of symbols are possible? But here
+	it seems the combinations can be made purely of existing, if "abstract"
+	entites and relationships.  Consider [[quine's_account_of_logical_truth]]
+	where the set of grammatically correct sentences and the set of logical
+	truths is specified without any reliance upon modal notions at all. 
+ 
+2) Is it really the case that "(6.43) . . .
+   [[the_world_of_the_happy_man]] is a
+   different one from that of the unhappy man"?
+
+== basis of logical space ==
+Another aspect of W's approach that must be mentioned is the notion of finding a
+logical_basis for the space of grammatically correct statements. This is
+directly analogous to the notion of a basis of a mathematical vector space.
+There the notion is that any vector in the space (mutatis mutandis any point in
+the space) can be reached/expressed/constructed as a combination((sum of multiples))
+of the members of the basis. 
+
+== other related cards ==
+[[representation]]
+[[mental_states]]
+[[inconceivability_guide_to_impossibility]]
+
+== backlinks ==
+[[the_world_of_the_happy_man]]
