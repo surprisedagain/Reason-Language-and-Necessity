@@ -1,6 +1,9 @@
 .vimwiki_tags
 00.card
-01.indexlink
+01.card
+docs/00.html
+docs/01.html
+
 zz.texts/
 zz.images/
 .DS_Store

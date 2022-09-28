@@ -1,21 +1,20 @@
 :article:text:
 === short ===
-[[file:zz.texts/inwagen2010.wereRightTheyreWrong.pdf|We're right. They're wrong.]] by van_inwagen.
-published 2010<br>
+[[local:zz.texts/inwagen2010.wereRightTheyreWrong.pdf|We're right. They're wrong.]] by van_inwagen. 2010<br>
+public url: https://andrewmbailey.com/pvi/RightWrong.pdf
 
-*One line*: If I'm so damn right why doesn't everyone agree? A recognition
+*One line*: If I'm so damn right(/"rational") why doesn't everyone agree? A recognition
 of the problem of philosophers' confidence.
 
 = synopsis =
 == the problem ==
-*weak exclusivism* := It is "rational" to accept X and X is incompatible with
+*weak exclusivism* := It is "rational" to accept X AND X is incompatible with
 <i></i>				other beliefs(/isms)<br>
 is claimed to entail<br>
-*strong exclusivism* := weak + not "rational" to accept
+*strong exclusivism* := weak + it is not "rational" to accept
 <i></i>				  other incompatible beliefs(/isms)
 
-when combined with something along the lines of the following
-plausible((according to inwagen)) claim:
+when combined with something along the lines of the following "plausible" claim:
     (p.11.1) If it is rational for a person to accept a certain proposition, it
     cannot also be rational for that person (at the same time, in the same
     circumstances) to accept its denial.
@@ -43,11 +42,11 @@ options" (where Ism is a controvertial philosophical doctrine one believes):
     1: It is not after all rational for me to accept Ism.<br>
     2: It is not rational for any trained philosopher to accept Nism((a theory incompatible with Ism)).<br>
     3: Some trained philosophers who accept Nism are in epistemic circumstances
-        that are inferior to mine in the matter of deciding what to believe about
-        Ism and Nism.<br>
+       that are inferior to mine in the matter of deciding what to believe about
+       Ism and Nism.<br>
     4: Some of the philosophers who accept Nism are less intelligent than me (or
-        labor under some other relevant cognitive disadvantage; lack of
-        philosophical talent, perhaps).<br>
+       labor under some other relevant cognitive disadvantage; lack of
+       philosophical talent, perhaps).<br>
 
 Inwagen is very unhappy about all these options.
 
@@ -61,14 +60,44 @@ As a penultimate solution he claims/conceeds/wails that
 rejected it as ridiculous.)
 
 As a final solution he considers access to private inchoate solutions
+    (p.17.1) . . . some sort of interior, incommunicable evidence
+
+But in the end inwagen does not present a solution but rather as make the
+problem acute. (A brave and admirable admission of puzzlement.) And he is indeed
+correct that there is a problem, but its not quite as bad or as insoluble as he
+supposes.
 
 = my solution =
-== A preliminary flaw ==
+== A preliminary minor flaw ==
 the paper suffers from the [[problem_of_treating_belief_as_binary]] i.e. the
-focus throughout is on "rational to accept p" and never on "rationmal to accept
+focus throughout is on "rational to accept p" and never on "rational to accept
 p with degree of credence C"
 
-This is manifest in the first section where inwagen argues:
+This is manifest in the first section where inwagen argues: that since Ism is
+[[#weak exclusivism|weakly exclusive]] then believers in Ism must (on pain of
+logical inconsistency no less ) hold that "The teachings of other religions are
+at least partly wrong."
+
+But consider the following case. Suppose Aden is a "rational" believer in Ism.
+who has good reason to believe Ism with a high degree of confidence, but while
+high this justified confidence falls short of absolute certainty. It seems Aden
+may well recognise this fact, and hence be willing to assert that other
+religions are very likely to be wrong, but still unwilling to assert that the
+are simply wrong _tout court_. In hindsight for instance (having since had a
+revelation of the truth of some competeing religion) Aden might realise that
+while the evidence available to him in the past had strongly supported Ism, and
+hence he had been rational to accept Ism's truth, in fact Nism had been true all
+along! But a reasonably undogmatic believer in Ism may accept that may be in
+such a position even at the time. That while their current belief in Ism is
+rational it may turn out that Nism is true.
+
+Hence it is *not* true that rationally acceptable (aka justified) belief
+believe 
+
+I don't think this particularly matters the conversation can be reinterpreted
+_mutatis mutandis_ in terms of degrees of confidence and degrees of
+justification. But I think
+
 
 It is true that it must be rational to believe that other religions are partly
 wrong, but it may be the case that it rational to beleive something false. Hence
@@ -84,25 +113,14 @@ accept that belief then I am irrational,
 
 [[sum(P(TgivenE)_for_all_t)_must_be_over1_for_some_e]]
 
-==== However, a genuine problem remains ====
+However, a genuine problem remains. Even given this philosophers are certainly
+overconfident
 All these dogmatic philosophers, each filled by
 confidence in their own particular obsession, all wildly disagreeing with each
 other. Surely it gives one pause.
 
-[[explanation_of_philosophers_dogmatism]]
+[[philosophers_dogmatism]]
 
-=== can be expressed as a problem of philosophical progress ===
 
 
 My suggestion is that we have misdiagnosed the intu
-
-= triviata =
-It does not follow that if "Ism" is "weakly exclusivist" (defined as: Ism
-incompatible with other Xisms and Ism holds that it is rational to accept Ism)
-then those who believe Ism must((if logical and "rational")) also believe that
-"The teachings of all other religions are at least partly wrong, and it is
-rational for us to believe this about the teachings of all other religions".
-
-https://drive.google.com/file/d/1G6q2KihReyzREwGgoffx0k1Pq6pt8zs9/view?usp=sharing
-
-venDoes this matter. 
