@@ -1,8 +1,9 @@
 :article:text:
-= short =
-[[file:zz.texts/inwagen2010.wereRightTheyreWrong.pdf|We're right. They're wrong.]] by van_inwagen
+=== short ===
+[[file:zz.texts/inwagen2010.wereRightTheyreWrong.pdf|We're right. They're wrong.]] by van_inwagen.
 published 2010<br>
-One line: If I'm so damn right why doesn't everyone agree with me? A recognition
+
+*One line*: If I'm so damn right why doesn't everyone agree? A recognition
 of the problem of philosophers' confidence.
 
 = synopsis =
@@ -38,15 +39,15 @@ which inwagen ultimately fleshes out into the claim that:
 
 This seems to force one of the following four "extraordinarily unappealing
 options" (where Ism is a controvertial philosophical doctrine one believes):
-    (p.14.1)
-    1. It is not after all rational for me to accept Ism.
-    2. It is not rational for any trained philosopher to accept Nism((a theory incompatible with Ism)).
-    3. Some trained philosophers who accept Nism are in epistemic circumstances
-       that are inferior to mine in the matter of deciding what to believe about
-       Ism and Nism.
-    4. Some of the philosophers who accept Nism are less intelligent than me (or
-       labor under some other relevant cognitive disadvantage; lack of
-       philosophical talent, perhaps).
+    (p.14.1)<br>
+    1: It is not after all rational for me to accept Ism.<br>
+    2: It is not rational for any trained philosopher to accept Nism((a theory incompatible with Ism)).<br>
+    3: Some trained philosophers who accept Nism are in epistemic circumstances
+        that are inferior to mine in the matter of deciding what to believe about
+        Ism and Nism.<br>
+    4: Some of the philosophers who accept Nism are less intelligent than me (or
+        labor under some other relevant cognitive disadvantage; lack of
+        philosophical talent, perhaps).<br>
 
 Inwagen is very unhappy about all these options.
 
@@ -61,8 +62,8 @@ rejected it as ridiculous.)
 
 As a final solution he considers access to private inchoate solutions
 
-== my solution ==
-=== A preliminary flaw ===
+= my solution =
+== A preliminary flaw ==
 the paper suffers from the [[problem_of_treating_belief_as_binary]] i.e. the
 focus throughout is on "rational to accept p" and never on "rationmal to accept
 p with degree of credence C"
@@ -74,7 +75,7 @@ wrong, but it may be the case that it rational to beleive something false. Hence
 even though we are rational in believing Ism it may turn out that some other
 religion is in fact true.
 
-=== main solution ===
+== main solution ==
 notice how much the atomistic/rationalistic assumptions underpin this problem
 
 For each belief, it is either rational or not to accept it (given the evidence
