@@ -7,14 +7,14 @@ public url: https://andrewmbailey.com/pvi/RightWrong.pdf
 of the problem of philosophers' confidence.
 
 = synopsis =
-== the problem ==
+== main problem ==
 *weak exclusivism* := It is "rational" to accept X AND X is incompatible with
 <i></i>				other beliefs(/isms)<br>
-is claimed to entail<br>
+together with the "plausible principle" quoted below is claimed to entail<br>
 *strong exclusivism* := weak + it is not "rational" to accept
 <i></i>				  other incompatible beliefs(/isms)
 
-when combined with something along the lines of the following "plausible" claim:
+the supporting "plausible claim" is something along the lines of the following:
     (p.11.1) If it is rational for a person to accept a certain proposition, it
     cannot also be rational for that person (at the same time, in the same
     circumstances) to accept its denial.
@@ -36,7 +36,7 @@ which inwagen ultimately fleshes out into the claim that:
     at that moment bears this impersonal "confers rationality upon" relation to
     that proposition.
 
-This seems to force one of the following four "extraordinarily unappealing
+This appears to force one of the following four "extraordinarily unappealing
 options" (where Ism is a controvertial philosophical doctrine one believes):
     (p.14.1)<br>
     1: It is not after all rational for me to accept Ism.<br>
@@ -64,12 +64,68 @@ As a final solution he considers access to private inchoate solutions
 
 But in the end inwagen does not present a solution but rather as make the
 problem acute. (A brave and admirable admission of puzzlement.) And he is indeed
-correct that there is a problem, but its not quite as bad or as insoluble as he
+correct that there is a problem, but it's not quite as bad or as insoluble as he
 supposes.
 
-= my solution =
-== A preliminary minor flaw ==
-the paper suffers from the [[problem_of_treating_belief_as_binary]] i.e. the
+:roughNotes:
+= main solution =
+In brief, to claim that there is an equivocation between the principle on
+(p.11.1) (which is true) and the principle which is espoused in (p.12.1) (which
+we claim is false). 
+
+(There may be something deeper here, the failure to distinguish these two claims
+may go some way towards explaining why many people find [[semantic_holism]]
+counter-intuitive at first glance.)
+
+The former principle amounts to little more than the claim that it is never
+rational to (permitted to translate someone as/permitted among competent speaker
+to ) hold logically inconsistent beliefs to be true.
+
+Is this principle immanent (peculiar to one language) or transcendent
+(something that can be ??{Q's philosophy of logic}??
+
+Despite Inwagen's mis-description, his claim in (p.12.1) is *not* "a plausible
+argument".  (Surely we are yet not in such a poor state that claiming that a
+proposition is true "of metaphysical necessity" is widely confused with
+_arguing_ for it.) It is, however, a unifying principle which offers to explain
+the various principles which Inwagen suggests earlier in the paper by virtue of
+deductively implying them.
+
+It is hoped that the negation of 
+[[sum(P(t_given_e)_for_all_t)_must_be_over1_for_some_e]] plays somewhat the same
+role. Explaining why 
+
+[[sum(P(TgivenE)_for_all_t)_must_be_over1_for_some_e]]
+
+However, even once the second principle a genuine problem remains. Even given this philosophers are certainly
+overconfident
+All these dogmatic philosophers, each filled by
+confidence in their own particular obsession, all wildly disagreeing with each
+other. Surely it gives one pause.
+
+[[philosophers_dogmatism]]
+
+My suggestion is that we have misdiagnosed the intu
+
+= Further problems =
+Inwagen's claims may gain in credibility because, together with the quibbles
+described below, they appear to explain the following claim:
+	
+	For each belief, and each collection of total evidence it is either
+	justified or not to hold that belief. (And holding two mutually exclusive
+	beliefs is never justified.) Insofar as one accepts a belief that is not
+	justified, one is irrational.
+
+While I disagree with nearly all the chief points in this claim, together they
+form something approximting common-sense. Hence Inwagen's claim gains credence
+by virtue of apparently offering an explanation of common-sense. It is further
+tedious to disentangle all the separate errors in this view, giving rise to the
+same difficulties as opposing a [[https://en.wikipedia.org/wiki/Gish_gallop|Gish Gallop]].
+
+The other comparatively minor elements contributing to this "explanation"
+
+== a largely independent quibble ==
+The paper suffers from the [[problem_with_treating_belief_as_binary]]. The
 focus throughout is on "rational to accept p" and never on "rational to accept
 p with degree of credence C"
 
@@ -78,49 +134,41 @@ This is manifest in the first section where inwagen argues: that since Ism is
 logical inconsistency no less ) hold that "The teachings of other religions are
 at least partly wrong."
 
-But consider the following case. Suppose Aden is a "rational" believer in Ism.
-who has good reason to believe Ism with a high degree of confidence, but while
-high this justified confidence falls short of absolute certainty. It seems Aden
-may well recognise this fact, and hence be willing to assert that other
-religions are very likely to be wrong, but still unwilling to assert that the
-are simply wrong _tout court_. In hindsight for instance (having since had a
-revelation of the truth of some competeing religion) Aden might realise that
-while the evidence available to him in the past had strongly supported Ism, and
-hence he had been rational to accept Ism's truth, in fact Nism had been true all
-along! But a reasonably undogmatic believer in Ism may accept that may be in
-such a position even at the time. That while their current belief in Ism is
-rational it may turn out that Nism is true.
+Consider the following case. Suppose Aden is a "rational" believer in Ism.
+One who has good reason to believe Ism with a degree of confidence that is high
+but falls short of absolute certainty. It seems Aden may well recognise this
+fact, and hence be willing to assert that other religions are very likely to be
+wrong, but still unwilling to assert that the are simply wrong _tout court_. In
+hindsight for instance (having since had a revelation of the truth of some
+competing religion) Aden might realise that while the evidence available to him
+in the past had strongly supported Ism, and hence he had been rational to accept
+Ism's truth, in fact Nism had been true all along! But a reasonably undogmatic
+believer in Ism may accept that may be in such a position even at the time. That
+while their current belief in Ism is rational, it may be that Nism is
+(completely) true.
 
-Hence it is *not* true that rationally acceptable (aka justified) belief
-believe 
-
+This only matters here in order to link 
 I don't think this particularly matters the conversation can be reinterpreted
 _mutatis mutandis_ in terms of degrees of confidence and degrees of
-justification. But I think
+justification. The claim now becomes that the credence which which evidence E
+warrants believing Ism and the credence E warrants in Nism (where the two are
+"logically inconsistent") must sum to less than 1 . In other words the negation
+of [[sum(P(t_given_e)_for_all_t)_must_be_over1_for_some_e]]. It is hoped that
+just as inwagen did not argue for his supporting claims so much as "cast a very
+puzzled glance in the direction" of those who deny his supporting principles
+(quoted above).
 
+== another independent quibble ==
+Bayesian's may insist further that we should not rest content with dispensing
+with the 2 place relationship "Evidence E warrants (or makes "rationally
+acceptable") belief in B" in favour of the the place relationship "Evidence E
+warrants confidence C in belief B". They may wish to insist that "Evidence E
+warrants confidence C in belief B given priors P" is the most fundamental
+relationship, and that the other accounts of the relationships between evidence
+and what is justified by that evidence, insofar as they are true, are variously
+vague versions of this principle.
 
-It is true that it must be rational to believe that other religions are partly
-wrong, but it may be the case that it rational to beleive something false. Hence
-even though we are rational in believing Ism it may turn out that some other
-religion is in fact true.
+I have no argument against that 
+
 
 == main solution ==
-notice how much the atomistic/rationalistic assumptions underpin this problem
-
-For each belief, it is either rational or not to accept it (given the evidence
-available to me and perhaps if we are genuine . Insofar as I
-accept that belief then I am irrational, 
-
-[[sum(P(TgivenE)_for_all_t)_must_be_over1_for_some_e]]
-
-However, a genuine problem remains. Even given this philosophers are certainly
-overconfident
-All these dogmatic philosophers, each filled by
-confidence in their own particular obsession, all wildly disagreeing with each
-other. Surely it gives one pause.
-
-[[philosophers_dogmatism]]
-
-
-
-My suggestion is that we have misdiagnosed the intu

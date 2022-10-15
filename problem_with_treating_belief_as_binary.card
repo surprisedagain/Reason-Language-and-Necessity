@@ -1,13 +1,61 @@
 = short =
-A range of philosophical problems are created by treating 
+A range of philosophical problems are created by treating belief as binary
+rather than a matter of degree.
 
-In so 
 
-= arguments =
-Main
+
+= main =
+It is often tempting to suppose that one can reduce talk of believing to talk
+of  believing with 
+Treating belief as binary leads to many of the same difficulties as drawing a
+binary division 
+
 == the lottery paradox ==
+suppose that there is a lottery with 1000. And suppose we set a level of
+confidence less than absolute confidence
 
-suppose that there is a lottery with 1000. And suppose we set a binary 
 
+= belief =
+much the same problems as are raised by the lottery paradox with regard to
+knowledge re-occur with belief.
+
+beleive that 1 will lose, believe that 2 will lose, beleive that 3 will lose . . .
+. but believe that one of 1, 2, 3, 4 will win (and that each player will either
+win or lose but not both)
+
+There is a vast difference between saying that something is false and saying
+that something has a 30% chance of being true.  Nate de silver (???? 538) gave
+Trump a 38% chance of winnign the 20?? american presidential election. When
+asked about "getting things so wrong" he replied that "things that have a 38%
+chance of happening happen about 38% of the time."
+
+
+== broader moral ==
+
+The above considerations might lead some to dispense with sentences of the form
+"X believes Y" in favour of "X believes Y with credence P" (or perhaps "credence
+greater than P" if one doubts that one could attach precise probabilities to all
+of peoples ordinary beleifs).
+
+I applaud those who propose such a wholesale rejection of "X believes Y". I draw
+their attention to the fact that they have found their way to exemplifying
+Quine's double standardhave found their way to exemplifying Quine's double
+standard.
+For they hold that 
+
+X believes Y not acceptable in rigorous theories,
+not necessarily avoided in ordinary speech
+there is no reduction proposed between the two.
+everything is fine, no reason to doubt the truth of either.
+
+it seems that we could do justice to this vagueness in our new speech after all
+"X believes Y with a quite high degree of confidence" where just what counts as
+quite high is deliberately left vague. (on par with `beliving Y
+beyond reasonable doubt)
+:unresolved:
+is this an acceptable reduction after all??
+
+their reasons for rejecting "X believes Y" would be reinstated if we had reasons
+for rejecting vagueness from our most rigourous scientific theories.
 
 = backlinks =
