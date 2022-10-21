@@ -1,25 +1,51 @@
 :Essay0:start:
+= Trials and tribulations of being a semantic holist =
 === short ===
-The trials and tribulations of being a semantic holist.
+A practical demonstration of the coherence of semantic holism
 
 = main =
+== introduction ==
 One of the chief joys of philosophy is the license it gives for largely
 unsuccessful attempts to foist one's opinions on more or less innocent passers
 by. The field is thus apt to attract those who enjoy the the painless
-suffering of being a lone voice in the wilderness.
-((Here as elsewhere current western culture [[overvalues_innovation_and_undervalues_maintenance]].  The unsung heroes are of course the people who actually change their minds as the result of reasoned argument.))
-It would, therefore, be disingenuous to count the fact that [[semantic_holism]] and
-the accompanying doctrine of indeterminacy of translation are
-widely held to be either false, self-contradictory or incoherent as a tribulation for
-sincere believers . Any philosopher worth their salt would be delighted to
-have good reasons for believing a principle that is at once so clear, profound,
-elegant, and (best of all) true, and yet so widely disbelieved. What does gall
-somewhat, however, is that the very tools which its critics use to formulate
-their misguided objections are themselves beautiful exemplars of semantic
-holism's truth.
+suffering of being a lone voice in the wilderness
+((Here as elsewhere current western culture [[overvalues_innovation_and_undervalues_maintenance]].  The unsung heroes are of course the people who actually change their minds as the result of reasoned argument.)).
+It would, therefore, be disingenuous to count the fact that [[semantic_holism]]
+and the accompanying doctrine of indeterminacy of translation are both widely
+held to be either false, self-contradictory or incoherent as a tribulation for
+its sincere believers. Any philosopher worth their salt would be delighted to have
+good reasons for believing a principle that is at once so clear, profound,
+elegant, and (not least important) true, and yet so widely disbelieved.  What
+does irritate somewhat, however, is that the tools which critics use to
+formulate their claims that semantic holism is incoherent or self-contradictory,
+demonstrate the falsehood of their claims. For those tools provide beautifully
+clear examples of semantic holism in action, and are produced by means which
+exemplify the indeterminacy of translation. The computers and programs that
+nearly all of us use to write our essays and articles provide perfectly clear
+practical exemplars of both semantic and confirmation holism, and thereby
+demonstrate the coherence of the very doctrines that the critics use them to
+decry.
+
+Let us begin by lowering expectations. The chief purpose of this essay is to
+make perfectly clear . We cannot pass over the fact that these seemingly
+abstruse doctrines of the philosophy of langauge are vividly and concretely
+true.
+clarify first then argue for subsequently.
+It remains. AT the risk of getting ahead of ourselves
+Although the chief purpose of this essay is merely to present a clear and 
+The purpose of this essay is to clarify not to argue directly for either semantic or
+confirmation holism. Of course, at the risk of getting ahead of our argument, 
+
+why these fundamental semantic principles have been unwittingly discovered and
+exemplified by programmers accounts of 
+
+that choice of interpretation being, as QUine would be the first to admit,
+arbitrary (since doctrines 
+
+Why, _prima facie_, no practical examples are ??{to be expected}??
 
 Let us begin by noting just how far fetched, it appears that any direct examples
-of indeterminacy of translation will ever be come across in the wild.
+of indeterminacy of translation will ever be produced in practice.
 
 Let us begin, however, by emphasising just how far-fetched it seems  for
 semantic holism implausible it seems that the doctrine of
@@ -32,6 +58,22 @@ all. If one holds that
 
 The connection between the two is widely supposed to be obscure and dubious, as
 is each of the doctrines by themselves.
+
+=== argument against holism from compactness ===
+[[local:zz.texts/morrison2017.evidentialHolism.pdf]]
+p.4.1, 5.1, 5.2
+there is a trivial refutation and perhaps a deeper refutation
+==== trival ====
+The same thing is wrong as with the following argument. Turing machines are not
+of any greater complexity than DFA. A finite tape TM is = = DFA. Any computation
+that is performed can be performed using only a finite amount of tape therefor
+only a finite amount of tape is required
+
+Suppose we have the set of sentences describing a run through or a program. It is
+true that those sentences . As is discussed in ??{semantic holism}?? ??{what is
+evidence}?? ??{Quine's errors#not only observation sentences have empirical
+content}??
+
 
 
 ===============
