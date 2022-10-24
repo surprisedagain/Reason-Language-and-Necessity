@@ -1,0 +1,30 @@
+:ancient:text:reasoning:platonic_dialogue:
+= Meno =
+=== short ===
+[[http://classics.mit.edu/Plato/meno.html]]<br>
+By plato, written perhaps ~399 BCE
+
+The Platonic dialog featuring Meno in which Socrates demonstrates Geometrical
+reasoning.
+
+= main =
+This is the oldest exemplar of deductive reasoning in the western tradition((and while the claims involved were certainly known to other cultures, I am unaware of any other tradition in which the arguments used to justify were guaranteed to preserve truth, or considered as objects of investigation or interest in their won right)).
+In it Socrates teaches a hitherto ignorant slave boy how to construct a square
+that is double the size of a given square.
+
+At first the boy mistakenly believes that the method to double the size of
+a square is to double the length of each of the sides.<br>
+i.e. that the solid blue square below is double the area of the red one.
+
+{{local:docs/zz.images/wrongDouble.png}}
+
+Socrates, however, convinces the boy that this new square will in fact be four
+times as large as the original. Then Socrates shows him that the correct method
+is to draw the square based on the diagonal of the original.<br>
+i.e. that the true double of the red square is in fact the dashed blue square
+below
+
+{{local:docs/zz.images/rightDouble.png}}
+
+= other related cards =
+[[the_before_times]]
