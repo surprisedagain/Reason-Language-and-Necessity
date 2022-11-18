@@ -1,0 +1,352 @@
+:start:
+= introduction for the complete beginner =
+=== short ===
+a brief quasi-historical account of the grave and fundamental problems to which
+solutions are ventured in this collection of notes.
+
+= main =
+Once upon a time, long long ago, it was thought to be clear why reasoning led us
+to truth. Our minds contained concepts, and these concepts were either the very
+same as the properties of the objects around us or at least very similar to
+them. (Perhaps in something like the way that an object and its impression in a
+clay tablet are similar.) Maybe these concepts were imprinted in our minds
+through our senses, or maybe they were perfect forms of which physical
+properties were imperfect copies. But in either case there was a consonance
+between our concepts and the properties of the objects around us.  The heat felt
+when touching a flame was thought to be similar to the heat which causes the
+flame to burn, the weight felt when lifting a stone similar to the weight in the
+stone which caused it to resist being pushed, and the color one sees when
+looking at a white patch of snow similar to the whiteness of the snow.  Because
+of these more or less direct encounters with object's properties we could intuit
+the fundamental general principles governing them. 
+
+A corollary of this view was the belief that knowledge, at least in its best
+and purest form, is produced by starting with first principles known with
+certainty and deriving consequences from them by deductive methods that are
+absolutely guaranteed to preserve truth. Perhaps only an infinite and
+omniscient intellect such as the christian God's could determine the necessity
+of the arrangement of the objects around us
+(i.e. discern God's ineffable plan)((Leibniz is perhaps the last influential exponent of this claim.)).
+Even limited intellects such as our own, however, could determine which
+combinations of properties were possible or impossible by examining which
+combinations of concepts we could conceive of "clearly and distinctly" (in
+Descartes' famous phrase).  Objects that could not be conceived, such as round
+squares, or triangles whose internal angles did not sum to two right angles,
+were impossible.
+
+The pre-eminent example of knowledge, according to this view (and hence for most
+of European intellectual history from Aristotle to Hume), was geometry.
+Geometry taken, not as we now understand it, as an investigation into various
+non-physical mathematical idealisations, but as the ancients understood it, an
+investigation into the structure of the physical space through which our bodies
+move. Geometry was the exemplary demonstration of the power of reason. It was
+taken to show that reason, perhaps based upon concepts of lines and circles
+imprinted in us by experience, but otherwise unaided by experiment and
+observation, could produce substantial knowledge of the structure of the world.
+There were, of course, famous ancient skeptics, but they tended to focus on the
+fallibility of the senses; and their criticisms tended to amount to noting that
+our justifications for beliefs about the external world did not reach the
+standard set by geometry.  Rather than challenging the classical theory of
+knowledge, the ancient skeptics simply insisted that nothing fulfilled it.
+
+In the European intellectual tradition, philosophers began to note the cracks
+heralding the long, unstoppable, collapse of these accounts of reason and
+knowledge shortly before AD 1650. It is, of course, impossible to put a precise
+date upon when the collapse began or ended.  At first, awareness of the problems
+that led to the collapse spread piecemeal, and when they were noted they did not
+immediately give rise to despair, but rather to various attempts to repair or
+resolve these issues.  The death-knell of the ancient account of reasoning might
+reasonably be said to have been struck in 1915 with Einstein's discovery that
+physical space was not Euclidean. But some thinkers had abandoned hope in the
+old scheme long before this, while others continued to hold faith in it even
+after this point (indeed some still do, at least unwittingly - [[#What counts as knowledge? What counts a reasoning?|see below]]).
+
+The key factor that caused this collapse, was the undeniable growth in
+scientific knowledge.  This growth posed two distinct and fundamental problems
+for the traditional accounts of knowledge and reasoning.
+
+== justification of scientific theories ==
+The first problem concerned the justification of scientific knowledge.  While
+the principles of Aristotelian physics were perhaps neither so precise nor known
+with the same certainty as geometrical principles (e.g. the principle that
+just one straight line passes through any two distinct points), it was not
+preposterous to cast the principles of physics as like geometrical principles
+in being necessarily true first principles known with greater certainty that
+the observable consequences that could be derived from them, and made true by the
+essential natures of the relevant objects and properties. The Aristotelian
+principle that heat rises, for instance, is on this view not an empirical
+generalisation, but an essential aspect of the nature of heat that may be
+grasped, by a mind capable of contemplating general laws, in a flash of
+cognition after repeatedly observing hot objects. The new scientific laws,
+however, could not be made to fit into this mold.
+
+=== insensible properties ===
+At every point, the fundamental generalisations that form the core of
+scientific theories are unlike necessary truths grasped with certainty in a
+flash of insight by a reasoning mind after repeatedly sensing the relevant
+properties. To begin with, many of the properties ascribed to objects in those
+generalisations are utterly unlike those met with in human experience.
+Aristotle had been prepared to postulate bodies too small to be sensed directly;
+but the qualities he attributed to them were akin to the ordinary sensible
+qualities of wet and dry, hot and cold.  Properties such as charge, field
+strength and spin, by contrast, cannot be sensed by humans at all. Even
+properties such as wavelength and mass which might be thought to be sensible,
+were applied in ways foreign to our ordinary sensations.  The mass of an object,
+for example, is unlike its felt weight in that the latter is dependent upon
+gravity (or the seemingly distinct constant acceleration) wheras the former
+remains constant.
+
+=== not necessarily truths ===
+The next difference is that scientific generalisations are not necessarily true.
+Perhaps the most influential exponent of this fact is
+[[https://plato.stanford.edu/entries/popper/|Popper<sup>ext</sup>]], who proclaimed
+*falsifiability* to be the hallmark of scientific claims. According to Popper, a
+general statement is falsifiable if and only if there is a possible "basic
+statement" (i.e. a singular existential claim, such as "the needle on the
+voltmeter is pointing to 11") whose truth is "intersubjectively testable" (i.e.
+about which observers can come to agreement despite other differences in their
+beliefs) which is incompatible with that general statement. But of course, a
+necessary truth is compatible with any such "basic statement", and hence not
+scientific, by Popper's standard.
+
+While Popper formulated his _falsification principle_ in the mid 20th
+century, Descartes had already recognised that scientific claims gained
+credence via their success in predicting experimental results (and other
+observations) by 1650.  While it was, for several centuries, only dimly
+apprehended (by everyone apart, perhaps, from the
+[[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Bayes<sup>ext</sup>]])
+that for an experience to give creedence to any hypothesis, there must be other
+possible experiences which would confute it (Hence Popper's emphasis on
+falsification.)
+
+But of course, if a statement can be falsified by
+some observations (or the palpable falsehood of
+
+
+=== not known with certainty ===
+
+By the same token the
+Not necessarily true ??? IS THIS A SECOND PARA OR PART OF PREVIOUS??
+it is a now a source of confidence in
+scientific claims that they always remain in principle capable of being
+overthrown by contrary obserbvations in future. It is not impossible that
+electrically charged Indeed, scientific laws are known with less certainty than
+the instances of particualr objects fulfilling them. Geometical and arithemetic
+laws, are known with greater certainty than the particular cases that they
+subsume. The observation of litmus paper turning red is more certain than the
+general law that litmus paper turns red when in contact with an acid.
+
+There is nothing about the very notion of the movement of
+charged particles through 
+
+Principles such as maxwell's law are not justified by merely contemplating the .
+Nor is the fact that the motion of charged particles through magnetic field obey
+the right hand rule
+
+???? KNOWN WITH LESS CERTAINTY THAN THE PARTICULAR OBSERVATION ENTAILED BY
+THEM
+That for any two numbers
+_A_ and _B_ _A_+_B_ equals It is always possible
+that One is in general more
+confident ILater philosophers would introduce the notion of _nomological_
+necessity Rather than being known with greater certainty than the particular
+cases to which they were applied.
+
+Rather than being known with grater certainty than 
+
+????- CLEAR NOT FIRST PRINCIPLES - DESCARTES
+For all these reasons it is abundantly clear that scientific laws are neither
+neccesarily true first principles nor deduced from such principles. Descartes
+was first and foremost among those who noted that and his first response was to
+attempt to reconcile. In his Meditations he proposed to _deduce_ the existence
+of God from his famous [[cogito|cogito ergo sum]], and thence to deduce that the
+the clear and distinct hypotheses that came to human minds to predict and
+systematise thewir observations must be true, since God would not deceive us;
+thus he proposed to reconcile 
+
+Descrates was perhaps the first, and certainly the foremost, of those 
+who recognised that scientific generalisations were not deductive consequences
+of the observations that gave them credence. His response was not to proppose any
+modification of the traditional accounts but rather to explain away the
+indeducibility of scientific theories from certain first principles as a mere
+appearance. 
+
+His '[[cogito ergo sum]]', was supposed to be a first
+principle form which, with God's grace, all science could be derived.
+For if the existence of a beneficent God could be proven, then 
+
+God would not be so deceitful as to place in our minds principles which
+perfectly predicted our observations but were yet false. In this way he hoped to
+show that scientific laws were deducible from first principles (most importantly
+among them being his [[cogito ergo sum]]. The widespread 
+-?????
+
+
+????- THOUGH THE IDEA REMAINED THAT THE indeducibility of scientific laws was a
+defect remained influential. Descartes was the last to attempt to maintain that
+the laws of science were deducible from first principles
+
+He may, with equal justice, be regarded as the last great classical philosopher
+philosophers, or the first of the modern philosophers who recognised that
+scientific laws were neither .
+-????
+
+The nature This newly recognised form of justification remains unclear to this day. 
+
+but rather they were supported because the predictions they issued in 
+
+????- Scientific method
+Among non-philosophers, the problem of providing a clear account of how su
+
+It might be thought that this is all old news, that the collapse we are
+describing is simply the scientific revolution described from the losing
+side. and that the methods of philosophy were simply superseded by those of
+science.
+
+
+But its that the revolution did not go deep enough.
+
+The scientific method, is itself a kind of a projection of the old scheme onto
+new materials. The hope that there might be some principles of so-called
+abductive or inductive reasoning, rules for deriving general formulas from
+finite observations; rules as clearly and definitely describable as the princples
+of classical deductive logic but justifying less than absolute certainrty in
+their conclusions.
+
+scientists and others could simply dispense with any strict account of what
+constituted good reason than plain common sense and the classical deductive
+logic. No such principles were forthcoming (indeed the lack of them is one of
+the enduring  ????puzzles/problems/landmarks - the problem of induction
+
+For a time we could simply pick low hanging fruit
+
+-????
+
+
+????-
+GOOD
+The second problem concerned the content of the new knowledge.
+The developing scientific theories concerning the
+processes giving rise to experience, directly contradicted the traditional
+claims upon which the old accounts of reason and knowledge relied. The new
+understanding of the physical, chemical and physiological process underlying
+perception, made it clear that what was going on at the surface of well lit
+objects was wildly different to the streams of particles or waves that traveled
+from those surfaces to our eyes, which was wildly different to the
+electro-chemical reactions in our retina, which was wildly different again to
+the electrical signals that traveled from those retina to our brains. Hume went
+so far as to consider the mental processes of thinking and sensing themselves to
+be mechanical processes and hence subject to faults like all other mechanisms;
+but even if the eventual sensations that these processes led up to were in
+non-physical minds, the illusion that our minds had anything remotely
+describable as direct contact with the properties of the objects around us was
+irretrievably shattered. For a while, it was thought that the old account might
+yet be true of knowledge of one's own psychological states, and hope remained
+that mental objects might be known with the same certainty and directness that
+had been attributed to our knowledge of the properties (if not the objects)
+presented in our sensations of the external world. One effect of this was a
+lingering sense that philosophy was more closely connected to psychology than to
+other sciences. But even this remaining illusion largely collapsed in the face
+of Freud's theories which (even if they were wildly wrong) made it plausible
+that our knowledge of many of our own mental states was fallible; and
+Wittgenstein's suggestions that ascriptions of mental states were justified not
+by private experiences but rather by public behaviour.
+
+
+
+but the very
+success of those theories made denying their status as knowledge increasingly
+untenable. Where ancient skeptics had been prepared to denounce all judgement
+as mere opinion, the manifest success of 
+-????
+
+
+
+but although we no longer accepted that classical account of reasoning we could
+still use its results (and those of its subsequent refinement into modern formal
+logic)
+
+
+we have acted as though our traditional epistemology was alright within its
+limits. That Our intuition is an intuition of necessity (better ????- that we
+can intuitively discern necessary connections). That the classical account of
+deductive reasoning was corrrect as far as it went, but that it left out the
+basis for empiical investigation.
+
+Now it is not even true that the ancient logical systems were adequate, but even
+if we grant deductive (classical) logic in its entirety as a ancient
+development (purely for the sake of a historical argument) the account of what.
+
+In this collection of notes (and at the end of this trail) we come to a definite
+conclusion.
+
+???? later section
+addendum:
+== What counts as knowledge? What counts a reasoning? ==
+Someone who has survived a modern day university arts course, or engaged with
+almost any of the academic humanities as they are currently practised, may
+naturally suspect that any enquiry into the nature of knowledege and reasoning
+must begin by defining its terms, and that those definitions will largely
+pre-determine what account we eventually arrive at regarding the nature of
+reasoning and knowledge.  That, to put in its crudest form, "It all depends on
+what you mean by 'knoweldge' and 'reasoning'".  This view however, is itself a
+remnant of the ancient view outlined above, according to which the only way to
+arrive at knowledge is by starting with certain principles (reflecting either
+the essential properties of objects or our definitions or perhaps both) and then
+derive consequences from them. The fact that such approaches are still often
+regarded as the pre-eminent method of conducting an intellectual investigation
+is both a sign of how the ancient view lingers on in the humanities departments
+of academia, and how bankrupt those departments have (often) become.
+
+The approach followed here is more akin to an investigation into a new and
+only partly understaood observed phenomena.  Rather than starting with
+definitions we shall begin with exemplars and search for any underlying
+principles that might explain or unite them. 
+
+Like the ancients Geometry, the giving of proofs concerning the relative length
+of lines, closed figures consisting of such lines and the size of circles and
+angles. The proof by which each of us is genuinely convinced that the area of
+the square based upon the hypotenuse of a right angle triangle is equal to the
+sum of the reas of the squares based on its other two sides(and not merely brow
+beaten into acquiesing with this claim). The argument Socrates presents to the
+slave boy in the [[Meno]] oldest exemplar of this kind of
+reasoning (in any tradition ((While mathematicians in both China and the Indus
+valley knew of geometrical truths including Pythagoras's theorem hundreds of
+years before the Greeks, in those traditions they were justified by
+examples. Iboth chinese mathematicians and those of the
+These must all count as reasoning, and
+the claims issued must in some sense count as true.
+
+
+Whatever is going in these exemplars had better count as
+reasoning.
+
+The attitude I am proposing to follow can be couched as a form of
+humility. If our philosophical account of reasoning implies that any of the
+cases above are not instances of reasoning, or that they do not lead us to
+gain justified true beliefs about the world or that those beliefs are not
+knwoledge; then it is more likely that our account of knowlege and reasoning is
+wrong rather than those cases not being knowledge. Rather than collapsing into
+scepticism if the account of reasoning we uncover does not fit our
+preconceptions, let us take our amazing success in producing knowledge in
+geometry, mathematics, science and everyday life as more certain than any
+philosopher's crazy theory.
+
+
+A potentially related question is 
+== How it is that beliefs are about the world? ==
+The sense that there is a deep connection between can alreqady be sensed in the
+oldest account of reasoning
+
+How is it that our beliefs (i.e. the
+things/states/whatever that reason is capable of justifying belief in) are
+about the world at all? It seems that when we are justified in believing
+we are justified in beliving it to be true, and it is true 
+
+
+
+
+
+
+= where to next =
+perhaps start the historical trail with the before times. 

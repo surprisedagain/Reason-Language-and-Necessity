@@ -1,16 +1,20 @@
 :ancient:text:reasoning:platonic_dialogue:
 = Meno =
 === short ===
-[[http://classics.mit.edu/Plato/meno.html]]<br>
+[[http://classics.mit.edu/Plato/meno.html]] ((sha256: 3596a8b0d246a579d565b96d20f4be08b78d34cfa67cc601b06653c9f9534e91))<br>
 By plato, written perhaps ~399 BCE
 
 The Platonic dialog featuring Meno in which Socrates demonstrates Geometrical
 reasoning.
 
 = main =
-This is the oldest exemplar of deductive reasoning in the western tradition((and while the claims involved were certainly known to other cultures, I am unaware of any other tradition in which the arguments used to justify were guaranteed to preserve truth, or considered as objects of investigation or interest in their won right)).
-In it Socrates teaches a hitherto ignorant slave boy how to construct a square
-that is double the size of a given square.
+This is the oldest exemplar of deductive reasoning in the western
+tradition((While the claims involved were certainly known in other cultures (see
+[[local:zz.texts/ancientChineseMathematics.pdf]]) I am unaware of any other
+tradition in which general deductive arguments were presented to justify such
+claims, or considered as objects of investigation or interest in their own
+right)).  In it Socrates teaches a hitherto ignorant slave boy how to construct
+a square that is double the size of a given square.
 
 At first the boy mistakenly believes that the method to double the size of
 a square is to double the length of each of the sides.<br>
@@ -27,11 +31,26 @@ below
 {{local:docs/zz.images/rightDouble.png}}
 
 == a further mystery of irrational numbers ==
-One of the lovely features of plato's dialogues is how many levels they weork on
-at once. Each of the characters Socrates interrogates is a manifestation of the
-sort of personality that is attracted to the doctrines they espouse. The tyro
-geometrician can appreciate the strength of Socrates argument and count
-themselves
+One of the lovely features of Plato's dialogues is how many levels they work on
+simultaeneously. As is well known, each of the characters Socrates interrogates is a
+manifestation of the sort of personality that is attracted to the doctrines they
+espouse. hence there is a sense both that these issues touch upon each
+individuals whole approach to life and not merely their intellectual beliefs in
+isolation.
+
+In the case of the Meno, this layering applies to the geometrical argument as
+well. The tyro geometrician can appreciate the strength of Socrates argument
+and count themselves knowledgeable for being able to understand Socrates prrof
+that the square on the diagonal is double the size of the original (see the second image
+above as above)
+
+But there is a deeper mystery concealed within Socrates example. At one point
+Socrates asks the boy of the length of the sides of this doubled square
+
+    Soc: Then the line which forms the side of eight feet ought to be more than this
+line of two feet, and less than the other of four feet?
+    Boy: It ought.
+    Soc: Try and see if you can tell me how much it will be.
 
 If we set the length of each side of the original square to 1, then the length
 of each side of the dashed blue square (the true double in area) is the square
