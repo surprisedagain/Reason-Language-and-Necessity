@@ -1,5 +1,8 @@
 = under Construction =
+[[truths_of_reason_by_chisholm]]
 [[introduction_for_the_complete_beginner]]
+[[introspection_not_admissible evidence]]
+[[if_one_experience_confirms_another_must_infirm]]
 [[trials_and_tribulations_of_being_a_semantic_holist]]
 [[were_right_theyre_wrong]]
 [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
@@ -19,7 +22,7 @@
 = unwritten =
 [[against_observation_sentences]]
 [[quines_behaviourism]]
-[[cogito_as_bridge_to_science]]
+[[cogito_ergo_sum]]
 [[descartes_on_conceivability_and_possibility]]
 [[internal_account_modality]]
 [[mental_states]]
@@ -67,6 +70,8 @@ _italic text_
 _*bold italic text*_
 *_bold italic text_*
 ~~strikeout text~~
+((tooltip text))
+[:aside text:]
 `code (no syntax) text`
 {{{python
 if x == y:

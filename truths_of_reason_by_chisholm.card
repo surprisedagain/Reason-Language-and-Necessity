@@ -1,59 +1,56 @@
-equential
-
-= Truths of Reason =
+:text:article:response:
+= Truths of reason =
 ====== short ======
-[[local:zz.texts/chisholm1989.truthsOfReason.pdf]]<br>
+[[local:zz.texts/chisholm1987.truthsOfReason.pdf]]<br>
 by R. Chisholm, published 1987 in the collection _A Priori Knowledge_
 
-= commentary =
-=== an initial concern ===
+= Response =
+=== An initial concern ===
     (p.1.1) Reason, according to one traditional view, functions as a source of
-    knowledge.
-	
-Indeed so, the problem is to explain how an apparently unempirical source (i.e.
-justification) of knowledge might function. I am even prepared to simply
-stipulate that anything that did not at least sometimes, and to some extent,
-justify belief, is not reasoning at all. Even further, I am prepared to
-stipulate that reasoning is a kind of psychological process that some people go
-through/perform/enact/do from time to time. 
+    knowledge. This view, when it is clearly articulated, may be seen to
+    involve a number of metaphysical presuppositions.
 
-[:Some philosopher's might take these stipulations to be definitional truths and
-for my part I see no reason to deny them this harmless conceit; except insofar
-as it might suggest I am claiming some deep insight into the nature or essential
-features of the process of reasoning, perhaps gained by conceptual analysis or
-by "coming to see what it is for a person to reason" as Chisholm might put it.
-Instead it is simply that I am curious how something can be both a process that
-beings such as ourselves can perform *AND* an apparently unempirical
-justification of belief. I choose to call this process "reasoning" inspired, of
-course, by traditional accounts of reasoning and knowledge, but in no way
-committed to any particular detail of those accounts beyond the two just
-mentioned.
-<br>
-To put it another way, I am committed to asking: What sort of beings are we that
-we are capable of reasoning? What kind of a process is reasoning that beings
-such as ourselves are capable of doing it?  But I am more than willing to
-consider that previous attempts to answer these questions may have laboured
-under false assumptions and misguided constraints.:]
-
-The concern is that under this unquestioned element of the "traditional view"
-(viz., that reasoning is a source of knowledge) Chisholm will smuggle in a
-very questionable account of knowledge, which thence forces us to imagine a
-incredible version of reasoning to match.
-
-For instance, it might be part of the traditional view that knowledge
-requires total certainty, and hence that "reasoning" must be some altogether
-fantastic process capable of justifying such certainty.
+That reasoning is a source of knowledge is not in dispute.  The concern,
+however, is that under this undisputed element of the "traditional view",
+Chisholm will smuggle in a very questionable theory of the justification of that
+knowledge, which will require us to imagine a incredible version of
+reasoning to match.
 
 This concern is exacerbated by Chisholm's suggestion that:
-    (p.1.2-3) The alternatives to this view, once _they_ are clearly articulated
+    (p.1.2) The alternatives to this view, once _they_ are clearly articulated
     may be seen to be at least problematic and to imply an extreme form of
     skepticism
-
-This appears to set the stage for a false dichotomy between the "traditional
+which appears to set the stage for a false dichotomy between the "traditional
 view" and skepticism (on the tacit assumption that if the "traditional view"
 ain't true of it, then it ain't knowledge).
 
-=== on inclusion and exclusion ===
+For my part, I am prepared to simply stipulate that anything that did not at
+least sometimes, and to some extent, justify belief, is not reasoning at all.
+Even further, I am prepared to stipulate that reasoning is a kind of
+psychological process that some people go through/perform/enact/do from time to
+time in which they either form new justified beliefs or come to see that old
+beliefs are justified, without the gathering of additional empirical evidence.
+
+Some philosopher's might take these stipulations to be definitional truths and
+for my part I see no reason to deny them this harmless conceit; except insofar
+as it might suggest I am claiming some deep insight into the nature or essential
+features of the process of reasoning (perhaps gained by conceptual analysis or
+by "coming to see what it is for a person to reason" as Chisholm might put it).
+Instead I am simply curious how something can be both a process that beings such
+as ourselves can perform *AND* an apparently unempirical justification of
+belief.
+
+To put it another way, I accept that reasoning is a source of knowledge, and am
+committed to asking: What sort of beings are we that we are capable of
+reasoning? What kind of a process is reasoning that beings such as ourselves are
+capable of doing it? But am more than willing to consider that previous
+attempts to answer these questions may have laboured under false assumptions and
+misguided constraints.
+
+=== On inclusion and exclusion ===
+    (p.2.1) The property of being square includes that of being rectangular, . .
+    . [and] excludes that of being circular
+
 Why focus on these "relationships" of inclusion and exclusion?
 
 ALL squares are rectangles<br>
@@ -67,194 +64,376 @@ AAx not [Square(x) AND Circle(x)]<br>
 NOT EEx NOT =interdeducible in classical First Order Logic with= AAx<br>
 
 So these are the two ways in which universal quantifiers can occur at the
-beginning of a statement. Either immediately followed by a negation or not.
-In english one is more commonly expressed as a negative existential claim
-rather than a positive universal claim. In this case the use of formalism
-enables us to see that the distinction between these two forms is a kind of
-accident of the english language. One can imagine a language with the same
-expressive(/inferential power/computational complexity) which did not have any
-two such distinct notations (i.e. a universal quantifier but no existential
-one or vice versa).
+beginning of a statement. Either immediately followed by a negation or not.  In
+English one is more commonly expressed as a negative existential claim rather
+than a positive universal claim. In this case the use of formalism enables us to
+see that the distinction between these two forms is a kind of accident of the
+English language. One can imagine a language with the same expressive
+power(/inferential power/computational complexity) which did not have two
+such distinct notations (i.e. a universal quantifier but no existential one or
+vice versa).
+
+The motivation for focusing on these general claims is straightforward:
+knowledge of such claims is the most challenging to justify _a posteriori_.  It
+may be that empirical observation can never justify absolute certainty about
+anything, but it is surely the case that beliefs about our particular
+surroundings (e.g. that I am typing on a computer at the moment) are justified
+by our observations, and that those observations warrant a very high degree of
+confidence in those beliefs. In the case of universal claims, however, the gap
+between the confidence with which they are believed, and the confidence which
+experience can justify in them appears more striking, and hence more difficult
+for those who reject _a priori_ knowledge to explain.
+
+Chisholm's motivation for framing these general claims as matters of the
+"inclusion" and "exclusion" relationships between properties is discussed in
+[[#Geometrical figures exist]].
 
 The "challenge" is: how can reasoning be a process which justifies confidence in
 such universal claims. Indeed so.
 
-Although Chisholm does not say so outright, I suspect that the reason for
-focusing on such general claims is two fold: on the one hand it is clear that in
-the ordinary course of events we take ourselves to know all sorts of
-particular truths _a posteriori_. There is no felt problem with how I know that I
-am sitting on a chair, or typing on a keyboard.
+== Four reasons knowledge of some general truths must be _a priori_ ==
+Chisholm offers roughly four reasons why our knowlege of some general truths
+cannot be justified _a posteriori_ and hence must be justified a _priori_.
+Unfortunately all of these arguments rely in one way or another upon the
+following premise:
 
-Secondly, although some putative "truths of reason" concern particular objects
-(e.g. "7 + 5 = 12"). It may be felt that all "truths of reason" have some kind
-of element of generality to them.
-
-== four reasons knowledge of some general truths not justified by induction ==
-The first type of argument Chisholm gives for believing that knowledge
-of some general truths is justified _a priori_ is that we have knowledge of
-genral truths that is not justified by the only method that Chisholm believes
-_a posteriori_ justification that he recognises (viz., "enumerative induction").
-
-All four of these arguments include the following
+*Premise 1*<b> : Enumerative Induction is the only way of knowledge of general
+truths can be justifed _a posteriori_</b>
+        (p.2.2) "If [a general] truth were known _a posteriori_ then it would
+        be justified by some induction or inductions"
 
 For my own part I do not believe that any beliefs are justified by
-induction any more than I believe that any beliefs are justified by an intuitive
-apprehension of their necessity, so this concession is rather besides the point,
-but it is worth considering the four reasons/arguments Chisholm gives for
-believing that knowledge of these general "truths of reason" is not justified by
-"enumerative induction".
-    
-    *Premise 1*: Enumerative Induction is the only way of knowledge of general
-        truths can be justifed _a posteriori_<br>
-        >> (p.2.1) "If [a] truth were known _a posteriori_ then it would be
-        justified by some induction or inductions"<br>
+induction any more than I believe that any beliefs are justified by the
+intuitive apprehension of their necessity, but I do not want to get distracted
+into a discussion of _a posteriori_ justification.  I take it that both Chisholm
+and I are interested in whether or not some truths are known _a priori_, or by
+reason alone, and hence that it would be beside the point to quibble about
+whether there are various ways in which beliefs may be justified _a posteriori_
+and what those various ways were.
 
-Chisholm gives four reasons for believing that knowledge of some truths of
-reason (including the examples he gives of such truths) cannot be justified by
-enumerative induction.
+I propose to simply grant, for the sake of argument, that all _a posteriori_
+knowledge is justified by "enumerative induction" (or a combination of
+enumerative induction and _a priori_ justification) provided, in turn, that I
+may treat any clear example of a posteriori knowledge (e.g. the knowledge that
+Earth's oceans contain a great deal of H,,2,,0) as justified, at least partly,
+by "enumerative induction" and hence available as a counter-example to
+Chisholm's various claims concerning the limits on the claims that may be
+justified in this way.
 
-=== 1. some of these truths have no positive instances. ===
-For instance, according to Chisholm many people know that all squares are
-rectangles, and yet there never have been any squares (nor rectangles) at all.
+=== 1. We know general truths that have no positive instances. ===
+Chisholm claims that many people know that all squares are rectangles, and yet,
+in the strict "geometrical sense" there never have been any squares (nor
+rectangles) at all.
 
-This argument combines [[#Premise 1]] above with two further premises
+This argument combines [[#Premise 1|Premise 1]] above with two further premises
 
-    Premise 2: Enumerative induction requires perception of a range of positive
-        instances of the property(/ies) involved in the general claim.<br>
-        >> (p.2.2) "there might be said to be three steps involved in an inductive
-        justification . . . (1) the accumulation of instances"<br>
-    <br>    
-    Premise 3: We have knowledge of universal truths of which there are no
-        positive instances.<br>
-        >> (p.3.1)  "If we take 'square,' 'rectangular,' and 'circular' in the
+*Premise 2*<b> : The justification of of a universal claim by enumerative
+induction requires perception of a number of positive instances of that
+universal claim.</b>
+        (p.2.4) there might be said to be three steps involved in an
+        inductive justification . . . (1) the accumulation of instances
+*Premise 3*<b> : We have knowledge of universal truths of which there are no
+positive instances.</b>
+        (p.3.1)  If we take 'square,' 'rectangular,' and 'circular' in the
         precise way in which these words are usually interpreted in geometry we
         must say that nothing is square, rectangular, or circular; . . . [yet we
         know that] "Necessarily, being square includes being rectangular and
-        excludes being circular." "
-    <hr>
-    Therefore:<br>
-    Our knowledge of these universal truths is not
-    justified _a posteriori_.
+        excludes being circular."
+and concludes:<br>
+<b>Our knowledge of these general truths is not justified _a posteriori_.</b>
     
 ==== 2nd premise false ====
-The main defect in this argument is that the second premise is false.
+The main defect in this argument is that <b>Premise 2</b> is false. Indeed
+_a posteriori_ knowledge of universal truths that lack positive instances is
+not unusual. Chemists, for example, may know quite well that a certain chemical
+compound is highly toxic, without any instances of that compound ever having
+existed. Indeed their knowledge that a compound is highly toxic may be one of
+the reasons they decide not to synthesise that compound. (This example comes
+from Fodor((I am not sure of the exact source, I suspect psychosemantics. Fodor raises it in connection with the notion of "causal kinds". The word "brisket" may occur within a page or two of the example.)) )
 
-it is quite common for knowledge of universal truths that lack positive
-instances to be
-justified a posterori (presumably, given the limited menu of
-options he is prepared to countenance Chisholm would count these truths as
-justified by induction).
+A proponent of _a priori_ knowledge might respond that we know that a
+given chemical compound would be poisonous because we have _a posteriori_
+knowledge of a variety of chemical principles concerning the elements from which
+that non-existent poisonous compound is constructed (principles concerning
+carbon atoms, electrons, protons and the like). Positive instances of those
+principles *do* exist, our belief in *those* principles is justified by
+"enumerative induction", and from those principles we can *deduce* (presumably
+by inferences, known _a priori_ to preserve truth) that the compound in question
+is poisonous.
 
-Finally, there seem to be a very large number of universal generalisations for
-which there are no positive instances and which are yet known  that are known
-to be
-true that Chilsholm would doubtless hold we know by virtue of inductive
-generalisations. (This point is Fodors.)
+Whether or not we rely upon _a priori_ knowledge of valid deductive inferences
+to derive predictions from the principles of chemistry is important, but
+irrelevant to the current point. For we never observe positive instances of the
+principles governing these elementary components either. We have never observed
+a molecular bond, nor an electron, nor a carbon atom (except in the derivative
+sense that we have seen "lead" pencils and organic tissue). While there is scope
+to argue over whether or not to count seeing animal tissue or the "lead" in lead
+pencils as seeing carbon atoms, it is clear that there is no single repeated
+observation, akin to the repeated observation of blue circles, which 
+justifies our knowledge that organic tissue is largely composed of carbon
+atoms. Instead the atoms and the bonds between them are invoked to explain and
+predict a wide range of things about which superficial observation is sufficient
+to establish agreement.
 
-But surely this truth is not knowable a priori. No-one could discern just from
-contemplation of the meaning of the term "triphenylphosphine" that it is
-extremely poisonous to .
+Still, a proponent may fall back further, and conceed that our confidence in
+chemical laws is not due to repeated observation of any individual rule being
+fulfilled, but rather due to repeated observation of the predictions those laws
+imply in combination with each other (_a priori_ if one will). It is the
+positive instances of fulfilled predictions that provide the basis for the
+enumerative induction justifying our belief in the theory as a whole.
 
-Of course a believes that some truths are known _a priori_ may maintain that
-although we have never observed a carbon atom nor a molecule of we have observed
-the consequences of the theories 
+The shift to holding that _a posteriori_ justification is a relationship
+observations bear to whole theories, rather than (directly) to the individual
+statements those theories contain, is one I wholeheartedly applaud. I am also
+happy to agree that the _a posteriori_ support for these theories is based upon
+their predictive success (even if I remain dubious about enumerative induction).
+But note that while this defence does retain enumerative induction in some
+sense, it no longer requires the observation of positive instances of general
+principles for belief in those principles to be justified _a posteriori_.
 
-==== geometrical shapes, including lines, squares, circles exist. ====
-Although it is not as important for the current purpose of understanding how
-knowledge of supposed "truths of reason" is justified, or how it is that we are
-aware of this justification; another problem with the , though less important point for our considerations, is that Chisholm's
-claim that (p.3.1)  "If we take 'square,' 'rectangular,' and 'circular' in the
-precise way in which these words are usually interpreted in geometry we must say
-that nothing is square, rectangular, or circular;"
+(see [[#Geometrical figures exist]] in the draft notes below for a discussion
+of [[#Premise 3]] and its relation to Chisholm's talk of "inclusion" and
+"exclusion".)
 
-this point is Quine's 
-Since the falsehood of this example does not establish that 
+=== 2. Unaware of performing induction ===
+Before turning to Chisholm's strongest arguments for _a priori_ knowledge of
+"truths of reason", we should consider an extremely simple argument that is
+interwoven with the other three but which Chisholm does not advance explicitly.
+Once squarely considered, the feebleness of this argument is readily apparent,
+but unless explicitly acknowledged and set aside, it may have an undue influence
+on our considerations.
 
-and my point here is only to establish that this is the *ONLY* substantive
-reason Chisholm gives for believing that these truths of reason are known a
-priori and justified by means quite other than
+The closest Chisholm comes to explicitly stating this argument is a sentence in
+the midst of an extended (and seemingly approving) quotation from William
+Whewell:
+    (p.3.2) To learn a proposition by experience, and to see it to be
+    necessarily true are two altogther different processes of thought.
+The argument is simple: belief in "truths of reason" is not justified
+_a posteriori_ because because we are not aware of justifying those beliefs by
+enumerative induction (or any other form of _a posteriori_ justification). To
+learn a belief in such a way is an "altogether different' thought process, and
+since we are aware of our own thought processes, we are aware that these beliefs
+are not justified by experience.
 
-So to that end let us finsih off the argument for the conclusion that Chisholm
-gives from the
+It is certainly true that we do not go around consciously "accumulating
+instances" of general claims gradually increasing our confidence in those claims
+as the number and variety of our observations increases. But equally clearly the
+simple fact that we are not aware that our beliefs are justified by enumerative
+induction does not imply that they are not justified in that way.
 
-Consider a
-square kitchen tile, although the perimeter of its top face is doubtless not
-square (in the precise "geometrical interpretation") that 
+Infants and Dr Pavlov's dogs, for instance, certainly learn by induction without
+being aware that they are doing so. But a proponent of the current argument
+might maintain those believers are either insufficiently self-aware or 
+do not understand the distinction between _a priori_ and _a posteriori_
+justification. It might yet be thought that self-reflective creatures who are
+aware of this justification, could not be confused as to how their own beliefs
+were justified.
 
-(This point is
-Quine's, source uncertain - perhaps in a later essay of _From a logical point of
-view_, perhaps ????_GEOMETRY_???? but it is a point he repeats in several places
-in any case.)
+Sadly, even this last conceit has a multitude of counter-examples. Many
+statements that are now held to be clearly justified _a posteriori_ (statements
+such as "Unobstructed hot air rises", or "Solid objects near the Earth's
+experience a force towards the Earth's center") were once thought to be
+necessary truths justified by "intuitive induction". Indeed one aspect of the
+"traditional view" that Chisholm fails to mention, is that it did not recognise
+the distinction between physical necessity involved in causation and conceptual
+necessity involved in claims such as "Necessarily no completely blue things are
+completely red". Aristotle, the arch-proponent of the traditional view, and many
+many of his followers held that knowledge of both these sorts of necessity was
+justified by a leap of insight into the essential natures of the properties
+involved. (This is perhaps the chief reason that he, and his followers, did not
+draw a distinction between science((or empirical investigation under any other name)) and philosophy.)
 
-The traditional account leaves it completely unclear why intuitive induction
-requires perception of individual instances
+As the ancient proponents of the traditional view exemplify, the most capable
+and insightful minds may mistakenly hold their beliefs to be justified
+_a priori_ (indeed justified by "intuitive induction") when if fact they are
+justified by "enumerative induction" (or some for of _a posteriori_
+justification at any rate). That we are unaware of the _a posteriori_
+justification of our beliefs (inductive or otherwise) does not imply that they
+are not so justified.
 
-For the fact that a certain specific long carbon chain with various 
+=== 3. Knowledge of necessity cannot be justified _a posteriori_ ===
+Unfortunately Chilsholm does not so much present an argument for this
+conclusion, as quote other people asserting it. Even then he appears to
+vacillate in his assesment of how compelling this argument is. This is
+particularly unfortunate since it is the strongest of the arguments for the
+existence of _a priori_ knowledge.
 
-One such square has as one side the line the pointAny one of the supposedly
-roughly square tiles contains some largest perfect square . It is true there is
-no set of atoms which lie perfectly along any of the four lines which make up
-that square but geometric
+Chisholm appears to be agreeing with William Whewell when he says:
+    (p.3.6) William Whewell wrote that the mere accumulation of instances cannot
+    afford the slightest ground for the necessity of a generalization upon those
+    instances.  "Experience," he said, "can observe and record what has
+    happened; but she cannot find, in any case, or in any accumulation of cases,
+    any reason for what _must_ happen." 
 
-To begin with, the only positive account Chisholm gives of the justification of
-knowledge of "truths of reason", viz., "intuitive induction" , also starts with
-"the perception of the individual things" (p.3.5). Indeed Chisholm points out
-that both forms of induction "start with particular instances and then proceed
-beyond them" (p.4.1). Thus the lack of "particular instances" to start with
-would reasonably be thought to be just as much a problem for justification by
-"intuitive induction" as it is for "enumerative induction" and hence no reason
-for believing the "traditional view" Chisholm espouses.
+But in the immediately preceeding paragraph Chisholm claims merely that:
+    (p.3.4) The step from the inductive generalisation "Every individual thing,
+    past, present, and future, is such that if it is red then it is not blue"
+    . . . to "Necessarily, every individual thing, past, present, and future,
+    is such that if it is red then it is not blue" - remains obscure.
+which suggests that he is open to the possibility that knowledge of necessary
+truths can be justified _a posteriori_ after all. (Or "remains obscure" could be
+philosopher code for "makes no sense").
 
-If the defence is made that we do encounter in our imaginations, then it is
-it is claimed that there are squares (in the "geometrical interpretation" after
-all.)
+But he always asserts that _a priori_ knowledge is knowledge of necessary
+truths:
+    (p.5.1) by contemplating or reflecting upon certain propositions or
+    states of affairs, we will be able to see that they are necessary. This kind
+    of knowledge has traditionally been called _a priori_.
+    <br><br>
+    (p.6.2) We may accept Kant's dictum, if we take it to mean that what is
+    known a priori is necessary.
+    <br><br>
+    (p.2.3) These relations [of inclusion and exclusion] all hold necessarily.<br><br>
+    (p.1.3) These truths [known _a priori_] pertain to certain abstract or
+    eternal objects--things such as properties, numbers, and propositions or
+    states of affairs, things that would exist even if there weren't any
+    contingent things such as persons and physical objects.
+    <br><br> 
+    (p.7.1) If a man knows, or someone once knew, _a posteriori_ that a certain
+    necessary proposition is true, then someone knows _a priori_ that some
+    necessary proposition is true.
 
-IMAGINARY SQUARES
-Chisholm does give an account of why the lack of actual squares
--> necessity
+Chisholm may be underplaying his hand due to concern about the modern view that
+statements such as "Water is H,,2,,O" or "Hesperus is Phosphorous" are both
+necessarily true and known _a posteriori_.
 
-if scientific induction does not allow us to generalise from imaginary squares
-(which do exist)
+Though Chisholm does not present any argument for this claim, there is a very
+plausible reason why experience cannot justify knowledge of necessity:
 
-Why scientific induction from imaginary squares to squares in general is
-unjustified while
+==== If no experience can falsify then none can confirm ====
+[:This section provides the first draft for
+[[if_some_experiences_confirm_others_must_infirm]]:]
+Consider an ordinary case - one looks out the window, sees droplets of some
+liquid falling on the ground against an overcast sky, and forms the
+(_a posteriori_) justified belief that it is raining. This justification relies
+upon the fact that there are other experiences/observations one could have made
+that would _infirm_ the claim that it is raining, such as seeing a bright blue
+sky with no clouds and the sun shining.
 
-suppose one imagined a long series of rectangles, one after another, and it just
-so happened that each of these rectangles I imagined was blue. it would be a
-mistake on the basis of newt induction to complete all rectangles are blue since
-this is merely a contingent feature the rectangles and it might be that one
-imaginably rectangles because one simply like the colour blue or lack the
-imagination to think of other colours always in a particular emotional state or
-something of the kind.
+If, by contrast, the different observations one could have made by looking out
+the window, seeing falling droplets, seeing heavy mist, seeing a blue sky,
+seeing an overcast sky etc., <b>all</b> confirmed the belief that it was
+raining, then there would be no reason to look out the window at all. The belief
+that it was raining would be justifiable _a priori_ (or at least prior to
+looking out the window).
 
-thus "truths of reason" may be justified by imaginative combination wheras
-truths justified a posteriori require actual objects
+The matter can be put convincingly in the terminology of possible worlds. When
+you observe droplets falling on the ground outside your window, you can exclude
+the possibility that you are in a world where you do not make that observation.
+Of course the observation might not be veridical, you might be hallucinating, or
+even if there really are droplets falling outside your window it might be
+because someone is secretly running a sprinkler system. However, one can be
+confident that the real world is one of the possible worlds in which you have
+the experience of seeing droplets.
 
-=== 2. "enumerative induction" cannot justify knowledge of necessity ===
-Having failed to find any other reason to suppose that truths of reason cannot
-be justified on the same grounds as other general truths (which Chisholm
-holds to be induction) let us turn to the positive account Chisholm offers af
-what is distinctive about these truths of reason.
+If a lesser proportion(/density((the number of possible worlds, both compatible
+and incompatible with the given observation, is presumably uncountable so normal
+talk of number and ratio must be supplanted with terms suited to infinite sets
+or we may simply talk of possible worlds in favour of probabilities)) ) of
+possible worlds in which one does <b>not</b> observe droplets falling
+outside your window are possible worlds in which it is raining, then once those
+worlds are excluded, the set of remaining possible worlds (the ones compatible
+with your observation) will contain a greater proportion of worlds in which it
+<b>is</b> raining and hence the belief that it is raining will be, at least to
+some extent, confirmed. In the limiting case <b>all</b> the worlds in which it
+is not raining will be excluded and you will be justified in being certain that
+it is raining.
 
-The chief point fundamental claim upon which all the others rest, is that truths
-of reason are necessarily true, and that we can discern these truths _a priori_ by
-conemplating or reflecting upon them.
+The point is recognised, at least partially, in Popper's falsification
+principle. For his part Popper, implausibly, did not recognise any form of
+confirmation whatsoever. However he reserved the positive term "scientific" for
+those theories which are infirmed by some courses of experience; with
+unscientific theories either unworthy of belief or containing merely
+definitional truths.
 
-SEARCH: mere accumulation of instances
+The matter is also expressible in terms of conditional probabilities. It is
+connected with Bayes' theorem, and is a consequence of the
+[[https://en.wikipedia.org/wiki/Law_of_total_probability|Law of Total Probability<sup>ext</sup>]].
 
-Before considering the justification of putatively necessary truths
+In the case of necessary truths however, no observation can exclude any
+possible worlds in which a necessary truth is false (since there are none) and
+hence no observation can justify an increase in the confidence with which a
+necessary truth is believed. To put the matter in the terms of Bayes' theorem,
+the probability of a observation/piece of evidence occuring given that a
+necessary truth is true [P(e/n)], must be equal to the probability of that
+evidence occuring at all [P(e)], and hence no evidence can give reason for
+increasing the confidence of belief in a necessary truth.
 
-reason - his truths of inclusion and exclusion etc.,- to be necessarily
-true, and induction cannot justify knowledge of necessity.
+=== 4. Certainty cannot be justified _a posteriori_ ===
+There is one last feature which, according to the "traditional view",
+distinguishes truths knowable _a priori_, namely that they can be known with
+certainty.
 
-belief that a truth is necessary cannot be justified (at least directly)
-_a posteriori_. 
+Chisholm is clearly committed to this aspect of the traditional view:
+    (p.5.4) We might say, therefore, that an a priori proposition is one such
+    that, if you accept it, then it becomes certain for you. 
 
-=== 3. "enumerative induction" cannot justify certainty ===
-It is somewhat odd that Chisholm does not lay more weight on this aspect of the
-"traditional view".
+He also claims that "axioms" or _a priori_ first principles are known with
+certainty:
+    (p.5.5) h is an axiom =Df h is necessarily such that (i) it is true and (ii)
+    for every S, if S accepts h, then h is certain for S.
+and goes on to define "known _a priori_ by S" as deduced from axioms S knows with
+certainty by rules of inference S knows with certainty to preserve truth.
 
-as we shall ???? [[|see below]] it is 
+This commitment to certainty also makes sense of Chisholm's otherwise quite
+curious argument:
+    (p.3.4) application of induction would seem to presuppose a knowledge of the
+    "truths of reason." In setting out to confirm an inductive hypothesis, we
+    must be able to recognize what its consequenes would be. Ordinarily, to
+    recognize these we must apply deduction; we take the hypothesis along with
+    other things that we know and we see what is then implied. All of this, it
+    would seem, involves apprehension of truths of reason
+    
+This argument, which otherwise appears to be a non-sequitur, becomes quite
+straightforward on the tacit assumption that all (justification transmitting)
+inferences must be underpinned by truths known with certainty. (i.e. to
+justifiably infer that "The ball is not red all over" from "The ball is green
+all over" requires knowing with certainty that "Nothing is both red and green
+all over"; and even merely probable inferences such as to infer "Tomorrow it
+will rain" from "The sky was red this morning and it become very overcast"
+requires the certain knowledge that "If the sky is red in the morning and
+becomes very overcast during the day it is likely to rain the next day.")
+
+Whether or not this assumption underpins Chisholm's argument for his claim that
+"application of induction woudl seem to presuppose a knowledge of 'truths of
+reason'", it is clear that Chisholm holds that our knowledge view. This makes it
+very odd that Chisholm which makes
+it odd that he does not explicitly give th
+
+On a more or less Bayesian account of justification  (as [[#if no experience can falsify then none can confirm|outlined above]])
+according to which experiences confirm beliefs by virtue of excluding "possible
+worlds" in which the believing subject do not have those experiences. If it is
+possible for a general claim to be true at all (or rather if the initial
+creedence with which such a claim is believed is non-zero) then no sequence of
+observations, no enumerative induction can ever reduce the justified creedence
+of the claim to zero. It is always possible for the first N green fizzy drinks
+to taste awful and the N + 1th to be delicious.
+
+Those who take necessity more seriously than I, might draw much the same
+conclusion from Hume's dictum "no connexions among distinct existences are
+ever discoverable by human understanding." (p.400.1
+[[local:zz.texts/hume1739.treatiseHumanNature.pdf|<i>Treatise</i>]]). Provided a
+general claim is not already known to be true with absolute certainty, no
+observation can justify becoming absolutely certain about that claim. For there
+is no (knowable) necessary connection between my experience and the truth of
+some non-necessary general claim if, and without such a connection it remains
+possible that one might have that experience and yet the general claim be false.
+
+The strength of these arguments makes Chisholm's failure to mention possession
+of certain knowledge as grounds for believing that some of our knowledge is not
+justified by "enumerative induction" (and hence _a priori_) all the more
+striking. The puzzle is resolved, however, once we realise that Chisholm is
+keenly aware, and deeply cocerned.
+concerning
+
+The only criticism of the "traditional view" that Chisholm considers, is
+
+I suspect
+
+ There is good reason for
+doing so, but it is the attmepts to vindicate this sense of certainty that led
+us to hypothesise that "truths of reason" are necessarily true. The sense of
+certainty is the key starting point for this account, 
 
 SEARCH self-apprehending
 not least because these truths are necessarily true regardless of whether anyone
@@ -275,162 +454,93 @@ It seems to me that this is the key point upon which. Many people feel
 absolutely certain of "truths of reason", and since this absolute certainty can
 only be justified if it is impossoible for such truths to be false
 
-In the sense that there are no odds that would induce me to bet that the
-statement "There have been black dogs" is false, and 
-
-On the one hand and I am sure we could describe a situation in which there have
-not been any black dogs and yet .
-
-=== 4. we are not aware of performing induction ===
-Although Chisholm does not directly advance this fourth reason for beliving that
-knowledge of "truths of reason" is not justified by enumerative induction
-himself. argument in his own voice, I
-think it is implicit, in 
-
-(p.3.2) "To learn a proposition by experience, and to see it to be necessarily true are
-two altogther different processes of thought."
-
-This reason is as dubious as the reason just considered, and again CHisholm does
-not appear lay great weight upon it. It is simply that we do not
-
-We do not consciously go around "accumulating instances" of these general
-
-we do not consciously "assemble/"collect"(/or just plain observe)
-we are not aware of collecting, accumulating (or just plain observing)
-a sequence of positive instances of these universal claims to justify our
-confidence in these truths. i.e. we do not contemplate example after
-example, gradually increasing our confidence as we observer an in
-creasing number range and variety of positive instances of the
-genralisation in question (nor as a result of increasingly extended but
-failing attempts to produce a counter-example). and;
-
-For clearly the fact that we are not aware
-Consider a pre-linguistic infant, or perhaps a dog in one of Dr. Pavlov's
-somewhat horrendous experiments, or take a
-and since this is clearly an _a posteriori_ justification (i.e. presumably 
-
-It is also worth noting that it is not merely possible for a belief in a truth
-to be justified by "enumerative induction" (or some other _a posteriori_ form of
-jsutification) without the believer being aware that their belief is so
-justified. 
-But there are many statements which we now take to be
-clearly justified _a posteriori_ (indeed they are generally taken
-to be known by "enumerative induction") which were for many centuries
-held to be known by "intuitive induction". For example, the statement that heat
-rises was thought to be a necessary truth discernable by "seeing into the nature
-of things". Indeed, though Chisholm
-seems rather careful to avoid mentioning this element of the "traditional view",
-on that view (
-it was part of that view that there was no distinction between necessity as
-exemplified by the axioms and theorems of geometry and causal necessity. In any
-case, for our purposes all 
-
-== Another reason for beliving that some knowledge justified _a priori_ ==
-Hopefully we have seen that the only argument
-
-=== That all justification relies upon truths of reason ===
-suppose you see James zooming down there road and your make the inference oh
-lunch will be soon. It seems to me that people make this kind of inference all
-the time 
-
-I do not require any necessary connection between James appearance and the
-subsequent serving of lunch.
-
-Another method of smuggling in the assumption that the traditional account of
-our knowldge must be true. There must be truths of reason because we have some
-knowledge at all
-
-but at this point Chisholm's account verges again into outright contradiction.
-For he goes on to quote at length (and one must suppose approvingly) from
-William Whewell:
-
-hypnotised by deduction.
-
 = necessity and _a priority_ are elements of an explanation =
-Here we have the exact further elements of "the traditional account" which I was
-loathe to accept.
+The starting point for understanding where Chisholm has gone wrong
 
-The idea that we are responding to necessity and a priority
-is a *diagnosis* or *explanation* of, among other things, our ability to
-reliably, and in general, but not perfect, agreement with our peers, sort novel
-truths into the two categories which the traditional account describes as
-necessary and contingent.  The ability to so sort does suggest that there is
-something about these sentences which we are responding to, it does require an
-explanation of some sort, but it does *not* in and of itself require us to
-accept any one particular explanation of this ability, let alone require us to
-grant that what we are responding to in these statements is their being
-necessarily true.
+The key point, is wittgenstein's dictum "in coming to a better understanding of the phenomena that lead
+Chisholm to beleive in _a priori knowledge_, is one made by 
+To borrow a phrase from [[wittgenstein]], "internal processes don't come with
+labels attached"((I am thus far unable to find a source for this quote, if Wittgenstein didn't say it, it is certainly the sort of thing he ought to have said :P (mild joke, but it is a consontant with his approach to inner/mental states and processes) )).
 
-Bear in mind that most of us are taught these traditional diagnoses in primary
-school, at such a young age that few of us can recall how we learnt to use these
-terms. For my own part I have witnessed my own children in 3rd grade being taught
-how to use the terms "possible", "impossible" and "necessary" by example.
-(Sample statements I witnessed the teacher using to teach students correct
-use of the words "possible" and "impossible": "1 + 1 = 3 - no not possible,
-"Tomorrow we go to the shops - yes thats possible", Interestingly enough
-"Tomorrow the sun will rise in the west - no that's impossible".) The situation
-closely resembled Chisholm's fantasy of enumerative induction.
+The idea that we are responding to necessity and a priority is a
+<u>*diagnosis*</u> or <u>*explanation*</u> of what we sense when we consider
+"truths of reason". To  among other things, our ability to reliably, and in
+general, but not perfect, agreement with our peers, sort novel truths into the
+two categories which the traditional account describes as necessary and
+contingent.  The ability to so sort does suggest that there is something about
+these sentences which we are responding to, it does require an explanation of
+some sort, but it does *not* in and of itself require us to accept any one
+particular explanation of this ability, let alone require us to grant that what
+we are responding to in these statements is their being necessarily true.
+
+Most of us are taught these traditional diagnoses in primary school, at such a
+young age that few of us recall the learning process.  For my own part I have
+witnessed my own children in 3rd grade being taught how to use the terms
+"possible", "impossible" and "necessary" by example.  (Sample statements I
+witnessed the teacher using to teach students correct use of the words
+"possible" and "impossible": "1 + 1 = 3 - no not possible, "Tomorrow we go to
+the shops - yes thats possible", Interestingly enough, "Tomorrow the sun will
+rise in the west - no that's impossible".) The situation closely resembled
+Chisholm's fantasy of enumerative induction.
 
 We are trained from an early age in the application of the terms "possible" and
 "impossible" to various statements and taught that certain applications of these
 terms are correct and others are incorrect. The intuitive/felt distinction of
 these statements comes first, then a term for applying to the statements that
 arouse this felt difference, and then we are given an theory of what that
-feeling is a feeling of.
-
-To borrow a phrase from [[wittgenstein]], "internal processes don't come with
-labels attached"((I have thus far been unable to find a source for this quote, if Wittgenstein didn't say it, it is certainly the sort of thing he ought to have said :) (mild joke, but it is a consontant with his approach to inner/mental states and processes) )).
-The fact we learn to call these statements "necessary" at 
-at our parents (and teacher's) knees (and the fact that it is generally the only
-"explanation" of this feeling on offer and most of our peers accept it)
-we are not required to take this label at face value.
+feeling is a feeling of. The truth of the theory is *_NOT_* vouchsafed by the
+felt distinction of which it is an attempted explanation.
 
 Neither the fact that we can distinguish these sentences, nor the fact that we
 are taught to call these sentences "necessary" gives us any reason to believe
 that these sentences are, in fact, necessary.
 
-The key claim is that can be stated is that the observable phenomena is the explanandum
-(that which is in need of an explanation/to be explained)
-explanation, and that the claim that it is an "intuitiuvwe sense of necessity"
-is the that Our ability to distinguish these sentences does require some kind of explanation
-but it 
+Belief in the traditional view is a prime example of why
+[[introspection_not_admissible_evidence]]
+
+For another problem with treating this intuition as justifying certainty see
+[[philosophers_dogmatism]]
 
 == points to be explained ==
-Let us turn to clarifying just is that needs to be explained (if it is
-not our ability to discern necessity
+Hopefully it is now at least plausible that the "traditional view" is not
+something that is simply given to us in introspection, but rather an
+explanation of that introspective awareness.
 
-==== 1. "truths of reason" discernable ====
-People can reliably and more or less consistently distinguish between sentences
-that are, according to the traditional account, necessary truths and sentences
-that are not.
+Let us turn to clarifying, in the third person, what it is that requires
+explaination.
 
-There is a felt difference _*OF SOME KIND*_ between
-supposedly necessary a priori truths I also accept the following:
+==== 1. "truths of reason" reliably discernable ====
+People can reliably, more or less consistently and more or less in agreement
+with each other divide novel statements into two groups that are, according to
+the traditional account, necessary and contingent truths.
 
-introspective awareness of some mental state or process. Perhaps
+There is a felt difference *OF SOME KIND* between supposedly necessary truths
+known _a priori_ and contingent truths known _a posteriori_
 
 ==== 2. "truths of reason" believed with great confidence ====
-It is rather odd that Chisholm does not explicitly mention with another reason for
-supposeing that "truths of reason" cannot be justified _a posteriori_
+As Chisholm recognised we saw earlier, the claim that our sense of is a guarantee of certainty leads
+to singificant difficulties. However, even if we remain open to the possibility
+that this intuition does not absolutely guarantee the truth of these statements.
+It is yet the case that these statements
 
-that they are known with certainty.
+That they are known with certainty is not guaranteed. 
 
-People who put (or are disposed to put if asked) a statement into the group
+On a more prosaic level, people sometime claim to know _a priori_ and certainly
+that a given statement is true and then later change their minds.
+
+However, it is clear People who put (or are disposed to put if asked) a statement into the group
 traditionally diagnosed as necessary also nearly always believe that
 sentence to be true with great confidence.
 
-The statements which arouse the feeling traditionally
-diagnosed as "awareness of necessity", are held with great confidence by those
-in whom that feeling is aroused; and those in whom thise feeling is aroused are
-at a loss to describe the evidence which would lead them to sincerely assert
-those sentences.
+The statements which arouse the feeling Chisholm diagnoses as "
+diagnosed as "awareness of necessity" or "seeing , are held with great confidence by those
+in whom that feeling is aroused; 
 
-Is is worth noting that "truths of reason"
+Is is worth noting that
 The high confidence with which the sentences arousing this "awareness of
 necessity" and the inability to describe/imagine/depict evidence that would lead
 one to hold them as false are not unique to "truths of reason"
 
-As we noted above
 
 For my own part I am absolutely certain that there have been black dogs (i.e.
 that black dogs have existed in the past) and cannot imagine any evidence which
@@ -477,7 +587,10 @@ However, it seems to me that I can still imagine a world much like this one,
 but in which had been no black dogs. (For instance a world in which the only
 dogs were varieties of dingoes) 
 
-==== 4. unable to scribe that would infirm belief in "truths of reason" ====
+==== 4. unable to describe infirming evidence ====
+and those in whom thise feeling is aroused are
+at a loss to describe the evidence which would lead them to sincerely assert
+those sentences.
 
 ==== 5. high confidence in "truths of reason" often justified ====
 Finally, but perhaps most importantly, I also maintain my initial 
@@ -510,7 +623,7 @@ Indeed as we shall see in the [[#many false statements have evoked intuition|nex
 any explanation which held that this feeling either itself justified, or was an
 awareness of a process which justified
 
-== problems with Chisholm's "traditional view" ==
+== The "traditional view" a bad explanation ==
 Now that we have established what it is that we wish to explain, hopefully we
 will be why Chisholm's "traditional view" is such a *bad* explanation of these
 phenomena.
@@ -558,6 +671,8 @@ Nor are the truths of geometry the only truths which according to the
 traditional proponents.
 
 ==== not all "truths of reason" evoke intuition ====
+Chisholm distinguishes between <b>Axioms</b>, which are known with certainty
+once they are understood, and 
 This is perhaps the point on which Chisholm comes closest to an outright
 contradicting himself.
 
@@ -576,17 +691,19 @@ but then he immediately goes on to say that this account
     they are certain.
 
 
+But there is no explanation of _why_ some "truths of reason" are Axiom
 Just why do some "truths of reason" evoke this sense of certainty and others do
 not.
 
 One tempting explanation is failure to understand, perhaps becasue the statement
 in question is too complex:
-(p.6.1) "Failure to accept their conjunction need not be a sign that S is unrea-
+(p.6.1) "Failure to accept their conjunction need not be a sign that S[ubject] is unrea-
 sonable. It may be a sign merely that the conjunction is too complex an object
-for S to grasp."
+for S[ubject] to grasp."
 
-Fermat's last theorem A^n^ + B^n^ = C^n^ has no solutions
-for a very long time it did not evoke this intuition
+Fermat's last theorem, there is no n greater than 2 and A, B, C such that
+A^n^ + B^n^ = C^n^ . For over 350 years this sentence did not arouse the
+intuition of necessity, perhaps it still does not and it . For my own part
 
 ridiculous to suppose that the proposition was not understood
 
@@ -618,6 +735,7 @@ no explanartion offered of why reasoning (whihc Chisholm sometimes cales
 "contemplating" or "reflecting upon") leads a statement to arouse
 
 ==== seeing what it is to have a property, not explanatory ====
+Finallh
 On this point In any case Chisholm certainly does not provide any account of how
 it is that we "see" necessary truths, and I to present an account of how the non
 traidtional account explains the vagueness of 
@@ -663,11 +781,10 @@ in them is justified. This need not lead to skepticism,
 And even if the account I offer afterwards is hopeless, I think it is fairly
 clear that these
 
-== defects in Chisholm's "traditional view" have two fundamental causes ==
-e
+Chisholm insists that we take our introspective
 
-induction relies upon other truths of reason
-
+== Two fundamental errors in Chisholm's "traditional view" ==
+=== semantic atomism ===
 
 If one holds that each statement must stand on its own, that there must be some
 chain of reasoning
@@ -681,6 +798,9 @@ _given_ that I believe
 
 but I do not suppose that even those
 
+=== foundationalism ===
+The idea that each individual statement must be derivable from a combination 
+
 
 
 
@@ -689,15 +809,123 @@ but I do not suppose that even those
 [[inconceivability_guide_to_impossibility]]
 
 
-==== Discarded draft notes ====
+== cutting room floor ==
 
-An omitted discussion of generalisation without positive instances which I
-believe is connected with vagueness. I still believe this is usefully connected
-with the problem of vagueness (which is a genuine problem in need of a solution,
-but I believe to be unsolvable on the "traditional view", hence a reason for
-abandoning that view in favour of the one I advicate.
+    (p.3.3) If anyone does not clearly comprehend this distinction of necessary
+    and contingent truths, he will not be able to go along with us in our
+    researches into the foundations of human knowledge; nor indeed, to pursue
+    with success any speculation on the subject.
 
-In my view the underlying difficulty is that the term square (in ordinary
+=== an awful argument ===
+    (p.5.3) An axiom [According to Aristotle] is a statement "which has no other
+    proposition prior to it"; there is no proposition which is "better known"
+    than it is. We could say that if one proposition is "better known" than
+    another, then accepting the one proposition is more reasonable than
+    accepting the other. Hence, if an axiomatic proposition is one such that no
+    other proposition is better known than it is, then it is one that is
+    certain. 
+Equivocates betwene holding a statement true without inferring it from another
+and holding it with certainty. Simply awful.
+
+==== : No necessary connection between distinct existences ====
+The first argument is one that a modal realist such as Chisholm might advance.
+The simplest version of this argument is merely to note that our senses are
+fallible. Descartes infamously argued that there is no necessary connection
+between our sensations and external reality, that instead of perceiving chairs
+tables and so on we could be dreaming, hallucinating or our senses manipulated
+by a deceitful demon.
+
+On a more prosaic level, from time to time each of us misperceives our
+surroundings. We see flashes of light, which are normally caused by external
+light sources, but which are caused by internal physiological events. We see
+faces and human figures which turn out to be chance arrangements of bushes,
+twigs and other random detritus. It is, in short, possible for us to see pink
+elephants when no pink elephants exist.
+
+On a more general level Hume famously argued that argued that "no connexions
+among distinct existences are ever discoverable by human
+understanding"((_Treatise_,  Appendix, para. 20)) and hence that there is no
+"just conclusion from the existence or qualities of our perceptions to the
+existence of external continu’d objects"((_Treatise_, Book 1.4, para. 54)).
+
+If we are not justified in believing a truth to be necessary independent of our
+experiences, then the having of an experience cannnot justify believing that
+truth to be necessary as there is no necessary connection between our having
+that experience and that truth obtaining. It would, as far as we know, be
+possible for us to have that experience and the statement in question to yet be
+false. (And for those statements that are necessary consequences of our having
+that experience, such as "There are experiences", our experience itself does not
+necessarily exist, and hence cannot establish that those consequences are
+necessary.)
+
+One defect of this argument is that it Argument relies upon principles
+concerning necessity and for my part I know of no method for resolving disputes
+concerning such principles (though philosophers such as Chisholm claim to be
+able to do so). The next argument, however, relies only upon principles
+concerning justification.
+
+=== Geometrical figures exist ===
+This section was intended to go at the end of
+[[#1. We know general truths that have no positive instances.]]
+
+Another, significant but slightly tangential, point of disagreement with
+Chisholm's "traditional view" concerns <b>[[#Premise 3|Premise 3]]</b>.  While
+Premise 3 is true, the reason Chisholm gives for believing it (viz., that
+"nothing is square, circular or rectangular" (p.3.1) ) reflects a deeper
+disagreement about what makes these claims true.
+
+Chisholm describes geometrical properties such as being square, circular etc.,
+as uninstantiated Platonic forms. Knowledge of these forms(/properties) being
+gained by _a priori_ investigations (since, to pre-empt the third argument, the
+relations between these properties hold necessarily). By contrast, on the view I
+advocate geometrical figures are regarded as posits of our empirical theories.
+Akin to atoms, quarks and photons, and like them in playing a role in predicting
+our observations, or being by-products of the elements of our theories which do
+play such a role.
+
+On Chisholm's account the statements: "All squares are triangles", "The sum of
+the magnitude of the internal angles of any trangle is zero degrees", "The
+length of the hypotenuse of any right angle triangle is equal to the length of
+one of that triangles other sides" are all strictly true. (Indeed any sentence
+of the form "All [instances of geometrical shape] are . . ." will be true.) This
+is not absolutely devastating since he can re-interpret these sentences as
+expressing the falsehoods "Being square includes being triangular", "The
+property of being the sum of the internal angles of a triangle includes the
+property of having zero magnitude" etc., but it means that ordinary use of
+general claims such as "All squares are rectangles" must be regarded as
+ambiguous; sometimes used to express a relation of inclusion/exclusion between
+properties and sometimes used to express a plain general truth. While for his
+part, Chisholm is forced to the artifical terminology of "inclusion" and
+"exclusion" in order to state the unvarnished truth that not all squares are
+circles without contradicting himself.
+
+On the view advocated here, the statements "All squares are rectangular" and
+"All squares are circular" are both taken at face value, and as true and false
+respectively. Hence there must be some rectangular non-circular squares.
+
+If space were Euclidean (a traditional commitment of the "traditional view"
+whose falsity provides [[????|a difficulty for Chisholm's view]]) then squares and
+circles would exist in physical space even though no arrangement of atoms would
+be perfectly(/geometrically) circular(/square/rectangular). To borrow an example
+from Quine((in _Truth by Convention_, though he does not make the caveats
+concerning non-Euclidean physical space that are made here)) the statement "The
+whole of a baseball apart for a certain very thin, irregular peripheral layer
+constitutes a sphere", would be true even though no baseball was spherical.
+Furthermore, the perimeter of any flat slice of the largest such sphere
+contained in a given baseball is a circle.  Likewise the line from the point
+near the center of the earth at which there is zero gravity to the point near
+the center of the sun where there is zero gravity, would exist. As would the
+sphere around the Sun of which that line is a radius and an infinite number of
+squares of which that line is one side.
+
+According to our current best scientific theories, however, physical space is
+not Euclidean and hence there are no squares in physical space, however the
+axioms of Euclidean geometry can be interpreted as true of collections of tuples
+of real numbers (numbers which are themselves postulated in our _a posteriori_
+empirical theories and are existent objects in good standing).
+
+==== a connection to vagueness ====
+The underlying difficulty is that the term square (in ordinary
 usage, and without postulating any special "geometrical interpretation" of the
 term) is somewhat vague. For each clear instance of a square there is a surrounding
 penumbra of borderline cases - possible things that are neither clearly square
@@ -722,18 +950,16 @@ geo=metrical arguments
 This phenomena is well recognised as presenting a serious difficulty for the
 "traditional view" Chisholm is advocating. It seems to me to be far more
 
-For on that "traditional view"
-predicates such as square to "understand the predicate
+That that even _prima facie_ sharp terms such as "square" are vague, is even
+more of a problem for the "traditional view" which Chisholm advocates than it is
+the alternatives.
 
-To begin with, it seems to me that the fact that even prima facie sharp terms
-such as "square" are vague, is even more of a problem for the "traditional view"
-which Chisholm advocates than it is the alternatives. For according
+Positive instabnces have a penumbra of possible instances of which the predicate
+in quesiton is neither quite true or false.
 
-
-have a penumbra of instances of which they are not qwuite true
-or false, but rather treated as true and that we can and do as a matter of
-course adjust our standards of what counts as a square
-You can't fit a square peg through a round hole.
+we can and do as a matter of course adjust our
+standards of what counts as a square You can't fit a square peg through a round
+hole.
 
 It is perhaps, interesting that many native English speakers first learn to use
 the term "square" by observing experienced English speakers conspicuously
@@ -758,7 +984,6 @@ terms "square-cake" and "square-tile" in the same way that "cat" occurs in
 "catapult") or ambiguous (i.e. to have a different meaning in application to
 cakes than in application to kitchen tiles).
 
-
 ====== ambiguity unacceptable because: ======
 and the ability to correctly categorise objects under novel composite categories
 (i.e. the ability, having learnt what a square, square tile to go on without
@@ -773,7 +998,3 @@ square-tiles, many of us are able to distinguish square-tables
 without further training it would be deeply contrary to the "traditional
 view" for square to fail to express a distinct "concept"(/"property")concept
 which contributed to the the meanings of such compound terms.
-
-Before we diverted to briefly consider the difficulties presented by vagueness
-and we in which we all commonly vary  (as exemplified by the very high standard
-we adopt when discussing geometrical figures).
