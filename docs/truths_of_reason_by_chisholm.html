@@ -90,18 +90,18 @@ Why focus on these "relationships" of inclusion and exclusion?
 
 <p>
 ALL squares are rectangles<br>
-AAx [Square(x) =&gt; Rectangle(x)]<br>
+&forall;x [Square(x) &rarr; Rectangle(x)]<br>
 </p>
 
 <p>
 NO squares are circles<br>
-NOT EEx [Square(x) AND Circle(x)]<br>
+not &exist;x [Square(x) AND Circle(x)]<br>
 which is interdeducible in FOL with<br>
-AAx not [Square(x) AND Circle(x)]<br>
+&forall;x not [Square(x) AND Circle(x)]<br>
 </p>
 
 <p>
-NOT EEx NOT =interdeducible in classical First Order Logic with= AAx<br>
+NOT &exist;x NOT =interdeducible in classical First Order Logic with= &forall;x<br>
 </p>
 
 <p>
@@ -247,11 +247,11 @@ a molecular bond, nor an electron, nor a carbon atom (except in the derivative
 sense that we have seen "lead" pencils and organic tissue). While there is scope
 to argue over whether or not to count seeing animal tissue or the "lead" in lead
 pencils as seeing carbon atoms, it is clear that there is no single repeated
-observation, akin to the repeated observation of blue circles, which 
-justifies our knowledge that organic tissue is largely composed of carbon
-atoms. Instead the atoms and the bonds between them are invoked to explain and
-predict a wide range of things about which superficial observation is sufficient
-to establish agreement.
+observation, akin to the repeated observation of blue circles, which justifies
+our knowledge that organic tissue is largely composed of carbon atoms. Instead
+the atoms and the bonds between them are invoked to explain and predict a wide
+range of things about which superficial observation is sufficient to establish
+agreement.
 </p>
 
 <p>
@@ -388,7 +388,7 @@ philosopher code for "makes no sense").
 </p>
 
 <p>
-But he always asserts that <em>a priori</em> knowledge is knowledge of necessary
+But he repeatedly asserts that <em>a priori</em> knowledge is knowledge of necessary
 truths:
 </p>
 <blockquote>
@@ -494,6 +494,13 @@ evidence occuring at all [P(e)], and hence no evidence can give reason for
 increasing the confidence of belief in a necessary truth.
 </p>
 
+<p>
+(Note: that this principle also applies to the rigid designator necessities - in
+that case there are both (possible) experiences confirming and infirming
+"Hesperus = Phosphorous". There are none that would infirm "All squares are
+rectangles" hence none that can confirm it.)
+</p>
+
 <div id="Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_"><h3 id="4. Certainty cannot be justified _a posteriori_" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_">4. Certainty cannot be justified <em>a posteriori</em></a></h3></div>
 <p>
 There is one last feature which, according to the "traditional view",
@@ -529,12 +536,11 @@ curious argument:
 <blockquote>
 (p.3.4) application of induction would seem to presuppose a knowledge of the
 "truths of reason." In setting out to confirm an inductive hypothesis, we
-must be able to recognize what its consequenes would be. Ordinarily, to
+must be able to recognize what its consequences would be. Ordinarily, to
 recognize these we must apply deduction; we take the hypothesis along with
 other things that we know and we see what is then implied. All of this, it
 would seem, involves apprehension of truths of reason
 </blockquote>
-    
 <p>
 This argument, which otherwise appears to be a non-sequitur, becomes quite
 straightforward on the tacit assumption that all (justification transmitting)
@@ -549,21 +555,26 @@ becomes very overcast during the day it is likely to rain the next day.")
 
 <p>
 Whether or not this assumption underpins Chisholm's argument for his claim that
-"application of induction woudl seem to presuppose a knowledge of 'truths of
-reason'", it is clear that Chisholm holds that our knowledge view. This makes it
-very odd that Chisholm which makes
-it odd that he does not explicitly give th
+"application of induction would seem to presuppose a knowledge of 'truths of
+reason'", it is clear that Chisholm holds that we know at least some (and
+perhaps all) "truths of reason" with certainty (if we known them at all). This
+makes it all the stranger that he does not explicitly mention this as a reaosn
+for believing in <em>a priori</em> knowledge when the arguments showing that certainty
+cannot be justified <em>a posteriori</em> are so clear and so well known.
 </p>
 
+<div id="Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_-two arguments"><h4 id="two arguments" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_-two arguments">two arguments</a></h4></div>
 <p>
-On a more or less Bayesian account of justification  (as <a href="truths_of_reason_by_chisholm.html#if no experience can falsify then none can confirm">outlined above</a>)
+On a more or less Bayesian account of justification  (as <a href="truths_of_reason_by_chisholm.html#If no experience can falsify then none can confirm">outlined above</a>)
 according to which experiences confirm beliefs by virtue of excluding "possible
-worlds" in which the believing subject do not have those experiences. If it is
+worlds" in which the believing subject does not have those experiences. If it is
 possible for a general claim to be true at all (or rather if the initial
 creedence with which such a claim is believed is non-zero) then no sequence of
-observations, no enumerative induction can ever reduce the justified creedence
-of the claim to zero. It is always possible for the first N green fizzy drinks
-to taste awful and the N + 1th to be delicious.
+observations, no enumerative induction, can ever reduce the justified creedence
+of the claim to zero. For any N, if it is possible for green fizzy drinks to
+taste either delicious or awful at all, then there is at least one possible
+world in which the first N-1 green fizzy drinks taste awful and the Nth is
+delicious.
 </p>
 
 <p>
@@ -574,87 +585,201 @@ ever discoverable by human understanding." (p.400.1
 general claim is not already known to be true with absolute certainty, no
 observation can justify becoming absolutely certain about that claim. For there
 is no (knowable) necessary connection between my experience and the truth of
-some non-necessary general claim if, and without such a connection it remains
+some non-necessary general claim, and without such a connection it remains
 possible that one might have that experience and yet the general claim be false.
 </p>
 
 <p>
-The strength of these arguments makes Chisholm's failure to mention possession
-of certain knowledge as grounds for believing that some of our knowledge is not
-justified by "enumerative induction" (and hence <em>a priori</em>) all the more
-striking. The puzzle is resolved, however, once we realise that Chisholm is
-keenly aware, and deeply cocerned.
-concerning
+Chisholm's failure to mention possession of certain knowledge as grounds for
+believing in <em>a priori</em> knowledge becomes easily understood, however, once we
+realise that Chisholm is keenly aware, and deeply concerned with the
+difficulties this claim of certainty gives rise to.
 </p>
 
-
+<div id="Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_-Chisholm's concern with skepticism"><h4 id="Chisholm's concern with skepticism" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-4. Certainty cannot be justified _a posteriori_-Chisholm's concern with skepticism">Chisholm's concern with skepticism</a></h4></div>
 <p>
 The only criticism of the "traditional view" that Chisholm considers, is
+the skeptical concern that "the intuitive apprehension of certain relations
+holding between properties" (and, no doubt, the "like relations" of inclusion
+and exlusion between) is not a guarantee that those relations obtain (and hence
+that the relevant "truth of reason" is true at all):
+</p>
+<blockquote>
+(p.7.1)<br>
+1: You cannot know that a given proposition is axiomatic for you unless the
+proposition is one such that, when you contemplate it, you have a kind of
+experience - say, a strong feeling of conviction that provides you with a
+guarantee that the proposition is true. But<br>
+2: there is no experience which will provide such a guarantee. Therefore<br>
+3: you cannot really know, with respect to any proposition that it is one
+that is axiomatic.
+</blockquote>
+
+<p>
+The skeptic in this case is simply playing back Chisholm's own prejudice that
+all knowledge requires deduction from a combination of <em>a priori</em> principles
+known with certainty, tentative generalisations justified by enumerative
+induction and particular observations.  A less committed soul than Chisholm
+might take this to be an internal contradiction in his epistemology; but
+Chisholm remains so wedded to his epistemology that in order to save it he is
+willing to carve out an exception.
 </p>
 
 <p>
-I suspect
+In order to deny a premise of this argument (it is not entirely clear which
+one) Chisholm invokes the notion of a self-presenting state:
+</p>
+<blockquote>
+(p.8.2) And so what of the skeptic's question, "How do you know that the
+proposition that 2 and 4 are 6 is one that is axiomatic?" Let us recall what
+we said in connection with his earlier question about self-presenting
+states. The question was: "How do you know that seeming to have a headache
+is a self-presenting state?" In dealing with that question, we avoided
+falling into the skeptic's trap. We said that the only possible answer to
+such a question is that we <em>do</em> know that seeming to have a headache is
+self-presenting state. We should follow a similar course in the present
+case.
+</blockquote>
+
+<p>
+It is unclear if Chisholm intends to claim that the certain knowledge that 2 + 4
+= 6 is self-presenting, or merely that we have to know it in order for his
+epistemology to hold water.  In either case his motivation is clear. Chisholm
+needs there to be no epistemic gap between 2 + 4 = 6 being true, and our
+believing it to be so - either by maintianing that the apprehension of the
+necessity of 2 + 4 = 6 is not a kind of experience but rather simply a piece of
+knowledge directly vouchsafed to us, or by maintaining that this intuitive
+apprehension of necessity is self-intimating.
 </p>
 
 <p>
- There is good reason for
-doing so, but it is the attmepts to vindicate this sense of certainty that led
-us to hypothesise that "truths of reason" are necessarily true. The sense of
-certainty is the key starting point for this account, 
+Neither option is appealing. Headache's may be self-presenting, in the sense
+that if you feel you have one then you do; but merely believing a truth to be
+necessary and it actually <b>being</b> necessary are two altogether differrent
+things.
+</p>
+
+<div id="Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives"><h3 id="My way or the highway: opening up other alternatives" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives">My way or the highway: opening up other alternatives</a></h3></div>
+<p>
+Two factors drive Chisholm into the false dichotomy between his epistemology and
+skepticism:
+</p>
+
+<div id="Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives-first epistemology"><h4 id="first epistemology" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives-first epistemology">first epistemology</a></h4></div>
+<p>
+The first is a commitment to "first epistemology". Chisholm assumes from the
+outset that a belief is justified only if we can first set limits to the range
+of possibilities (by apprehending <em>a priori</em> axioms) and deriving further
+other <em>a priori</em> knowledge from those axioms, and combining both with _a
+posteriori_ knowledge of our experiences to narrow the range of possibilities
+that might actually be realised.
 </p>
 
 <p>
-SEARCH self-apprehending
-not least because these truths are necessarily true regardless of whether anyone
-holds believes them to be so, or indeed whether or not anyone exists at all. If
-Being red excludes belig blue, then it does so regardless.
+To the degree that it remains <b>possible</b> that one is wrong, one is not
+justified in holding a belief. Of course, Chisholm no doubt holds that none but
+"truths of reason" can be known with absolute certainty, but the degree of
+confidence with which a belief is justified is the degree to which the <b>
+possibility</b> of error has been eliminated.  If one cannot even discern the
+limits of possibility, one feels Chisholm worrying, how can one justify any
+belief at all?
 </p>
 
 <p>
-And hence the "apprehension" 
+The alternative on this front is to abandon the hope of a "first epistemology"
+and accept that there is no higher arbiter of truth than our own <em>a posteriori</em>
+theories of the world. For a belief to be justified by some evidence on this
+account (whether that evidence is conceived of as experiences, stimuli,
+instrument readings, or tracks in the snow) is simply for that evidence to be
+unlikely to occur unless the belief in question is true *according to our
+current best <em>a posteriori</em> theory.
 </p>
 
 <p>
-It is quite true that people often feel this and they take it as grounds or in
-some way a sign that they are justified in being very confident in the inference
-(i.e. the full diffidence of the antecedent clause is transferred to the
-subsequent.
+Chisholm, and other first epistemologists worry, no doubt, that this makes the
+project circular. That any theory is justified by its own lights. But it is
+surprisingly common for this not to be so. Our theories of langauge, with their
+sentence meanings and determinate translations, for example posit entities for
+which no evidence can be obtained. So to the positing of essences and essential
+properties. We propose theories which, if true, we would have no way of knowing.
 </p>
 
 <p>
-this is the skeptical charge that he does consider, and evidently he is aware
-that there is a significant problem here
+There is a circle here, but it is virtuous rather than vicious, the goal is no
+make our theories internally consistent - to make them, by their own lights,
+theories that we could have evidence for believing. To close this circle and
+make our theories,  by their own lights, ones which we have evidence for
+beliving, is the valuable and productive role of epistemology.
 </p>
 
 <p>
-It seems to me that this is the key point upon which. Many people feel
-absolutely certain of "truths of reason", and since this absolute certainty can
-only be justified if it is impossoible for such truths to be false
+(It is worth noting that Chisholm's own epistemology is an example of a theory
+that by its own lights is unknowable.)
+</p>
+
+<div id="Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives-first epistemology-accepting introspective accounts at first value"><h5 id="accepting introspective accounts at first value" class="header"><a href="#Response-Four reasons knowledge of some general truths must be _a priori_-My way or the highway: opening up other alternatives-first epistemology-accepting introspective accounts at first value">accepting introspective accounts at first value</a></h5></div>
+<p>
+The second key mistake is Chisholm's insistance that the "apprehension of
+necessity" be taken at face value. That doing so is simply a pre-requisite of
+doing epistemology at all:
+</p>
+<blockquote>
+(p.3.3) If anyone does not clearly comprehend this distinction of necessary
+and contingent truths, he will not be able to go along with us in our
+researches into the foundations of human knowledge; nor indeed, to pursue
+with success any speculation on the subject.
+</blockquote>
+
+<p>
+and that to question this assessment is to plunge into skepticism. Tp:
+</p>
+<blockquote>
+(p.8.3) sacrifice the clearest and most lucid knowledge that we
+possess-indeed, the only knowledge that is clear and lucid per se.
+</blockquote>
+
+<p>
+Behind the vehemence lurks the awareness that the only reason
+</p>
+
+<p>
+Here as elsewhere, it is a
+<a href="introspection_not_admissible_evidence.html">mistake to build our theories on introspective evidence</a>
 </p>
 
 <div id="necessity and _a priority_ are elements of an explanation"><h1 id="necessity and _a priority_ are elements of an explanation" class="header"><a href="#necessity and _a priority_ are elements of an explanation">necessity and <em>a priority</em> are elements of an explanation</a></h1></div>
 <p>
-The starting point for understanding where Chisholm has gone wrong
+A starting point for beginning to free ourselves of the "traditional view"
+explanations of what it is that our intuitive sense is an intuitive sense of is
+to realise the plain truth that the idea that we are responding to necessity and
+a priority is a <u><span id="necessity and _a priority_ are elements of an explanation-diagnosis"></span><strong id="diagnosis">diagnosis</strong></u> or <u><span id="necessity and _a priority_ are elements of an explanation-explanation"></span><strong id="explanation">explanation</strong></u> of what we sense when
+we consider "truths of reason".  The claim that the distinctive feeling aroused
+by "truths of reason" is the "apprehension of necessity" is not itself something
+that is intrinsic to this feeling itself. As wittgenstein put it
 </p>
 
 <p>
-The key point, is wittgenstein's dictum "in coming to a better understanding of the phenomena that lead
-Chisholm to beleive in <em>a priori knowledge</em>, is one made by 
-To borrow a phrase from <a href="wittgenstein.html">wittgenstein</a>, "internal processes don't come with
-labels attached"<span class='tooltip'>*<span class='tooltiptext'>I am thus far unable to find a source for this quote, if Wittgenstein didn't say it, it is certainly the sort of thing he ought to have said :P (mild joke, but it is a consontant with his approach to inner/mental states and processes) </span></span>.
+The key point, is one of the theme's of wittgenstein's later philosophy.
+</p>
+<blockquote>
+(Phil. Inv. c.580) "an 'inner process' stands in need of outward criteria
+</blockquote>
+<p>
+To put the matter in more prosaic terms (and avoid Wittgenstein's unfortunate
+notion of a criterion) One's awareness of ones inner states doesn't come with
+labels attached.
 </p>
 
 <p>
-The idea that we are responding to necessity and a priority is a
-<u><span id="necessity and _a priority_ are elements of an explanation-diagnosis"></span><strong id="diagnosis">diagnosis</strong></u> or <u><span id="necessity and _a priority_ are elements of an explanation-explanation"></span><strong id="explanation">explanation</strong></u> of, what we sense when we consider
-"truths of reason". To  among other things, our ability to reliably, and in
-general, but not perfect, agreement with our peers, sort novel truths into the
-two categories which the traditional account describes as necessary and
-contingent.  The ability to so sort does suggest that there is something about
-these sentences which we are responding to, it does require an explanation of
-some sort, but it does <span id="necessity and _a priority_ are elements of an explanation-not"></span><strong id="not">not</strong> in and of itself require us to accept any one
-particular explanation of this ability, let alone require us to grant that what
-we are responding to in these statements is their being necessarily true.
+We invoke the notion that introspective sensation is an "apprehension of
+necessity" to explain, among other things, our ability to reliably, and in rough
+agreement with our peers, sort novel truths into the two categories which the
+traditional account describes as necessary and contingent.  The ability to so
+sort does suggest that there is something about these sentences which we are
+responding to, it does require an explanation of some sort, but it does <span id="necessity and _a priority_ are elements of an explanation-not"></span><strong id="not">not</strong> in
+and of itself require us to accept any one particular explanation of this
+ability; let alone require us to grant that what we are responding to in these
+statements is their being necessarily true.
 </p>
 
 <p>
@@ -670,36 +795,36 @@ Chisholm's fantasy of enumerative induction.
 </p>
 
 <p>
-We are trained from an early age in the application of the terms "possible" and
-"impossible" to various statements and taught that certain applications of these
-terms are correct and others are incorrect. The intuitive/felt distinction of
-these statements comes first, then a term for applying to the statements that
-arouse this felt difference, and then we are given an theory of what that
-feeling is a feeling of. The truth of the theory is <span id="necessity and _a priority_ are elements of an explanation-<em>NOT</em>"></span><strong id="<em>NOT</em>"><em>NOT</em></strong> vouchsafed by the
-felt distinction of which it is an attempted explanation.
+We are trained in the application of the terms "possible" and "impossible" to
+various statements and taught that certain applications of these terms are
+correct and others are incorrect. The intuitive/felt distinction of these
+statements comes first, then a term for applying to the statements that arouse
+this felt difference, and then we are given an theory of what that feeling is a
+feeling of. The truth of the theory is <span id="necessity and _a priority_ are elements of an explanation-<em>NOT</em>"></span><strong id="<em>NOT</em>"><em>NOT</em></strong> vouchsafed by the felt
+distinction of which it is an attempted explanation.
 </p>
 
 <p>
-Neither the fact that we can distinguish these sentences, nor the fact that we
-are taught to call these sentences "necessary" gives us any reason to believe
-that these sentences are, in fact, necessary.
+It made perfect sense, two and a half thousand years ago, to the ancient
+original geometer proponents, that in the midst of a chaotic world, when the
+geometrical predictions they made on the basis of these intuitions were not only
+correct, but the most reliably and verifiably correct of all the predictions
+they made (with astronomy coming a close second); that the intuitive sense they
+had of these truths was one which gave them absolute certainty. Their
+explanation of that certainty required that those truths were necessary, and 
+they erected a metaphysics of forms and properties to 
 </p>
 
 <p>
-Belief in the traditional view is a prime example of why
-<a href="introspection_not_admissible_evidence.html">introspection_not_admissible_evidence</a>
+We have erected an edifice on the explanation of an introspective intuition.
+The thing that prevents us, more than anything else, from moving beyond this
+ancient theory is the paralysing effect of treating the diagnosis of our
+introspective awareness as an observation. Here as elsewhere the effect of
+basing our theories on introspective evidence is to make them impervious to
+change. (see <a href="introspection_not_admissible_evidence.html">introspection_not_admissible_evidence</a>).
 </p>
 
-<p>
-For another problem with treating this intuition as justifying certainty see
-<a href="philosophers_dogmatism.html">philosophers_dogmatism</a>
-</p>
-
-
-
-
-
-
+<div id="necessity and _a priority_ are elements of an explanation-below this point is still rough notes"><h4 id="below this point is still rough notes" class="header"><a href="#necessity and _a priority_ are elements of an explanation-below this point is still rough notes">below this point is still rough notes</a></h4></div>
 <div id="necessity and _a priority_ are elements of an explanation-points to be explained"><h2 id="points to be explained" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained">points to be explained</a></h2></div>
 <p>
 Hopefully it is now at least plausible that the "traditional view" is not
@@ -709,14 +834,16 @@ explanation of that introspective awareness.
 
 <p>
 Let us turn to clarifying, in the third person, what it is that requires
-explaination.
+explaination. For the purpose of avoiding the presumption (and avoiding
+tediously repeated use of the term "putative truth of reason") let us call the
+statements that people catagorise with "truths of reason" N-statememnts, and
+thew others C-statements.
 </p>
 
 <div id="necessity and _a priority_ are elements of an explanation-points to be explained-1. &quot;truths of reason&quot; reliably discernable"><h4 id="1. &quot;truths of reason&quot; reliably discernable" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-1. &quot;truths of reason&quot; reliably discernable">1. "truths of reason" reliably discernable</a></h4></div>
 <p>
-People can reliably and more or less consistently distinguish between statements
-that are, according to the traditional account, necessary truths and statements
-that are not.
+People can reliably, more or less consistently and more or less in agreement
+with each other categorise novel statements into N-statements and C-statements.
 </p>
 
 <p>
@@ -726,105 +853,113 @@ known <em>a priori</em> and contingent truths known <em>a posteriori</em>
 
 <div id="necessity and _a priority_ are elements of an explanation-points to be explained-2. &quot;truths of reason&quot; believed with great confidence"><h4 id="2. &quot;truths of reason&quot; believed with great confidence" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-2. &quot;truths of reason&quot; believed with great confidence">2. "truths of reason" believed with great confidence</a></h4></div>
 <p>
-As we saw earlier, the claim that any intuitive sense is aroused concerning
-That they are known with certainty is not guaranteed. 
+As we saw earlier the claim that "truths of reason" (or at least those that are
+"axioms") are known with certainty leads to significant difficulties.
 </p>
 
 <p>
-On a more prosaic level, people sometime claim to know <em>a priori</em> and certainly
-that a given statement is true and then later change their minds.
+Furthermore we need not take this inner sense of confidence at face value:
+</p>
+<blockquote>
+(Phil. Inv. c.579) A feeling of confidence. How is it manifested in
+behaviour?
+</blockquote>
+
+<p>
+By Bayesian standards one is only absolutely confident if there is no evidence
+that could alter ones mind. 
 </p>
 
 <p>
-However, it is clear People who put (or are disposed to put if asked) a statement into the group
-traditionally diagnosed as necessary also nearly always believe that
-sentence to be true with great confidence.
+On a more prosaic level people check their reasoning multiple times. It is not
+unusual to have this feeling, and then (say if people's lives depend upon it) to
+go and check one's working again. 
 </p>
 
 <p>
-The statements which arouse the feeling Chisholm diagnoses as "
-diagnosed as "awareness of necessity" or "seeing , are held with great confidence by those
-in whom that feeling is aroused; 
+It is true however, that people will place bets at very low odds on these
+claims.
 </p>
 
 <p>
-Is is worth noting that
-The high confidence with which the sentences arousing this "awareness of
-necessity" and the inability to describe/imagine/depict evidence that would lead
-one to hold them as false are not unique to "truths of reason"
-</p>
-
-
-<p>
-For my own part I am absolutely certain that there have been black dogs (i.e.
-that black dogs have existed in the past) and cannot imagine any evidence which
-would lead me to accept as true the claim that no such dogs have ever existed.
-(No sequence of stimulations of my sensory surfaces will lead from my current
-state to a state in which I deny "There have not been black dogs." There are
-doubtless sequences which would lead to me dying, others which would lead to me
-going insane, and some very unpleasant sequences that would lead to me
-pretending to believe [aud loudly declaiming to the torturer] that there have
-never been black dogs, but no sequence of observations, experiments, lines of
-argument or other considerations that could ever lead me to honestly deny the
-past existence of black dogs. Perhaps invasive surgery could accomplish the
-trick, but it is unclear whether I would remain a believer at the end of it.)
-Despite this I think none of us would group "There have been black dogs" with
-sentences such as "1 + 1 = 2" "The internal angles of any euclidean
-quadrilateral sum to 360 degrees")
+So we may remain unconvinced that people are absoolutely certain of these
+beliefs but is is the case that they are very highly confident in them.
 </p>
 
 <p>
-Thus I take it that this feeling is not merely the feeling of being certain, but
-rather the awareness of some kind of mental process that causes
+The vast majority of people (perhaps everyone?) who class a statement as a
+N-statement also have very high (but perhaps not absolute) confidence in that
+statements truth.
 </p>
 
 <p>
-In any case <a href="descartes.html">descartes</a> notoriously proclaimed the sentence "I exist",
-to be known same certainty as any putatively necessary truth, but surely that
-sentence is not necessarily true. So while any satisfactory explanation would
-have to
-Though in that case it is the felt necessity of the claim that "If I
+Indeed the puzzling thing is how much we continue to trust this sense. We have
+all been led astray by our reasoning from time to time. WHy is it that we
+continue to trust so certainly?
+</p>
+
+<p>
+<span class='tooltip'>*<span class='tooltiptext'>In any case <a href="descartes.html">descartes</a> notoriously proclaimed the sentence "I exist", to be
+known same certainty as any putatively necessary truth, but surely that sentence
+is not necessarily true. So while any satisfactory explanation would have to
+Though in that case it is the felt necessity of the claim that "If I am doubting
+my own existence then I exist" </span></span>
 </p>
 
 <div id="necessity and _a priority_ are elements of an explanation-points to be explained-3. unable to imagine falsehood of &quot;truths of reason&quot;"><h4 id="3. unable to imagine falsehood of &quot;truths of reason&quot;" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-3. unable to imagine falsehood of &quot;truths of reason&quot;">3. unable to imagine falsehood of "truths of reason"</a></h4></div>
 <p>
-In the opposite direction People who put (or are disposed to put if asked) a
+In the opposite direction people who put (or are disposed to put if asked) a
 statement into the group traditionally diagnosed as necessary are nearly always
 incapable of describing situations in which such sentences would be false, or of
 evidence which would lead them to reduce their confidence in those sentences.
 </p>
 
 <p>
-When I try to imagine the negation of a "truth for reason"; for example when I
-try to imagine a square that is not a rectangle, or a square that is a circle,
-or something that is red all over and blue all over, I do not know what to do. I
-"get nothing", am lost, cannot imagine what it would be like. Other people
-describe their feelings in similar terms. They cannot generally draw pictures of
-a situation in which that sentence is true (literal pictures, not game of
-charades style instructions for assembling the sound or shape of the words
-forming the sentence).  Furthermore they are at a loss when asked what evidence
-they would accept as justification for holding such a claim to be true.
-</p>
-
-<p>
-However, it seems to me that I can still imagine a world much like this one,
-but in which had been no black dogs. (For instance a world in which the only
-dogs were varieties of dingoes) 
+When I try to imagine the negation of a supposed "truth for reason"; for example
+when I try to imagine a square that is not a rectangle, or a square that is a
+circle, or something that is red all over and blue all over, I do not know what
+to do. I "get nothing", am lost, cannot imagine what it would be like. Other
+people describe their feelings in similar terms. They cannot generally draw
+pictures of a situation in which that sentence is true (literal pictures, not
+game of charades style instructions for assembling the sound or shape of the
+words forming the sentence).  Furthermore they are at a loss when asked what
+evidence they would accept as justification for holding such a claim to be true.
 </p>
 
 <div id="necessity and _a priority_ are elements of an explanation-points to be explained-4. unable to describe infirming evidence"><h4 id="4. unable to describe infirming evidence" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-4. unable to describe infirming evidence">4. unable to describe infirming evidence</a></h4></div>
 <p>
-and those in whom thise feeling is aroused are
-at a loss to describe the evidence which would lead them to sincerely assert
-those sentences.
+Furthermore people are often at a loss to describe
+the evidence which would lead them to sincerely deny
+sentences arousing this.
 </p>
 
-<div id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence in &quot;truths of reason&quot; often justified"><h4 id="5. high confidence in &quot;truths of reason&quot; often justified" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence in &quot;truths of reason&quot; often justified">5. high confidence in "truths of reason" often justified</a></h4></div>
+<p>
+The inability to describe/imagine/depict evidence that would lead
+one to hold them as false is not unique to "truths of reason".
+</p>
+
+<p>
+For my own part I cannot imagine any evidence which would lead me to accept as
+true the claim that no black dogs have ever existed.  (No sequence of
+stimulations of my sensory surfaces will lead from my current state to a state
+in which I deny "There have not been black dogs." There are doubtless sequences
+which would lead to me dying, others which would lead to me going insane, and
+some very unpleasant sequences that would lead to me pretending to believe [aud
+loudly declaiming to the torturer] that there have never been black dogs, but no
+sequence of observations, experiments, lines of argument or other considerations
+that could ever lead me to honestly deny the past existence of black dogs.)
+</p>
+
+<div id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence often justified"><h4 id="5. high confidence often justified" class="header"><a href="#necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence often justified">5. high confidence often justified</a></h4></div>
 <p>
 Finally, but perhaps most importantly, I also maintain my initial 
-agreement with Chisholm that <em><span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence in &quot;truths of reason&quot; often justified-Reason is a source of knowledge"></span><strong id="Reason is a source of knowledge">Reason is a source of knowledge</strong></em>. i.e. that
+agreement with Chisholm that <em><span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence often justified-Reason is a source of knowledge"></span><strong id="Reason is a source of knowledge">Reason is a source of knowledge</strong></em>. i.e. that
 people not only <em>feel</em> confident about the sentences which arouse this feeling
 in them, at least a great deal of the time, <em>this confidence is justified</em>.
+</p>
+
+<p>
+But note that this need not be an account where it is impossible, 
 </p>
 
 <p>
@@ -840,7 +975,6 @@ theory")
 Our theory must explain why our belief in "truths of reason" is justified, but
 as was suggested above<a href="truths_of_reason_by_chisholm.html#necessity and a priority are elements of an explanation">#necessity and a priority are elements of an explanation</a>
 </p>
- 
 
 <p>
 we don't need to achieve justification of absolute certainty. For I take it that
@@ -848,8 +982,8 @@ such certainty could only be justified
 </p>
 
 <p>
-We <span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence in &quot;truths of reason&quot; often justified-do"></span><strong id="do">do</strong> have to explain why people feel such confidence in those truths they
-take to be "truths of reason", and we <span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence in &quot;truths of reason&quot; often justified-do"></span><strong id="do">do</strong> have to explain why that 
+We <span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence often justified-do"></span><strong id="do">do</strong> have to explain why people feel such confidence in those truths they
+take to be "truths of reason", and we <span id="necessity and _a priority_ are elements of an explanation-points to be explained-5. high confidence often justified-do"></span><strong id="do">do</strong> have to explain why that 
 </p>
 
 <p>
@@ -1073,15 +1207,6 @@ it does not make Chisholm's "explanation" any better. It would be far better and
 more honest to simply say we do not know what is distinctive about these
 statements nor how we are aware of that distinctive property, nor how our belief
 in them is justified. This need not lead to skepticism, 
-</p>
-
-<p>
-And even if the account I offer afterwards is hopeless, I think it is fairly
-clear that these
-</p>
-
-<p>
-Chisholm insists that we take our introspective
 </p>
 
 <div id="Towards an alternative explanation-Two fundamental errors in Chisholm's &quot;traditional view&quot;"><h2 id="Two fundamental errors in Chisholm's &quot;traditional view&quot;" class="header"><a href="#Towards an alternative explanation-Two fundamental errors in Chisholm's &quot;traditional view&quot;">Two fundamental errors in Chisholm's "traditional view"</a></h2></div>
