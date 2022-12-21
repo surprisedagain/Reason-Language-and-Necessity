@@ -1,10 +1,10 @@
-:start:first_draft:
-= introduction for the complete beginner =
-=== short ===
-a brief quasi-historical account of the grave and fundamental problems to which
+:start:historical_trail:first_draft:
+= a historical introduction =
+====== short ======
+A brief quasi-historical account of the grave and fundamental problems to which
 solutions are ventured in this collection of notes.
 
-= main =
+= the collapse of traditional accounts of reasoning =
 Once upon a time, long long ago, it was thought to be clear why reasoning led us
 to truth. Our minds contained concepts, and these concepts were either the very
 same as the properties of the objects around us or at least very similar to
@@ -12,10 +12,10 @@ them. (Perhaps in something like the way that an object and its impression in a
 clay tablet are similar.) Maybe these concepts were imprinted in our minds
 through our senses, or maybe they were perfect forms of which physical
 properties were imperfect copies. But in either case there was a consonance
-between our concepts and the properties of the objects around us.  The heat felt
-when touching a flame was thought to be similar to the heat which causes the
-flame to burn, the weight felt when lifting a stone similar to the weight in the
-stone which caused it to resist being pushed, and the color one sees when
+between our concepts and the properties of the objects around us.  The sensation
+felt when touching a flame was thought to be similar to the heat which causes
+the flame to burn, the weight felt when lifting a stone similar to the weight in
+the stone which caused it to resist being pushed, and the color one seen when
 looking at a white patch of snow similar to the whiteness of the snow.  Because
 of these more or less direct encounters with object's properties we could intuit
 the fundamental general principles governing them. 
@@ -65,107 +65,120 @@ The key factor that caused this collapse, was the undeniable growth in
 scientific knowledge.  This growth posed two distinct and fundamental problems
 for the traditional accounts of knowledge and reasoning.
 
-== justification of scientific theories ==
-The first problem concerned the justification of scientific knowledge.  While
-the principles of Aristotelian physics were perhaps neither so precise nor known
-with the same certainty as geometrical principles (e.g. the principle that
+== 1st problem: the justification of scientific theories ==
+While the principles of Aristotelian physics were perhaps neither so precise nor
+known with the same certainty as geometrical principles (e.g. the principle that
 just one straight line passes through any two distinct points), it was not
-preposterous to cast the principles of physics as like geometrical principles
-in being necessarily true first principles known with greater certainty that
-the observable consequences that could be derived from them, and made true by the
-essential natures of the relevant objects and properties. The Aristotelian
+preposterous to cast the principles of physics as like geometrical principles in
+being necessarily true first principles known with greater certainty that the
+observable consequences that could be derived from them. Principles made true by
+the essential natures of the relevant objects and properties. The Aristotelian
 principle that heat rises, for instance, is on this view not an empirical
 generalisation, but an essential aspect of the nature of heat that may be
 grasped, by a mind capable of contemplating general laws, in a flash of
 cognition after repeatedly observing hot objects. The new scientific laws,
 however, could not be made to fit into this mold.
 
-=== insensible properties ===
-At every point, the fundamental generalisations that form the core of
-scientific theories are unlike necessary truths grasped with certainty in a
-flash of insight by a reasoning mind after repeatedly sensing the relevant
-properties. To begin with, many of the properties ascribed to objects in those
+At every point, the fundamental generalisations forming the core of scientific
+theories are unlike necessary first principles grasped with certainty in a flash
+of insight by a reasoning mind after repeatedly sensing the relevant properties.
+
+=== not sensible properties ===
+To begin with, many of the properties ascribed to objects in scientific
 generalisations are utterly unlike those met with in human experience.
 Aristotle had been prepared to postulate bodies too small to be sensed directly;
 but the qualities he attributed to them were akin to the ordinary sensible
-qualities of wet and dry, hot and cold.  Properties such as charge, field
-strength and spin, by contrast, cannot be sensed by humans at all. Even
-properties such as wavelength and mass which might be thought to be sensible,
-were applied in ways foreign to our ordinary sensations.  The mass of an object,
-for example, is unlike its felt weight in that the latter is dependent upon
-gravity (or the seemingly distinct constant acceleration) wheras the former
-remains constant.
+qualities of wet and dry, hot and cold.  By contrast, properties such as charge,
+field strength and spin cannot be sensed by humans at all.
+
+Even the attributions of those properties that might be thought to be sensible,
+such as wavelength and mass, is often at odds with ordinary sensations.  The
+mass of an object, for example, is unlike its felt weight in that the latter is
+dependent upon gravity (or the seemingly distinct constant acceleration) wheras
+the former remains unchanged even in micro-gravity. Hence it is doubtful that we
+sense those properties at all.
 
 === not necessary truths ===
 The next difference is that scientific generalisations are not true necessarily.
 Perhaps the most influential exponent of this fact is
-[[https://plato.stanford.edu/entries/popper/|Popper<sup>ext</sup>]], who proclaimed
-*falsifiability* to be the hallmark of scientific claims. According to Popper, a
+[[https://plato.stanford.edu/entries/popper/|Popper]], who proclaimed
+[[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the hallmark of scientific claims. According to Popper, a
 general statement is falsifiable if and only if there is a possible "basic
 statement" (i.e. a singular existential claim, such as "the needle on the
 voltmeter is pointing to 11") whose truth is "intersubjectively testable" (i.e.
 about which observers can come to agreement despite other differences in their
-beliefs) which is incompatible with that general statement. But of course, a
-necessary truth is true regardless of the truth of falsehood of any such "basic
-statement", and hence not scientific by Popper's standard.
+beliefs) which which that general statement is incompatible. But of course, a
+necessary truth is compatible with any such "basic statement" and hence, by
+Popper's standard, not scientific.
 
-=== nor known with certainty ===
-While Popper formulated his _falsification principle_ in the mid 20th
-century, Descartes had already recognised that scientific claims gained
-credence via their success in predicting experimental results (and other
-observations) by 1650.  For several centuries afterwards, it was only dimly
-apprehended((by everyone apart, perhaps, from the
-[[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Bayes<sup>ext</sup>]]))
-that for an experience to give creedence to any hypothesis, there must be other
-possible experiences which would confute it (hence Popper's emphasis on
-falsification); but it *was* widely understood that belief in scientific
-generalisations was justified by the experimental results
-(and other observable phenomena) that they predicted, and that _*they were not deducible from*_
-(descriptions of) those results.
+Independently of Popper's standard for scientific enquiry, principles such as
+the is right hand rule governing the movement of charged particles through
+magnetic fields have obvious symmetric alternatives and others such as "Elements
+with eight electrons in their outer shell are inert" are too palpably arbitrary
+to be necessary truths (and there is little else other than such intuitive
+judgements to guide assessments of necessity). On the other side, while we may
+be confident that Newtonian mechanics is false, it is implausible that it is
+impossible (or if so, it makes knowledge of impossibility inaccessible to even
+the keenest minds for indefinite periods of time).
+
+=== not known with certainty ===
+While Popper formulated his falsification principle in the mid 20th
+century, by 1650 Descartes had already recognised that scientific claims gained
+credence via their success in predicting observations.  For several
+centuries afterwards, it was only dimly apprehended((by everyone apart, perhaps,
+from the [[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Bayes]])) that for an experience to give credence to a
+hypothesis, {[[if_some_experiences_confirm_others_must_infirm|there must be other possible experiences which would confute it]]}
+(hence Popper's emphasis on falsification); but it _was_ widely understood that
+belief in scientific theories was justified by their success in predicting
+observations and that they were _not deducible from_ (descriptions of) those
+observations.
 
 There are thus two sources of uncertainty built into the foundations of our
 knowledge of scientific truths. Firstly our observations are subject to error,
 we may see the needle on the voltmeter pointing to 11 when in fact it is
 pointing to 10, and secondly even if our observations are correct, they do not
-gu=arantee the truth of the scientific principles 
+guarantee the truth of the scientific principles they support.
 
-=== known less certainty than their consequences ===
-scientific laws are known with less certainty than
-the instances of particualr objects fulfilling them. Geometical and arithemetic
-laws, are known with greater certainty than the particular cases that they
-subsume. The observation of litmus paper turning red is more certain than the
-general law that litmus paper turns red when in contact with an acid.
+=== known less certainly than their consequences ===
+Another point of difference between scientific laws and Aristotelian first
+principles, is that scientific laws are known with less certainty than the
+particular cases fulfilling them; wheras geometical and arithemetic laws are
+known with greater certainty than the particular cases that they subsume.
 
+For instance, the observation of litmus paper turning red is more certain than
+the general law that litmus paper turns red when in contact with an acid. By
+contrast, most of us are more certain that addition is symmetric (i.e. that _n_
++ _m_ = _m_ + _n_) than that 38974298435982 + 87248912374 = 87248912374 +
+38974298735982.
 
 === not intuitable as a result of observation ===
 Finally, and perhaps most difficult to make sense of from the modern viewpoint
 which views scientific theories rather than geometical theorems as the
-paradigmatic exemplars of knowledge, the fundamental generalizations 
-
-but feeling the weight of a range of stones will not make the value of the
-gravitational constant leap to mind, gravitation
-feeling the wiehgt of a stone
-There is nothing about the very notion of the movement of
-charged particles through 
+paradigmatic exemplars of knowledge, the fundamental generalizations scientific
+theories
 
 Principles such as maxwell's law are not justified by merely contemplating the .
-Nor is the fact that the motion of charged particles through magnetic field obey
-the right hand rule
 
-???? KNOWN WITH LESS CERTAINTY THAN THE PARTICULAR OBSERVATION ENTAILED BY
-THEM
-That for any two numbers
-_A_ and _B_ _A_+_B_ equals It is always possible
-that One is in general more
-confident ILater philosophers would introduce the notion of _nomological_
-necessity Rather than being known with greater certainty than the particular
-cases to which they were applied.
+feeling the weight of a range of stones will not make the value of the
+gravitational constant leap to mind
 
-Rather than being known with grater certainty than 
+== 2nd problem ==
+While the differences just outlined, make it abundantly clear that scientific
+laws are neither necessarily true first principles nor deduced from such
+principles, our knowledge of scientific principles does not preclude that
+ancient account of knowledge from being correct within its parochial bounds.
+
+This attitude is not uncommon among practising scientists and educated laymen.
+Philosophy, on this view is a kind of primitive pre-cursor of science, somewhat
+like bow and drill fire making. Philosophers did discover knowledge of a sort,
+logic and mathematics, and within limited. But perhaps if pushed, the proponent
+of this view will not 
+
+clear that the traditional account
+of knowledge and justification did not fit scientific laws, 
 
 ????- CLEAR NOT FIRST PRINCIPLES - DESCARTES
-For all these reasons it is abundantly clear that scientific laws are neither
-neccesarily true first principles nor deduced from such principles. Descartes
+For all these reasons it is abundantly clear that Descartes
 was first and foremost among those who noted that and his first response was to
 attempt to reconcile. In his Meditations he proposed to _deduce_ the existence
 of God from his famous [[cogito|cogito ergo sum]], and thence to deduce that the
@@ -180,7 +193,7 @@ modification of the traditional accounts but rather to explain away the
 indeducibility of scientific theories from certain first principles as a mere
 appearance. 
 
-His '[[cogito ergo sum]]', was supposed to be a first
+His '{[[cogito_ergo_sum]]}', was supposed to be a first
 principle form which, with God's grace, all science could be derived.
 For if the existence of a beneficent God could be proven, then 
 
@@ -204,23 +217,19 @@ The nature This newly recognised form of justification remains unclear to this d
 
 but rather they were supported because the predictions they issued in 
 
-????- Scientific method
-Among non-philosophers, the problem of providing a clear account of how su
-
 It might be thought that this is all old news, that the collapse we are
 describing is simply the scientific revolution described from the losing
 side. and that the methods of philosophy were simply superseded by those of
 science.
 
-
 But its that the revolution did not go deep enough.
 
-Belief in the scientific method, is itself a kind of a projection of the old scheme onto
-new materials. The hope that there might be some principles of so-called
-abductive or inductive reasoning, rules for deriving general formulas from
-finite observations; rules as clearly and definitely describable as the princples
-of classical deductive logic but justifying less than absolute certainrty in
-their conclusions.
+Belief in the scientific method, is itself a kind of a projection of the old
+scheme onto new materials. The hope that there might be some principles of
+so-called abductive or inductive reasoning, rules for deriving general formulas
+from finite observations; rules as clearly and definitely describable as the
+princples of classical deductive logic but justifying less than absolute
+certainrty in their conclusions.
 
 as though somehow philosophers had just set their sights to high, or (somewhat
 more plausibly) had overlooked that importance of assiduously pursuing
@@ -236,7 +245,6 @@ the enduring  ????puzzles/problems/landmarks - the problem of induction
 
 
 -????
-
 
 ????-
 GOOD
@@ -294,6 +302,9 @@ development (purely for the sake of a historical argument) the account of what.
 
 In this collection of notes (and at the end of this trail) we come to a definite
 conclusion.
+
+
+== social effects of the collapse ==
 
 ???? later section
 addendum:

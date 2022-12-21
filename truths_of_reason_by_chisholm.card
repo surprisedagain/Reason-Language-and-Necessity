@@ -196,12 +196,12 @@ of [[#Premise 3]] and its relation to Chisholm's talk of "inclusion" and
 "exclusion".)
 
 === 2. Unaware of performing induction ===
-Before turning to Chisholm's strongest arguments for _a priori_ knowledge of
-"truths of reason", we should consider an extremely simple argument that is
-interwoven with the other three but which Chisholm does not advance explicitly.
-Once squarely considered, the feebleness of this argument is readily apparent,
-but unless explicitly acknowledged and set aside, it may have an undue influence
-on our considerations.
+Before turning to Chisholm's strongest arguments for _a priori_ knowledge, we
+should consider an extremely simple argument that is interwoven with the other
+three but which Chisholm does not advance explicitly.  Once squarely considered,
+the feebleness of this argument is readily apparent, but unless explicitly
+acknowledged and set aside, it may have an undue influence on our
+considerations.
 
 The closest Chisholm comes to explicitly stating this argument is a sentence in
 the midst of an extended (and seemingly approving) quotation from William
@@ -349,6 +349,8 @@ definitional truths.
 The matter is also expressible in terms of conditional probabilities. It is
 connected with Bayes' theorem, and is a consequence of the
 [[https://en.wikipedia.org/wiki/Law_of_total_probability|Law of Total Probability<sup>ext</sup>]].
+
+
 
 In the case of necessary truths however, no observation can exclude any
 possible worlds in which a necessary truth is false (since there are none) and
@@ -541,10 +543,11 @@ and that to question this assessment is to plunge into skepticism. Tp:
     (p.8.3) sacrifice the clearest and most lucid knowledge that we
     possess-indeed, the only knowledge that is clear and lucid per se.
 
-Behind the vehemence lurks the awareness that the only reason
-
-Here as elsewhere, it is a
-[[introspection_not_admissible_evidence|mistake to build our theories on introspective evidence]]
+Behind the vehemence lurks the awareness that the only reason for the continued
+grip of the "traditional view" is the belief that what we are sensing when we
+contemplate putative "truths of reason" is necessity. This is simply another
+aspect of the paralysing effect of building our psychological theories on the
+basis of introspection (see [[introspection_not_admissible_evidence]]).
 
 = necessity and _a priority_ are elements of an explanation =
 A starting point for beginning to free ourselves of the "traditional view"
@@ -607,9 +610,10 @@ change. (see [[introspection_not_admissible_evidence]]).
 
 ==== below this point is still rough notes ====
 == points to be explained ==
+[:this provides the first draft for [[features_of_supposed_analytic_truths]]
 Hopefully it is now at least plausible that the "traditional view" is not
 something that is simply given to us in introspection, but rather an
-explanation of that introspective awareness.
+explanation of what introspective awareness is awareness of.
 
 Let us turn to clarifying, in the third person, what it is that requires
 explaination. For the purpose of avoiding the presumption (and avoiding
@@ -628,16 +632,25 @@ known _a priori_ and contingent truths known _a posteriori_
 As we saw earlier the claim that "truths of reason" (or at least those that are
 "axioms") are known with certainty leads to significant difficulties.
 
+The "feeling of confidence we have need not be taken at face value either. It
+may be that our feeling of greatest confidecne falls 
+
 Furthermore we need not take this inner sense of confidence at face value:
     (Phil. Inv. c.579) A feeling of confidence. How is it manifested in
     behaviour?
 
-By Bayesian standards one is only absolutely confident if there is no evidence
+By Bayesian standards absolute confidence entails that no further evidence could
+ever lead to a change of mind. If something is known with certainty, then there
+is no evidence on which conditionalisation will lead 
+conditionalisation on any evidenceone is only absolutely confident if there is no evidence
 that could alter ones mind. 
 
 On a more prosaic level people check their reasoning multiple times. It is not
 unusual to have this feeling, and then (say if people's lives depend upon it) to
 go and check one's working again. 
+
+From my father - on first learning a theroem - sy that internal angles of
+triangle = 180 then go and check multiple times. Then feel confident.
 
 It is true however, that people will place bets at very low odds on these
 claims.
@@ -705,7 +718,7 @@ Any explanation of that omitted to explain why our belief in "truths of reason"
 is actually justified (and not merely why we feel that it is justified) would be
 liable to lead to skepticism as Chisholm claims. ???? the skepticism that
 CHisholm feels must affect 
-(p.8.1 "we do have the kpowledge in question, and therefore, any philosophical
+(p.8.1 "we do have the knowledge in question, and therefore, any philosophical
 theory")
 
 Our theory must explain why our belief in "truths of reason" is justified, but
@@ -898,16 +911,11 @@ but I do not suppose that even those
 === foundationalism ===
 The idea that each individual statement must be derivable from a combination 
 
-
-
-
 == other related cards ==
-[[introduction_for_the_complete_beginner]]
+[[an_introduction.card]]
 [[inconceivability_guide_to_impossibility]]
 
-
 == cutting room floor ==
-
     (p.3.3) If anyone does not clearly comprehend this distinction of necessary
     and contingent truths, he will not be able to go along with us in our
     researches into the foundations of human knowledge; nor indeed, to pursue

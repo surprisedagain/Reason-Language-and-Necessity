@@ -1,6 +1,12 @@
+= trails =
+[[historical_trail]]
+[[semantic_holism]]
+
+
 = under Construction =
+[[explanation_of_first_principles_flawed]]
 [[truths_of_reason_by_chisholm]]
-[[introduction_for_the_complete_beginner]]
+[[an_introduction.card]]
 [[introspection_not_admissible evidence]]
 [[if_one_experience_confirms_another_must_infirm]]
 [[trials_and_tribulations_of_being_a_semantic_holist]]
@@ -8,19 +14,18 @@
 [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 [[epistemic_triangle_of_language_learning]]
 [[tractatus]]
-[[back_of_my_head]]
 [[philosophers_dogmatism]]
 [[wittgenstein]]
 [[inconceivability_guide_to_impossibility]]
 [[descartes]]
-[[semantic_holism]]
 [[problem_of_treating_belief_as_binary]]
 
 = unconnected =
 [[theories_as_suits_of_armour]]
 
 = unwritten =
-[[against_observation_sentences]]
+quines_stimuli - quines errors trail
+[[observation_sentences]] - quines errors trail
 [[quines_behaviourism]]
 [[cogito_ergo_sum]]
 [[descartes_on_conceivability_and_possibility]]
@@ -112,7 +117,7 @@ sub,,script,,
     - [[descartes]]
 
 == historical ==
-    - [[the_before_times]]
+    - [[before_times]]
 
 == holism ==
     - [[semantic_holism]]
@@ -151,7 +156,7 @@ sub,,script,,
     - [[epistemic_triangle_of_language_learning]]
 
 == quines_errors_trail ==
-    - [[against_observation_sentences]]
+    - [[observation_sentences]]
 
 == reasoning ==
     - [[meno]]
@@ -167,8 +172,8 @@ sub,,script,,
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == start ==
-    - [[against_observation_sentences]]
-    - [[introduction_for_the_complete_beginner]]
+    - [[observation_sentences]]
+    - [[an_introduction.card]]
     - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == text ==

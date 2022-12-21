@@ -18,6 +18,7 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
     - [[trials_and_tribulations_of_being_a_semantic_holist#Why to be is to be the value of a variable]]
 
 == article ==
+    - [[truths_of_reason_by_chisholm]]
     - [[were_right_theyre_wrong]]
 
 == book ==
@@ -25,6 +26,9 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 
 == credence ==
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+
+== demotag ==
+    - [[01#quick markdown guide#tags]]
 
 == doctrine ==
     - [[semantic_holism]]
@@ -35,14 +39,16 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
     - [[verificationism]]
 
 == enlightenment ==
+    - [[cogito_ergo_sum]]
     - [[descartes]]
 
 == first_draft ==
     - [[back_of_my_head]]
-    - [[introduction_for_the_complete_beginner]]
+    - [[an_introduction.card]]
 
 == historical ==
-    - [[the_before_times]]
+    - [[cogito_ergo_sum]]
+    - [[before_times]]
 
 == holism ==
     - [[semantic_holism]]
@@ -56,6 +62,9 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 
 == intuition_of_analyticity ==
     - [[philosophers_dogmatism]]
+
+== intuition_of_analyticity_trail ==
+    - [[features_of_supposed_analytic_truths]]
 
 == modality ==
     - [[inconceivability_guide_to_impossibility]]
@@ -78,9 +87,11 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 
 == principle ==
     - [[epistemic_triangle_of_language_learning]]
+    - [[if_some_experiences_confirm_others_must_infirm]]
+    - [[introspection_not_admissible_evidence]]
 
 == quines_errors_trail ==
-    - [[against_observation_sentences]]
+    - [[observation_sentences]]
 
 == reasoning ==
     - [[meno]]
@@ -88,25 +99,35 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 == representation ==
     - [[tractatus#theses#modal isomorphism]]
 
+== response ==
+    - [[truths_of_reason_by_chisholm]]
+
 == roughNotes ==
     - [[were_right_theyre_wrong#roughNotes]]
 
 == rough_draft ==
+    - [[cogito_ergo_sum]]
     - [[epistemic_triangle_of_language_learning]]
+    - [[if_some_experiences_confirm_others_must_infirm]]
+    - [[introspection_not_admissible_evidence]]
     - [[wittgenstein]]
 
 == sociology ==
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == start ==
-    - [[against_observation_sentences]]
-    - [[introduction_for_the_complete_beginner]]
+    - [[observation_sentences]]
+    - [[an_introduction.card]]
     - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == text ==
     - [[meno]]
     - [[tractatus]]
+    - [[truths_of_reason_by_chisholm]]
     - [[were_right_theyre_wrong]]
+
+== under-determination ==
+    - [[cogito_ergo_sum]]
 
 == unresolved ==
     - [[problem_with_treating_belief_as_binary#unresolved]]
