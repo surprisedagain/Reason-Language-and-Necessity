@@ -92,7 +92,7 @@ code {
 /* NATHANS HANDWRITTEN CSS BELOW THIS LINE */
 /*******************************************/
 html{
-    background-color: aliceblue;
+    background-color: #e6f3ff;
     padding: 1rem 2rem 1.5rem 2rem;
 }
 
@@ -168,14 +168,14 @@ body > p:has(.tag):first-child + div > h1 {
  * Anchor section
  ******************/
 :not(.header) > a {
-  font-family: "Helvetica", "sans-serif";
-  color: white;
-  font-size: 0.8rem;
-  text-decoration: underline;
-  padding: 2px 4px;
-  border-radius: 3px;
   background-color: #246eb9;
+  border-radius: 3px;
+  padding: 2px 4px;
+  font-family: "Helvetica", "sans-serif";
+  font-size: 0.8rem;
   font-weight: 500;
+  color: white;
+  text-decoration: underline;
 }
 
 :not(.header) > a:hover {
@@ -210,6 +210,7 @@ a[href^="http"] {
 
 a[href^="http"]::after {
     content: "ext";
+    text-decoration: underline;
     vertical-align: super;
     font-size: x-small;
 }

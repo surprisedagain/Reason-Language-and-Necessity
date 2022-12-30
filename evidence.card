@@ -5,35 +5,36 @@ We shall spend a great deal of time talking about evidence and how it relates to
 contentive(/representational/semantically evaluable) things such as statememts
 and theories. Let us clarify just what we count as evidence.
 
-= Epistemic Bottlenecks =
+= epistemic bottlenecks =
 We know of some objects only through their effects on other objects to which we
 have comparatively direct epistemic access. Stars too faint to be seen by the
 naked eye, for example, are known to us only through their effects on
 photographic plates, the antennae of radio telescopes and other astronomical
 equipment. I propose to call this kind of epistemic dependency an epistemic
 bottleneck. We shall speak of the objects, like faint stars, which are known
-only indirectly as being on the far side of the relevant bottleneck, and the
-objects through which they are known as being in the relevant bottleneck.
+only indirectly as being on the _far side_ of the relevant bottleneck, and the
+objects through which they are known as being _in_ the relevant bottleneck.
 
-Some empiricists have thought there must be special objects, sometimes dubbed
-"sense-data", that are known of directly and infallibly; and that all the
-other objects we know of, are known only through their effects on these
-sense-data. Quine offered a radically different account of the evidence upon
-which our theories are ultimately based. Rejecting hope of any knowledge more
-certain than scientific theories based upon empirical investigation, he availed
-himself unashamedly of the empirical hypothesis that we receive all our
-information about the world via the firings of our sensory receptors, and took
-[[quines_stimuli|stimuli]] to be the ultimate evidence upon which our all our
-theories are based.  Unlike the sense-data postulated by earlier empiricists,
-these stimuli were not supposed to be known infallibly nor, in general, to be
-referred to (even covertly) in the statements for which they were evidence.
-Indeed, as Quine was at pains to point out, they were not even incorrigible
-evidence --- our stimuli might be good evidence for statements that, on
-reflection, we find to be false.  Still, Quine held our stimuli to be the
-ultimate evidence on which our theories of the world are based, on the grounds
-that they are both an epistemic  bottleneck through which all our information
-about the external world must flow before going on to cause our beliefs, and
-because they are in practice the last clear and public cause of our beliefs.
+Some empiricists (and Kant, [[critique_of_pure_reason#senses an epistemic bottleneck|in his way]]) have thought there must be special
+objects, sometimes dubbed "sense-data", that are known of directly and
+infallibly; and that all the other objects we know of, are known only through
+their effects on these sense-data. Quine offered a radically different account
+of the evidence upon which our theories are ultimately based. Rejecting hope of
+any knowledge more certain than scientific theories based upon empirical
+investigation, he availed himself unashamedly of the empirical hypothesis that
+we receive all our information about the world via the firings of our sensory
+receptors, and took [[quines_stimuli|stimuli]] to be the ultimate evidence upon
+which our all our theories are based.  Unlike the sense-data postulated by
+earlier empiricists, these stimuli were not supposed to be known infallibly nor,
+in general, to be referred to (even covertly) in the statements for which they
+were evidence.  Indeed, as Quine was at pains to point out, they were not even
+incorrigible evidence --- our stimuli might be good evidence for statements
+that, on reflection, we find to be false.  Still, Quine held our stimuli to be
+the ultimate evidence on which our theories of the world are based, on the
+grounds that they are both an epistemic  bottleneck through which all our
+information about the external world must flow before going on to cause our
+beliefs, and because they are in practice the last clear and public cause of our
+beliefs.
 
 If there were some form of ultimate evidence, whether sense-data, stimuli or
 what have you, those objects would be in a epistemic bottleneck of which the far

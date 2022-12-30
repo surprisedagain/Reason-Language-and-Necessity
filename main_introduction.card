@@ -1,24 +1,24 @@
-:start:historical_trail:first_draft:
-= a historical introduction =
+:start:historical_trail:draft0.2:
+= main introduction =
 ====== short ======
 A brief quasi-historical account of the grave and fundamental problems to which
 solutions are ventured in this collection of notes.
 
 = the collapse of traditional accounts of reasoning =
-Once upon a time, long long ago, it was thought to be clear why reasoning led us
-to truth. Our minds contained concepts, and these concepts were either the very
-same as the properties of the objects around us or at least very similar to
-them. (Perhaps in something like the way that an object and its impression in a
-clay tablet are similar.) Maybe these concepts were imprinted in our minds
-through our senses, or maybe they were perfect forms of which physical
-properties were imperfect copies. But in either case there was a consonance
-between our concepts and the properties of the objects around us.  The sensation
-felt when touching a flame was thought to be similar to the heat which causes
-the flame to burn, the weight felt when lifting a stone similar to the weight in
-the stone which caused it to resist being pushed, and the color one seen when
-looking at a white patch of snow similar to the whiteness of the snow.  Because
-of these more or less direct encounters with object's properties we could intuit
-the fundamental general principles governing them. 
+Long ago, it was thought to be clear why reasoning led us to truth. Our minds
+contained concepts, and these concepts were either the very same as the
+properties of the objects around us or at least very similar to them. (Perhaps
+in something like the way that an object and its impression in a clay tablet are
+similar.) Maybe these concepts were imprinted in our minds through our senses,
+or maybe they were perfect forms of which physical properties were imperfect
+copies. But in either case there was a consonance between our concepts and the
+properties of the objects around us.  The sensation felt when touching a flame
+was thought to be similar to the heat which causes the flame to burn, the weight
+felt when lifting a stone similar to the weight in the stone which caused it to
+resist being pushed, and the color one seen when looking at a white patch of
+snow similar to the whiteness of the snow.  Because of these direct encounters
+with object's properties we could intuit the fundamental general principles
+governing them. 
 
 A corollary of this view was the belief that knowledge, at least in its best
 and purest form, is produced by starting with first principles known with
@@ -26,13 +26,13 @@ certainty and deriving consequences from them by deductive methods that are
 absolutely guaranteed to preserve truth. Perhaps only an infinite and
 omniscient intellect such as the christian God's could determine the necessity
 of the arrangement of the objects around us
-(i.e. discern God's ineffable plan)((Leibniz is perhaps the last influential exponent of this claim.)).
-Even limited intellects such as our own, however, could determine which
-combinations of properties were possible or impossible by examining which
-combinations of concepts we could conceive of "clearly and distinctly" (in
-Descartes' famous phrase).  Objects that could not be conceived, such as round
-squares, or triangles whose internal angles did not sum to two right angles,
-were impossible.
+(i.e. discern God's ineffable plan)((Leibniz is perhaps the last influential exponent of this claim.));
+but even limited intellects such as ours could determine which combinations of
+properties were possible or impossible by examining which combinations of
+concepts we could conceive of <q>clearly and distinctly</q> (in
+{[[descartes|Descartes']]} famous phrase).  Objects that could not be conceived,
+such as round squares, or triangles whose internal angles did not sum to two
+right angles, were impossible.
 
 The pre-eminent example of knowledge, according to this view (and hence for most
 of European intellectual history from Aristotle to Hume), was geometry.
@@ -143,26 +143,61 @@ guarantee the truth of the scientific principles they support.
 Another point of difference between scientific laws and Aristotelian first
 principles, is that scientific laws are known with less certainty than the
 particular cases fulfilling them; wheras geometical and arithemetic laws are
-known with greater certainty than the particular cases that they subsume.
+known with greater certainty than the particular cases that they subsume. This
 
 For instance, the observation of litmus paper turning red is more certain than
 the general law that litmus paper turns red when in contact with an acid. By
 contrast, most of us are more certain that addition is symmetric (i.e. that _n_
-+ _m_ = _m_ + _n_) than that 38974298435982 + 87248912374 = 87248912374 +
-38974298735982.
++ _m_ = _m_ + _n_) than that 38974298435982 + 87248912374 = 87248912374 + 38974298735982.
+This lack of certainty might be ascribed to ordinary objects <q>falling
+short</q> of the Platonic forms that they roughly instantiate (see
+[[truths_of_reason_by_chisholm#Geometrical figures exist]]
 
 === not intuitable as a result of observation ===
-Finally, and perhaps most difficult to make sense of from the modern viewpoint
-which views scientific theories rather than geometical theorems as the
-paradigmatic exemplars of knowledge, the fundamental generalizations scientific
-theories
+The final point of difference, which is also the most difficult to make sense of
+from the modern viewpoint, is that scientific laws are not grasped in a flash of
+insight after repeated sensation. After repeated encounters with circles, one
+might in a sudden insight, realise that each is a set of points equidistant from
+a centre. After repeated encounters with lines, one may realise that just one
+line passes through any pair of distinct points. But one does not, after
+repeatedly lifting heavy objects, suddenly realise that the gravitational
+constant is 6.6743 +/- 0.00015 x 10^-11^ Newton square meters per square
+kilogram.
 
-Principles such as maxwell's law are not justified by merely contemplating the .
+== 2nd problem: the content of scientific theories ==
 
-feeling the weight of a range of stones will not make the value of the
-gravitational constant leap to mind
+decisively refute the claim that the traditional account of knowledge is
+compelte; i.e. that _all_ knowledge is justified by derivation from 
+first principles known with certainty etc.
+by the traditional account. 
 
-== 2nd problem ==
+the tradtional epistemology is complete.
+that all knowledge is jsutified (in the way just described)
+is not exhaustvely true
+is not true of all knowledge
+
+The differences just described make it clear that the traditional account of
+knowledge
+
+and hence that
+
+is not adequate to explaining the justification for our knowledge of
+scientific theories and principles. That, of course, does not imply that we do
+not have such knowledge but merely that the old account was, at best partial.
+That there are some types, or at least some instances of knowledge for which it
+did not account.
+
+If, as many interpreters of Descartes
+
+This inadequacy of the old account It is still , does not account for our
+knoland in particualr the justification of that knowledge
+
+Hile the differences just considered show that the ancient/traditional account
+is aprtial, they do not reclude there being some form of knowledge of which that
+ancient account is trure. Thye ancient account of how our knowledge is justified
+is not true of our knolwedge of scientific principles, but it might yet be true
+of
+
 While the differences just outlined, make it abundantly clear that scientific
 laws are neither necessarily true first principles nor deduced from such
 principles, our knowledge of scientific principles does not preclude that
@@ -200,7 +235,7 @@ For if the existence of a beneficent God could be proven, then
 God would not be so deceitful as to place in our minds principles which
 perfectly predicted our observations but were yet false. In this way he hoped to
 show that scientific laws were deducible from first principles (most importantly
-among them being his [[cogito ergo sum]]. The widespread 
+among them being his [[cogito_ergo_sum]]. The widespread 
 -?????
 
 
@@ -305,6 +340,12 @@ conclusion.
 
 
 == social effects of the collapse ==
+
+It is a commonplace of obsessives that they see their own particualr bete noire
+at the root of evils of all types (see Russells nutter :todo: find ref fiction
+work?), but lack of broadly accepted standards of reasoning appears to have a
+delthose periods where there was a broadly shared consensus about the
+fundamental principles upon which reasoning is based app
 
 ???? later section
 addendum:

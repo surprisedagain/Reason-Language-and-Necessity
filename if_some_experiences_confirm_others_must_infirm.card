@@ -1,7 +1,7 @@
-:principle:draft0.0:
+:principle:draft0.2:
 = if some experiences confirm others must infirm =
 ====== short ======
-An experience/observation confirms a theory only if there are other experiences
+An experience/observation can confirm a theory only if there are other experiences
 that would infirm that theory.
 
 The exact relationship between the degrees of confirmation is governed by
@@ -11,12 +11,9 @@ The exact relationship between the degrees of confirmation is governed by
 Consider an ordinary case - one looks out the window, sees droplets of some
 liquid falling on the ground against an overcast sky, and forms the
 (_a posteriori_) justified belief that it is raining. This justification relies
-upon the fact that there are other experiences/observations one could have made
+upon the fact that there are other experiences/observations one could have hade
 that would _infirm_ the claim that it is raining, such as seeing a bright blue
 sky with no clouds and the sun shining.
-====== test ======
-====== other test ======
-some text
 
 If, by contrast, the different observations one could have made by looking out
 the window, seeing falling droplets, seeing heavy mist, seeing a blue sky,
@@ -56,7 +53,7 @@ definitional truths.
 
 The matter is also expressible in terms of conditional probabilities. It is
 connected with Bayes' theorem, and is a consequence of the
-[[https://en.wikipedia.org/wiki/Law_of_total_probability|Law of Total Probability<sup>ext</sup>]].
+[[https://en.wikipedia.org/wiki/Law_of_total_probability|Law of Total Probability]].
 
 In the case of necessary truths however, no observation can exclude any
 possible worlds in which a necessary truth is false (since there are none) and

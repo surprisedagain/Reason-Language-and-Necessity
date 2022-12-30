@@ -8,32 +8,39 @@
 <style setby="vwformat">
 	a[href^="index.html#"]{background-color: transparent; font-family: "Garamond", "EB Garamond", "Times New Roman", "serif"; color: black; font-size: initial; padding: 0px; text-decoration: underline; font-weight: 400;}
 </style>
+<script>
+	async src="https://api.countapi.xyz/hit/surprisedagain.github.io/:PATHNAME:?callback=counterCallback"
+	function counterCallback(response) {
+		document.getElementById("counter").innerText = response.value;
+	}
+</script>
 </head>
 <body>
 
-<div id="Entry Points"><h1 id="Entry Points" class="header"><a href="#Entry Points">Entry Points</a></h1></div>
+<div id="starting points"><h1 id="starting points" class="header"><a href="#starting points">starting points</a></h1></div>
 <p>
-<a href="an_introduction.html">an_introduction.card</a>
+<a href="main_introduction.html">main_introduction</a>
 </p>
-
 
 <div id="trails"><h1 id="trails" class="header"><a href="#trails">trails</a></h1></div>
 <p>
-semantic_holism_trail starts at <a class="clearcard" href="trials_and_tribulations_of_being_a_semantic_holist.html">trials_and_tribulations_of_being_a_semantic_holist</a>
-quine_errors_trail starts at !!observation_sentences!!
+<a href="historical_trail.html">historical_trail</a>
+<a href="semantic_holism_trail.html">semantic_holism_trail</a>
+<a href="quines_errors_trail.html">quines_errors_trail</a>
 </p>
 
 <div id="main theses"><h1 id="main theses" class="header"><a href="#main theses">main theses</a></h1></div>
 <p>
-<a class="clearcard" href="semantic_holism.html">semantic_holism</a>
-<a class="clearcard" href="no_analytic_synthetic_distinction.html">no_analytic_synthetic_distinction</a>
-<a class="clearcard" href="objects_of_belief.html">objects_of_belief</a>
+<a href="semantic_holism.html">semantic_holism</a>
+<a href="no_analytic_synthetic_distinction.html">no_analytic_synthetic_distinction</a>
+<a href="objects_of_belief.html">objects_of_belief</a>
 </p>
 
 <div id="indexes"><h1 id="indexes" class="header"><a href="#indexes">indexes</a></h1></div>
 <p>
-<a class="clearcard" href="tag_index.html">tag_index</a>
+<a href="tag_index.html">tag_index</a>
 </p>
 
+<span id="counter"></span>
 </body>
 </html>

@@ -8,11 +8,17 @@
 <style setby="vwformat">
 	a[href^="historical_trail.html#"]{background-color: transparent; font-family: "Garamond", "EB Garamond", "Times New Roman", "serif"; color: black; font-size: initial; padding: 0px; text-decoration: underline; font-weight: 400;}
 </style>
+<script>
+	async src="https://api.countapi.xyz/hit/surprisedagain.github.io/:PATHNAME:?callback=counterCallback"
+	function counterCallback(response) {
+		document.getElementById("counter").innerText = response.value;
+	}
+</script>
 </head>
 <body>
 
 <p>
-<span id="-trail"></span><span class="tag" id="trail">trail</span> <span id="-historical_trail"></span><span class="tag" id="historical_trail">historical_trail</span>
+<span id="-historical_trail"></span><span class="tag" id="historical_trail">historical_trail</span>
 </p>
 <div id="historical trail"><h1 id="historical trail" class="header"><a href="#historical trail">historical trail</a></h1></div>
 <div id="historical trail-short"><h6 id="short" class="header"><a href="#historical trail-short">short</a></h6></div>
@@ -73,5 +79,6 @@ the sense that one cannot be mistaken
 
 </ol>
 
+<span id="counter"></span>
 </body>
 </html>

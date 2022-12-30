@@ -1,41 +1,45 @@
-= trails =
+= todo trails =
 [[historical_trail]]
-[[semantic_holism]]
+[[semantic_holism_trail]]
+[[quines_errors_trail]]
 
+= todo =
+[[main_introduction]]<br>
+[[explanation_of_first_principles_flawed]]<br>
+[[truths_of_reason_by_chisholm]]<br>
+[[cogito_ergo_sum]] - historical trail<br>
+[[computational_complexity_for_philosophers]]<br>
+[[introspection_not_admissible_evidence]]<br>
+[[trials_and_tribulations_of_being_a_semantic_holist]]<br>
+[[were_right_theyre_wrong]]<br>
+[[deflationary_truth]]<br>
+[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]<br>
+[[epistemic_triangle_of_language_learning]]<br>
+[[tractatus]]<br>
+[[philosophers_dogmatism]]<br>
+[[inconceivability_guide_to_impossibility]]<br>
+[[descartes]]<br>
+[[wittgenstein]]<br>
 
-= under Construction =
-[[explanation_of_first_principles_flawed]]
-[[truths_of_reason_by_chisholm]]
-[[an_introduction.card]]
-[[introspection_not_admissible evidence]]
-[[if_one_experience_confirms_another_must_infirm]]
-[[trials_and_tribulations_of_being_a_semantic_holist]]
-[[were_right_theyre_wrong]]
-[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-[[epistemic_triangle_of_language_learning]]
-[[tractatus]]
-[[philosophers_dogmatism]]
-[[wittgenstein]]
-[[inconceivability_guide_to_impossibility]]
-[[descartes]]
-[[problem_of_treating_belief_as_binary]]
+= not finished but not todo =
+[[critique_of_pure_reason]]
 
 = unconnected =
 [[theories_as_suits_of_armour]]
 
 = unwritten =
-quines_stimuli - quines errors trail
+[[quines_stimuli]] - quines errors trail
 [[observation_sentences]] - quines errors trail
-[[quines_behaviourism]]
-[[cogito_ergo_sum]]
+[[quines_behaviourism]] - quines errors trail
 [[descartes_on_conceivability_and_possibility]]
 [[internal_account_modality]]
 [[mental_states]]
-[[necessary_truth]]
+[[necessary_truth]] ?? is this a card all by itself ??
 [[philosophical_investigations]]
 [[quine's_account_of_logical_truth]]
 [[representation]]
 [[what_is_a_theory]]
+[[problem_of_treating_belief_as_binary]]
 [[wittgenstein_grammar_vs_grammar]]
 
 
@@ -47,7 +51,6 @@ quines_stimuli - quines errors trail
 {{image to show in page.png}}
 
 == lists ==
- 
 1. 
 	* gl* gl- gli glI gl1 gla glA : create/set the type of item bullet used
 	* gll indent more ->
@@ -61,13 +64,11 @@ quines_stimuli - quines errors trail
 
 == tags ==
 :demotag:
-:T <tagname>	# opens locationlist with matching tags
+see [[tag_index]] for list of tags
+:T <tagname>    # opens locationlist with matching tags
+also
+:S <term>       # opens locationlist with matching terms
 !grep -ho ':\w*:' * | sort | uniq	# list all tags
-:VimwikiRebuildTags  # makes everything else work
-:VimwikiGenerateTagLinks [<TAG>]
-see [[tag_index]] for further information
-
-
 
 == typefaces ==
 *bold text*
@@ -77,6 +78,7 @@ _*bold italic text*_
 ~~strikeout text~~
 ((tooltip text))
 [:aside text:]
+{[[light link]]}
 `code (no syntax) text`
 {{{python
 if x == y:
@@ -84,103 +86,3 @@ if x == y:
 }}}
 super^script^
 sub,,script,,
-
-= Generated Tags =
-== ancient ==
-    - [[meno]]
-
-== annoyance ==
-    - [[trials_and_tribulations_of_being_a_semantic_holist#Why to be is to be the value of a variable]]
-
-== article ==
-    - [[truths_of_reason_by_chisholm]]
-    - [[were_right_theyre_wrong]]
-
-== book ==
-    - [[tractatus]]
-
-== credence ==
-    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-
-== demotag ==
-    - [[01#quick markdown guide#tags]]
-
-== doctrine ==
-    - [[semantic_holism]]
-    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-    - [[verificationism]]
-
-== empiricism ==
-    - [[verificationism]]
-
-== enlightenment ==
-    - [[descartes]]
-
-== historical ==
-    - [[before_times]]
-
-== holism ==
-    - [[semantic_holism]]
-    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-
-== holismTrail ==
-    - [[trials_and_tribulations_of_being_a_semantic_holist]]
-
-== index ==
-    - [[tag_index]]
-
-== intuition_of_analyticity ==
-    - [[philosophers_dogmatism]]
-
-== modality ==
-    - [[inconceivability_guide_to_impossibility]]
-    - [[tractatus#theses#modal isomorphism]]
-    - [[truths_of_reason_by_chisholm#theses#modal isomorphism]]
-
-== notPhilosophy ==
-    - [[overvalues_innovation_and_undervalues_maintenance]]
-
-== passing_thought ==
-    - [[back_of_my_head]]
-    - [[theories_as_suits_of_armour]]
-
-== person ==
-    - [[descartes]]
-    - [[huw_price]]
-    - [[wittgenstein]]
-
-== platonic_dialogue ==
-    - [[meno]]
-
-== principle ==
-    - [[epistemic_triangle_of_language_learning]]
-
-== quines_errors_trail ==
-    - [[observation_sentences]]
-
-== reasoning ==
-    - [[meno]]
-
-== representation ==
-    - [[tractatus#theses#modal isomorphism]]
-    - [[truths_of_reason_by_chisholm#theses#modal isomorphism]]
-
-== roughNotes ==
-    - [[were_right_theyre_wrong#roughNotes]]
-
-== sociology ==
-    - [[overvalues_innovation_and_undervalues_maintenance]]
-
-== start ==
-    - [[observation_sentences]]
-    - [[an_introduction.card]]
-    - [[trials_and_tribulations_of_being_a_semantic_holist]]
-
-== text ==
-    - [[meno]]
-    - [[tractatus]]
-    - [[truths_of_reason_by_chisholm]]
-    - [[were_right_theyre_wrong]]
-
-== unresolved ==
-    - [[problem_with_treating_belief_as_binary#unresolved]]

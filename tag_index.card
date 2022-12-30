@@ -1,18 +1,18 @@
 :index:
 = short =
-Index of all the tags in this belief web
+Index of all the tags in this cardbox
 
-to refresh use the following commands (<CTRL>r<CTRL>w is your friend)
-:VimwikiRebuildTags					# makes everything else work
-:VimwikiGenerateTagLinks [<TAG>]	# by default build the list below
-
-also recall :T <TAG> will produce a locationlist of <TAG> instances
-
-
+%% = usage =
+%% to refresh use the following commands (<CTRL>r<CTRL>w is your friend)
+%% :VimwikiRebuildTags					# makes everything else work
+%% :VimwikiGenerateTagLinks [<TAG>]	# by default build the list below
+%% 
+%% also recall :T <TAG> will produce a locationlist of <TAG> instances
 
 = Generated Tags =
 == ancient ==
     - [[meno]]
+    - [[plato]]
 
 == annoyance ==
     - [[trials_and_tribulations_of_being_a_semantic_holist#Why to be is to be the value of a variable]]
@@ -22,18 +22,30 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
     - [[were_right_theyre_wrong]]
 
 == book ==
+    - [[critique_of_pure_reason]]
     - [[tractatus]]
 
-== credence ==
-    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+== draft0.0 ==
+    - [[cogito_ergo_sum]]
+    - [[computational_complexity_for_philosophers]]
+    - [[critique_of_pure_reason]]
 
-== demotag ==
-    - [[01#quick markdown guide#tags]]
-
-== doctrine ==
-    - [[semantic_holism]]
+== draft0.1 ==
+    - [[deflationary_truth]]
+    - [[epistemic_triangle_of_language_learning]]
+    - [[introspection_not_admissible_evidence]]
+    - [[plato]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[were_right_theyre_wrong]]
+    - [[wittgenstein]]
+
+== draft0.2 ==
+    - [[main_introduction]]
+    - [[if_some_experiences_confirm_others_must_infirm]]
     - [[verificationism]]
+
+== draft1.0 ==
+    - [[theories_as_suits_of_armour]]
 
 == empiricism ==
     - [[verificationism]]
@@ -42,19 +54,22 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
     - [[cogito_ergo_sum]]
     - [[descartes]]
 
-== first_draft ==
-    - [[back_of_my_head]]
-    - [[an_introduction.card]]
-
 == historical ==
-    - [[cogito_ergo_sum]]
     - [[before_times]]
+    - [[cogito_ergo_sum]]
+
+== historical_trail ==
+    - [[main_introduction]]
+    - [[historical_trail]]
+    - [[meno]]
+    - [[plato]]
 
 == holism ==
     - [[semantic_holism]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == holism_trail ==
+    - [[evidence]]
     - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == index ==
@@ -66,6 +81,9 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 == intuition_of_analyticity_trail ==
     - [[features_of_supposed_analytic_truths]]
 
+== justification ==
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+
 == modality ==
     - [[inconceivability_guide_to_impossibility]]
     - [[tractatus#theses#modal isomorphism]]
@@ -74,27 +92,25 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == passing_thought ==
-    - [[back_of_my_head]]
     - [[theories_as_suits_of_armour]]
 
 == person ==
     - [[descartes]]
     - [[huw_price]]
+    - [[plato]]
     - [[wittgenstein]]
-
-== platonic_dialogue ==
-    - [[meno]]
 
 == principle ==
     - [[epistemic_triangle_of_language_learning]]
     - [[if_some_experiences_confirm_others_must_infirm]]
     - [[introspection_not_admissible_evidence]]
+    - [[semantic_holism]]
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[verificationism]]
 
 == quines_errors_trail ==
     - [[observation_sentences]]
-
-== reasoning ==
-    - [[meno]]
+    - [[quines_errors_trail]]
 
 == representation ==
     - [[tractatus#theses#modal isomorphism]]
@@ -105,26 +121,32 @@ also recall :T <TAG> will produce a locationlist of <TAG> instances
 == roughNotes ==
     - [[were_right_theyre_wrong#roughNotes]]
 
-== rough_draft ==
-    - [[cogito_ergo_sum]]
-    - [[epistemic_triangle_of_language_learning]]
-    - [[if_some_experiences_confirm_others_must_infirm]]
-    - [[introspection_not_admissible_evidence]]
-    - [[wittgenstein]]
+== semantic_holism_trail ==
+    - [[semantic_holism_trail]]
 
 == sociology ==
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == start ==
+    - [[main_introduction]]
+    - [[evidence]]
     - [[observation_sentences]]
-    - [[an_introduction.card]]
     - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == text ==
+    - [[critique_of_pure_reason]]
     - [[meno]]
     - [[tractatus]]
     - [[truths_of_reason_by_chisholm]]
     - [[were_right_theyre_wrong]]
+
+== traditional_epistemology ==
+    - [[explanation_of_first_principles_flawed]]
+
+== trail ==
+    - [[historical_trail]]
+    - [[quines_errors_trail]]
+    - [[semantic_holism_trail]]
 
 == under-determination ==
     - [[cogito_ergo_sum]]

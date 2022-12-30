@@ -1,0 +1,66 @@
+:book:text:draft0.1:
+= critique of pure reason =
+=== short ===
+by Kant published 1781/87
+Norman Kemp Smith translation (1929)
+
+= initial notes =
+=== the role of logic ===
+    (Bviii) It is remarkable also that to the present day this logic has not
+    been able to advance a single step, and is thus to all appearance a closed
+    and completed body of doctrine.
+Of course this turns out to be wrong, the developments of Frege to bring logic
+up to the level of complexity required to capture recursively enumerable sets of
+sentences as theorems is still 100 years off. But more importantly Kant offers
+to explain this completeness as due to logic being <q>quite precisely delimited;
+its sole concern is to give an exhaustive exposition and a strict proof of the
+formal rules of all thought, whether it be _a priori_ or empirical</q>.
+
+One wonders what Kant menas by <q>formal</q>, surely not the modern view of
+rules specified purely in terms of the shapes and sequences of symbols without
+reliance unpon their meanings. <q>Strict proof</q> is also somewhat unclear, or
+at least foreign to modern logic - how might one _prove_ an axiom of logic,
+or offer it any greater cfeedence than it already has? (inference to best
+explanation, or because of the fruitfulness of its consequences is urely not
+what Kant has in mind.)
+
+One hopes that we have a sense of the structure of a thought/judgement. i.e.
+that logical laws are those that remain valid when a concept is consisten tly
+replaced with another. (wheras there are other non-logical laws which depent
+upon the content/nature of the concepts in particualr places. If so then it will
+turn out that logical truths are not analytical (unless the notion of
+containment is a containment of loigcal structure).
+
+see [[computational_complexity_for_philosophers]] and [[why_posit_objects]]
+
+=== causal necessity not distinguished from absolute ===
+    (Bxiii) Accidental observations, made in obedience to no previously
+    thought-out plan, can never be made to yield a necessary law, which alone
+    reason is concerned to discover.
+
+Here we have the ancient refusal to distinguish between causal(/nomological)
+necessity and conceptual(/analytic/logical) necessity.
+
+=== philosophers dogmatism ===
+:todo: link phil dog with Bxv - battleground for those who wish to engage in
+mock combat in which not an inch of territory has been gained
+
+=== first hint of copernican revolution ===
+:todo: Bxvi
+this is the first mention. In what sense is this like the two previous
+revolutions in maths and science? ah in both we follow what conforms to whta we
+put into the figure/experiment
+
+=== senses are an epistemic bottleneck ===
+    (A293) It is correctly said that the senses do not err; yet not because they
+    always judge correctly, but because they do not judge at all
+This is the first of the two criteria for an [[evidence#epistemic_bottlenecks|epistemic bottleneck]]
+:todo: With the further claim that we only know of the world via
+<q>sensibility</q> we would have the second requirement. yes - (Bxvii) <q>the
+_experience_ in which alone, as given objects, they can be known</q>
+
+= theses =
+note for later - causality and geometrical space were a projection of our minds
+upon the external world. But they were not unchangeable projections.
+
+== other related cards ==
