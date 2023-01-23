@@ -28,7 +28,7 @@ omniscient intellect such as the christian God's could determine the necessity
 of the arrangement of the objects around us
 (i.e. discern God's ineffable plan)((Leibniz is perhaps the last influential exponent of this claim.));
 but even limited intellects such as ours could determine which combinations of
-properties were possible or impossible by examining which combinations of
+properties were possible or impossible by examining which combinations of<br>
 concepts we could conceive of <q>clearly and distinctly</q> (in
 {[[descartes|Descartes']]} famous phrase).  Objects that could not be conceived,
 such as round squares, or triangles whose internal angles did not sum to two
@@ -143,15 +143,27 @@ guarantee the truth of the scientific principles they support.
 Another point of difference between scientific laws and Aristotelian first
 principles, is that scientific laws are known with less certainty than the
 particular cases fulfilling them; wheras geometical and arithemetic laws are
-known with greater certainty than the particular cases that they subsume. This
+known with greater certainty than the particular cases that they subsume.
 
-For instance, the observation of litmus paper turning red is more certain than
-the general law that litmus paper turns red when in contact with an acid. By
-contrast, most of us are more certain that addition is symmetric (i.e. that _n_
-+ _m_ = _m_ + _n_) than that 38974298435982 + 87248912374 = 87248912374 + 38974298735982.
-This lack of certainty might be ascribed to ordinary objects <q>falling
-short</q> of the Platonic forms that they roughly instantiate (see
-[[truths_of_reason_by_chisholm#Geometrical figures exist]]
+Most of us, for instance, are more certain that addition is symmetric
+(i.e. that for all numbers _n_ and _m_, _n_ + _m_ = _m_ + _n_) than that
+38974298435982 + 87248912374 = 87248912374 + 38974298435982. A modern view may
+ascribe this uncertainty to the difficulty of determining whether the
+particular case presented falls under the general rule (i.e.  whether, among
+other things, the last number in the equation just given is the same as the
+first). Plato, however, relied upon a looser and more complex relationship
+between ordinary objects and the forms than instantiation _simpliciter_; holding
+that ordinary objects <q>fall short</q> of the perfect forms that they
+instantiate only imperfectly (see [[truths_of_reason_by_chisholm#Geometrical
+figures exist]]). This shortcoming means that ordinary sensible objects may not
+perfectly fulfill the laws obtaining between the forms they imperfectly
+instantiate. In either case the general law is more certain that 
+
+By contrast, scientific generalisations, even mundane ones such as <q>Blue
+litmus paper turns red when immersed in acid</q> are known with less certainty
+than particular observations of their instances.  Indeed on the modern view any
+such generalization must be less certain than any of its instances since the
+falsehood of any of instance woul
 
 === not intuitable as a result of observation ===
 The final point of difference, which is also the most difficult to make sense of
@@ -165,14 +177,74 @@ constant is 6.6743 +/- 0.00015 x 10^-11^ Newton square meters per square
 kilogram.
 
 == 2nd problem: the content of scientific theories ==
+Such is the tenacity and strength of traditional view's hold on modern minds,
+that dawning awareness that the traditional view is not true of our knowledge of
+scientific theories is apt to manifest itself as scepticism:
+
+So it was for {[[descartes|Descartes]]}, whose attempt to place our knowledge of
+scientific theories on the same solid, deductive, foundations as geometry and
+mathematics was at first derided as ridiculous, and then largely ignored as
+second rate. While the initial problem motivating his attempt (viz.,
+that our theories of the external world could not be deduced from observations
+and necessary first principles - see [[cogito]]) not only became known as
+<q>Cartesian scepticism</q> but became the chief motivating problem of modern
+philosophy (or, in Kant's famous words, <q>the scandal of philosopy</q>).
+
+So it remains for many philosophy students today, who often leave their
+encounter with Cartesian scepticism in a first year philosophy course, convinced
+that the take home message of philosophy is that no-one _really_ knows anything
+except their own experiences (to which they have direct access) and perhaps
+some mathematical theorems (i.e. claims of which the traditional account of
+knowledsge remains at least superficially plausible).
+
+Nor is this insistance upon rejecting all claims of knowledge that are not
+justified by the lights of the traditional view limited to innovators and
+beginners, it is the core of Russell's((p.201 Theory of knowledge, via _The basic writings of Bertrand Russell_, Routledge classics 2009))
+complaint that <q>. . . when people begin to philosophize they seem to think it
+necessary to make themselves artificially stupid.</q> (i.e. to reject all
+knowledge claims apart from those that can de deduced from one's own
+observations and perhaps axioms of mathematics which may be viewed as
+definitional.)
+
+This is not the view taken in this work, for
+
+In any case
+
+
+two sorts of knowledge
+
+In any case the
+
+
+
+
+In any case the make it clear that our knowledge of scientific claims is not
+justified in the way prescribed by the traditional account of knowledge. This
+does not ??guarantee that the old account was false merely incomplete??
+
+
+
+It is a mark of the continued grip of the traditional account
+h
+The differences just described make it clear that our knowledge of scientific
+principles is not justified in the way prescibed in traditional accounts of
+knowledge. This led some to deny that we know such principles at all (and to
+misattribute this 
+The failure of our knowledge of scientific principles to fulfill the
+requirements of ancient epistemology has led some to skepticism (and to
+mis-attribute that skepticism to Descartes - see [[cogito]]). To deny that we
+have knowledge of sceintific principles at all (and to mi
+
+
+The features of scientific principles just described 
 
 decisively refute the claim that the traditional account of knowledge is
-compelte; i.e. that _all_ knowledge is justified by derivation from 
+complete; i.e. that _all_ knowledge is justified by derivation from 
 first principles known with certainty etc.
 by the traditional account. 
 
-the tradtional epistemology is complete.
-that all knowledge is jsutified (in the way just described)
+the traditional epistemology is incomplete.
+that not all knowledge is jsutified (in the way just described)
 is not exhaustvely true
 is not true of all knowledge
 

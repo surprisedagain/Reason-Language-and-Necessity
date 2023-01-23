@@ -7,7 +7,7 @@
 [[main_introduction]]<br>
 [[explanation_of_first_principles_flawed]]<br>
 [[truths_of_reason_by_chisholm]]<br>
-[[cogito_ergo_sum]] - historical trail<br>
+[[cogito]] - historical trail<br>
 [[computational_complexity_for_philosophers]]<br>
 [[introspection_not_admissible_evidence]]<br>
 [[trials_and_tribulations_of_being_a_semantic_holist]]<br>
@@ -46,9 +46,10 @@
 = quick markdown guide =
 == links ==
 [[linkname|different text from link]]
-[[file:~/Desktop/Fine_Essence-Modality.pdf]]
-[[cardname#anchor]] anchors are headings or even bold text
-{{image to show in page.png}}
+{[[light link]]}
+file link: [[local:~/Desktop/Fine_Essence-Modality.pdf]]<br>
+[[cardname#anchor]] anchors are headings or even bold text<br>
+{{embed image in page.png}}<br>
 
 == lists ==
 1. 
@@ -78,7 +79,6 @@ _*bold italic text*_
 ~~strikeout text~~
 ((tooltip text))
 [:aside text:]
-{[[light link]]}
 `code (no syntax) text`
 {{{python
 if x == y:

@@ -1,18 +1,37 @@
 :person:ancient:historical_trail:draft0.1:
 = plato =
 ====== short ======
-Πλάτων ~ 425 BC to 347 BC
-Founder of the academy (c. 387 BC)
+Πλάτων ~425 BC to 347 BC<br>
+Founder of the academy (c. 387 BC)<br>
 
 Plato is the middle member of the triumvirate of greek philosophers whose
-differences became the main topics of dispute in European and Arabic
+differences became the central topics of dispute in European and Arabic
 non-religious philosophy for the next 2000 years.
 
 Plato's dialogues are almost the only source of our knowledge of Socrates and
-distinguishing between Plato's and Socrates' beliefs is a matter of debate among
-historians of philosophy.
+distinguishing between Plato's and Socrates' beliefs is a matter of 
+debate among historians of philosophy.
 
-= main =
+= theses =
+=== Plato's epistemology ===
+Plato makes two claims about knowledge that are wildly at odds with current
+views. The first is that all knowledge is _a priori_, and the second is that all
+knowledge is recalled from previous lives.
+
+For either of these views to be remotely plausible there must be a strong
+restriction on what counts as knowledge. For instance it is not remotely
+plausible that my knwoeldge that there is a green pair of scissors on my desk at
+the moment (when I write this) is a recollection from a previous life. The only
+plausible way to exclude this, apart from outright scepticism, is to maintain
+that such knowledge is somehow second rate, not <q>genuine</q> or somehow
+beneath consideration.
+
+We do find support for such a distinction in both greek thought in general, with
+its emphasis on the eternal and unchanging as the only reali, in the earlier
+platonic dialogues.
+== Theory of recollection ==
+For our purposes, the most important of Plato's theories, is his 
+
 === senses do not give rise to knowledge (of worthy matters) ===
 Plato treated knowledge gained through the senses with uniform
 disdain. Not only was information provided by the senses suspect, but it was
@@ -59,6 +78,7 @@ forms.  So it is that even though Plato distinguishes philosophy by its subject
 matter --- the forms --- rather than its methods, the close connection between
 philosophy and reasoning is established as it is knowledge of the forms that
 enables us to reason at all.
+
 
 :todo:
 recollection a radically implausible doctrine.

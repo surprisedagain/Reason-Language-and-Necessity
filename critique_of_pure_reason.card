@@ -4,19 +4,53 @@
 by Kant published 1781/87
 Norman Kemp Smith translation (1929)
 
-= initial notes =
-=== the role of logic ===
+= on the introduction =
+=== Three revolutions ===
+What do the supposed <q>revolutions</q> in geometry, physics/science and
+<q>metaphysics</q> have in common?
+
+Geometry:<br>
+    (p.Bxii) The true method [of geometry], so he found, was not to inspect what
+    he discovered either in the figure, or in the bare concept of it, and from
+    this, as it were, to red of its properties; but to bring out wehat was
+    necessarily implied in the concepts he himself had formed _a priori_ and had
+    put into the figure in thw construction by which he presented it to himself.
+    . . . what necessarily follows from what he has himslef set into it in
+    accordance with his concept.
+This supposed resemblance between the (newly proposed correct method of)
+metaphysics and geometry is the least strained.  Here Kant is hining at
+the felt defectiveness of Euclid's Elements  to the
+Euclid's elements (in a handful of key points) upon 
+
+
+Science: (the most tenuous of the three)<br>
+    They learned that reason has insight only into that which it produces after
+    a plan of its own, and that it must not allow itself to be kept as it were
+    in natures leading-strings, but must itself show the way with principles of
+    judgement based upon fixed laws, constraining nature to give answer
+    questions of reason's own determining.  Accidental observations made in
+    obedience to no previously thought out plan can neer be made to yield a
+    necessary law  which alone reason is concerned to discover.
+    
+metaphysics:<br>
+
+
+=== division between logic and metaphysics ===
+It is well known that Kant's opinions about the prospect of further developments
+in logic was completely wrong
     (Bviii) It is remarkable also that to the present day this logic has not
     been able to advance a single step, and is thus to all appearance a closed
     and completed body of doctrine.
-Of course this turns out to be wrong, the developments of Frege to bring logic
+The developments of Frege to bring logic
 up to the level of complexity required to capture recursively enumerable sets of
-sentences as theorems is still 100 years off. But more importantly Kant offers
-to explain this completeness as due to logic being <q>quite precisely delimited;
-its sole concern is to give an exhaustive exposition and a strict proof of the
-formal rules of all thought, whether it be _a priori_ or empirical</q>.
+sentences as theorems is still 100 years off.
 
-One wonders what Kant menas by <q>formal</q>, surely not the modern view of
+But more importantly Kant offers to explain this completeness as due to logic
+being <q>quite precisely delimited; its sole concern is to give an exhaustive
+exposition and a strict proof of the formal rules of all thought, whether it be
+_a priori_ or empirical</q>.
+
+One wonders what Kant means by <q>formal</q>, surely not the modern view of
 rules specified purely in terms of the shapes and sequences of symbols without
 reliance unpon their meanings. <q>Strict proof</q> is also somewhat unclear, or
 at least foreign to modern logic - how might one _prove_ an axiom of logic,
@@ -24,13 +58,37 @@ or offer it any greater cfeedence than it already has? (inference to best
 explanation, or because of the fruitfulness of its consequences is urely not
 what Kant has in mind.)
 
+metaphysical claims one must suppose, are by contrats those in which the
+validity of the reasoning, the necessit of th depewnds upon rthe content
+content (i.e. the actual pridicate occupying a place ) contrub, 
 One hopes that we have a sense of the structure of a thought/judgement. i.e.
 that logical laws are those that remain valid when a concept is consisten tly
 replaced with another. (wheras there are other non-logical laws which depent
 upon the content/nature of the concepts in particualr places. If so then it will
 turn out that logical truths are not analytical (unless the notion of
-containment is a containment of loigcal structure).
+containment is a containment of ligcal structure).
 
+=== hint of argument against idealism ===
+Kant repeatedly displays his awareness of the threat of self-contradiction in
+asserting that we positively know of the existence of objects about which we can
+know nothing.
+
+Why posit noumena? We need a positive reasom. In the introcudtion the closest we
+come is
+    (Bxxvi) But our further contention must be duly borne in mind namely that
+    though we cannot _know_ these objects as things themselves we must yet be in
+    position at least _think_ them as things in themselves; otherwise we should
+    be landed in the absurd conclusion they can be appearance without anything
+    that appears.
+
+This first hint, at least, is not particularly promising, seemign to hinge as it
+does on a more or less definitional stop. If these things we experience are not
+appearances (and hence have some external/noumenal obejects that they are
+appearances of) then let us call them something else. The question then simply
+becomes what reason do we have for thinking that our ewxperienfes are
+appearances, and to this, as yet, Kant has ventured no answer
+
+= initial notes =
 see [[computational_complexity_for_philosophers]] and [[why_posit_objects]]
 
 === causal necessity not distinguished from absolute ===
