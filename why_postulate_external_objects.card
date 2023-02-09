@@ -1,0 +1,43 @@
+:draft0.0:
+= why postulate external objects =
+====== short ======
+
+= main =
+let me try this run-up: Rhetorical question 1) Why do we need to posit external
+objects at all - (physical) chairs, tables, electrons, notebooks and messenger
+bags?
+
+Answer: because of the complexity (in quite a well defined computational sense)
+of our observations. It is not that we could not "explain" our observations
+without such posits, but that we could not even describe the patterns of
+observations that we are expect (i.e. that are compatible with our current
+theory of the world) without postulating objects.
+
+This is connected with Quine's "to be is to be the value of a variable" and his
+mild obsession with quantification.  Propositional calculus (i.e. truth
+functional logic) is at the lower order of complexity that logicians describe as
+having a "decision procedure". Computer scientists describe such collections as
+being "recursively decidable". Quantificational calculus (in which _objects_ are
+posited) is at the level logicians describe as having a "proof procedure". [and
+computer scientists describe such collections as being "recursively
+enumerable".]
+
+Frege's breakthrough of quantification raised formal logical systems to the
+level of complexity required for mathematics (the level of proof procedures).
+WHat is it to postulate an object? To include it among the values of variables
+that your quantifiers range over (or for asuch inclusion to be required inorder
+to make the sentnces of you theory true.)
+
+To put it in terms of my fallback computer analogy - a computer programmer
+*cannot* describe the patterns of input-output that their program is disposed to
+produce *without describing the inner machinations of their program* (i.e. the
+objects inside the program/machine).
+
+This may very likely appear irrelvant to you - that is fine - but do you have
+some sense of why I am claiming that the postulation of external objects is
+required by the complexity of our expectations of future observation? Agreement
+is not required, but I need to establish some minimal level of clarity of this
+claim before I can move on.
+
+= other related cards =
+

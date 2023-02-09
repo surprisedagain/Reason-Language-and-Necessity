@@ -2,7 +2,7 @@
 = main introduction =
 ====== short ======
 A brief quasi-historical account of the grave and fundamental problems to which
-solutions are ventured in this collection of notes.
+solutions are ventured in this treatise.
 
 = the collapse of traditional accounts of reasoning =
 Long ago, it was thought to be clear why reasoning led us to truth. Our minds
@@ -15,10 +15,10 @@ copies. But in either case there was a consonance between our concepts and the
 properties of the objects around us.  The sensation felt when touching a flame
 was thought to be similar to the heat which causes the flame to burn, the weight
 felt when lifting a stone similar to the weight in the stone which caused it to
-resist being pushed, and the color one seen when looking at a white patch of
-snow similar to the whiteness of the snow.  Because of these direct encounters
-with object's properties we could intuit the fundamental general principles
-governing them. 
+resist being pushed, and the color seen when looking at a white patch of snow
+similar to the whiteness of the snow.  Because of these direct encounters with
+object's properties we could intuit the fundamental general principles governing
+them. 
 
 A corollary of this view was the belief that knowledge, at least in its best
 and purest form, is produced by starting with first principles known with
@@ -67,61 +67,62 @@ for the traditional accounts of knowledge and reasoning.
 
 == 1st problem: the justification of scientific theories ==
 While the principles of Aristotelian physics were perhaps neither so precise nor
-known with the same certainty as geometrical principles (e.g. the principle that
-just one straight line passes through any two distinct points), it was not
-preposterous to cast the principles of physics as like geometrical principles in
-being necessarily true first principles known with greater certainty that the
-observable consequences that could be derived from them. Principles made true by
-the essential natures of the relevant objects and properties. The Aristotelian
-principle that heat rises, for instance, is on this view not an empirical
-generalisation, but an essential aspect of the nature of heat that may be
-grasped, by a mind capable of contemplating general laws, in a flash of
-cognition after repeatedly observing hot objects. The new scientific laws,
-however, could not be made to fit into this mold.
+known with the same certainty as geometrical principles (e.g. that just one
+straight line passes through any two distinct points), it was not preposterous
+to cast them as like those of geometry in being necessarily true first
+principles known with greater certainty than the observable consequences derived
+from them. Both these two sorts of principles could be held to be made true by
+the essential natures of the objects and properties they concerned. On this
+view, the Aristotelian principle that heat rises, for instance, is not an
+empirical generalisation, but an essential aspect of the nature of heat. An
+aspect that may be grasped, by a mind capable of contemplating general laws, in
+a flash of cognition after repeatedly observing hot objects. The new scientific
+laws, however, could not be made to fit into this mold.
 
 At every point, the fundamental generalisations forming the core of scientific
 theories are unlike necessary first principles grasped with certainty in a flash
 of insight by a reasoning mind after repeatedly sensing the relevant properties.
 
-=== not sensible properties ===
+==== not sensible properties ====
 To begin with, many of the properties ascribed to objects in scientific
 generalisations are utterly unlike those met with in human experience.
 Aristotle had been prepared to postulate bodies too small to be sensed directly;
 but the qualities he attributed to them were akin to the ordinary sensible
-qualities of wet and dry, hot and cold.  By contrast, properties such as charge,
-field strength and spin cannot be sensed by humans at all.
+qualities of wet and dry, hot and cold.  By contrast, human sensory organs are
+not sensitive to properties such as charge, field strength and spin.
 
 Even the attributions of those properties that might be thought to be sensible,
 such as wavelength and mass, is often at odds with ordinary sensations.  The
 mass of an object, for example, is unlike its felt weight in that the latter is
 dependent upon gravity (or the seemingly distinct constant acceleration) wheras
-the former remains unchanged even in micro-gravity. Hence it is doubtful that we
-sense those properties at all.
+the former remains unchanged even in micro-gravity. Thus even though we sense
+something commonly correlated with mass (perhaps the force exerted on our
+bodies), we do not sense the mass of objects.
 
-=== not necessary truths ===
+==== not necessary truths ====
 The next difference is that scientific generalisations are not true necessarily.
 Perhaps the most influential exponent of this fact is
 [[https://plato.stanford.edu/entries/popper/|Popper]], who proclaimed
 [[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the hallmark of scientific claims. According to Popper, a
-general statement is falsifiable if and only if there is a possible "basic
-statement" (i.e. a singular existential claim, such as "the needle on the
-voltmeter is pointing to 11") whose truth is "intersubjectively testable" (i.e.
-about which observers can come to agreement despite other differences in their
-beliefs) which which that general statement is incompatible. But of course, a
-necessary truth is compatible with any such "basic statement" and hence, by
-Popper's standard, not scientific.
+general statement is falsifiable if and only if there is a possible <q>basic
+statement</q> (i.e. a singular existential claim, such as <q>the needle on the
+voltmeter is pointing to 11</q>) whose truth is <q>intersubjectively
+testable</q> (i.e.  about which observers can come to agreement despite other
+differences in their beliefs) with which that general statement is
+incompatible. But of course, necessary truths are compatible with any such
+<q>basic statement</q> and hence, by Popper's standard, not scientific.
 
 Independently of Popper's standard for scientific enquiry, principles such as
-the is right hand rule governing the movement of charged particles through
-magnetic fields have obvious symmetric alternatives and others such as "Elements
+the right hand rule governing the movement of charged particles through
+magnetic fields have obvious symmetric alternatives that are equally plausible
+_a priori_ and yet mutually exclusive. While other principles, such as "Elements
 with eight electrons in their outer shell are inert" are too palpably arbitrary
-to be necessary truths (and there is little else other than such intuitive
-judgements to guide assessments of necessity). On the other side, while we may
-be confident that Newtonian mechanics is false, it is implausible that it is
-impossible (or if so, it makes knowledge of impossibility inaccessible to even
-the keenest minds for indefinite periods of time).
+to be necessary. In the other direction, while we may be confident that
+Newtonian mechanics is false, it is implausible that it is impossible (or if so,
+it makes knowledge of impossibility inaccessible to even the keenest minds for
+indefinite periods of time).
 
-=== not known with certainty ===
+==== not known with certainty ====
 While Popper formulated his falsification principle in the mid 20th
 century, by 1650 Descartes had already recognised that scientific claims gained
 credence via their success in predicting observations.  For several
@@ -136,10 +137,12 @@ observations.
 There are thus two sources of uncertainty built into the foundations of our
 knowledge of scientific truths. Firstly our observations are subject to error,
 we may see the needle on the voltmeter pointing to 11 when in fact it is
-pointing to 10, and secondly even if our observations are correct, they do not
-guarantee the truth of the scientific principles they support.
+pointing to 10; and secondly even if our observations are correct, they do not
+*guarantee* the truth of the general scientific principles they support. It
+is possible for a putative law to be vindicated by any finite number of
+observations and yet be false.
 
-=== known less certainly than their consequences ===
+==== known less certainly than their consequences ====
 Another point of difference between scientific laws and Aristotelian first
 principles, is that scientific laws are known with less certainty than the
 particular cases fulfilling them; wheras geometical and arithemetic laws are
@@ -152,20 +155,25 @@ ascribe this uncertainty to the difficulty of determining whether the
 particular case presented falls under the general rule (i.e.  whether, among
 other things, the last number in the equation just given is the same as the
 first). Plato, however, relied upon a looser and more complex relationship
-between ordinary objects and the forms than instantiation _simpliciter_; holding
-that ordinary objects <q>fall short</q> of the perfect forms that they
-instantiate only imperfectly (see [[truths_of_reason_by_chisholm#Geometrical
-figures exist]]). This shortcoming means that ordinary sensible objects may not
-perfectly fulfill the laws obtaining between the forms they imperfectly
-instantiate. In either case the general law is more certain that 
+between ordinary objects and the forms than instantiation _simpliciter_; he held 
+that ordinary objects <q>fall short</q> of the forms, realising those forms
+only imperfectly (see [[truths_of_reason_by_chisholm#Geometrical figures exist]]).
+This shortcoming means that ordinary sensible objects may fail to
+fulfill the laws obtaining between the forms they imperfectly instantiate. In
+either case the general law is more certain that its exemplification in any
+given instance.
 
 By contrast, scientific generalisations, even mundane ones such as <q>Blue
 litmus paper turns red when immersed in acid</q> are known with less certainty
-than particular observations of their instances.  Indeed on the modern view any
-such generalization must be less certain than any of its instances since the
-falsehood of any of instance woul
+than particular observations of their instances.  Indeed on the modern view it
+follows from fundamental principles of probability that such generalizations
+must be less certain than observations of any particular positive instance.
+For the falsehood of any of instance would render the universal claim false as
+well, and hence the probability of the universal claim must be lower than the
+probability of that claim being fulfilled in any particular case where it
+applies.
 
-=== not intuitable as a result of observation ===
+==== not intuitable as a result of observation ====
 The final point of difference, which is also the most difficult to make sense of
 from the modern viewpoint, is that scientific laws are not grasped in a flash of
 insight after repeated sensation. After repeated encounters with circles, one
@@ -176,110 +184,147 @@ repeatedly lifting heavy objects, suddenly realise that the gravitational
 constant is 6.6743 +/- 0.00015 x 10^-11^ Newton square meters per square
 kilogram.
 
-== 2nd problem: the content of scientific theories ==
-Such is the tenacity and strength of traditional view's hold on modern minds,
-that dawning awareness that the traditional view is not true of our knowledge of
-scientific theories is apt to manifest itself as scepticism:
+=== Implications of these differences ===
+The differences just noted make it clear that knowledge of scientific
+generalisations is not justified in the way prescribed by the traditional view.
+Such is the tenacity and strength of that view on modern minds however, that a
+dawning realisation that the traditional account of the justification of
+knowledge is not true of our knowledge of scientific theories, often first
+manifests itself as scepticism; a denial that we have knowledge of scientific
+generalizations at all.
 
-So it was for {[[descartes|Descartes]]}, whose attempt to place our knowledge of
-scientific theories on the same solid, deductive, foundations as geometry and
-mathematics was at first derided as ridiculous, and then largely ignored as
-second rate. While the initial problem motivating his attempt (viz.,
-that our theories of the external world could not be deduced from observations
-and necessary first principles - see [[cogito]]) not only became known as
-<q>Cartesian scepticism</q> but became the chief motivating problem of modern
-philosophy (or, in Kant's famous words, <q>the scandal of philosopy</q>).
-
-So it remains for many philosophy students today, who often leave their
-encounter with Cartesian scepticism in a first year philosophy course, convinced
-that the take home message of philosophy is that no-one _really_ knows anything
-except their own experiences (to which they have direct access) and perhaps
-some mathematical theorems (i.e. claims of which the traditional account of
-knowledsge remains at least superficially plausible).
-
-Nor is this insistance upon rejecting all claims of knowledge that are not
-justified by the lights of the traditional view limited to innovators and
-beginners, it is the core of Russell's((p.201 Theory of knowledge, via _The basic writings of Bertrand Russell_, Routledge classics 2009))
-complaint that <q>. . . when people begin to philosophize they seem to think it
-necessary to make themselves artificially stupid.</q> (i.e. to reject all
-knowledge claims apart from those that can de deduced from one's own
+So it was for {[[descartes|Descartes]]}. The motivating problem of the
+[[cogito]] (viz., that our theories of the external world could not be deduced
+from observations and necessary first principles) became known as <q>Cartesian
+scepticism</q> and went on to become the chief motivating problem of modern
+philosophy (or, in Kant's famous words, <q>the scandal of philosopy</q>); while
+Descartes' attempt to place our knowledge of scientific theories on the same
+solid, deductive, foundations as geometry and mathematics was initially derided
+as ridiculous, and then largely ignored as second rate.  So it remains for many
+philosophy students today, who often leave their encounter with Cartesian
+scepticism in first year philosophy, convinced that the take home message of
+philosophy is that no-one _really_ knows anything except their own experiences
+(to which they have direct access) and perhaps some mathematical theorems (i.e.
+claims of which the traditional account of knowledge remains at least
+superficially plausible).  Nor is this insistance upon rejecting all claims of
+knowledge that are not justified by the lights of the traditional view limited
+to novices and innovators. It is the basis of Russell's((p.201 Theory of
+knowledge, via _The basic writings of Bertrand Russell_, Routledge classics
+2009)) complaint that <q>. . . when people begin to philosophize they seem to
+think it necessary to make themselves artificially stupid</q> (i.e. to reject
+all knowledge claims apart from those that can de deduced from one's own
 observations and perhaps axioms of mathematics which may be viewed as
-definitional.)
+definitional).
 
-This is not the view taken in this work, for
+Such is not the course taken in this work. Our knowledge of scientific
+claims, such as the charge of electrons, the speed of light (and its
+invariance), that the force of attraction between massive objects is inversely
+proportional to the square of the distance between them, is far better
+supported than the traditional account of the justification of knowledge. If
+that traditional account implies that we do not have such knowledge, then it is
+the traditional account itself, and not the claims to knowledge that it denies
+that must be rejected. What we seek is an account of reasoning and knowledge
+that is compatible with our having knowledge (or whatever positive
+epistemological state it is held to be, if the term <q>knowledge</q> is reserved
+for those beliefs justified in accordance with traditional view) of scientific
+generalisations.
 
-In any case
+Our mere possesion of knowledge of scientific generalisations does not, however,
+immediately discredit the traditional account altogether. It does show
+that account to be incomplete (i.e. that there are some forms of knowledge which
+are not justified in the way that view specifies), but it does not show that
+*no* knowledge is justified in that way. It compatible with both the traditional
+account of knowledge, and our possession of knowledge of scientific
+generalisations to hold that the traditional view of knowledge is correct within
+its own limited sphere, but there is a further knowledge beyond this sphere of
+which it is not correct.
+
+This compatibilist view is perhaps the dominant one amongst educated laymen and
+scientific researchers. It forms a pleasing story of historical progress and
+development in which philosphy is related to modern science in something like
+the way medieval alchemy is related to modern chemistry.  Philosophy, on
+this view, is a pre-cursor of modern science, clogged with superstition and
+false claims of insight, and superceded by techniques that are at once less
+extravagant, more powerful and self-consciously empirical, and producing
+theories that are both less riddled by falsehood and more far reaching.
+
+The analogy with alchemy breaks down at a key point however. In modern chemistry
+alchemy is completely superceeded, its techniques and principles either
+discarded altogether or justified by means entirely within the field of
+chemistry. There is no residual core of alchemical principles which modern
+chemistry relies upon but cannot justify. By contrast, modern science retains,
+according to this story, a reliance upon supposedly ancient philosophy in the
+the sphere of deductive inference((see [[truths_of_reason_by_chisholm]] for a modern exposition of this view)).
+The ancient principles((Supposedly. One of the more undeniable though less immediately profound falsehoods in this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege))
+within the limited sphere of mathematics, geometry and deductive logic
+remain indispensible to modern scientific theories. Proponents of
+this compatibilist pseudo-history may view the question of the jusrtification of
+these principles (and the attendant patterns of inference) as puzzle for
+lesser minds; minds who are less
+
+and hence
+
+as struck by the obviousness of these truths and hence seek futilely for more
+certain foundations.
+
+Perhaps the question of how knowledge of these truths and the conclusions of
+such reasoning are justified is only a puzzle for lesser minds, 
+but perhaps only by lesser
+minds who are puzzled by truths that the more elevated find obvious and in no
+need of further support.
+
+Within that sphere ancient philosophy
+remians a source of truth, and those truths
+
+needing only to be bolstered and extended by an acocunt of knowledge
+
+The relationship between philosophy and science
+
+which sees philosophy as the narrower, more limited, but essential frame
+supporting the more speculative, productive and far reaching developments of
+science which extends its supporting framework by availing itself of tentative
+generalisations of repeated observation.
+
+The problem
+of deliniating just how our knowledge of this further sphere
+limited sphere was identified with knowledge justified by deductive methods, and
+the problem of how the describing the second soprt of knowledge, which lay outside this
+sphere is often denoted as the <q>problem of induction</q>
+but only partial.
+
+not merely that we have knowledge justified by some means other than those laid
+down in the traditional account of knowledge.
 
 
-two sorts of knowledge
+Philosophy was a primitive precursor of science which 
+This attitude is not uncommon among practising scientists and educated laymen.
+Philosophy, on this view is a kind of primitive pre-cursor of science, somewhat
+like bow and drill fire making. Philosophers did discover knowledge of a sort,
+logic and mathematics, and within limited. But perhaps if pushed, the proponent
+of this view will not 
 
-In any case the
+bearing somewhat the same relationship to modern science that alchemy bears to
+chemistry.
 
-
-
-
-In any case the make it clear that our knowledge of scientific claims is not
-justified in the way prescribed by the traditional account of knowledge. This
-does not ??guarantee that the old account was false merely incomplete??
-
-
-
-It is a mark of the continued grip of the traditional account
-h
-The differences just described make it clear that our knowledge of scientific
-principles is not justified in the way prescibed in traditional accounts of
-knowledge. This led some to deny that we know such principles at all (and to
-misattribute this 
-The failure of our knowledge of scientific principles to fulfill the
-requirements of ancient epistemology has led some to skepticism (and to
-mis-attribute that skepticism to Descartes - see [[cogito]]). To deny that we
-have knowledge of sceintific principles at all (and to mi
+It was certainly th view of Kant
 
 
-The features of scientific principles just described 
+This compatibilist position, which
+holds that
 
-decisively refute the claim that the traditional account of knowledge is
-complete; i.e. that _all_ knowledge is justified by derivation from 
-first principles known with certainty etc.
-by the traditional account. 
+On this view philosophy is a kind of pre-cursor of science, correct within its
+limits, in somewhat the same way that invention of the wheelpreceeds and is
+superceeded by the development of 
 
-the traditional epistemology is incomplete.
-that not all knowledge is jsutified (in the way just described)
-is not exhaustvely true
-is not true of all knowledge
-
-The differences just described make it clear that the traditional account of
-knowledge
-
-and hence that
-
+===========
+= CURRENT NOTES =
 is not adequate to explaining the justification for our knowledge of
 scientific theories and principles. That, of course, does not imply that we do
 not have such knowledge but merely that the old account was, at best partial.
 That there are some types, or at least some instances of knowledge for which it
 did not account.
 
-If, as many interpreters of Descartes
 
-This inadequacy of the old account It is still , does not account for our
-knoland in particualr the justification of that knowledge
-
-Hile the differences just considered show that the ancient/traditional account
-is aprtial, they do not reclude there being some form of knowledge of which that
-ancient account is trure. Thye ancient account of how our knowledge is justified
-is not true of our knolwedge of scientific principles, but it might yet be true
-of
-
-While the differences just outlined, make it abundantly clear that scientific
-laws are neither necessarily true first principles nor deduced from such
-principles, our knowledge of scientific principles does not preclude that
-ancient account of knowledge from being correct within its parochial bounds.
-
-This attitude is not uncommon among practising scientists and educated laymen.
-Philosophy, on this view is a kind of primitive pre-cursor of science, somewhat
-like bow and drill fire making. Philosophers did discover knowledge of a sort,
-logic and mathematics, and within limited. But perhaps if pushed, the proponent
-of this view will not 
 
 clear that the traditional account
 of knowledge and justification did not fit scientific laws, 

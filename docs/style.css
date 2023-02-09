@@ -208,11 +208,19 @@ a[href^="http"] {
     font-weight: normal;
 }
 
+a[href^="http"].light{
+    text-decoration: underline;
+}
+
 a[href^="http"]::after {
     content: "ext";
     text-decoration: underline;
     vertical-align: super;
     font-size: x-small;
+}
+
+a[href^="http"].light::after {
+    text-decoration: none;
 }
 
 /*****************

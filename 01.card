@@ -1,7 +1,8 @@
 = todo trails =
 [[historical_trail]]
-[[semantic_holism_trail]]
+[[semantic_holism]]
 [[quines_errors_trail]]
+[[mental_objects_trail]]
 
 = todo =
 [[main_introduction]]<br>
@@ -11,7 +12,7 @@
 [[computational_complexity_for_philosophers]]<br>
 [[introspection_not_admissible_evidence]]<br>
 [[trials_and_tribulations_of_being_a_semantic_holist]]<br>
-[[were_right_theyre_wrong]]<br>
+[[were_right_theyre_wrong_by_van_inwagen]]<br>
 [[deflationary_truth]]<br>
 [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]<br>
 [[epistemic_triangle_of_language_learning]]<br>
@@ -51,6 +52,22 @@ file link: [[local:~/Desktop/Fine_Essence-Modality.pdf]]<br>
 [[cardname#anchor]] anchors are headings or even bold text<br>
 {{embed image in page.png}}<br>
 
+== typefaces ==
+*bold text*
+_italic text_
+_*bold italic text*_
+*_bold italic text_*
+~~strikeout text~~
+((tooltip text))
+[:aside text:]
+`code (no syntax) text`
+{{{python
+if x == y:
+	print('why not')
+}}}
+super^script^
+sub,,script,,
+
 == lists ==
 1. 
 	* gl* gl- gli glI gl1 gla glA : create/set the type of item bullet used
@@ -70,19 +87,3 @@ see [[tag_index]] for list of tags
 also
 :S <term>       # opens locationlist with matching terms
 !grep -ho ':\w*:' * | sort | uniq	# list all tags
-
-== typefaces ==
-*bold text*
-_italic text_
-_*bold italic text*_
-*_bold italic text_*
-~~strikeout text~~
-((tooltip text))
-[:aside text:]
-`code (no syntax) text`
-{{{python
-if x == y:
-	print('why not')
-}}}
-super^script^
-sub,,script,,

@@ -9,39 +9,54 @@ Index of all the tags in this cardbox
 %% 
 %% also recall :T <TAG> will produce a locationlist of <TAG> instances
 
+%% :T <tagname>    # opens locationlist with matching tags
+%% :S <term>       # opens locationlist with matching terms
+%% !grep -ho ':\w*:' * | sort | uniq	# list all tags
+
 = Generated Tags =
 == ancient ==
     - [[meno]]
     - [[plato]]
 
 == annoyance ==
-    - [[trials_and_tribulations_of_being_a_semantic_holist#Why to be is to be the value of a variable]]
+    - [[trials_and_tribulations_of_being_a_semantic_holist#annoyance]]
 
 == article ==
     - [[truths_of_reason_by_chisholm]]
-    - [[were_right_theyre_wrong]]
+    - [[were_right_theyre_wrong_by_van_inwagen]]
 
 == book ==
     - [[critique_of_pure_reason]]
     - [[tractatus]]
 
+== demotag ==
+    - [[01#demotag]]
+
 == draft0.0 ==
-    - [[cogito]]
+    - [[00]]
+    - [[actually_learning_another_langauge]]
+    - [[analytic_philosophy]]
+    - [[cogito_ergo_sum]]
     - [[computational_complexity_for_philosophers]]
-    - [[critique_of_pure_reason]]
+    - [[experience_cannot_justify_knowledge_of_necessity]]
+    - [[objects_of_belief_trail]]
+    - [[observation_sentences]]
 
 == draft0.1 ==
+    - [[cogito]]
+    - [[critique_of_pure_reason]]
     - [[deflationary_truth]]
     - [[epistemic_triangle_of_language_learning]]
     - [[introspection_not_admissible_evidence]]
     - [[plato]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-    - [[were_right_theyre_wrong]]
+    - [[were_right_theyre_wrong_by_van_inwagen]]
     - [[wittgenstein]]
 
 == draft0.2 ==
-    - [[main_introduction]]
+    - [[an_introduction]]
     - [[if_some_experiences_confirm_others_must_infirm]]
+    - [[main_introduction]]
     - [[verificationism]]
 
 == draft1.0 ==
@@ -52,20 +67,23 @@ Index of all the tags in this cardbox
 
 == enlightenment ==
     - [[cogito]]
+    - [[cogito_ergo_sum]]
     - [[descartes]]
 
 == historical ==
     - [[before_times]]
-    - [[cogito]]
+    - [[cogito_ergo_sum]]
 
 == historical_trail ==
-    - [[main_introduction]]
+    - [[an_introduction]]
+    - [[analytic_philosophy]]
+    - [[cogito]]
     - [[historical_trail]]
+    - [[main_introduction]]
     - [[meno]]
     - [[plato]]
 
 == holism ==
-    - [[semantic_holism]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == holism_trail ==
@@ -84,12 +102,18 @@ Index of all the tags in this cardbox
 == justification ==
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
+== key_thesis ==
+    - [[semantic_holism]]
+
 == modality ==
     - [[inconceivability_guide_to_impossibility]]
     - [[tractatus#theses#modal isomorphism]]
 
 == notPhilosophy ==
     - [[overvalues_innovation_and_undervalues_maintenance]]
+
+== objects_of_belief_trail ==
+    - [[objects_of_belief_trail]]
 
 == passing_thought ==
     - [[theories_as_suits_of_armour]]
@@ -104,7 +128,6 @@ Index of all the tags in this cardbox
     - [[epistemic_triangle_of_language_learning]]
     - [[if_some_experiences_confirm_others_must_infirm]]
     - [[introspection_not_admissible_evidence]]
-    - [[semantic_holism]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
     - [[verificationism]]
 
@@ -119,18 +142,19 @@ Index of all the tags in this cardbox
     - [[truths_of_reason_by_chisholm]]
 
 == roughNotes ==
-    - [[were_right_theyre_wrong#roughNotes]]
+    - [[were_right_theyre_wrong_by_van_inwagen#roughNotes]]
 
 == semantic_holism_trail ==
+    - [[semantic_holism]]
     - [[semantic_holism_trail]]
 
 == sociology ==
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == start ==
-    - [[main_introduction]]
+    - [[an_introduction]]
     - [[evidence]]
-    - [[observation_sentences]]
+    - [[main_introduction]]
     - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == text ==
@@ -138,18 +162,28 @@ Index of all the tags in this cardbox
     - [[meno]]
     - [[tractatus]]
     - [[truths_of_reason_by_chisholm]]
-    - [[were_right_theyre_wrong]]
+    - [[were_right_theyre_wrong_by_van_inwagen]]
+
+== todo ==
+    - [[critique_of_pure_reason#initial notes#philosophers dogmatism]]
+    - [[main_introduction#todo]]
+    - [[philosophers_dogmatism#todo]]
+    - [[plato#todo]]
 
 == traditional_epistemology ==
     - [[explanation_of_first_principles_flawed]]
 
 == trail ==
-    - [[historical_trail]]
     - [[quines_errors_trail]]
     - [[semantic_holism_trail]]
 
+== trail_hub ==
+    - [[historical_trail]]
+    - [[semantic_holism]]
+
 == under-determination ==
     - [[cogito]]
+    - [[cogito_ergo_sum]]
 
 == unresolved ==
     - [[problem_with_treating_belief_as_binary#unresolved]]
