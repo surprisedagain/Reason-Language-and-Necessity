@@ -243,7 +243,6 @@ p.smallnote a {
 .tooltip {
   position: relative;
   vertical-align: top;
-  font-size: smaller;
 }
 
 /* Tooltip text */

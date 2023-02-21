@@ -5,6 +5,22 @@ The principle that the primary bearers of meaning are whole theories and not
 individual sentences.
 
 = main =
+== why semantics? ==
+The last and most influential philosophical movement held that the account of
+meaning was intimately conencted with our knowledge of necessary truths. Holding
+that these were true by virtue of meaning alone. For this reason alone it would
+be worhtwhile to understand
+
+but the belief in a deep connection bewteen these two fields/issues/areas goes
+back to the oldest accounts of reasoning in the western tradition (see
+{[[plato]]})
+
+
+How is it that our beliefs (i.e. the
+things/states/whatever that reason is capable of justifying belief in) are
+about the world at all? It seems that when we are justified in believing
+we are justified in beliving it to be true, and it is true 
+
 The argument for semantic holism takes as its premise is from confirmation
 holism, principles concerning translation to [[verificationism]].
 
@@ -79,10 +95,10 @@ various sentences are held true/uttered/asserted by competent speakers.)
 == other related cards ==
 in order to reconcile semantic holism with fundamental principles guarding the
 distribution of credence it appears one must accept
-[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e.card]]
+[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 In the other direction in order to reconcile
-[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e.card]] with fundamental
+[[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e ]] with fundamental
 principles of probability it appears one must accept that the truth conditions
 of sentences depend upon which sentences one holds true, and that, in
 turn, implies that the units of translation must be at least *sets* of sentences

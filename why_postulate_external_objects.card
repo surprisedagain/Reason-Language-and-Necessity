@@ -2,6 +2,10 @@
 = why postulate external objects =
 ====== short ======
 
+= short exemplar =
+The reason for postulating external objects, and hence, in a sense the
+justification for believing that external objects exist
+
 = main =
 let me try this run-up: Rhetorical question 1) Why do we need to posit external
 objects at all - (physical) chairs, tables, electrons, notebooks and messenger
@@ -38,6 +42,73 @@ some sense of why I am claiming that the postulation of external objects is
 required by the complexity of our expectations of future observation? Agreement
 is not required, but I need to establish some minimal level of clarity of this
 claim before I can move on.
+
+=====
+We are heading towards beliefs + objects of belief.
+
+Lets return to my favorite computer style mind-pump/exemplar.
+
+Suppose you are sitting at a computer screen+keyboard. The computer screen is,
+in this case an epistemic bottleneck
+(https://surprisedagain.github.io/philosophy/evidence.html), between you and the
+computer innards. You only know of the latter through the former.
+
+You form the well justified belief (not using that to posit beliefs just yet,
+just using ordinary language and not committed to any particular analysis of
+that language at this early stage - keeping our options open) that the computer
+will distinguish between the goedel numbers of turing machines that halt and
+turing machines that dont.
+
+SO you believe that if you type in a number the computer screen will first
+display that number for a little while and then display the text "yes" if that
+number is the goedel number of a turing machine that halts, and "no" otherwise.
+
+Where on earth did the turing machines and the gpedel numbers come from? This is
+a classic problem called the "halting problem" {:todo: create link here} (I am 97% sure @TheMilkman37
+knows this already, hopefully doesnt hurt to remind). It is the first and prime
+exemplar of a problem at the "recursively enumerable" (but not decidable) level
+of complexity.
+
+Next Installment: This gives you reason to believe there must be some internal processing going on in the computer - i.e. something beyond what you see on the screen 
+
+[9:38 AM]TheMilkman37: Following so far
+
+[9:38 AM]surprised: great
+[9:41 AM]surprised: So 2 points to note:
+
+
+1) if the computer program were simpler than this - if it were just telling
+   whether a number you input was even or odd, for instance, that problem would
+   be solved/implemented by a "computer" which contained only wires. It would
+   not need to store anything. The relation between the input and output could
+   be expressed by a truth function (over pixels of the screen at times). I.e
+   .if pixel 5 and pixel 7 are on at time T1 then pixel 6 is on at time T2.
+
+[9:42 AM]surprised: But to solve the halting problem there need to be some
+internal computation going on. In effect to solve this problem there is no way
+to avoid having to actually run each turing machine one step at a time, and
+hence you will need to keep track of (i.e. store) the state of that turing
+machine WITHOUT displaying those states on the computer screen you are looking
+at.
+
+[9:43 AM]surprised: There must be some internal computation, that internal
+computation must involve storing states, therefore you are justified in
+believing that a machine that can recognise goedel numers of turing machings
+that halt must have some things going on inside it.
+
+[9:48 AM]surprised: 2) We are in the usual inductive situation. You might be
+wrong about the computer you are looking at - it might only be a lookup table
+that stores the goedel numebr of the first 2000 halting turing machines, and it
+might be just looking them up and as soon as you type in a number that is too
+large then it fails. In normal computer terms - instead of running a program -
+it might run out of memory. You do not have any "guaranteed" demonstration that
+the computer is computing the halting function, and hence no guaranteed
+demonstration that it has innards storing states. The hypothesis is one which
+(is normally taken to be) justified by induction. To the extent that the
+hypothesis about the disposition of the machine to produce output in response to
+input is justifed (by any means, inductive if you so wish), so to is justified
+the belief that the machine has innards.
+
 
 = other related cards =
 

@@ -53,13 +53,14 @@ In the European intellectual tradition, philosophers began to note the cracks
 heralding the long, unstoppable, collapse of these accounts of reason and
 knowledge shortly before AD 1650. It is, of course, impossible to put a precise
 date upon when the collapse began or ended.  At first, awareness of the problems
-that led to the collapse spread piecemeal, and when they were noted they did not
-immediately give rise to despair, but rather to various attempts to repair or
-resolve these issues.  The death-knell of the ancient account of reasoning might
-reasonably be said to have been struck in 1915 with Einstein's discovery that
-physical space was not Euclidean. But some thinkers had abandoned hope in the
-old scheme long before this, while others continued to hold faith in it even
-after this point (indeed some still do, at least unwittingly - [[#What counts as knowledge? What counts a reasoning?|see below]]).
+in the traditional accounts spread piecemeal, and when they were noted they did
+not immediately give rise to despair, but rather to various attempts to repair
+or resolve them.  The death-knell of the ancient account of reasoning
+might reasonably be said to have been struck in 1915 with Einstein's discovery
+that physical space was not Euclidean. But some thinkers had abandoned hope in
+the old scheme long before this, while others continued to hold faith in it even
+after this point (indeed many still do, either wittingly, see
+[[truths_of_reason_by_chisholm]] or unwittingly, see [[#What counts as knowledge? What counts a reasoning?|below]]).
 
 The key factor that caused this collapse, was the undeniable growth in
 scientific knowledge.  This growth posed two distinct and fundamental problems
@@ -101,16 +102,18 @@ bodies), we do not sense the mass of objects.
 
 ==== not necessary truths ====
 The next difference is that scientific generalisations are not true necessarily.
-Perhaps the most influential exponent of this fact is
-[[https://plato.stanford.edu/entries/popper/|Popper]], who proclaimed
-[[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the hallmark of scientific claims. According to Popper, a
-general statement is falsifiable if and only if there is a possible <q>basic
-statement</q> (i.e. a singular existential claim, such as <q>the needle on the
-voltmeter is pointing to 11</q>) whose truth is <q>intersubjectively
-testable</q> (i.e.  about which observers can come to agreement despite other
-differences in their beliefs) with which that general statement is
-incompatible. But of course, necessary truths are compatible with any such
-<q>basic statement</q> and hence, by Popper's standard, not scientific.
+[[https://plato.stanford.edu/entries/popper/|Popper]] is perhaps the most
+influential exponent of this claim. He proclaimed
+[[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the
+hallmark of scientific claims. According to Popper, a general statement is
+falsifiable if and only if there is a possible <q>basic statement</q> (i.e. a
+singular existential claim, such as <q>the needle on the voltmeter is pointing
+to 11</q>) whose truth is <q>intersubjectively testable</q> (i.e.  about which
+observers can come to agreement despite other differences in their beliefs) with
+which that general statement is incompatible. But of course, necessary truths
+are compatible with any such <q>basic statement</q> and hence, by Popper's
+standard, not scientific((and, _tollens_ to _ponens_, no scientific truth is
+necessary)).
 
 Independently of Popper's standard for scientific enquiry, principles such as
 the right hand rule governing the movement of charged particles through
@@ -216,7 +219,7 @@ all knowledge claims apart from those that can de deduced from one's own
 observations and perhaps axioms of mathematics which may be viewed as
 definitional).
 
-Such is not the course taken in this work. Our knowledge of scientific
+Such is not the course taken in this work ([[#|see below). Our knowledge of scientific
 claims, such as the charge of electrons, the speed of light (and its
 invariance), that the force of attraction between massive objects is inversely
 proportional to the square of the distance between them, is far better
@@ -242,164 +245,52 @@ which it is not correct.
 This compatibilist view is perhaps the dominant one amongst educated laymen and
 scientific researchers. It forms a pleasing story of historical progress and
 development in which philosphy is related to modern science in something like
-the way medieval alchemy is related to modern chemistry.  Philosophy, on
-this view, is a pre-cursor of modern science, clogged with superstition and
-false claims of insight, and superceded by techniques that are at once less
-extravagant, more powerful and self-consciously empirical, and producing
-theories that are both less riddled by falsehood and more far reaching.
+the way medieval alchemy is related to modern chemistry.  Philosophy, on this
+view, is a pre-cursor of modern science, clogged with superstition and false
+claims of insight; superceded by techniques that are less fanciful, more
+powerful and self-consciously empirical, and which produce theories that are
+both less riddled by falsehood and more far reaching.
 
 The analogy with alchemy breaks down at a key point however. In modern chemistry
 alchemy is completely superceeded, its techniques and principles either
-discarded altogether or justified by means entirely within the field of
+rejected or justified by means entirely within the field of
 chemistry. There is no residual core of alchemical principles which modern
 chemistry relies upon but cannot justify. By contrast, modern science retains,
 according to this story, a reliance upon supposedly ancient philosophy in the
 the sphere of deductive inference((see [[truths_of_reason_by_chisholm]] for a modern exposition of this view)).
-The ancient principles((Supposedly. One of the more undeniable though less immediately profound falsehoods in this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege))
-within the limited sphere of mathematics, geometry and deductive logic
-remain indispensible to modern scientific theories. Proponents of
-this compatibilist pseudo-history may view the question of the jusrtification of
-these principles (and the attendant patterns of inference) as puzzle for
-lesser minds; minds who are less
-
-and hence
-
-as struck by the obviousness of these truths and hence seek futilely for more
-certain foundations.
-
-Perhaps the question of how knowledge of these truths and the conclusions of
-such reasoning are justified is only a puzzle for lesser minds, 
-but perhaps only by lesser
-minds who are puzzled by truths that the more elevated find obvious and in no
-need of further support.
-
-Within that sphere ancient philosophy
-remians a source of truth, and those truths
-
-needing only to be bolstered and extended by an acocunt of knowledge
-
-The relationship between philosophy and science
+Within the limited sphere of mathematics, geometry and deductive logic, the
+ancient principles((Supposedly. One of the more undeniable though less immediately profound falsehoods in this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege))
+remain indispensible to modern scientific theories and yet seemingly
+unjustifiable by scientific methods.
 
 which sees philosophy as the narrower, more limited, but essential frame
 supporting the more speculative, productive and far reaching developments of
 science which extends its supporting framework by availing itself of tentative
 generalisations of repeated observation.
 
+needing only to be bolstered and extended by an acocunt of knowledge
+
 The problem
 of deliniating just how our knowledge of this further sphere
 limited sphere was identified with knowledge justified by deductive methods, and
 the problem of how the describing the second soprt of knowledge, which lay outside this
 sphere is often denoted as the <q>problem of induction</q>
-but only partial.
-
-not merely that we have knowledge justified by some means other than those laid
-down in the traditional account of knowledge.
 
 
-Philosophy was a primitive precursor of science which 
-This attitude is not uncommon among practising scientists and educated laymen.
-Philosophy, on this view is a kind of primitive pre-cursor of science, somewhat
-like bow and drill fire making. Philosophers did discover knowledge of a sort,
-logic and mathematics, and within limited. But perhaps if pushed, the proponent
-of this view will not 
+Proponents of this compatibilist
+pseudo-history may view the question of the justification of these principles
+(and the attendant patterns of inference) as puzzle for lesser minds. Minds less
+struck by the obviousness of these principles and hence seeking further
+justification.
 
-bearing somewhat the same relationship to modern science that alchemy bears to
-chemistry.
+For not only is the justification of our scientific knowledge at odds with the
 
-It was certainly th view of Kant
+While our possession of scientific knowledge shows only that the traditional
+account of knowledepge and reasoning is incomplete, the *content* of that
+knowledge radically undercuts the traditional account
 
+= 2nd problem: the content of scientific theories =
 
-This compatibilist position, which
-holds that
-
-On this view philosophy is a kind of pre-cursor of science, correct within its
-limits, in somewhat the same way that invention of the wheelpreceeds and is
-superceeded by the development of 
-
-===========
-= CURRENT NOTES =
-is not adequate to explaining the justification for our knowledge of
-scientific theories and principles. That, of course, does not imply that we do
-not have such knowledge but merely that the old account was, at best partial.
-That there are some types, or at least some instances of knowledge for which it
-did not account.
-
-
-
-clear that the traditional account
-of knowledge and justification did not fit scientific laws, 
-
-????- CLEAR NOT FIRST PRINCIPLES - DESCARTES
-For all these reasons it is abundantly clear that Descartes
-was first and foremost among those who noted that and his first response was to
-attempt to reconcile. In his Meditations he proposed to _deduce_ the existence
-of God from his famous [[cogito|cogito ergo sum]], and thence to deduce that the
-the clear and distinct hypotheses that came to human minds to predict and
-systematise thewir observations must be true, since God would not deceive us;
-thus he proposed to reconcile 
-
-Descrates was perhaps the first, and certainly the foremost, of those 
-who recognised that scientific generalisations were not deductive consequences
-of the observations that gave them credence. His response was not to proppose any
-modification of the traditional accounts but rather to explain away the
-indeducibility of scientific theories from certain first principles as a mere
-appearance. 
-
-His '{[[cogito_ergo_sum]]}', was supposed to be a first
-principle form which, with God's grace, all science could be derived.
-For if the existence of a beneficent God could be proven, then 
-
-God would not be so deceitful as to place in our minds principles which
-perfectly predicted our observations but were yet false. In this way he hoped to
-show that scientific laws were deducible from first principles (most importantly
-among them being his [[cogito_ergo_sum]]. The widespread 
--?????
-
-
-????- THOUGH THE IDEA REMAINED THAT THE indeducibility of scientific laws was a
-defect remained influential. Descartes was the last to attempt to maintain that
-the laws of science were deducible from first principles
-
-He may, with equal justice, be regarded as the last great classical philosopher
-philosophers, or the first of the modern philosophers who recognised that
-scientific laws were neither .
--????
-
-The nature This newly recognised form of justification remains unclear to this day. 
-
-but rather they were supported because the predictions they issued in 
-
-It might be thought that this is all old news, that the collapse we are
-describing is simply the scientific revolution described from the losing
-side. and that the methods of philosophy were simply superseded by those of
-science.
-
-But its that the revolution did not go deep enough.
-
-Belief in the scientific method, is itself a kind of a projection of the old
-scheme onto new materials. The hope that there might be some principles of
-so-called abductive or inductive reasoning, rules for deriving general formulas
-from finite observations; rules as clearly and definitely describable as the
-princples of classical deductive logic but justifying less than absolute
-certainrty in their conclusions.
-
-as though somehow philosophers had just set their sights to high, or (somewhat
-more plausibly) had overlooked that importance of assiduously pursuing
-observations that would falsify our theories. While both these things are
-doubtless true, the kind of knowledge that
-
-
-low hanging fruit now taken????
-scientists and others could simply dispense with any strict account of what
-constituted good reason than plain common sense and the classical deductive
-logic. No such principles were forthcoming (indeed the lack of them is one of
-the enduring  ????puzzles/problems/landmarks - the problem of induction
-
-
--????
-
-????-
-GOOD
 The second problem concerned the content of the new knowledge.
 The developing scientific theories concerning the
 processes giving rise to experience, directly contradicted the traditional
@@ -427,33 +318,52 @@ that our knowledge of many of our own mental states was fallible; and
 Wittgenstein's suggestions that ascriptions of mental states were justified not
 by private experiences but rather by public behaviour.
 
-
-
 but the very
 success of those theories made denying their status as knowledge increasingly
 untenable. Where ancient skeptics had been prepared to denounce all judgement
 as mere opinion, the manifest success of 
--????
 
 
+
+===========
+= CURRENT NOTES =
+
+It might be thought that this is all old news, that the collapse we are
+describing is simply the scientific revolution described from the losing
+side. and that the methods of philosophy were simply superseded by those of
+science.
+
+But it is that the revolution did not go deep enough.
+
+Belief in the scientific method, is itself a kind of a projection of the old
+scheme onto new materials. The hope that there might be some principles of
+so-called abductive or inductive reasoning, rules for deriving general formulas
+from finite observations; rules as clearly and definitely describable as the
+princples of classical deductive logic but justifying less than absolute
+certainrty in their conclusions.
+
+as though somehow philosophers had just set their sights too high, or (somewhat
+more plausibly) had overlooked that importance of assiduously pursuing
+observations that would falsify our theories. While both these things are
+doubtless true, the kind of knowledge that
+
+low hanging fruit now taken????
+
+A solution to this puzzle is highly unlikely to provide much in the way of
+useful guidance to practicing scientists. The combination of
+
+scientists and others could simply dispense with any strict account of what
+constituted good reason than plain common sense and the classical deductive
+logic. No such principles were forthcoming (indeed the lack of them is one of
+the enduring ) what is to be found here is not 
 
 but although we no longer accepted that classical account of reasoning we could
 still use its results (and those of its subsequent refinement into modern formal
 logic)
 
-
-we have acted as though our traditional epistemology was alright within its
-limits. That Our intuition is an intuition of necessity (better ????- that we
-can intuitively discern necessary connections). That the classical account of
-deductive reasoning was corrrect as far as it went, but that it left out the
-basis for empiical investigation.
-
-Now it is not even true that the ancient logical systems were adequate, but even
-if we grant deductive (classical) logic in its entirety as a ancient
-development (purely for the sake of a historical argument) the account of what.
-
-In this collection of notes (and at the end of this trail) we come to a definite
-conclusion.
+= philosophical movements =
+all the major philosophical movements in the western tradition since 1650 have
+been attempts to resolve this problem.
 
 
 == social effects of the collapse ==
@@ -465,7 +375,7 @@ delthose periods where there was a broadly shared consensus about the
 fundamental principles upon which reasoning is based app
 
 ???? later section
-addendum:
+Postscript:
 == What counts as knowledge? What counts a reasoning? ==
 Someone who has survived a modern day university arts course, or engaged with
 almost any of the academic humanities as they are currently practised, may
@@ -517,20 +427,32 @@ geometry, mathematics, science and everyday life as more certain than any
 philosopher's crazy theory.
 
 
-A potentially related question is 
-== How it is that beliefs are about the world? ==
-The sense that there is a deep connection between can alreqady be sensed in the
-oldest account of reasoning
-
-How is it that our beliefs (i.e. the
-things/states/whatever that reason is capable of justifying belief in) are
-about the world at all? It seems that when we are justified in believing
-we are justified in beliving it to be true, and it is true 
-
-
-
-
-
-
 = where to next =
+Those who wish to can read this work in a linear sequence of a traditional book.
+That order is the following 
+which covers all the main theses advanced and almost all of the entries. That
+order is:
+
+1. [[historical_trail]]
+2. [[semantic_holism|semantic holism trail]]
+3. [[quines_errors|quines_errors_trail]]
+4. [[mental_objects_trail]]
+5. [[intuition of necessity trail]]
+
+This work can be almost entirely read in a linear order. The starting point is
+
+Readers who are either unaware of the historical development of answers to this question in
+the western intellectual tradition, or those who are so familiar with those
+historiocal
+landmarks of that development that they can use 
+
+
+use partial/biased/motivated re-description of landmarks of that history development to orient themselves to the current
+work
+to orien
+that gthey can use the version well acquainted with that
+history and wish to 
+can use a re-description of the major landmarks
+wish to orient themselves to this treatise 
+
 perhaps start the historical trail with the before times. 
