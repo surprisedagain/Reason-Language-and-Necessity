@@ -49,6 +49,10 @@ There the notion is that any vector in the space (mutatis mutandis any point in
 the space) can be reached/expressed/constructed as a combination((sum of multiples))
 of the members of the basis. 
 
+== sentential synonymy ==
+That sentential synonymy is discernable is not a thesis of the _Tractatus_ but
+rather an unquestioned assumption.
+
 == other related cards ==
 [[representation]]
 [[mental_states]]
@@ -84,10 +88,9 @@ understand:
 Suppose we have a list of pairs of objects. In the cases we will be interested
 in these will be a list of pairs of objects that are like each other in some
 way. Each pair might have some property in common, but for whatever reason we are
-prevented from producing an analysis of these objects properties. All
-we know about these objects is which of pairs of them is on this list i.e. we
-know the extension of the relationship <q>similar-to</q> (i.e. partly similar in
-some way or other).
+prevented from producing an analysis of these object's properties. All
+we know about these objects is which of pairs of them are on this list (i.e. we
+know the extension of the relationship <q>similar-to</q>).
 
 On this basis of this single relationship of <q>similar-to</q> we can define
 terms that behave like ascriptions of properties that these objects have in
@@ -101,28 +104,32 @@ Let's try to get clearer on this by considering Carnap's first example:
     of any of the things which colors it has. All we have is a pair list (i.e.,
     we know only the extension of the relation of color kinship: we are told all
     pairs for which this relation holds, but we are not told which color these
-    two things have in common). In other words, the relation extension of color
-    kinship is completely given. Now, our task consists in inferring from these
-    data the distribution of colors. We cannot proceed by choosing one of the
-    things at random and determining all its color kin on the basis of the pair
-    list, for it does not follow that all these are color akin to each other.
+    two things have in common). In other words, the extension of the relation of
+    color kinship is completely given. Now, our task consists in inferring from
+    these data the distribution of colors. We cannot proceed by choosing one of
+    the things at random and determining all its color kin on the basis of the
+    pair list, for it does not follow that all these are color akin to each
+    other.
 
 For instance, one object _A_ might be both partly red (and hence
 similar[/related by _colour kinship_] to other objects that are at least
 partly red) and partly green (and hence similar[/related by _colour kinship_] to
 other green objects).  But there may be two (or more) objects that are colour
 kin to _A_ but not colour kin to each other (e.g. one object that is purely green
-and another that is purely red, or a mixture of red and colours
-_other than green_).
+and another that is purely red).
 
 On the basis of this relation, provided it is symmetric (i.e. anything I am
-similar to is similar to me) and reflexive we can determine how many different
-colours there are, and identify the extension of each colour (i.e. the classes
-of objects that are partly that colour), though of course we cannot identify the
-colours themselves. We might, for instance, determine that there are 5 colours
-and that one colour is shared by objects A, B and C and another colour and B, C,
-D and E all share another colour, but we cannot work out which colour is red or
-green etc.,
+similar to is similar to me) and reflexive (each thing is similar to itself) we
+can determine how many different colours there are, and identify the extension
+of each colour (i.e. the classes of objects that are partly that colour), though
+of course we cannot identify the colours themselves. We might, for instance,
+determine that there are 5 colours and that one colour is shared by objects A, B
+and C and another colour and B, C, D and E all share another colour, but we
+cannot work out which colour is red or green etc., (Carnap has a problem of
+free-loaders. If each partly blue thing is also partly red, the extension of
+colour-kinship will not allow us to distinguish blue from red. Wittgenstein does
+not have this problem since he is concerned with the space of possible
+propositions.)
 
 The two principles for assigning colours to objects (or rather objects to colour
 classes) are:
@@ -130,7 +137,6 @@ classes) are:
     color kinship to one another (because the members of the pair both have the
     color which determines the color class). Secondly, the color classes are the
     largest possible classes all of whose members are color-akin.
-    
 Carnap intends to use this technique to deliniate sensation types. Say, seeing a
 red square in the lower right quadrant of the visual field, or hearing the tone
 middle C.  But he cant find unproblematic sensory elements from which to
@@ -170,12 +176,10 @@ Or as W puts it:
     3.311 An expression presupposes the forms of all the propositions in which
     it can occur. It is the common characteristic mark of a class of
     propositions.
-
 Here just as Carnap built talk of the common colours in terms of classes of
 objects that bear the relationship of _colour kinship_ to each other,
 W is building talk of common expressions from classes of propositions that have
 some kind of similarity to each other.
-
     3.312 It [the expression] is therefore presented by means of the general
     form of the propositions that it characterizes.
 
@@ -185,7 +189,6 @@ Lets see this construction in practice:
     Everything essential to their sense that propositions can have in common
     with one another is an expression.  An expression is the mark of a form and
     a content.
-    
 The first fundamental element of the construction is the relationship between
 propositions of having the same sense. For if a part <q>characterises</q> the
 sense of a containing proposition then changing that part will change the sense
@@ -228,7 +231,6 @@ can be formed by filling out the schema [. . . and . . .]. And to say of a
 concrete proposition that it contains an instance of <q>and</q> is to say that
 it is a member of this set. (I have ~~cheated~~ simplified here by ignoring
 cases where <q>and</q> is not the primary or base connective.)
-    
     3.313 Thus an expression is presented by means of a variable whose values
     are the propositions that contain the expression.  (In the limiting case the
     variable becomes a constant, the expression becomes a proposition.) I call
@@ -255,16 +257,18 @@ clear.
    other</q>. Russell and friends were particularly callow with regard to this
    extra commitment - treating a set as equivalent to a propositional function -
    i.e. the set of red things _is_ (in some sense) the <q>incomplete symbol</q>
-   Red(. . .). Wittgenstein appears to follow suit, and is equally unconcerned
-   over the existence of sets.
+   <q>Red(. . .)</q>. Wittgenstein follows suit, and is equally
+   unconcerned over the existence of sets, and equally uninterested in
+   distinguishing propositional schema from the set of propositions that
+   instantiate that schema.
 3) This is what logic is good for. You may have noticed me criticising attempts
    to paraphrase philosophical arguments in terms of formal logic. The criticism
    being that if the resulting version of the argument is not logically valid,
    the proponent of the original argument can simply maintain that the
    paraphrase is inadequate and very little has been achieved.  If really
    pressed they can claim that the logic in question is not adequate to the form
-   of argument (this is Brentano's move, and is used to reject extensionalist
-   logic). By contrast on my view logic is a tool of construction. That you can
+   of argument (this is Brentano's move, commonly used to reject extensionalist
+   logics). By contrast on my view logic is a tool of construction. That you can
    build talk of properties from relations of (symmetrical, reflexive)
    similarity (and some set theory) is a genuine achievement worth noting.
 5) Ws view of analysis here is akin to Russells view in _Principia Mathematica_.
@@ -312,3 +316,125 @@ Finally, note that this whole edifice is built upon the relationship of
 sentential synonymy which is taken as fundamental. If that relationship is
 epistemically inaccessible then the edifice collapses. This is one way of
 appreciating why Quine's attack is so far-reaching.
+
+If the world is the totality of facts not things, then a language is a totality
+of propositions not symbols. It is upon the relationship of synonymy between
+sentences that the identification of symbols, hence the space of possible
+propositions, hence the account of representation offered in the _Tractatus_
+relies.
+
+
+
+== cutting room floor ==
+=== subsequent discussion of commentary on 3.3*: ===
+Follows on from [[#3.3*]] above:
+
+Fafner: @surprised A relevant passage that I found in the Vienna Circle
+collection:
+    Can a form be defined? Can e.g. the subject-predicate form be defined as the
+    class of all subject-predicate propositions? The subject-predicate form
+    itself would surely have to occur in such a definition-we would hence
+    already need to know what the subject- predicate form is, in order to
+    understand the definition. It is clear that here we are not dealing with
+    actual propositions but with what makes it possible to form propositions.
+    
+    If a form were definable, we could not understand it without a definition.
+    But the possibility of expressing a sense rests on the very fact that we
+    understand a form without its being explained to us. A proposition shows its
+    form. The wish to define the very thing on which the possibility of all
+    communication and information rests does not make sense.
+    
+    What is mistaken in this conception is based on construing a form as a
+    property. The subject-predicate form is taken to be a general property that
+    all subject-predicate propositions have.
+    
+    The property fx is a generalization of the property fx.gx. Generalizing
+    leads from one property to another one.
+    
+    A form is expressed if the constant parts of a proposition are transformed
+    into variable ones. This transformation into variables is something entirely
+    different from generalization.
+    
+    The whole Frege-Russell logic is based on the confusion of concept and form.
+    The numbers are not concepts. You do not obtain them by means of
+    generalization.
+    
+    Frege and Russell looked for the essence of number in a wrong direction.
+    They believed that the number 3 was the result of a kind of generalization
+    from 3 chairs, 3 plums, etc. And in that way they came to invent the
+    principle of abstraction so as to express the peculiarity of that
+    generalization.
+    
+    The number 3 is not the general feature of triplets.
+    
+    The number 3 does not originate in generalization from particular triplets,
+    any more than the form of a picture originates in generalization from
+    particular pictures.
+    
+    The number 3 is the common form of triplets, not their common property.
+    
+    The form 3 can only be transposed, it cannot be defined.
+    
+    Forms have nothing to do with generality. A form is neither general nor
+    specific
+
+surprised: My reaction after a first look is that this confirms my view.
+Consider the first line: <q>Can a form be defined? Can e.g. the subject-predicate
+form be defined as the class of all subject-predicate propositions?</q>
+
+See that here he is talking about exactly the move I was describing above (quite
+heavy-handedly 😦 ) As soon as he wishes to define a "form" (i.e. a predicate
+true of the class of propositions with that form) the immediate suggestion is to
+define it "as" the class of propositions with that form. The identity between a
+property and the class of objects with that property is the very first thing he
+considers. So I take this as confirmation that he is thinking about the
+technique.
+
+<q>Yes</q>, I imagine you saying @Fafner, <q>but he goes on directly to _*reject*_
+that view. Hence your (surprised's) account is mistaken.</q>
+
+W rejects it on the grounds that this quasi-identity is something that can only
+be shown and not said: <q>If a form were definable, we could not understand it
+without a definition. But the possibility of expressing a sense rests on the
+very fact that we understand a form without its being explained to us. A
+proposition shows its form.</q>
+
+Let me make it clear that in my explication of what is going on in W I pay no
+heed to the show/say distinction which W is so attached to. My account flowed
+from a discussion of the problems of show/say with @Neg F∀lsum and I made it
+clear that I was describing Ws semantics without pretending to obey the show/say
+distinction and just describing Ws semantic theory directly (i.e. saying the
+theory directly) without pretense.
+
+I take W to be an outright hypocrite on this point: it is no good to say
+something and then take it back saying
+    6.54 My propositions serve as elucidations in the following way: anyone who
+    understands me eventually recognizes them as nonsensical, when he has used
+    them—as steps—to climb up beyond them. (He must, so to speak, throw away the
+    ladder after he has climbed up it.) He must transcend these propositions,
+    and then he will see the world aright.
+Nonsense is nonsense. If it says nothing about meaning it cannot elucidate it
+either. Once again, if it can't be said it can't be whistled!
+
+Hence I take W's view to be precisely the one I described, only with an added
+(and misplaced) doctrine that it cannot strictly be said but only shown.
+
+Or to put it another way, if you wish to take the say/show distinction
+seriously: My claims about the identity of semantic features and the classes of
+propositions having those features "serve as elucidations in the following way:
+anyone who understands me (surprised) eventually recognises them as
+nonsensical". It is a mere attempt to say what can only be shown, and once you
+see what I am showing you can "transcend my claims and see the world aright"
+having discarded my claims as, strictly speaking, nonsense.
+
+[It turns out I can whistle too!!] 
+
+For further confirmation of my view see W's comments on numbers: he wishes to
+claim that the same relationship between 3 and collections of three things (i.e.
+the exemplification of a form) obtains between propositional forms and
+particular propositions. In this case Russell's construction of numbers as the
+set of sets with that number of members is precisely an exemplification of the
+technique I described. W's is simply the unsayable showable only version of that
+technique. (strip out sets and insert the word "form" if you like - even in
+talking about forms W is again breaching his own proscriptions against saying
+what can only be shown!!) 
