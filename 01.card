@@ -1,6 +1,6 @@
 = todo trails =
 [[history_trail]]
-[[semantic_holism]]
+[[semantic_holism_trail]]
 [[quines_errors_trail]]
 [[mental_objects_trail]]
 
@@ -58,8 +58,8 @@ _italic text_
 _*bold italic text*_
 *_bold italic text_*
 ~~strikeout text~~
-((tooltip text))
-[:aside text:]
+((footnote text))
+[:small aside text:]
 `code (no syntax) text`
 {{{python
 if x == y:
@@ -67,6 +67,10 @@ if x == y:
 }}}
 super^script^
 sub,,script,,
+
+-> right arrow
+AA for all symbol
+EE exists symbol
 
 == lists ==
 1. 

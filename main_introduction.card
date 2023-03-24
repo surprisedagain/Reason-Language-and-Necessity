@@ -17,7 +17,7 @@ was thought to be similar to the heat which causes the flame to burn, the weight
 felt when lifting a stone similar to the weight in the stone which caused it to
 resist being pushed, and the color seen when looking at a white patch of snow
 similar to the whiteness of the snow.  Because of these direct encounters with
-object's properties we could intuit the fundamental general principles governing
+objects' properties we could intuit the fundamental general principles governing
 them. 
 
 A corollary of this view was the belief that knowledge, at least in its best
@@ -187,7 +187,7 @@ repeatedly lifting heavy objects, suddenly realise that the gravitational
 constant is 6.6743 +/- 0.00015 x 10^-11^ Newton square meters per square
 kilogram.
 
-=== Implications of these differences ===
+=== Consequences of these differences ===
 The differences just noted make it clear that knowledge of scientific
 generalisations is not justified in the way prescribed by the traditional view.
 Such is the tenacity and strength of the traditional view's hold on modern minds
@@ -198,23 +198,25 @@ that we have knowledge of scientific generalizations at all.
 So it was for {[[descartes|Descartes]]}. The motivating problem of his
 [[cogito]] (viz., that our theories of the external world could not be deduced
 from observations and necessary first principles) became known as <q>Cartesian
-scepticism</q> and went on to become the chief motivating problem of modern
-philosophy (or, in Kant's famous words, <q>the scandal of philosopy</q>); while
-his subsequent attempt to place our knowledge of scientific theories on the same
-solid, deductive, foundations as geometry and mathematics was initially derided
-as ridiculous, and then largely ignored as second rate.  So it remains for many
-philosophy students today, who often leave their encounter with Cartesian
-scepticism in first year philosophy convinced that the take home message of
-philosophy is that no-one _really_ knows anything except their own experiences
-(to which they have direct access) and perhaps some mathematical theorems; i.e.
-claims of which the traditional account of knowledge remains at least
-superficially plausible.  Nor is this insistance upon rejecting all claims of
-knowledge that are not justified by the lights of the traditional view limited
-to pioneers and novices. Russell notes the wide spread of this scepticism in his
-complaint that <q>. . . when people begin to philosophize they seem to think it
-necessary to make themselves artificially stupid</q>((p.201 Theory of knowledge, via _The basic writings of Bertrand Russell_, Routledge classics 2009))
-(i.e. to reject all knowledge claims apart from those that can de deduced from
-their own observations and first principles known with certainty).
+scepticism</q> and went on to become the chief motivating problem of early modern
+philosophy((or, in Kant's words, <q>the scandal of philosophy</q>)).
+His subsequent attempt to place our knowledge of scientific theories on the same
+solid, deductive, foundations as geometry and mathematics, however,  was at
+derided as ridiculous by his contemporaries, and then largely ignored as second
+rate.  So it remains for many philosophy students today, who often leave their
+encounter with Cartesian scepticism in first year philosophy convinced that the
+take home message of philosophy is that no-one _really_ knows anything except
+their own experiences (to which they have direct access) and perhaps some
+mathematical theorems; i.e.  claims of which the traditional account of
+knowledge remains at least superficially plausible.  Nor is this insistance upon
+rejecting all claims of knowledge that are not justified by the lights of the
+traditional view limited to pioneers and novices. Russell notes the wide spread
+of this scepticism in his complaint that <q>. . . when people begin to
+philosophize they seem to think it necessary to make themselves artificially
+stupid</q>((p.201 Theory of knowledge, via _The basic writings of Bertrand
+Russell_, Routledge classics 2009)) (i.e. to reject all knowledge claims apart
+from those that can de deduced from their own observations and first principles
+known with certainty).
 
 Such scepticism is not the starting point of this treatise. Our knowledge of
 scientific claims, such as the charge of electrons, the speed of light (and its
@@ -222,8 +224,8 @@ invariance), and that massive objects attract each other with a force inversely
 proportional to the square of the distance between them, is far better supported
 than the traditional account of the justification of knowledge. If that
 traditional account implies that we do not have such knowledge, then it is the
-traditional account itself, and not the claims to knowledge that it denies that
-must be rejected. What we seek is an account of reasoning and knowledge that is
+traditional account itself, and not the claims to knowledge it denies that must
+be rejected. What we seek is an account of reasoning and knowledge that is
 compatible with our having knowledge (or whatever positive epistemological state
 it is held to be, if the term <q>knowledge</q> is reserved for those beliefs
 justified in accordance with traditional view) of scientific generalisations
@@ -232,21 +234,22 @@ justified in accordance with traditional view) of scientific generalisations
 Our mere possession of knowledge of scientific generalisations does not
 immediately discredit the traditional account altogether. It does show
 that account to be incomplete (i.e. that there are some forms of knowledge which
-are not justified in the way that view specifies) but it does not show that
+are not justified in the way that view specifies) but it does *not* show that
 *no* knowledge is justified in that way. It compatible with both the traditional
 account of knowledge, and our possession of knowledge of scientific
 generalisations to hold that the traditional view of knowledge is correct within
-a limited sphere, but that there is also further knowledge beyond this sphere,
-of which it is not correct.
+some limited sphere, but that there is also further knowledge beyond this
+sphere, of which it is not correct.
 
 Such a view is perhaps the dominant one amongst educated laymen and
 scientific researchers. It forms a pleasing story of historical progress and
 development in which philosophy is related to modern science in something like
 the way medieval alchemy is related to modern chemistry. Philosophy, on this
 view, is a pre-cursor of modern science, clogged with superstition and false
-claims of insight; and superceded by techniques that are less fanciful, more
-powerful and self-consciously empirical, which produce theories that are
-both less riddled by falsehood and more far reaching.
+claims of insight; superceded by scientific techniques that are less fanciful,
+more precise and self-consciously based upon empirical evidence, and which
+produce theories less riddled by falsehood and possessing greater
+predictive power.
 
 The analogy with alchemy breaks down at a key point however. In modern chemistry
 alchemy is completely superceeded, its techniques and principles either
@@ -264,56 +267,270 @@ The continued dependence of science upon unscientific deductive principles has
 led many philosophers((Kant is the standout exemplar, but there is no shortage of others who have followed his lead; both wittingly and unwittingly.))
 to claim that the success of science can _only_ show that the traditional
 account of the justification of knowledge is incomplete, and never that it is
-altogether wrong. Science cannot altogether undermine the unscientific source of
-knowledge discerned by ancient philosophers without undermining itself.  That
-philosophers might find this claim appealing is easily understood, for it neatly
-defends the continued relevance and value of philosophical enquiries to actual
-knowledge production and tacitly establishes philosophy as the queen of the
-sciences, standing in judgement over all the rest.  Despite its appeal, however,
-this comforting pablum has two serious defects. It relies upon the dubious
-assumption that traditional account is the best explanation of our knowledge of
-the truths of geometry, mathematics and logic etc., upon which scientific
-theories continue to rely; and it ignores the substantiveness/profundity/depth??
-of the conflict between the traditional account and the
-_content_ of our scientific theories.
+altogether wrong on the grounds that science cannot altogether undermine the
+unscientific source of knowledge discerned by ancient philosophers without
+undermining itself.  That philosophers might find this claim appealing is easily
+understood, for it neatly defends the continued relevance and value of
+philosophical enquiries to actual knowledge production and tacitly establishes
+philosophy as the queen of the sciences, standing in judgement over all the
+rest.  Despite its appeal, however, this comforting pablum has two serious
+defects. It relies upon the dubious assumption that traditional account is the
+only((or at least the best, though in practice alternatives are almost never considered))
+explanation of our knowledge of the truths of geometry, mathematics and logic
+etc., upon which scientific theories continue to rely; and it ignores the
+substantiveness/profundity/depth??  of the conflict between the traditional
+account and the _content_ of our scientific theories.
 
-= 2nd problem: the content of scientific theories =
+== 2nd problem: the content of scientific theories ==
 The first problem for the traditional account of knowledge was simply that we
 _possess_ knowledge that is not justified by the lights of that account. The
 second problem is that the _content_ of that knowledge is wildly incompatible 
-with the traditional claims upon which the old accounts of reason and knowledge
-relied. 
+with claims upon which the traditional account of reasoning and knowledge
+relied.
 
-The precept that there is <q>nothing is in the mind that was not first
-in the senses</q> was a commonplace of ancient greece and the medival
-schoolmen
+St. Thomas Aquinas was likely the original, and certainly the most influential
+author of the phrase <q>Nothing is in the mind that was not first in the senses</q>((Or rather, of the Latin phrase of which this is the English translation; viz., <q>Nihil est in intellectu quod non prius fuerit in sensu</q>.))
+but, quite fairly, he attributed the spirit of the precept to Aristotle. It a
+commonplace of medieval scholastic philosophy, discussed by Bonaventure, Matthew
+of Aquasparta, and Duns Scotus. The truth of this dictum does not directly
+concern us here, what does concern us is that it makes clear the traditional
+commitment to our concepts being the same as the properties presented in our
+sensations.  Even Plato, who held our knowledge of the forms to be memories from
+a divine realm where we had contemplated those forms directly, also held that
+the poor sensible copies presented by our senses in this world were yet close
+enough to spark our remembrance of their perfect originals. Of course,
+philosophers being what they are, these views are riven by further dispute. St
+Thomas claimed that the <q>active intellect</q> which enabled us to grasp the
+universal properties exemplified in our sensations, was an aspect of individual
+human intellects; wheras his predecessors Ibn Sina and Ibn Rushd held there to
+be just one active intellect common to all humans, and St. Augustine considered
+this one common element to be God's divine illumination. Grouping all these
+views under the title of <q>the traditional account</q> is not intended to gloss
+over the profound differences between and among Platonists and Aristotelians,
+but simply to emphasise that the belief that that our concepts are at least
+_similar_ to the properties of our sensations, was an orthodoxy amongst Western
+and Arabic philosophers from Aristotle up until Descartes.
+
+According to the traditional account, not only were the properties of our
+sensations the same as the concepts in our minds, they were also the properties
+of the physical objects around us. As Aristotle put it:
+    A sense is that which has the power of receiving perceptible forms without
+    the matter, in the way in which a piece of wax takes on the imprint of the
+    signet ring without the iron or gold; it takes the imprint of a signet of
+    bronze or gold, but not qua bronze or gold. In a similar way the sense is
+    affected by what is coloured or flavoured or sounding, not insofar as each
+    is what it is, but insofar as it is of such a sort and according to its
+    logos.(De Anima II.12)
+The colour of the distant red object is, through the light created
+transparency of the intervening medium, able to impress itself on the parts of
+the eye that were sensitive to it. The property present in the sensitive parts
+of the eye (and by which those parts are affected) is the very same as the
+property of the distant object.
+
+This triple identity, between the concepts by which we think of objects, the
+forms realised without matter in our sensations, and the forms realised by the
+material objects that we perceive and think of, was supposed to ensure that our
+concepts _are_ the properties of the objects around us.  In Aquinas' words:
+<q>The intellect, by the act of understanding, is made one with the object
+understood</q>((_Nam intellectus, secundum hoc quod actu intelligit, secundum hoc fit unum cum intellecto_));
+or as Gaetanus, a later influential commentator on Aquinas put it <q>to know is
+nothing else than for the intellect to be [the thing known] and the species is
+the form whereby it comes to that being.</q> We moderns may wonder at this
+somewhat mystical unity between acts of cognition and the objects
+cognised((Aquinas held it to be the same unity as obtains between Jesus, the word of God, and God the father, the source of that word.)),
+and scholars continue to dispute various interpretations of Aristotle's account of
+the relationships between substances, species, forms and universals; but what is
+clear is, in modern terms, that the properties possessed by the objects
+around us, the properties presented in our immaterial sensations and the
+concepts by which we think of those objects were thought to be the same.
+[:This is also the origin talk of knowing an object <q>as it is in itself</q>
+which Hegel and, following him, the post-modernists, are at such pains to
+reject; but we will return to this point below????.:]
+
+Finally, it was because the properties we were manipulating in our imaginations,
+memories and intellects were the very same as the properties instantiated by the
+material objects around us, that the manipulations we could or could not perform
+in thought reflected the combinations of properties that could or could not be
+realised in objects outside our minds. Our minds were in direct contact with the
+properties of the external world and hence reason, the capacity to abstract
+those universal properties from particular instances, could give us insight
+into the necessary relationships between those properties.
+
+All of these claims were directly, unequivocally and irrefutably discredited by
+scientific discoveries.
+
+=== New understanding of the physiological processes of perception ===
+The first modern theories of sensation to replace the traditional Aristotelian
+account of the transmission of substantial forms, were parts of mechanistic and
+corpuscularian theories which sought to explain all physical phenomena in terms
+of the size, shape and motion of particles too small to be seen individually and
+which acted upon each other only by direct contact. These mechanistic theories
+achieved, depending
+upon ones outlook, either near universal acclaim or near absolute
+rejection amongst European intellectuals when Newton's
+_Principia Mathematica_ was widely recognised as laying out the fundmental principles which governed
+the motion of physical objects and the interactions between them. For though
+Newtonian mechanics explained physical phenomena in terms of the 
+taken to have laid out the fundamental principles which governed the motion of
+physical objects and the interactions between them, 
+
+reluctantly accepted that massive objects exert gravitational attraction upon
+each other at a distance without intermediary particlaes.
+
+While Newtonian mechanics and the discoveries of chemists who, following Boyle's
+exhorations to keep meticullous quantified records of experimental results, were
+supported 
 
 
-revived in medieval period
-Plato held the sensibilia to be flawed copies of the forms, but they were still
-the sufficiently similar to those perfect orioginals to lead the mind to think
-of them. We gain, or recollect, our concepts as a result of our senses and the
-concepts that we deploy are the same 
-Aristotelian epis
-The ancient epistemology relied upon knowing minds having direct contact with
-the properties the fac that the kind had direct contact
-with the propert
-The developing scientific theories concerning the
-processes giving rise to experience,
-directly contradicted the
+and Newton reluctantly accepted that massive objects 
+theories accepted or finally abandoned by
+European intellectuals, when Newton proposed his mechanical laws of motions and
 
-The new understanding of the physical, chemical and physiological process
-underlying perception, made it clear that what was going on at the surface of
+
+and the empirical evidence for their theories was largely restricted to plebian
+observations such as the fact that paving stones and plowshares are gradually
+worn away by rubbing even though individual rubs make ne discernable differnece.
+
+Even then it was more than a hundred years later that John Dalton
+assembled the experimental data that established the 
+the law of small proportions, and thereby provided the key 
+evidence that the physical objects around us were composed of compounds in which
+fixed combinations of undivided elemental atoms were somehow bound together to
+form molecules.
+
+
+
+While it was the weight of supporting empirical evidence which eventually ????,
+it is striking just how little weight the early mechanists
+
+The human body had been a focus of mechanistic philosophers, since its capacity
+for movement seemed to be an exception to the principle that a body could only
+be caused to move by the impact of some external body on it.
+
+Though our current theories concerning the role of nerves in transmitting
+signals from our sensory organs to the brain are justified by experimental
+results (and other observations) it is striking just how little the initial
+development of such theories relied upon empirical evidence.
+
+
+
+
+For all that it was the eventual weight of empirical evidence that eventually
+decided in favour of the 
+
+
+although Gassendi talked a great deal about basing theories on the evidence of
+the sneses, the actual evidence he presented for his atomism was paltry.
+
+???? mechanistic views
+the first view after aristotle - the first modern theories concerning the human
+body sought to give mechanistic explanations.
+
+For as for those that say any thing may be moved or produced by it Self, by
+Species, by its own Power, by Substantial Forms, by Incorporeal Substances, by
+Instinct, by Anteperistasis, by Antipathy, Sympathy, Occult Quality, and other
+empty words of Schoolmen, their saying so is to no purpose.
+Hobbes 1656 Elements of philosophy
+
+The cause of Sense is the Externall Body, or Object, which presseth the organ
+proper to each Sense, . . . which pressure, by the mediation of the Nerves, and
+other strings, and membranes of the body, continued inwards to the Brain and
+Heart
+hobbes leviathan
+
+For Hobbes:
+mechanistic materialism is not simply a plausible metaphysical thesis or a
+well supported empirical generalization. Rather, it is a conceptual truth that
+follows ineluctably from definitions of key concepts.
+
+
+In a notable demonstration of humility Boyle refuses to decide between Gassendis
+atomism and Descartes, on the gournds that there is insufficient empiricla
+evidence to decide the matter. (Perhaps the chief difference among many, was
+that Gassendi affirmed the existence of void or empty space which Descartes
+denied.)
+
+Harveys theory of the cirulation of blood, in which blood pumped was pumped
+through veins and arteries bny the muscular contractions of the heart, ws a
+breakthrough. was seized upon by early proponents of the new mechanical
+philosop-hy which sought to erxplain all phyusical phenomena 
+sought to exaplin all natural phenomena in terms of the shape, size, position
+and motion of physical particles which were too small to see and exerted forces
+on each other solely through direct contact.
+
+It had however a signal defect. It proposed that 
+Mechanistic accounts of expansion due to the application of heat were proposed
+by Boyle
+
+The lack of a remotely plausible mechanistic account of 
+the lack of a remotely plausible way of accounting for contractions
+Descartes. Springs, released from tehsion might spring back into their smaller
+shape, but there was no known mechanism for
+
+and it was for this reason that Descartes, though he accepted the rest of
+Harvey's theory, proposed instead to explain 
+
+hence the focus on muscular movement and the importance of Galvani's discovery
+that a touch from a iron? pointer in contact with a bronzehook? would cause a frogs l;eg
+to twitch. ????1771
+
+and Volta's subsequent demonstration that this electric was the product of
+iteraction between the dissimilar metals and not, as Galvani had thought, due to
+the release of some <q>animal electricity</q> that had been stored
+stored within organic tissue
+
+
+That the sensory nerves tranmittewd elecgtrical s=ognals from the sense organ to
+the brain was  .aterr development ????? but it was essential to all thesde
+mechanistic philosophies/naturasl philosophies
+
+
+while it was not until 1832 that Fzaraday established that the phenomena of
+static electricity, magnetically induced charges and chemically produced charges
+were all ???the same ????
+
+
+
+
+
+??????????????????????????
+Building upon investigations into automata, and the mechanics of muscular and
+skeletal frameworks undertaken in the Renaissance, scientific discoveries
+concerning the mechanical, chemical and electrical physiological processes
+underlying perception,
+
+
+
+Volta's invention of pile batteries in 1800 (layers of copper, zinc and brine soaked
+cloth) was originally constructed to show that the movements Galvani observed 
+
+???? great leap forward in understanding
+
+and supported by repeated
+experimental results and issuing in predictions so reliably fulfilled that their
+rejection was untenable,
+
+made it clear that what was going on at the surface of
 well lit objects was wildly different to the streams of particles or waves that
 traveled from those surfaces to our eyes, which was wildly different to the
 electro-chemical reactions in our retina, which was wildly different again to
-the electrical signals that traveled from those retina to our brains. Hume went
-so far as to consider the mental processes of thinking and sensing themselves to
-be mechanical processes and hence subject to faults like all other mechanisms.
+the electrical signals that traveled from those retina to our brains.
+
 Even if the eventual sensations that these processes led up to were in
-non-physical minds, however, the illusion that our minds had anything remotely
+non-physical minds, the illusion that our minds had anything remotely
 describable as direct contact with the properties of the objects around us was
-irretrievably shattered. For a while, it was thought that the old account might
+irretrievably shattered.
+
+???? one does not intuit the gravitational constant. Nor that surfaces that are
+red (under a given illumination and background) 
+red ligh
+radically different implementations. cannot discern the necessary co0nnections
+between say, moving a chrged pariticle from one eletron shell to another, and
+emitting a particule of light. Nor any similarity between light and the changing
+fields caused by moving charged particles.
+
+???? lingered as a theory of consciousness/phenomenology
+For a while, it was thought that the old account might
 yet be true of knowledge of one's own psychological states, and hope remained
 that mental objects might be known with the same certainty and directness that
 had been attributed to our knowledge of the properties (if not the objects)
@@ -325,13 +542,41 @@ that our knowledge of many of our own mental states was fallible) and
 Wittgenstein's suggestions that ascriptions of mental states were justified not
 by private experiences but rather by public behaviour.
 
-but the very
-success of those theories made denying their status as knowledge increasingly
-untenable. Where ancient skeptics had been prepared to denounce all judgement
-as mere opinion, the manifest success of 
+even if
+Whether the traditional account
+???? Even at the time
+Hume went so far as to consider the mental processes of thinking and sensing
+themselves to be mechanical processes, and hence subject to all the faults of
+other mechanisms. He came to the misguided conclusion that the more often 
 
-the problem mat be put another way. All of the obejcts discovered by science,
-with the possible exception . 
+We are left without an explanation of our capacity to reason, why our reasoning
+about say, the dimensions, the interplay 
+that 7 + 5 = 12
+triangles interior angles sum to two right angles
+
+
+However, we do not need to take our present inability to explain
+how it is that our reason gives creedence to our conclusions. We can merely note
+that we are not currently able to explain this capacity without that casting
+doubt on the capacity itself.
+
+There is however, a more 
+
+=== Insensitive to necessity and possibility ===
+Our understanding of the particular processes underlying our sensory
+capacities is one reason why our scientific understanding of perception is
+wildly at odds with the traditional account of reason, it is not, however the
+most fundamental.
+There is however a far more general and fundamental problem
+The objects 
+
+In our reasoning capacities we appear to display a sensitivity to possibility
+and necessity that is unlike any of the objects revealed to us by scientific
+investigations.
+
+All of the obejcts discovered by science,
+with the possible recent exception of Quantum mechanics (hose such as Penrose
+have sought to link these two phenomena)
 
 At least up until the the beginning of the twentieth century all of the objects
 postulated in our scientific theories were utterly unresponsive to mere
@@ -350,15 +595,16 @@ and events present and past; the looming of dark clouds, the weather reporters
 confident assertion that it will rain later in the day and so on. More
 substantially, a reasoning mind was sensitive to whetehr or not a ????
 
+
 possible or impossoble. 
 accordining to the traditional view a reasoning mind might discern that some
 states of affairs were possible while other could never come to pass.
 
-There again those who find in this difference reason to suppose that the inner
-workings of the mind must be forever
-mysterious??impenetrable??unfathomable??impervious to scientific investigation. 
+= upshot =
+the result is that we live in a house divided against itself. Best theories of
+the external world radically at odds with our best exclamations of our capacity
+to reason.
 
-== upshot ==
 The first problem establishes that the traditional account is not complete, and
 that there are other forms of knowledge which are not justif
 
@@ -367,23 +613,272 @@ The second problem show
 Of these two problems it is the second which is more pressing
 
 == philosophical movements ==
-all the major philosophical movements in the western tradition since 1650 have
+
+all the major philosophical movements in the western tradition since 1650 (with
+the possible exception of Marxism) have
 been attempts to resolve this problem.
 
-Hume Locke
+Descartes, even if he was the first to realise yet hopes that faith in God
+might bridge the gap between. The first to realise that this chasm was
+unbridgeable, howeer, was hume.
+ 
+We may note that at this point Hume somewhat overplayed his hand.
+
+Hume thus points out, though we may note that Hume was overly skeptical -
+repeatedly getting the same answer does give us cause to belive that machines
+answer _if we have any reason to give it some credence (i.e. a greater chance
+than pure random of being right). 
+
+Hume was among the first to recognise the depth of the issue. If the mind were a
+mere mechanism then the beliefs it formed  could have no higher claim to truth
+than mere habit, and was prey to all 
+drove him back to the backgammon tables
+
 Kant
+always unhappy. Trapped between the scylla of complete idealism, according to
+which the world was a mere phantasm without substance, and charybdis 
+posited unknowable <q>things in themselves</q> abotu which mothgin more can be
+said than that they lay behind their appearances.
+
+euclidean geometry was liable to empirical disproof in a way that Kant had
+maintained was impossible.
+
 Wittgenstein and analytic philosophy
 
+Even the existentialists and their descendants/fellow travellers who appear to
+be one of the only two exceptions to this principle rely upon the appeal of the
+
+with the possible exception of Marxism((In _Capital_ Marx attempts to give his 
+<q>scientific analysis of competition</q> the status of a scientific theory. At
+other times he describes science as a tool of capitalism <q>Where would natural
+science be without industry and commerce? Even this ‘pure’ natural science is
+provided with an aim, as with its material, only through trade and
+industry.</q>[_The German Ideology_] Marxists, as might be expected, remain
+fiercely divided on the issue. Here, as elsewhere, Marxism is best regarded as a
+political movement willing to make use of whatever intellectual currents look
+like they may help it achieve its political ends.))
+
+So called continental philosophy might also be an exception (or at least there
+might be a diversity of opinion given the pride continental philosophers take in
+their pluralism), but in fact the opposite is the case. Continental philosophy
+
+If Derrida has a sense that signs and signifiers are necessarily connected with 
+
+ancient account of knoweldge and reasoning within the humanities in general (and
+the study of literature in particular) to insist that modern science and its
+world of things leaves something out of its account of the world (some feature
+of human minds that it is unspeakably demeaning to omit). Marxism is perhaps the
+only exception, focused more upon, but even there its adherents are apt to see
+science as a social structure
+one hand
+
+The ancient atomists did recognise the problems alluded to above.
+<q>by convention color, by convention sweet, by convention bitter, but in reality
+atoms and void</q>
+
+<q>Wretched mind, after taking from us your evidence, do you overthrow us? Our
+fall will be your defeat!</q>
+
+== social effects of the collapse ==
+It is common for obsessives that they each see their own particular bete noire
+as the root of all of the problems of their society (see Russells nutter :todo: find ref
+fiction work?).
+take seriously this possibility, and hence the reader may be in a better
+possition to judge the case than I. But it certainly appears to me that the
+lack of broadly accepted standards of reasoning in our society is one =of the
+key factors behind the extraordinary differences of view between 
+political disputes
+appears to have a delthose periods where there was a broadly shared consensus
+about the fundamental principles upon which reasoning is based app
 
 
-== addenda ==
-=== social effects of the collapse ===
+= The task is to reunite the divided house. =
+The problem to which this treatse is addressed
 
-It is a commonplace of obsessives that they see their own particualr bete noire
-at the root of evils of all types (see Russells nutter :todo: find ref fiction
-work?), but lack of broadly accepted standards of reasoning appears to have a
-delthose periods where there was a broadly shared consensus about the
-fundamental principles upon which reasoning is based app
+to reunite the house divided
+
+no doubt the ultimate vindication will come
+
+What it is that they have to implement. Whether the capcity to reason can even
+be described as a pattern of behaviour.
+
+
+option 1
+scientific accunt, i.e. an acocunt of how the objects postulated in our
+scientific theories might implement a reasoning mind. How it is the creatures
+capable of reaosning liek us might be made out of neuronws, atoms,
+
+
+option 2 a second magisterium
+accept that science is partial
+
+but still left needing to explain how these fields interact.
+
+despite the load bemaoning of the anti-intellectualism rife in modern western
+culture,**
+It certainly appears that our reasoning does at least occasionally give rise to
+action 
+
+the difficulty manifest itself
+as a problem of dualism.
+
+we need a different account of how it is that we have the desired
+consilience/consensus/correspondence** between the non-natural objects whereby
+we think and perceive the world and the natural objects which science depicts.
+
+option 3
+insist that the traditional view must be correct, since science continues to
+rely upon it, and hence that objects that are sensitive to reasons and not just
+causes (as those who favour this view tend to say) must be susceptible of
+scientific investigation. Phenomenalism occasionally pretends to aspire** to
+this goal.
+
+simply to insist that the traidtional account
+where careful attempts at reconciliation have failed bulletproof confidence may
+yet save the day. Such is the approach
+
+option 4 live with it
+science is just another narrative. Answerable only to the traditions of the
+community of its practitioners.
+
+not really an option
+
+???? Unlike Hume we do not have do doubt our own reasoning capacity while we engage
+in the project. Our proess may bne the opposite of Descartes. We may retain
+faith .
+
+Our inability
+
+There again those who find in this difference reason to suppose that the inner
+workings of the mind must be forever
+mysterious??impenetrable??unfathomable??impervious to scientific investigation. 
+
+
+= where to next =
+This work can, of course, be read in any order, and it is hoped that an
+inquisitive reader might ramble over these interconnected notes in whatever
+order satisfies their curiosity. However, if desired, it can be read as a book
+in a linear sequence which covers all the main theses and almost all of the
+entries.  That order is the following sequence of <q>trails</q>, which are
+themselves connected sequenes of entries that build up to advance a distinct
+thesis or, in the case of the [[history_trail]],.
+
+1. [[history_trail]]
+2. [[semantic_holism_trail]]
+3. [[quines_errors|quines_errors_trail]]
+4. [[mental_objects_trail]]
+5. [[intuition of necessity trail]]
+
+This work can be almost entirely read in a linear order. The starting point is
+
+Readers who are either unaware of the historical development of answers to this question in
+the western intellectual tradition, or those who are so familiar with those
+historiocal
+landmarks of that development that they can use 
+
+
+use partial/biased/motivated re-description of landmarks of that history development to orient themselves to the current
+work
+to orien
+that gthey can use the version well acquainted with that
+history and wish to 
+can use a re-description of the major landmarks
+wish to orient themselves to this treatise 
+
+perhaps start the historical trail with the before times. 
+
+== responses to superficial objections ==
+=== No single <q>traditional view</q> ===
+
+particularly those who are tempted to take option 4 above
+
+To a first approximation, the phrase <q>traditional view</q> may be taken as
+referring to Aristotle's epistemology, and if the claims made here about the
+<q>traditional view of reasoning and knowledge</q> are not reasonable
+interpretations of Aristotle's views on epistemology (and have been taken to be
+reasonable interpretations of Aristotle's views for large swathes of
+European/Arabic intellectual history) then those claims are straightforwardly
+false. A positive point to be made in this connection is how well Aristotle's
+talk of _epagōgē_ (usually translated as <q>induction</q>) comes out if one
+focuses on geometry. That a circle is a group of points equidistant from a
+common center, is neither an inductive hypothesis (such as all swans are white)
+nor easily read as a definitional truth (such as composite numbers are divisible
+by numbers other than themselves and one). It seems reasonable to suppose that
+at least one person realised, after repeatedly viewing (more or less rough)
+circles and categorising them together, that each circle marks out objects (or
+parts of objects) that are (more or less roughly) equidistant from a common
+centre; and from time to time the same realisation may occur independently to
+other people.  Indeed, it appears to be a defect in <q>definitional</q> accounts
+of concepts (according to which the concept of a circle _is_ the concept of a
+set of points equidistant from a common centre) that they preclude a person
+having the idea of a circle, (i.e.  realising that the circles they saw about
+them were all members of a common category and, so to speak, <q>had something in
+common</q>((Or in the terms of the traditional view, _instantiated the same universal_.)) ) without realising this relationship between circles and their
+centres (and also rendering the repeated perception of circles, prior to
+grasping this definition, irrelevant to coming to have the concept CIRCLE).
+
+Now we are going to regard this unreformed talk of <q>the idea of a circle</q>
+and concepts, and <q>having things in mind</q> and <q>grasping concepts</q> as
+deeply suspicious, and beware of using this way of describing the realisation
+that circles are sets of points equidistant from a common centre to smuggle in
+some dubious epistemological theory. But nor should we trust any epistemological
+theory that makes it impossible to express this point in some form or other. It
+may be that there are no such things as concepts, or indeed properties, but
+there must be some way to express the claim that someone may conceive of circles
+without realising that they (roughly) mark out objects or parts of objects that
+are equidistant from a common centre. Indeed achieving this will turn out to
+be one of the final tests of the positive account offered in this treatise.
+
+For the moment, however, the purpose of this addendum is to head off a certain
+tedious kind of objection to the use of the phrase <q>the traditional account of
+knowledger and reasoning</q>. This objection is simply that there was no single
+unitary traditional view at all, but rather a range of disparate traditional
+views across Western (and Arabic) intellectual history, of which no one warrants
+being singled out as <q>the traditional view</q>
+even Aristotle's, for there are a range of interpretations of Aristotle) . This
+is, of course true, but those who make such an objection fail to take their own
+account to heart. I accept Quine's claim that views, like stories and musical
+themes, are things that simply cannot be counted. One can of course count people
+
+and hence that the use of the definite article is no more objectionable that
+the use of a plural.
+
+Thus by the phrase
+
+that views such as this were endemic throughout nearly all of western Arabic
+intellectual history from Plato up until Descartes
+
+The ancient atomists did recognise the problems alluded to above.
+<q>by convention color, by convention sweet, by convention bitter, but in reality
+atoms and void</q>
+
+<q>Wretched mind, after taking from us your evidence, do you overthrow us? Our
+fall will be your defeat!</q>
+
+But of the explanation of the manifest image and how our reasoning about the
+ordinary objects we find about us, the widley influential views possess the
+features attributed above to <q>the traditional view</q>. Or, again, to partly
+clarify the the claims made concerning <q>the traditional view</q> by clearly
+specifying some conditions that would make them false: if there were a widely
+influential view commonly accepted among many philosophers in the Arabic/Western
+tradition which offered to explain our capacity to reason, and offered an
+alternative account of the justification of our knowledge of the objects around
+us, but which did _not_ also hold that 
+
+The exclusion of religious views
+Non-religious, not because religion is irreivant to the traidtional view, or (as
+is obvoously the case with St Aquinas) deeply intertwined with developments in
+this view, but because religion rejects the manifest image .
+This is not to deny the importance that thinkers such as Ibn Sina, Augustine
+and Aquinas placed upon reconciling our knowledge of objects around us through
+sensation and reason with theological and religious doctrine. No doubt there
+were significant religious thinkers
+but to exclude those religious theories according to which the immanent view of
+the qworld is radically false.
+
+THis is not to deny that some such alternative views did exist among
+philosophers. In particular, as noted [[#2nd problem: the content of scientific theories|above]],
+the atomists 
 
 === What counts as knowledge? What counts as reasoning? ===
 Someone who has survived a modern day university arts course, or engaged with
@@ -420,7 +915,6 @@ examples. Iboth chinese mathematicians and those of the
 These must all count as reasoning, and
 the claims issued must in some sense count as true.
 
-
 Whatever is going in these exemplars had better count as
 reasoning.
 
@@ -435,71 +929,4 @@ preconceptions, let us take our amazing success in producing knowledge in
 geometry, mathematics, science and everyday life as more certain than any
 philosopher's crazy theory.
 
-============
-= CURRENT NOTES =
 
-It might be thought that this is all old news, that the collapse we are
-describing is simply the scientific revolution described from the losing
-side. and that the methods of philosophy were simply superseded by those of
-science.
-
-But it is that the revolution did not go deep enough.
-
-Belief in the scientific method, is itself a kind of a projection of the old
-scheme onto new materials. The hope that there might be some principles of
-so-called abductive or inductive reasoning, rules for deriving general formulas
-from finite observations; rules as clearly and definitely describable as the
-princples of classical deductive logic but justifying less than absolute
-certainrty in their conclusions.
-
-as though somehow philosophers had just set their sights too high, or (somewhat
-more plausibly) had overlooked that importance of assiduously pursuing
-observations that would falsify our theories. While both these things are
-doubtless true, the kind of knowledge that
-
-low hanging fruit now taken????
-
-A solution to this puzzle is highly unlikely to provide much in the way of
-useful guidance to practicing scientists. The combination of
-
-scientists and others could simply dispense with any strict account of what
-constituted good reason than plain common sense and the classical deductive
-logic. No such principles were forthcoming (indeed the lack of them is one of
-the enduring ) what is to be found here is not 
-
-but although we no longer accepted that classical account of reasoning we could
-still use its results (and those of its subsequent refinement into modern formal
-logic)
-
-
-
-
-= where to next =
-Those who wish to can read this work in a linear sequence of a traditional book.
-That order is the following 
-which covers all the main theses advanced and almost all of the entries. That
-order is:
-
-1. [[historical_trail]]
-2. [[semantic_holism|semantic holism trail]]
-3. [[quines_errors|quines_errors_trail]]
-4. [[mental_objects_trail]]
-5. [[intuition of necessity trail]]
-
-This work can be almost entirely read in a linear order. The starting point is
-
-Readers who are either unaware of the historical development of answers to this question in
-the western intellectual tradition, or those who are so familiar with those
-historiocal
-landmarks of that development that they can use 
-
-
-use partial/biased/motivated re-description of landmarks of that history development to orient themselves to the current
-work
-to orien
-that gthey can use the version well acquainted with that
-history and wish to 
-can use a re-description of the major landmarks
-wish to orient themselves to this treatise 
-
-perhaps start the historical trail with the before times. 

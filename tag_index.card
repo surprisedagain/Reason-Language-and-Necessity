@@ -14,23 +14,21 @@ Index of all the tags in this cardbox
 %% !grep -ho ':\w*:' * | sort | uniq	# list all tags
 
 = Generated Tags =
+== [[history_trail]] ==
+    - [[under_determination_of_theories]]
+
 == ancient ==
     - [[meno]]
     - [[plato]]
 
-== annoyance ==
-    - [[trials_and_tribulations_of_being_a_semantic_holist#annoyance]]
-
 == article ==
     - [[truths_of_reason_by_chisholm]]
+    - [[were_right_theyre_wrong]]
     - [[were_right_theyre_wrong_by_van_inwagen]]
 
 == book ==
     - [[critique_of_pure_reason]]
     - [[tractatus]]
-
-== demotag ==
-    - [[01#demotag]]
 
 == draft0.0 ==
     - [[00]]
@@ -38,9 +36,14 @@ Index of all the tags in this cardbox
     - [[analytic_philosophy]]
     - [[cogito_ergo_sum]]
     - [[computational_complexity_for_philosophers]]
+    - [[descartes]]
     - [[experience_cannot_justify_knowledge_of_necessity]]
+    - [[kant]]
     - [[objects_of_belief_trail]]
     - [[observation_sentences]]
+    - [[semantic_holism]]
+    - [[under_determination_of_theories]]
+    - [[why_postulate_external_objects]]
 
 == draft0.1 ==
     - [[cogito]]
@@ -50,6 +53,7 @@ Index of all the tags in this cardbox
     - [[introspection_not_admissible_evidence]]
     - [[plato]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[were_right_theyre_wrong]]
     - [[were_right_theyre_wrong_by_van_inwagen]]
     - [[wittgenstein]]
 
@@ -78,7 +82,9 @@ Index of all the tags in this cardbox
     - [[an_introduction]]
     - [[analytic_philosophy]]
     - [[cogito]]
+    - [[historical_trail]]
     - [[history_trail]]
+    - [[kant]]
     - [[main_introduction]]
     - [[meno]]
     - [[plato]]
@@ -103,7 +109,10 @@ Index of all the tags in this cardbox
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == key_thesis ==
-    - [[semantic_holism]]
+    - [[semantic_holism_trail]]
+
+== mental_objects_trail ==
+    - [[mental_objects_trail]]
 
 == modality ==
     - [[inconceivability_guide_to_impossibility]]
@@ -133,6 +142,7 @@ Index of all the tags in this cardbox
 
 == quines_errors_trail ==
     - [[observation_sentences]]
+    - [[quines_errors]]
     - [[quines_errors_trail]]
 
 == representation ==
@@ -142,11 +152,13 @@ Index of all the tags in this cardbox
     - [[truths_of_reason_by_chisholm]]
 
 == roughNotes ==
-    - [[were_right_theyre_wrong_by_van_inwagen#roughNotes]]
+    - [[were_right_theyre_wrong#roughNotes]]
 
 == semantic_holism_trail ==
-    - [[semantic_holism]]
+    - [[epistemic_triangle_of_language_learning]]
     - [[semantic_holism_trail]]
+    - [[semantic_holism_trail#semantic_holism_trail]]
+    - [[under_determination_of_theories]]
 
 == sociology ==
     - [[overvalues_innovation_and_undervalues_maintenance]]
@@ -162,11 +174,12 @@ Index of all the tags in this cardbox
     - [[meno]]
     - [[tractatus]]
     - [[truths_of_reason_by_chisholm]]
+    - [[were_right_theyre_wrong]]
     - [[were_right_theyre_wrong_by_van_inwagen]]
 
 == todo ==
-    - [[critique_of_pure_reason#initial notes#philosophers dogmatism]]
-    - [[main_introduction#todo]]
+    - [[critique_of_pure_reason#todo]]
+    - [[main_introduction#upshot#social effects of the collapse]]
     - [[philosophers_dogmatism#todo]]
     - [[plato#todo]]
 
@@ -175,11 +188,14 @@ Index of all the tags in this cardbox
 
 == trail ==
     - [[quines_errors_trail]]
-    - [[semantic_holism_trail]]
+    - [[semantic_holism_trail#trail]]
 
 == trail_hub ==
+    - [[historical_trail]]
     - [[history_trail]]
-    - [[semantic_holism]]
+    - [[mental_objects_trail]]
+    - [[quines_errors]]
+    - [[semantic_holism_trail]]
 
 == under-determination ==
     - [[cogito]]
