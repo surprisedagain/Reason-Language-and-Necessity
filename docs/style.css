@@ -168,14 +168,13 @@ body > p:has(.tag):first-child + div > h1 {
  * Anchor section
  ******************/
 :not(.header) > a {
-  background-color: #246eb9;
-  border-radius: 3px;
-  padding: 2px 4px;
-  font-family: "Helvetica", "sans-serif";
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: white;
-  text-decoration: underline;
+    padding: 0px;
+    background-color: transparent;
+    font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
+    color: inherit;
+    font-size: inherit;
+    text-decoration: underline;
+    font-weight: normal;
 }
 
 :not(.header) > a:hover {
@@ -188,14 +187,15 @@ body > p:has(.tag):first-child + div > h1 {
   color: inherit;
 }
 
-a.light {
-    padding: 0px;
-    background-color: transparent;
-    font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
-    color: inherit;
-    font-size: inherit;
-    text-decoration: underline;
-    font-weight: normal;
+a.heavy {
+  background-color: #246eb9;
+  border-radius: 3px;
+  padding: 2px 4px;
+  font-family: "Helvetica", "sans-serif";
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: white;
+  text-decoration: underline;
 }
 
 a[href^="http"] {
@@ -204,23 +204,17 @@ a[href^="http"] {
     font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
     color: inherit;
     font-size: inherit;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: normal;
 }
 
-a[href^="http"].light{
-    text-decoration: underline;
-}
-
 a[href^="http"]::after {
+    display: inline-block;
+    width: 0;
     content: "ext";
-    text-decoration: underline;
     vertical-align: super;
     font-size: x-small;
-}
-
-a[href^="http"].light::after {
-    text-decoration: none;
+    margin-right: 1em;
 }
 
 /*****************

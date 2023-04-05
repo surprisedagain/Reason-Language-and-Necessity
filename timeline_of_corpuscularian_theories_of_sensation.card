@@ -3,24 +3,35 @@
 ====== short ======
 a rough timeline of some of the key events in the development of theories
 according to which sensory organs (for senses other than touch) respond to the
-impingement of sub-visible corpuscles on their sensory surfaces by sending
-signals to the brain or heart.
+impingement of sub-visible corpuscles by sending signals to the brain or heart.
 
 = main =
 * 1600 W Gilbert _De Magnete_ - non mechanical account of magnetism
 		later incorrectly re-explained as due to corpuscles by Descartes
+* 1604 Galileo states principle that distance traveled by <q>naturally</q>
+		accelerating object are proportional to the square of the time in letter
+		Paolo Sarpi. First use of a formula to describe physical motion?
+* 1616 the Congregation of the Holy Office proclaims the heliocentric theory
+		<q>absurd and false in philosophy</q> Galileo warned not to hold or defend
 * 1618 Isaac Beeckman meets Descartes in the Netherlands
 * 1618 Daniel Sennert _Epitome scientiae naturalis_ -
 		experimental support for atomism - reduction to the pristine state
 		supports <q>the theory of compounds</q>
 * 1621 Bassoon _Philosophiae naturalis adversus Aristotelem_
 * 1621 Gassendi names aurora borealis.
+* 1623 Galileo _the Assayer_ - main focus on sensations and real properties
 * 1624 Gassendi _Exercitationes paradoxicce adversus Aristoteleos_ - mentions
 		microscopic observations of the organs of mites
 * 1628 Harvey's theory of circulation of the blood
 * 1629 Gassendi explains sun dogs (parhelia) as due to reflection of light by
-		ice crystals at high altitude.
-* 1630 Descartes _La monde_ written but unpublished
+		ice crystals at high altitude. Notable public viewing of sun dogs in Rome
+* 1630 Descartes _La monde_ written but unpublished due to condemnation of
+		Galileo
+* 1633 Galileo condemned for _Dialogue Concerning the Two Chief World Systems_
+* 1630-35? Descartes _Traité de l’homme_ description of mechanical human
+		unpublished due to condemnation of Galileo
+* 1638 Galileo
+		_Discourses and Mathematical Demonstrations Relating to Two New Sciences_
 * 1642 Hobbes _De Cive_
 * 1644 Descartes _Principia Philosophae_
 * 1649 Gassendi wrote _Syntagma philosophiae Epicuri_ published 10 yrs later
@@ -39,24 +50,38 @@ signals to the brain or heart.
 		cannot follow such vastness
 * 1661 Boyle _Sceptical Chymist_ - theory of heat expansion explicit but was
 		already loosely described by Descartes
+* 1665 Robert Hooke first observes cork cells
 * 1687 Newton _Philosophiæ Naturalis Principia Mathematica_
 		- three laws of motion explicit
+* 1745 Leyden jar invented. Key development in the study of electrostatics.
 * 1756 Mikhail Lomonosov first outlines the principle of conservation of
 		mass during chemical reactions
+* 1757 Haller - Irritability and sensibility. Muscles are irritable because they
+		shorten when stimulated. Muscular contraction a subject of enquiry.
 * 1771 Galvani - anecdote about noticing frog leg twitching
+* 1774 Lavoisier - states the law of conservation of mass in chemical reactions
+		also experiments supporting the oxygen theory of combustion
 * 1791 Galvani _De viribus electricitatis in motu musculari commentarius_
 * 1797 French chemist Joseph Proust - The law of definite proportions
-* - writtei 1800 Volta - constructs first pile battery to demonstrate not animal
+* 1800 Volta - constructs first pile battery to demonstrate not animal
 		electricity
-* 1804 Dalton - the law of multiple proportions:
+* 1804 Dalton - the law of multiple proportions - decisive in the case for
+		atomism:
 		if two elements form more than one compound, then the ratios of the
 		masses of the second element which combine with a fixed mass of the
 		first element will always be ratios of small whole numbers.
 * 1832 Faraday - shows that charges induced by friction (static electricity),
 		magnetical induction and chemical reactions are all electrical charges.
-
-
-Of particular note:
+* 1873 Golgi develops the <q>black reaction</q> which enables complete neurons
+		to be coloured and studied under a microscope. (Particularly difficult
+		due to enmeshed dendritic connections and axons.)
+* 1887 Cajal discovers synapses. Discredits the reticular theory which held
+		nerves to be completely connected in a continuous network.
+* 1952 Hodgkin-Huxley model of the initiation and propogation of action
+		potentials (electrical charges/signals) though neurons (and to muscle cells)
+ 
+  
+== of particular note ==
 Gassendi's main argument for beliving in sub-visible particles is that paving
 stones and plowshares gradually wear away because of constant rubbing even
 though individual acts of rubbing produce no discernible change.
@@ -69,6 +94,14 @@ upon Zeno's paradox.
 
 Gassendi's belief in the void is largely, though not entirely, based upon
 consideration of the space (void) at the top of mercury barometers.
-= other related cards =
 
+Galileo came to realize that acceleration was not an accidental property of the
+motion of fall, but was governed by a simple mathematical law. In a 1604 letter
+to Paolo Sarpi, Galileo stated that the spaces traversed in a naturally
+accelerated motion are to each other as the squares of the times. Galileo
+curiously derived the correct law from the false assumption that the speed of
+fall grows in proportion to the space traversed, rather than to the time
+elapsed.
 
+= related cards =
+[[main_introduction]]

@@ -6,7 +6,7 @@
 
 = todo =
 [[main_introduction]]<br>
-[[explanation_of_first_principles_flawed]]<br>
+[[problem_of_first_principles]]<br>
 [[truths_of_reason_by_chisholm]]<br>
 [[cogito]] - historical trail<br>
 [[computational_complexity_for_philosophers]]<br>
@@ -47,7 +47,7 @@
 = quick markdown guide =
 == links ==
 [[linkname|different text from link]]
-{[[light link]]}
+{[[heavy link]]}
 file link: [[local:zz.texts/authorYear.titleOfWork.pdf]]<br>
 [[cardname#anchor]] anchors are headings or even bold text<br>
 {{embed image in page.png}}<br>
