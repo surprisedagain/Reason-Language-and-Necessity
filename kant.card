@@ -6,22 +6,46 @@ modal connections of objects
 
 a part of the {[[history_trail]]}
 = main =
-It would be fair to say that there is a Kant sized hole in the current work. No
-serious attempt is made to engage in significant textual analysis
+There is, in many ways, a Kant sized hole in the current work. Kant is the
+developer of the last attempt 
 
-More than any other philosopher
-There is a Kant sized hole is the current work.
-
-None of the criticisms
+the reason for doing so are simple.
 
 
-= problems =
+= theses =
+== the antinomies ==
+these all hinge on infinity and in a way on the leap from recursive to
+recursively enumerable. (an infinite number of things each reachable in a finite
+number of steps. There is no bound, yet there is no infinitely long path.)
+
+there is a modern day antinomy - a problem of continuous acceleration which
+arises as a problem of non-deterinism in classical mechanics:
+see https://plato.stanford.edu/entries/determinism-causal/#ClaMec
+but it is a mistake to think that relativity with its maximum bound of the speed
+of light avoids the problem
+
+consider an object in whcih the curve from that link is the speed as a
+propostion of the speed of light. There is no moment at which it achieves that
+speed (open side), but there is a first moment at which it is either at the
+speed of light or no longer exists. How would this look from various reference
+frames?
+
+how we accelerate such an object - by hitting it with light. From its
+perspective it slows down and its time cone does not include ouers.
+
+take the slice of all contemporaneous ST points from a given refernce frame.
+There is a <q>perpendicular vector</q> to that slice which is the timelike
+direction. hmm can see why gravity would be a problem - curved spacetime might
+deprive us of the notion of a perpendicular.a
+
 = fixed list of concepts=
 Althought neo-kantians attempted to make a virtue of thie flaw,  <q>to
 understand Kant means to go beyond him</q>((Windelband 1915))
 
 Philosophers could not rest content with Kant's fixed list of concepts. But if
 Klant could be mistaken about these concepts
+
+= criticisms =
 
 == is reasoning phenomenal or noumenal process ==
 
