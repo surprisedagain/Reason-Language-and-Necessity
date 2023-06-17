@@ -9,13 +9,27 @@ find this a useful way to understand the version of [[semantic_holism_trail]] pr
 in these notes, as it is a close descendant of Quine's views.
 
 = introduction =
+Quine is quite simply not a very good semantic holist. Like many discoverers and
+pioneers he still had one foot in the old paradigm and does not 
 Quine made a series of errors in his account of holism, perhaps the most
 pernicious of which was his reliance upon reductive behaviourism to dismiss the
 intentional idioms (sentences 
 
 
 = sequence =
-[[observation_sentences]] barely started
+
+1. [[observation_sentences]]
+   There are two problems with observation sentences as Quine defines them in
+   _Word and Object_.
+   * The first concerns the connection between observation sentences and stimuli
+	 (or objects in whichever [[epistemic_bottleneck]] is under consideration)
+	 which is more diffuse than Quine claims.<br>
+	 [[penumbral_confirmation_conditions]]
+   * The second problem is one that Quine appears to recognised and struggled
+	 with throughout his later his career
+   
+
+
 quines_stimuli unwritten
 quines behaviourism
 
@@ -26,8 +40,113 @@ objects_of_belief_trail
 quines rejection of intensionality
     - if i were here attempting to give a physicalistic reduction of intensional
       terms then the reliance upon expectations. But here I am giving an account
-      of how, note also that I am not taking expectaions about the objects on
+      of how, a system which did have expectations of its inputs/stimuli could
+      come to have belief states best explined/theorised (????ugly) by the
+      positiing of intensional objects
+      
+      note also that I am not taking expectations about the objects on
       the far side of the relevant bottle neck. if we took the matter of
       expected course of evidence as epsitemically accessible to us.
+      
+      We have assumed that our access to the epistemic bottleneck is
+      uninteresting, and that remains unchanged, but our interest is not solely
+      in the relationships between evidence and states evidenced for. we are
+      as interested in the representations on this side  of the objects on the far side of the
+      epistemic bottleneck
+      
+      and the extent to which we our beliefs concerning the objects opn the far
+      side of the bottleneck may be justified. And what the relata of that
+      relationship are.
+
+== other disagreements ==
+=== are explicitly logical truth analytic ===
+response to _Carnap and Logical Truth_ and _Truth by Convention_
+
+One part of the problem is the reliance upon synonymy between non-logical and
+logical truths. This is the chief attack in _Two Dogmas_.
+
+If the notion of synonymy is not epistemically accessible, then we cannot get
+the second, larger class of analytic truths.
+
+In _Carnap and Logical Truth_ Quine focuses on the logical truths themselves.
+Does the claim that they are <q>true by virtue of meaning</q> or (not quite
+equivalent) must (***1) be held true by competent speakers or must be translated
+as true the doctrine that straight out explicit logical truths are analytic is
+now in question.
+
+Let us reflect on the various impediments to accounting for these truths as
+<q>true by virtue of meaning alone</q>.
+
+Even Quine admits there are inferential roles, they are part of the data the
+radical translator has access to, it is just that they are not enough to
+preclude the indeterminacy of translation (or what amounts to the same, to fix
+the meanings of the sentneces that are connected by those inferential roles.
+
+The class of sentences that all comptent speakers do, in fact, hold true is
+discernable. As is the class of sentences they would hold true as a result of
+any reasonably short stimulation/course of events. There are patterns in the
+senteces they hold true. They never hold true and sentence of the form 'p or q'
+with also holding ' not p' or 'not q'.
+
+So there are the inferences, in this case meaning nothing more than reliable
+patterns of assent and dissent to sentences among all competent speakers once
+their attention is drawn to such sentences, and bearing in mind the limitations
+of attention and cognitive power (i.e. judgeing a long and convoluted logical
+truth to be false does not disqualify a suggesated translation since it can be
+attributed to speaker error. We may need to assume, at least to start with, that
+all the speakers of the relevant community are competent, but we do not require
+them to be incapable of logical error.)
+
+(***1) what is the force of this must? Must be held true by competent speakers
+on pain of not being competent?  But all the traslator can determine is which
+sentences *are* held true by putative competent speakers.
+
+That there is a casual mechanism underlying these inferential patterns is almost
+unavoidable.
+
+Isn't this mere obviousness again, isn't a translation which renders some
+foreign speaker as dissenting from <q>Water is wet</q> just as unacceptable as
+one which 
+
+
+we can rely upon these patterns in formulating translations
+
+when pressed perhaps people (certainly me) think there is a range of possible
+histories, a person learning the langauge under a range of other possible world
+worlds learning the same langauge (yes this means in all of them water is H2O if
+you think that part of the meaning of water) but we cant turn around any rely
+upon a notion of possible world here from which we can construct analytic.
+
+But is this really a second problem. Suppose we had solved the synonymy problem.
+That for rach senternce we cold identify the class of synoymous sentences and to
+nearly all effects treat that as the meaning of those sentences. trasnaltion was
+determinate between these classes etc.,
+
+could we now say that the meaning of a logical compound sentence (A and B)
+(A or B) is compounded from the meanings of those sentences.
+
+now could we identify inferences between these classes.
+
+why pick out logical terms - proof procedure
+It is contingent in a sense that this level of complexity is required. The world
+oculd be at a different level of complexity as could our minds
+
+because if I did not hold tnhese my assents would not be held together by as
+proof procedure.
+I must be able to derive my assertions from a set of axioms - this is the only
+way I could do it. This will require something equivalent to first order logic.
+
+one way tpo above idea - consider the most logically detailed of all the members
+of a synonym class. if we deleted that one there would be some inferences we
+could not capture.
+
+==== self evident ====
+<q>There are words</q> is also self-evident but we would hesitate to call it
+analytic.
+
+We make a mechanism which respects semantic properties. Those patterns are built
+into the machine. Those other patterns are due to the inputs. We only get
+certain inputs into the machine - so regularities in its outputs cannot be
+attributed to just one of these factors.
 
 

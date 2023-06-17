@@ -1,11 +1,47 @@
 :semantic_holism_trail:trail_hub:key_thesis:
 = Semantic Holism Trail =
 === short ===
-This trail leads from a description of evidence 
+Semantic holism is the doctrine that the primary bearers of meaning are whole
+theories and not individual sentences.
 
-Semantic holsim is a doctrine about the relationship between 
-The principle that the primary bearers of meaning are whole theories and not
-individual sentences.
+This trail leads from a description of evidence to an argument for semantic
+holism and thence to some of semantic holism's consequences.
+
+= sequence =
+1. Confirmation Holism
+   Confirmation holism is the doctrine that the entities con/infirmed by
+   evidence are whole theories. In order to clarify this doctrine we start by
+   clarifying the notion of evidence relative to one or another epistemic
+   bottleneck:
+    * [[epistemic_bottleneck]]
+   
+   Confirmation holism is a doctrine about the complexity of the relationship
+   between . Under what circumstances must be sue a confirmation 
+   Using the notion of an epistemic bottleneck and evidence, we can now consider
+   the complexity of the relationship between
+   
+   having clarified what counts as evidence we can now clarify the relationship
+   of confirmation and infirmation between this 
+
+confirmation holism
+when does the evidence justify us in believing that there are objects on the far
+side of an epistemic bottleneck?
+
+[[why_postulate_external_objects]]
+
+
+underdetermination of theories by evidence.
+
+confirmation conditions are fixed by language
+
+== semantic  holism ==
+epistemic triangle
+
+consequences:
+
+theoretical  under-determination
+
+no analytic/synthetic distinction
 
 = prologue =
 == why semantics? ==
@@ -24,6 +60,10 @@ but the belief in a deep connection bewteen these two fields/issues/areas goes
 back to the oldest accounts of reasoning in the western tradition (see
 {[[plato]]})
 
+grounding - could my chair be implemented this way or that way? we dont want to
+make this a matter of definition grounding gives us a desired level of
+flexibility - now we can continue to tlak of chairs while
+
 
 = sequence =
 We begin this path with a defence of confirmation holism. That the relationship
@@ -31,7 +71,7 @@ between evidence and the beliefs that are justified by that evidence, obtains,
 fundamentally and in the first place** between evidence and whole theories,
 rather than, for instance evidence and individual statements or individual
 thoughts. In order to make that clear we must begin be a schematic account of
-[[evidence]].
+[[epistemic_bottleneck]].
 By schema is this
 meant some special logical abstraction? Does everything have a schema, and what
 is the relationship between a scehmatric escription and a non schematic
@@ -90,7 +130,8 @@ an important consequence of this verificationist principle.
 [[introspection_not_admissible_evidence]]
 
 But now
-
+first 
+[[epistemic_bottleneck]]
 
 [[why_postulate_external_objects]]
 the computational analogy
@@ -149,7 +190,6 @@ both internal use and external fact meeting in evidence
 
 Truth aint just out there plus language. Out there + langauge + USE
 
-
 left over from almagamating old trail card
 :semantic_holism_trail:trail:
 = semantic holism trail =
@@ -203,4 +243,51 @@ be said to be synonymous.
 
 
 = rough notes =
+
+== Meanings ain't in the head ==
+suppose that they whenever someone asserted a statement, i.e. whenever that
+evidence obtained we could see the fact behind the scene. Whenever they say Gold
+there is aome au23 (or whatever it is) in front of them.
+
+But we also see that other evidence would prompt them to assert gold (i.e. they
+their evidence is not sufficient to distingusih between gold and fool's gold.)
+
+Suppose that there was, in their environemnt, at least the whole of the
+environemnt in which speakers of that language were found only gold and no fools
+gold.
+
+Suppose they expand from that region into a region where they come across fools
+gold on a more or less regular basis. Ifr it seems significant maybe now more
+than 50% of the stuff they suppose is gold (or talk about as) is fools gold, but
+maybe its just 10% of the supposed gold that is fool's gold. In any case a
+significant proportion (though not necessarily evenly distributed) of the
+suppsed gold make it more than 50% if you think its important ????
+
+Now suppose that they gain access to evidence which allows them to distinguish
+gold from fools gold. Maybe they build a spectroscope or some special piece of
+machinery that gioves them access to experimental results that they could not
+previously obtain. Maybe they get access to the neighbouring valley and can look
+at the relevant mountain from the other side. 
+
+And they decide to keep the term to describe both types of object. Here we have
+something like Putnam's Jade case.
+
+Let us vary the order of events somewhat, suppose again that we have a
+culture/community/tribe which cannot distinguish between gold and fools gold and
+applies the same term to both. And again they live in a region where although
+fool's gold is, as they like to say, nomologically possible, none actually
+occurs. Again all the stuff these people call gold is actually gold1. Now they
+develop the ability to distinguish between gold1 and fools gold.
+
+It may be that distinguishing between these two was not part of the motivation
+for developing the techniques/apparatus/whatever it was that enabled them to
+acquire the evidence distinguishing between gold1 and gold2. They had no idea
+that gold2 existed (though it might have been something, like dark matter today,
+whose existence they suspected but had not been able to verify).
+
+Now, subsequently to developing the ability to distinguish gold1 (which they
+continue to call gold) and gold2 (which they call dark gold) they expand into a
+different region or somehow come across some gold2 for the first time.
+
+
 
