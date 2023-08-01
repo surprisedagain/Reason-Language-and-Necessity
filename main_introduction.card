@@ -192,13 +192,12 @@ however, that a dawning realisation that our knowledge of scientific truths is
 not justified in this way, often first manifests itself as scepticism; a denial
 that we have knowledge of scientific generalizations at all.
 
-
 So it was for [[Descartes]]. The starting point of his {[[descartes#cogito|cogito]]} is the
 realisation that that our theories of the external world could not be deduced
 from observations and necessary first principles, and hence our knowledge of
 them was dubious.  This doubt became known as <q>Cartesian scepticism</q> and
 went on to become the chief motivating problem of early modern philosophy((in Kant's words, <q>the scandal of philosophy</q>)).
-is subsequent attempt to place our knowledge of scientific theories on the same
+His subsequent attempt to place our knowledge of scientific theories on the same
 solid, deductive, foundations as geometry and mathematics, however, was derided
 as ridiculous by many of his [[https://books.google.com.au/books?id=dKxa3gAvWR8C|contemporaries]], and largely treated as a second
 rate addendum by his successors.
@@ -224,16 +223,15 @@ better supported than the traditional account of the justification of knowledge.
 If that traditional account implies that we do not have such knowledge, then it
 is the traditional account itself, and not the claims to knowledge it denies
 that must be rejected. What we seek is an account of reasoning and knowledge
-that is compatible with our having knowledge((or whatever positive epistemological state it is held to be, if the term <q>knowledge</q> is reserved for those beliefs justified in accordance with traditional view)) of both
-scientific generalisations _and_ the principles underpinning deductive
-inference.
+that is compatible with our having knowledge((or whatever positive epistemological state it is held to be, if the term <q>knowledge</q> is reserved for those beliefs justified in accordance with traditional view)) of both scientific generalisations
+_and_ the principles underpinning deductive inference.
 
 Our mere possession of knowledge of scientific generalisations does not
 immediately discredit the traditional account altogether. It does show that
 account to be incomplete (i.e. that some knowledge is not justified in the way
 that view specifies) but it does not show that _no_ knowledge is justified in
-that way. It compatible with both the traditional account of knowledge, and our
-possession of knowledge of scientific generalisations to hold that the
+that way. It is compatible with both the traditional account of knowledge, and
+our possession of knowledge of scientific generalisations to hold that the
 traditional view of knowledge is correct within some limited sphere, but that
 there is also further knowledge beyond this sphere, of which it is not correct.
 
@@ -241,11 +239,11 @@ Such a view is perhaps the dominant one amongst educated laymen and
 scientific researchers. It forms a pleasing story of historical progress and
 development in which philosophy is related to modern science in something like
 the way medieval alchemy is related to modern chemistry. Philosophy, on this
-view, is a pre-cursor of modern science, clogged with superstition and false
-claims of insight; superceded by scientific techniques that are less fanciful,
-more precise and self-consciously based upon empirical evidence, and which
-produce theories less riddled by falsehood and possessing greater
-predictive power.
+view, is a pre-cursor of modern science, possessing some genuine knowledge but
+clogged with superstition and false claims of insight; superceded by scientific
+techniques that are less fanciful, more precise and self-consciously based upon
+empirical evidence, and which produce theories less riddled by falsehood and
+possessing greater predictive power.
 
 The analogy with alchemy breaks down at a key point however. In modern chemistry
 alchemy is completely superceeded, its techniques and principles either
@@ -269,8 +267,7 @@ for it neatly defends the continued relevance and value of philosophical
 enquiries to actual knowledge production and tacitly establishes philosophy as
 the queen of the sciences, standing in judgement over all the rest.  Despite its
 appeal, however, this comforting pablum has two serious defects. It relies upon
-the dubious assumption that the traditional account is the only((or at least the
-best, though in practice alternatives are almost never considered)) explanation
+the dubious assumption that the traditional account is the only((or at least the best, though in practice alternatives are almost never considered)) explanation
 of our knowledge of the truths of geometry, mathematics and logic etc., upon
 which scientific theories continue to rely; and it ignores the depth of the
 conflict between the traditional account and the _content_ of our scientific
@@ -358,16 +355,15 @@ based upon experiment and observation, but were instead swept away by a wave of
 wild armchair speculation with only a tenuous connection to empirical evidence.
 
 At the start of the 17th century Galileo set off a wave of speculative physics
-that spread over Europe. Galileo certainly believed some speculative
-theories himself, but his most significant discoveries were closely based on
+that spread over Europe. Galileo himself certainly believed a variety of
+speculative theories, but his most significant discoveries were closely based on
 observation and experiment.  His treatise _The Starry Messenger_ (1610)
 contained the first report of observations of heavenly bodies made through a
 telescope; and his
 _Discourses and Mathematical Demonstrations Concerning Two New Sciences_((Discorsi e dimostrazioni matematiche intorno a due nuove scienze.  The two new sciences being static engineering [the strength of unmoving structures] and motion.)) (1638)
 contained a quantitative description of the distance travelled by
 <q>naturally</q> falling bodies((i.e. bodies falling solely under the influence of gravity)), namely that <q>the spaces traversed were to each
-other as the squares of the times</q>((e.g. a body will fall four times as far
-in two seconds as it does in one)), and described measurements he had made of a
+other as the squares of the times</q>((e.g. a body will fall four times as far in two seconds as it does in one)), and described measurements he had made of a
 bronze ball rolling down an inclined plane that confirmed the claim. His private
 notebooks also reveal a wealth of experiments, though these were downplayed in
 his published work, where he tended to present his claims as deducible from
@@ -611,7 +607,7 @@ the search for such an account became the central task of philosophy.
 Although [[Descartes]] was among the first to note that the traditional
 account of the justification of knowledge did not apply to our knowledge of
 scientific truths, he did not give an account of our ability to reason (or
-otherwise have knowledge of necessary truths). In his
+possess knowledge of necessary truths). In his
 _Discourse on the Method of Rightly Conducting One's Reason_ he gave general
 advice on how to approach broadly mathematical and scientific questions((Along the lines of: take nothing for granted, divide problems into smaller problems));
 but he had faith enough in God, confidence enough in his own abilities, and was
@@ -621,318 +617,6 @@ to reason beyond attributing it to God's grace.  The British empiricists that
 followed him, by contrast, were keenly interested in demarcating the limits of
 what reason could accomplish, and hence began to propose various theories about
 the process of reasoning.
-
-==== leibniz ====
-Leibniz is the first modern philosopher to attempt to provide an explanation of
-our knowledge of necessary truths more substantial than that we simply <q>see by
-the light of reason</q> that they must be true. He is also the first to suggest
-that the chief method of reasoning is the analysis of meanings and the unpacking
-of definitions:
-    demonstrating is nothing but displaying a certain equality or
-    coincidence of the predicate with the subject (in the case of a reciprocal
-    proposition) by resolving the terms of a proposition and substituting a
-    definition or part of one for that which is defined, or in other cases at
-    least displaying the inclusion so that what lies hidden in the proposition
-    and was contained in it virtually is made evident and explicit through
-    demonstration.
-He is also the first to dream of a formal system of logic or <q>characteristica
-universalis</q> in which all chains of deduction would be explicit and
-mechanically checkable. In each of these he anticipated the central issues,
-doctrines and methods of 20th century analytic philosophy, though in none of
-them was his anticipation perfect. As is clear in the above quote, for instance,
-he remained committed to the Aristotelian principle that all sentences were of
-subject-predicate form((This is the form of the sentence <q>Helen is wailing</q>.  Bertrand Russell, the person chiefly responsible for bringing Leibniz to the attention of English speaking philosophers viewed Leibniz's philosophy as in large part the consistent working out of the consequences of the assumption that all sentences are of this form.)), the rejection of which was one of the key contentions
-that marked the beginning of analytic. Still, the only thing more astonishing
-than how closely he pre-empted philosophical developments in the 20th century is
-how thouroughly he was ignored for the first 150 years after his death.
-
-Leibniz's fall into obscurity was assisted by a range of more or less incidental
-factors. Controversy with Newton over which of them had developed calculus
-first left many European thinkers (particularly those whose first langauge was
-English) doubtful of both Leibniz's mathematical ability and his honesty.
-Another factor was his failure to ingratiate himself at the courts on which
-he was dependent.  In the second half of his life he was unable to secure a
-position in Paris, then a hub of intellectual activity, and had to settle for a
-position in provincal Hanover; and even there he was mocked for his outdated
-fashion and manner.
-
-Leibniz also contributed to his own posthumous obscurity in
-other ways. He had a professed reluctance to publishing his work before the
-general public
-
-Slightly more substantive reasons concerned his writing manner and
-style. Though he was one of the 17th centuries most prolific writers of letters
-and essays, he was reuctant to publish his work had a prnounced reluctance never wrote a magnum
-
-the bulk of his writings that heve been preserved remained buried, almost
-unnoticed, in the archives of the library of Hanover
-
-partly by a his professed reluctance to publish his work to the general public
-on the grounds that they were <q>incapable of appreciating it, and quite
-capable of taking it the wrong
-way.</q>(( https://plato.stanford.edu/archives/fall2022/entries/leibniz-exoteric/#EsotFormEsotCont))
-
-(Indeed Russell mistakenly thought the difference between his
-public 
-
-
-quoted 
-Piecing together Leibniz's philosophy into a systematic whole is made more
-difficult because Leibniz seems to have changed or at least refined his views on
-a number of issues over the course of his career and because he was always very
-aware (some might say too aware) of the audience for any of his writings.
-
-buried in the archives of the library of Hanover for over 100 years almost
-completely unknown
-
-it is odd to note of a man that was one of the most prolific men of letters of 17th
-century europe, conducting correspondence with over 1100 correspondents on all
-the central intellectual issues of the day fell
-into obscurity. His work never became completely unknown nor 
-
-Another factor may have been a perceived lack of flair which, despite his very
-high opinion of his own writing style
-
-despite the very high regard in which he held his own prose style, some of his
-keenest admirers noted a lack of flair in his writing style
-((Diderot, Oeuvres complètes, <q>If his
-ideas had been expressed with the flair of Plato, the philosopher of Leipzig
-would cede nothing to the philosopher of Athens</q>))
-partly the lack of a magnus opus in which his views were laid out in a
-united and coherent exposition
-
-
-partly, if somewhat paradoxically, by the sheer volume of his writing, which 
-the lack 
-he produced
-an ocean of essays letters and notebooks from which it is difficult, though not
-impossioble, to distill overarching themes and fundamental theses. yet no magnum
-opus in which his views were cogently lqaid out in an organised fasion.
-
-    I should not be in too much of a hurry to publish what I have written, the
-    point of which was only to provide some clarification for you, sir, and for
-    some other people, so as to receive the same in return. For I write not so
-    much to make an impression as to investigate the truth, which it is often
-    useless, and even harmful, to publish—on account of the uninitiated [des
-    profanes], who are incapable of appreciating it, and quite capable of taking
-    it the wrong way. (G 3:66–7; WF 127)
-
-(see [[https://plato.stanford.edu/entries/leibniz-logic-influence/]])
-date that influence from 1830  see above Erdman ?? logic
-
-It is not so much that his ideas were forgotten and ignored before Russell
-happened to be asked to give a series of lectures of Lebniz because McTaggart
-went away on holiday. But his account of necessity
-
-despite these claims becoming central doctrines of the dominant view that
-replaced Kant's philosophy that was developed 70 years after his death.
-still 
-
-= mixed with metaphysical speculations =
-his views on analysis mixed up with a range of metaphysical claim. When
-attention was paid to him in the period before Russell's accidental rediscovery
-of him
-it was these metaphyasical claims that received the most attention.
-the attraction of reading philosophy is to find convoluted arguments for bizarre
-theses 
-his logical views are mixed with metaphysical claims ever bit as speculative as
-the wildest ????
-
-in the age when metaphysical speculation was what European philosophers did, ot
-was easy for those who relished that sort of thing to simply
-paid more attention to his
-fantastical and somewhat contradictory metaphysical doctrines - the claim that
-objects never interacted causally, all events were necessary (subject only
-to God's will), and that since God always acted for the best the actual world must be 
-the best of all possible worlds - and gloss over the somewhat close and technical
-logical considerations that he gave for them. On the other hand, those who were hostile to
-such dogmatic
-speculation (including, most notably, Kant) could easily dismiss his claims regarding logic, reasoning and
-necessity as a particularly fine, but typically overvaunted 
-example of the hocus pocus by which metaphysicians claimed to deduce the
-fundamental principles of the universe in their private meditations.
-
-Voltaire - candide <q>non liquet</q> not proven
-Voltaire, who with his typical panache, managed to very effectively damn
-Leibniz's work with faint criticism.
-
-quoted
-Unfortunately it was his speculative writings that immediately survived him,
-many of his scientific and logical works remaining buried in the library at
-Hanover. 
-
-= his logicl doctrine of analysis ignored for good reason =
-Even his more narrowly logical theses that did come to public attention were
-rejected with good reasons by his imemdiate successors.
-
-Even among his claims more narrowly focused on logic and reasoning, which went
-on
-there were good reasons for thier rejection
-those of his doctrine which concerned our knowledge of necessary
-truths and our abaioity to reason, which went on to be most valued
-
-Even those of his claims that most closely anticipated the doctrines of the
-anlytic philosphy were largely dismissed with good reason. 
-
-restricted to a notion of simple containment.
-
-radically underestimated the complexity of the demonstrations.
-
-Most substative of the reasons that he was so ignored was that 
-even on those doctrines of meaning, necessity and resoning where he most nearly
-anticipated the fundamenal these of analytic philosophy, 
-
-He was utterly unaware of the logical complexities required
-
-His immediate successors quite clearly and correctly understood that the range
-of sentences that could be explained in this way
-A multitude of sentences, such as for instance de morgans laws, cannot (in
-general) be further reduced to simpler statemewnts and can only be counted as
-identity claims in the most stretched and metaphorical of senses.
-
-He completely failed to recognise that the logical structures recognised in
-his day, the
-logic of Aristotle, the stoics and various medieval developers were utterly
-inadequate to the forms of reasoning utilized in mathematics and empirical
-sciences.
-
-and it was not until technical developments in logic increased both the range and
-complexity of the relationship between analysanda and aylysans and the
-complexity of the fundmental principles to which truths could be reduced by
-analysis his claims about analysis could hope to be vindicated
-
-his critics were quite correct to note
-the class of could be demonstrated by analysis, by the expansion of definitions
-untill they were reduced to identities was radically smaller than the class
-of truths for which mathematical demonstrations could be, and were provided.
-
-Even de morgans laws, which though they were named, were seemingly known of 
-
-that A and B if and only if neither 
-
-And though this principle is 
-simple conceptual containment is not enough to explain the complex patterns of
-implication that are relied upon in mathematical reaosning.
-
-Not all
-necessary truths, nor 
-mathematical claims can be reduced by definition to identities. (Just as all
-true equations do not reduce to restatements of <q>0 = 0</q>
-
-
-much of his works unpublished even in german for over 100 years after his death.
-
-even scholars who argue that his influence over theories of logic and reasoning
-in european philosophy predates Bertrand Russells largely accidental re-discovery
-
-= what influence he did have =
-= this is not to say that he was altogetehr ignored
-characteristica universalis remained as an ideal, akin to the alchemists ideal
-of turning base metals into gold, but something that was 
-
-While Kant was clearly influenced by Leibniz in recognising the class
-and the metaphorical notion of conceptual containment which Kant relies upon is
-only made clear by Leibniz account of replacing terms with their definitions
-
-= first to give linguistic account of reasoning - analysis - expanding =
-definitions
-
-
-necessary truths can be reduced by unpacking their meanings. Replacing terms
-with their definitions in which their meanings are more explicitly displayed
-until they are reduced to simple and obvious truths
-
-Analysis - but everything is true by analysis but in some cases the analysis is
-infinite. His reconciliation of the necessity of everything with God's free
-power to make the universe as he c
-
-    After I considered these matters more attentively, a most profound
-    distinction between necessary and contingent truths was revealed. Namely,
-    every truth is either basic or derivative. Basic truths are
-    those for which we cannot give a reason; identities or immediate truths,
-    which affirm the same thing of itself or deny the contradictory of its
-    contradictory, are of this sort. Derivative truths are, in turn, of two
-    sorts, for some can be resolved into basic truths, and others, in their
-    resolution, give rise to a series of steps that go to infinity. The former
-    are necessary, the latter contingent.  Indeed, a necessary proposition is
-    one whose contrary implies a contradiction.  Every identical proposition and
-    every derivative proposition resolvable into identical propositions is of
-    such a kind, as are the truths called metaphysical or geometrical
-    necessities.
-
-but the key claim that all necessary propositions can be discerned by resolving
-them into simpler basic truths for which no demonstration is needed or given.
-These basic principles are not linguistic or true by definition, definitions is
-the method of reduction to such simple truths:
-
-Red things are red. My car is not not my car. A straight line is straight.
-
-= differences from analytic =
-Finally, even in those areas where he most closely anticipated analytic
-philsophy his views were inextricably intertwined with those that analytic
-philosophers would go on to emphatically reject.
-
-He failed to distinguish
-analysis the conditions for something to be true - he does not distinguish
-conditions for something to be true from conditions that cause a claim to be
-true. Causal necessity is still not distinguished from conceptual necessity
-
-he did not distinguish between analysis of meanings and analysis of causes
-
-held that all truths were analytic, not just necessary truths, but that in
-contingent truths the analyses could proceed infinitely some the analysis was of
-infinite (the entire infinite causal history which lead to objects existence or
-alteration of the object in question.
-
-Unlike analytic philosophy which maintained that even the most fundmanetal
-necessary truths were true by virtue of their meaings alone, the grounds of
-these fundamental perinciples
-
-and the account of the <q>basic truths</q> to whcih all necessary truths could
-be reduced by analysis
-did not distinguish causal necessity((_nomological necessity_, in the modern jargon that analytic philosophers philosophers to express just this distinction)) from logical necessity
-he did not distinguish analyses of meaning from causal explanations
-
-distinguished necessary truths not as analytic truths, but only as those for
-which there was a finite analysis. Contingent truths could be discerned by
-infinite chains of analysis which only God could comprehend.
-
-The basic principles to which Leibniz thought all necessary truths could be
-reduced by finite analyses were not themselves true by meaning alone. 
-
-not subject predicate form
-
-quoted -
-Leibniz was not a work to be well received in a popular vein. For example, the
-Westminster Review of December 1900 accorded the work only a modest paragraph
-which remarked that Russell had undertaken a difficult task, noted his claim
-that the Discourse and the letters to Arnauld are the key to understanding
-Leibniz, and concluded : "How- ever this may be, Leibniz has so little in common
-with modern thought that we can scarcely hope Mr. Russell will interest many rea
-
-= conclusion
-Thus it would be fair to describe his views as a mixture of metaphysical
-speculation, with an unworkable prototype of , from which it took the genius of
-Frege to sift the <q>seeds of ideas</q>((Frege, _Boole's Logical Calculus and the Concept-script_)) and the notion that
-reasoning substantially involved the analysis of meanings and the exposure of
-their content by the unpacking of definitions and 
-
-when they were so sifted they went on to found the dominant philosophical
-movement of the twentieth century, but until then they largely fallow, and those
-of his ideas were 
-
-it was not until Frege, substantially inspired by the <q>usioneeds of
-ideas</q> in
-Leibniz's writing, developed a logical capable of supporting a rich enough
-account of definition, and a rich enough target of basic truths to render
-Leibniz' claim that all necessary truths could be resolved into 
-
-But before that his key ideas in logic and the foundations of necessary truth
-largely dormant.
-
-Although his notion of analysis -> kant, he had almost no effect o the British
-empiricists who most immediately followed him
-
 
 ==== locke ====
 In his _Enquiry Concerning Human Understanding_, Locke gave an account of
@@ -958,6 +642,339 @@ sensation or idea we name whiteness be produced in us by a certain number of
 globules, which, having a verticity about their own centres, strike upon the
 retina of the eye, with a certain degree of rotation, as well as progressive
 swiftness</q>.)
+
+==== leibniz ====
+[[leibniz|Leibniz]] is the first modern philosopher to attempt to provide an account of
+our knowledge of necessary truths more substantial than simply <q>seeing by
+the light of reason</q> that they must be true. He is also the first to suggest
+that the chief method of reasoning is the analysis of meanings and the unpacking
+of definitions:
+    demonstrating is nothing but displaying a certain equality or
+    coincidence of the predicate with the subject (in the case of a reciprocal
+    proposition) by resolving the terms of a proposition and substituting a
+    definition or part of one for that which is defined, or in other cases at
+    least displaying the inclusion so that what lies hidden in the proposition
+    and was contained in it virtually is made evident and explicit through
+    demonstration.
+He is also the first to dream of a formal system of logic in which all chains of
+deduction would be mechanically checkable. In these firsts he anticipated the
+central issues, doctrines and methods of 20th century analytic philosophy,
+though in each of them he retained key aspects of the scholastic tradition in
+which he had been educated. Indeed his innovations were, in large part, the
+product of attempts to resolve tensions between traditional Aristotelian
+accounts of knowledge and logic, fundamental principles of christian
+theology and our possession of knowledge justified by observation.
+
+The first of these tensions was between God's absolute freedom to create
+whatever world they chose and their omniscience. If the most perfect form of
+knowledge is that derived from necessarily true first principles by deductive
+chains of reasoning, then this is the form of knowledge God must have of every
+aspect of the universe. On the other hand if God acted freely in
+creating the world then it must have been genuinely possible for them to have
+created other worlds instead. Leibniz's solution to this problem was to offer
+one of the first absolutely clear distinctions between necessary and
+contingent truths:
+    After I considered these matters more attentively, a most profound
+    distinction between necessary and contingent truths was revealed. Namely,
+    every truth is either basic or derivative. Basic truths are
+    those for which we cannot give a reason; identities or immediate truths,
+    which affirm the same thing of itself or deny the contradictory of [[its]]
+    contradictory, are of this sort. Derivative truths are, in turn, of two
+    sorts, for some can be resolved into basic truths, and others, in their
+    resolution, give rise to a series of steps that go to infinity. The former
+    are necessary, the latter contingent.  Indeed, a necessary proposition is
+    one whose contrary implies a contradiction.  Every identical proposition and
+    every derivative proposition resolvable into identical propositions is of
+    such a kind, as are the truths called metaphysical or geometrical
+    necessities.
+God alone has the capacity to see the infinite series of necessities (both
+causal and non-causal) that give rise to contingent truths:
+    in contingent truths, even though the predicate is in the subject, this can
+    never be demonstrated, nor can a proposition ever be reduced to an equality
+    or to an identity, but the resolution proceeds to infinity, God alone
+    seeing, not the end of the resolution, of course, which does not exist, but
+    the connection of the terms or the containment of the predicate in the
+    subject, since he sees whatever is in the series. Indeed, this very truth
+    was derived in part from his intellect, in part from his will, and it
+    expresses his infinite perfection and the harmony of the entire series of
+    things in its own particular way.
+While it was possible for God to have created otherwise, there was yet
+sufficient reason for them to have chosen to create this world because this is
+the best of all possible worlds. God can therefore trace the infinite chains of
+reasoning required to deduce the contingent movements of the smallest mote of
+dust.
+
+Leibniz's position may be unconvincing to modern philosophers who have
+abandoned belief in both an omniscient God and the traditional account of
+knowledge, and adopted a firm distinction between logical and causal necessity,
+but it was a work of genius to reconcile the constraints he sought to satisfy.
+God alone can have certain deductively founded knowledge of contingent facts,
+wheras we finite mortals have to rely upon God's providence in arranging things
+according to a causal pattern. With that proviso in place however, we can rely
+upon the necessity of the causal connection between our observations and
+external reality in justifying our beliefs. Almost as a side effect, Leibniz
+gave rise to the notions of analytic truth, the claim that all necessary truths
+are analytic, and the metaphor upon which nearly all of modern philosophy is
+based, the notion of conceptual containment.
+
+Leibniz's metaphor of conceptual containment had both a linguistic and
+metaphysical interpretation. As in the first quote above, it could be
+interpreted as applying to the process 
+HERE
+true of words, and of metaphysical
+
+In the linguistic sense the result of replacing a term with its
+definition term can be replaced by its definition
+without changing the meaning (or truth value) of the overall sentence.
+In the case of defined terms they could be replaced by their
+definitions.
+A term <q>contains</q> the definiens by which it can be
+replaced. This notion of containment is as clear as the notion of synonymy upon
+which it depends.
+Has the same meaning as the original.
+it is impossible for the two to differ in truth value
+
+This metaphysical interpretation of conceptual containment, in which each monad 
+contained all the properties and relations
+in somewhat the same way that a mind contains a thought, was based upon a
+profound commitment to the Aristotelian doctrine that all meaningful sentences,
+once stripped of logical connectives are of subject predicate form.
+
+Whatever it was that made <q>John is to the left of Mary true</q> (Perhaps
+reduced to the claim <q>John is Mary-leftward</q> or <q>Mary is
+John-rightward</q>. The ambituity as to which is the correct interpretation
+being chalked up to a defect in ordinary language.) Is contained with in
+
+If God had chosen to make a world in which <q>John is Mary-leftward</q> was true
+despite there being no Mary. What makes this true is purely a state of John, the
+subject John has that property by virtue of something internal to it and not any
+external relationship
+
+of course it is true that God would never arrange things this way. That would be
+a distressingly unharmonious world unappealing to Divine tastes. Notice here
+that this allows the equivocation, to modern eyes, between logical and causal
+necessity to sustain our having knowledge of the external world by the
+traidtional Aristotelian standard. It is contingent that one things are causally
+arranged, but it is also necessary, although knowledge of that necessity is only
+justified by our faith in divine providence. But this the sense in which each
+substance contains every predicate that is true of it.
+
+The gap between these two distinct types of containment is bridged by Leibniz's
+notion of a _complete individual concept_. This concept _contains_ all
+predicates true of the substance (monad) that it represents, just as the monad
+contains all the properties and In a perfect langauge, as Leibniz envisaged it,
+each object would only be denoted by the term expressing this and hence when,
+but of course such a langauge could only be spoken by God.
+
+It must also be noted that the <q>basic truths</q>, to which Leibniz maintained
+all necessary truths could be reduced, were not true by virtue of meaning alone,
+but rather profound metaphysical principles, perhaps ones in which belief was
+justified without fur, but nonetheless profound principles 
+
+but the notion of conceptual containment that concerned only definitions and not
+mataphysical substances is as sound as the notion of synonymy upon which it
+depends.
+
+= his logic unachievable =
+There was another effect of Leibniz's  commitment to the Aristotelian principle
+The notion of analysis was too restrictive.
+
+not all necessary truths could be derived by the principles
+that all sentences are of subject predicate form
+
+Leibniz's contemporaries had good reason to be skeptical of his fantasy of a
+<q>characteristica universalis</q> or <q>alphabet of thought</q> in which each
+concept was expressed by a unique symbol, formulae expressing necessary truths
+could be identified by their syntax, and all sequences of valid reasoning could
+be verified by mechanical calculation. Leibniz radically underestimated the
+complexity of the inferences required in mathematical reasoning. His critics,
+most notably Kant, correctly pointed out that the truths of mathematics and
+geometry could not all be reduced to statements of identity (e.g. <q>0 = 0</q>)
+merely by replacing terms with their definitions((and omission of some parts of
+the resulting expanded terms)). The logical technology of the
+day was simply too limited to meet the demands of mathematical reasoning. At the
+time, most European intellectuals thought that those limits were unalterable,
+and Leibniz's ideas for surpassing those limits were hopelessly naive.  No
+system in which all sentences are treated as being of subject-predicate form can
+have the deductive power required for geometry and mathematics. What no-one,
+including Leibniz, knew at the time however, was that those limitations were the
+result of a failure to recognise the variety of complex forms that sentences may
+possess, rather than being inherent to systems of formal logic _per se_.
+
+= Lived on in Kant =
+The notion os analyticity would go on to play a key, but minor/secondary
+
+
+The metaphor of conceptual containment which Kant heavily relies upon to
+distinguish his class of anaytic truths, but never cashes out, is directly
+rtaken from Leibniz. Leibniz not only uses the same metaphor 
+
+Leib
+Kant's distinction between anaytic and synthetic truths is largely inspired
+by Leibniz. 
+In Leibniz's work this metaphor is cashed out in two distinguishable ways. First
+as in the quote above, in the expansion.
+
+There is a literal sense in which the
+term <q>contains</q> its definiens, and that content is <q>opened up</q> 
+In the years after his death Leibniz was primarily remembered for his
+fantastical metaphysical theses.
+
+also a mataphysical sense
+
+In large part his metaphysical doctrines were the result
+of his procrustean efforts to make all patterns of reasoning fit within the
+limits of a logic based upon Aristotelian syllogisms and a rule for substituting
+equals for equals - most notably the substitution of _definiens_ for
+
+_definienda_ - which he borrowed from algebra.
+
+
+Kant right to reject ??
+
+= algebraic logic =
+the leqast noted, and ost quickly forgotten of , and least appreciated of his
+innovations was the introduction of algebraic techniques to logical forms of
+deduction. Most notably a rule of substituting
+
+Leibniz's
+and algebraic approached to logic in particular
+Second, his notion of the characteristica universalis lingered on, and when
+The idea of a characteristica universalis remained as a wild dream, sometimes
+mocked sometimes taken seriously. 
+
+Although his <q>characteristica universalis</q> might be dismissed as a fantasy,
+akin to philosophers' stone by which alchemists hoped to transmuting lead into
+gold.
+
+Frege to sift the <q>seeds of ideas</q>((Frege, _Boole's Logical Calculus and the Concept-script_)) and the notion that
+reasoning substantially involved the analysis of meanings and the exposure of
+their content by the unpacking of definitions and 
+
+characteristica universalis remained as an ideal, akin to the alchemists ideal
+of turning base metals into gold, but something that was 
+
+= forgotten =
+largely as a reuslt of
+a dispute with Newton over which of them had first developed
+calculus, was one of the major intellectual controversies of the day and it left
+many European thinkers, particularly those whose first langauge was English,
+doubtful of Leibniz's honesty and mathematical ability. Though he published over
+200 scholarly articles and essays in his lifetime, he was reluctant to publish
+his most deeply held views, including much of his 
+
+and his impact on English speaker intellectuals remained faint `
+
+Partly as a result of Voltaire's vicious caricature of his position in Candide.
+A mockery that, typically of Voltaire, unfair, witty, superficial and bitingly
+effective in discrediting, which both cemented the idea that the central claim
+of Leibniz's philosophy was that this is the best of all possible worlds
+<q>this is the best of all possiuble worlds</q> and
+
+When Leibniz was remembered, it was chiefly for his fantastical metaphysical
+doctrines. These included the claims that all causation is illusory (apart from
+the action of God's will), that all objects are quasi-mental monads only ever
+acted upon by God but within which are held <q>ideas</q> reflecting all the
+other monads in the universe, that all events are necessary (subject only to
+God's will) and the doctrine for which he was best known - that, since God
+always acted for the best, this must be the best of all possible worlds.
+As that idea lost support in the 1730s and 40s so too Leibniz, and
+especiaionally his more esoteric logic doctirnes simply faqded from view. The
+bulk of his writings remaining unpublished in 
+ 
+ the bulk of which lay buried in the archives of the library of Hanover
+where it was ignored for a hundred years.
+Leibniz's ideas were extensively discussed in French, and later in Prussian
+intellectual circles after his death in 1716, his impact on British philosophers
+was particualrly limited
+
+= remembered =
+Once Frege, substantially inspired by the <q>seeds of ideas</q> in Leibniz's
+writing, developed a logical capable of supporting a rich enough account of
+definition, and a rich enough target of basic truths to render Leibniz' claim
+that all necessary truths could be resolved into 
+
+
+This is not to suggest that Leibniz's views on language, reasoning and necessity
+were unknown to his contemporaries and immediate successors. Leibniz had
+been one of the most prolific letter writers of the 17th century, corresponding
+with over 1100 people over his lifetime and his ideas percolated into the
+awareness of other philosophers. But it was easy to lump his fantastical claims
+concerning langauge and reasoning together with his fantastical claims
+concerning the substances composing the universe. Indeed, though the nature of
+the connection between the two was unappreciated at the time, this was not
+entirely unwarranted.
+
+
+Leibniz, and concluded : However this may be,
+1900 Reviewer's On the publication of Russell's book on Leibniz which
+re-introduced him to English spekaing philosophers
+<q>Leibniz has so little in common
+with modern thought that we can scarcely hope Mr. Russell will interest many
+readers</q>
+
+While his linguistic and logical doctrines were little known among English
+speakersto British
+philosophers had little influence on English
+speakers
+Even at the lowest ebb of his influence, Leibniz had an indirect but essential
+effect on the development of accounts of our knowledge of necessary truths, and
+our ability to reason. course of development of European philosophy. Kant's sketch
+
+
+= once logic developed =
+The idea that necessary truths could be discerned, and belief in the justified,
+by means of the analysis of their meanings, and the expansion of definitions,
+remained one of the fundamental principles of analytic philosophy.
+
+and it was not until technical developments in logic increased both the range and
+complexity of the relationship between analysanda and aylysans and the
+complexity of the fundmental principles to which truths could be reduced by
+analysis his claims about analysis could hope to be vindicated
+his dreams of a perfect language in which reasoning would be a matter of
+calculation was
+
+= necessary vs contingent =
+maintained the ancient view that every true statement can be dedeuctivwely
+proven
+
+
+Although Leibniz was the first to suggest that necessary truths might be
+discerned, and belief in them justified, by the analysis of their meanings, his
+account of necessity still divereged sigfnificantly from his modern inheritors.
+
+necessary truths can be reduced by unpacking their meanings. Replacing terms
+with their definitions in which their meanings are more explicitly displayed
+until they are reduced to simple and obvious truths
+
+Analysis - but everything is true by analysis but in some cases the analysis is
+infinite. His reconciliation of the necessity of everything with God's free
+power to make the universe as he saw fit
+
+but the key claim that all necessary propositions can be discerned by resolving
+them into simpler basic truths for which no demonstration is needed or given.
+These basic principles are not linguistic or true by definition, definitions is
+the method of reduction to such simple truths:
+
+he did not distinguish between analysis of meanings and analysis of causes
+
+held that all truths were analytic, not just necessary truths, but that in
+contingent truths the analyses could proceed infinitely some the analysis was of
+infinite (the entire infinite causal history which lead to objects existence or
+alteration of the object in question.
+
+Unlike analytic philosophy which maintained that even the most fundmanetal
+necessary truths were true by virtue of their meaings alone, the grounds of
+these fundamental perinciples
+
+
+The basic principles to which Leibniz thought all necessary truths could be
+reduced by finite analyses were not themselves true by meaning alone. 
+
+Despite, he had negligible influence on the british empiricists
+The result was that the british empiricists who were contemporaneous his views,
+to the extent they were known at all, were not
+generally deemed worth responding to
 
 ==== hume ====
 [[hume|Hume's]] avowed purpose in his _Treatise of Human Nature_ was to <q>introduce
@@ -998,10 +1015,10 @@ Hume's _Treatise_ is thus the first influential attempt to grapple with the
 tension between the traditional account of knowledge and causal accounts of
 belief formation. Hume recognised, somewhat dimly and intermittently((as innovators and discoverers are wont to do))
 that if the formation of beliefs is a purely causal process, and like other
-natural causal processes insensitive to modal relations, then we seem
-to have no justification for believing in such modal relationships. (In
+natural causal processes insensitive to modal relations, then it seems we can
+have no justification for believing in such modal relationships. (In
 particular no justification for believing there are <q>necessary connexions</q>
-between causes and their effects).  It is not, however, only beliefs in modal
+between causes and their effects.)  It is not, however, only beliefs in modal
 truths that are cast into doubt.  According to the traditional view, reasoning
 is a process of forming beliefs in response to their modal connections. In
 reasoning one infers a belief from others because one <q>sees</q> or somehow
@@ -1017,8 +1034,6 @@ understanding, which has led us to a causal understanding of our own minds,
 <q>entirely subverts itself, and leaves not the lowest degree of evidence in any
 proposition, either in philosophy or common life. ... We have therefore, no
 choice left but betwixt a false reason and none at all</q>.
-
-
 
 === kant ===
 That Hume woke [[Kant]] from his <q>dogmatic slumbers</q> is a tired cliche,
@@ -1511,6 +1526,14 @@ Now in the case just considered, the appeal to meanings is doubly superfluous.
 In the first place it does not provide any greater justification for believing
 So too for all the logical terms, <q>and</q>, 
 
+= demorgan and boole (later whitehead)
+generalisation of algebraic laws to apply to non quantitative relations
+
+this doctrine of the linguistic basis of logical truth did not spring full grown
+from the brow of Frege or Russell, it was the process of long development from
+logicians such as for a term to have a particular meaning just is for the
+inferences containing that term to ful fill certain formal rules.
+
 = reveal already effective justification/structure
 Now in the case just considered, the appeal to meanings is doubly superfluous.
 It does not provide any greater justification for believing *'Today is Friday
@@ -1835,6 +1858,8 @@ out in the world.
 what connects our concepts
 
 cognitive content
+
+judgements vs propositions (and thoughts and facts and senses)
 
 ==== russell ====
 whoole sentencesd the units of meaning rather than <q>patterns</q> ( refering to
