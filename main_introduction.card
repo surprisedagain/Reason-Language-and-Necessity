@@ -49,8 +49,8 @@ Rather than challenging the classical theory of knowledge, the ancient skeptics
 simply insisted that nothing fulfilled it.
 
 In the European intellectual tradition, philosophers began to note the cracks
-heralding the long, unstoppable, collapse of their account of reason and
-knowledge shortly before AD 1650. It is, of course, impossible to put a precise
+heralding the long, unstoppable, collapse of these accounts of reason and
+knowledge shortly before 1650. It is, of course, impossible to put a precise
 date upon when the collapse began or ended.  At first, awareness of the problems
 in the traditional accounts spread piecemeal, and when they were noted they did
 not immediately give rise to despair, but rather to various attempts to repair
@@ -101,15 +101,15 @@ bodies), we do not sense the mass of objects.
 
 ==== not necessary truths ====
 The next difference is that scientific generalisations are not true necessarily.
-[[https://plato.stanford.edu/entries/popper/|Popper]] is perhaps the most influential exponent of this claim. He proclaimed
-[[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the hallmark of scientific claims.
-According to Popper, a general statement is falsifiable if and only if there is
-a possible <q>basic statement</q> (i.e. a singular existential claim, such as
-<q>the needle on the voltmeter is pointing to 11</q>) whose truth is
-<q>intersubjectively testable</q> (i.e.  about which observers can come to
-agreement despite other differences in their beliefs) with which that general
-statement is incompatible. But of course, necessary truths are compatible with
-every <q>basic statement</q> and hence, by Popper's standard, not scientific((and, _tollens_ to _ponens_, no scientific truth is necessary)).
+[[https://plato.stanford.edu/archives/sum2023/entries/popper/|Popper]] is perhaps the most influential exponent of this claim. He proclaimed
+[[https://en.wikipedia.org/wiki/Falsifiability|falsifiability]] to be the hallmark of scientific claims.  According
+to Popper, a general statement is falsifiable if and only if there is a possible
+<q>basic statement</q> (i.e. a singular existential claim, such as <q>the needle
+on the voltmeter is pointing to 11</q>) whose truth is <q>intersubjectively
+testable</q> (i.e.  about which observers can come to agreement despite other
+differences in their beliefs) with which that general statement is incompatible.
+But of course, necessary truths are compatible with every <q>basic statement</q>
+and hence, by Popper's standard, not scientific((and, _tollens_ to _ponens_, no scientific truth is necessary)).
 
 Independently of Popper's standard for scientific enquiry, principles such as
 the right hand rule governing the movement of charged particles through
@@ -155,7 +155,7 @@ Most of us, for instance, are more certain that addition is symmetric
 ascribe this uncertainty to the difficulty of determining whether the particular
 case presented falls under the general rule (i.e.  whether, among other things,
 the sixth digit of last number in the equation just given is the same as the
-sixth digit in the first first). Plato, by contrast, relied upon a looser and
+sixth digit in the first). Plato, by contrast, relied upon a looser and
 more complex relationship between ordinary objects and the forms than
 instantiation _simpliciter_; he held that ordinary objects realise forms only
 imperfectly((see {[[truths_of_reason_by_chisholm#Geometrical figures exist|Chisholm's discussion of geometrical figures]]} for a modern exponent of the view)).  This shortcoming means that ordinary sensible objects may fail
@@ -192,11 +192,12 @@ however, that a dawning realisation that our knowledge of scientific truths is
 not justified in this way, often first manifests itself as scepticism; a denial
 that we have knowledge of scientific generalizations at all.
 
-So it was for [[Descartes]]. The starting point of his {[[descartes#cogito|cogito]]} is the
+So it was for [[Descartes]], he claimed his skepticism was merely
+methodological.  The starting point of his {[[descartes#cogito|cogito]]} is the
 realisation that that our theories of the external world could not be deduced
 from observations and necessary first principles, and hence our knowledge of
 them was dubious.  This doubt became known as <q>Cartesian scepticism</q> and
-went on to become the chief motivating problem of early modern philosophy((in Kant's words, <q>the scandal of philosophy</q>)).
+went on to become a central problem of early modern philosophy((in Kant's words, <q>the scandal of philosophy</q>)).
 His subsequent attempt to place our knowledge of scientific theories on the same
 solid, deductive, foundations as geometry and mathematics, however, was derided
 as ridiculous by many of his [[https://books.google.com.au/books?id=dKxa3gAvWR8C|contemporaries]], and largely treated as a second
@@ -205,15 +206,14 @@ rate addendum by his successors.
 So it remains for many philosophy students today, who often leave their first
 year encounter with Cartesian scepticism convinced that the take home message of
 philosophy is that no-one _really_ knows anything except their own experiences
-(to which they have direct access) and perhaps some mathematical theorems; i.e.
-claims of which the traditional account of knowledge remains at least
-superficially plausible.  Nor is this insistence upon rejecting all claims of
-knowledge that are not justified by the lights of the traditional view limited
-to pioneers and novices. Russell notes the wide spread of this scepticism in his
-complaint that <q>. . . when people begin to philosophize they seem to think it
-necessary to make themselves artificially stupid</q>((Theory of knowledge, p.201 via _The basic writings of Bertrand Russell_, Routledge classics 2009)) (i.e. to
-reject all knowledge claims apart from those that can de deduced from their own
-observations and first principles known with certainty).
+and perhaps some mathematics; i.e.  truths of which the traditional account of
+knowledge remains at least superficially plausible.  Nor is this insistence upon
+rejecting all claims of knowledge that are not justified by the lights of the
+traditional view limited to pioneers and novices. Russell notes the wide spread
+of this scepticism in his complaint that <q>. . . when people begin to
+philosophize they seem to think it necessary to make themselves artificially
+stupid</q>((_Theory of knowledg_ from [[https://doi.org/10.4324/9780203875391|_The Basic Writings of Bertrand Russell_]])) (i.e. to reject all knowledge claims apart from those that can be
+deduced from their own observations and first principles known with certainty).
 
 Such scepticism is not the starting point of this work. Our knowledge of
 scientific claims, such as the charge of electrons, the speed of light in a
@@ -237,47 +237,29 @@ there is also further knowledge beyond this sphere, of which it is not correct.
 
 Such a view is perhaps the dominant one amongst educated laymen and
 scientific researchers. It forms a pleasing story of historical progress and
-development in which philosophy is related to modern science in something like
-the way medieval alchemy is related to modern chemistry. Philosophy, on this
-view, is a pre-cursor of modern science, possessing some genuine knowledge but
-clogged with superstition and false claims of insight; superceded by scientific
-techniques that are less fanciful, more precise and self-consciously based upon
-empirical evidence, and which produce theories less riddled by falsehood and
-possessing greater predictive power.
+development. Philosophy, on this view, is a pre-cursor of modern science, its
+methods producing genuine knowledge within a limited sphere, but producing
+only superstition and false insight when applied beyond those limits. Science,
+through the use use of mathematical techniques for precisely describing
+empirical observations, and by abandoning the pretense at _deducing_ knowledge
+from those observations, has managed to transcend those bounds.
 
-The analogy with alchemy breaks down at a key point however. In modern chemistry
-alchemy is completely superceeded, its techniques and principles either
-rejected or justified by means entirely within the field of
-chemistry. There is no residual core of alchemical principles which modern
-chemistry relies upon but cannot justify. By contrast, modern science retains,
-according to this story, a reliance upon supposedly ancient philosophy in the
-the sphere of deductive inference((see [[truths_of_reason_by_chisholm]] for a modern exposition of this view)).  Within a limited sphere that includes
-mathematics, geometry and deductive logic, the ancient principles((Supposedly. One of the more concrete problems with this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege))
-remain indispensible to modern scientific theories and yet apparently
-unjustifiable by scientific methods.
-
-The continued dependence of science upon apparently unscientific deductive
-principles has led many philosophers((Kant is the exemplar, but there is no shortage of others who have followed his lead; both wittingly and unwittingly.)) to claim that the success
-of science in producing knowledge can _only_ show that the traditional account
-of the justification of knowledge is incomplete, and never that it is altogether
-wrong, on the grounds that science cannot altogether undermine the unscientific
-source of knowledge discerned by ancient philosophers without undermining
-itself.  That philosophers might find this claim appealing is easily understood,
-for it neatly defends the continued relevance and value of philosophical
-enquiries to actual knowledge production and tacitly establishes philosophy as
-the queen of the sciences, standing in judgement over all the rest.  Despite its
-appeal, however, this comforting pablum has two serious defects. It relies upon
-the dubious assumption that the traditional account is the only((or at least the best, though in practice alternatives are almost never considered)) explanation
-of our knowledge of the truths of geometry, mathematics and logic etc., upon
-which scientific theories continue to rely; and it ignores the depth of the
-conflict between the traditional account and the _content_ of our scientific
-theories.
+If the only problem posed for the traditional account of knowledge by the
+growth in scientific knowledge was due to our _possession_ of knowledge that was
+not justified according to the traditional account; then this view
+would be tenable. In addition to knowledge deduced from first principles known
+with certainty there would be knowledge justified by our observations and
+scientific methods. As our scientific understanding of the physical processes
+underlying perception and belief formation developed, however, it became
+increasingly apparent that there was a fundamental conflict between the
+_content_ of our scientific knowledge and the adequacy of the traditional
+account of knowledge and reasoning _even within its own sphere_.
 
 == 2nd problem: the content of scientific theories ==
 The first problem for the traditional account of knowledge was simply that we
 _possess_ knowledge that is not justified by the lights of that account. The
 second problem is that the _content_ of that knowledge is wildly incompatible 
-with the claims upon which the traditional account of reasoning and knowledge
+with claims upon which the traditional account of reasoning and knowledge
 relied.
 
 St. Thomas Aquinas was probably the original, and certainly the most influential
@@ -307,13 +289,15 @@ Aristotle up until Descartes.
 According to the traditional account, not only were the properties of our
 sensations the same as the concepts in our minds, they were also the properties
 of the physical objects around us. As Aristotle put it:
-    A sense is that which has the power of receiving perceptible forms without
-    the matter, in the way in which a piece of wax takes on the imprint of the
-    signet ring without the iron or gold; it takes the imprint of a signet of
-    bronze or gold, but not qua bronze or gold. In a similar way the sense is
-    affected by what is coloured or flavoured or sounding, not insofar as each
-    is what it is, but insofar as it is of such a sort and according to its
-    logos.(_De Anima_ II.12)
+    By a 'sense' is meant what has the power of receiving into itself the
+    sensible forms of things without the matter. This must be conceived of as
+    taking place in the way in which a piece of wax takes on the impress of a
+    signet-ring without the iron or gold; we say that what produces the
+    impression is a signet of bronze or gold, but its particular metallic
+    constitution makes no difference: in a similar way the sense is affected by
+    what is coloured or flavoured or sounding, but it is indifferent what in
+    each case the substance is; what alone matters is what quality it has
+    ([[_De Anima_ II.12)
 The colour of the distant red object is, through the light created
 transparency of the intervening air, able to impress itself on the parts of
 the eye that were sensitive to it. The property present in the sensitive parts
@@ -325,9 +309,9 @@ forms realised without matter in our sensations, and the forms realised by the
 material objects that we perceive and think of, was supposed to ensure that our
 concepts _are_ the properties of the objects around us.  In Aquinas' words:
 <q>The intellect, by the act of understanding, is made one with the object
-understood</q>((_Nam intellectus, secundum hoc quod actu intelligit, secundum hoc fit unum cum intellecto_)); or as Gaetanus, a later influential commentator on Aquinas put it
+understood</q>((Nam intellectus, secundum hoc quod actu intelligit, secundum hoc fit unum cum intellecto <br> [[local:zz.texts/zz.background/darcy1903.aquinasEpistemology.pdf|_Knowledge According to Aquinas_]])); or as Cajetan, a later influential commentator on Aquinas put it
 <q>to know is nothing else than for the intellect to be [the thing known] and
-the species is the form whereby it comes to that being.</q> We moderns may
+the species is the form whereby it comes to that being.</q>(([[local:zz.texts/zz.background/darcy1903.aquinasEpistemology.pdf|_Knowledge According to Aquinas_]])) We moderns may
 wonder at this somewhat mystical unity between acts of cognition and the objects
 cognised((Aquinas held it to be the same unity as obtains between Jesus, the word of God, and God the father, who is the source of that word.)), and scholars continue to dispute various interpretations of
 Aristotle's account of the relationships between substances, species, forms and
@@ -357,10 +341,10 @@ wild armchair speculation with only a tenuous connection to empirical evidence.
 At the start of the 17th century Galileo set off a wave of speculative physics
 that spread over Europe. Galileo himself certainly believed a variety of
 speculative theories, but his most significant discoveries were closely based on
-observation and experiment.  His treatise _The Starry Messenger_ (1610)
+observation and experiment.  His treatise [[https://en.wikipedia.org/w/index.php?title=Sidereus_Nuncius&oldid=1154096054|_The Starry Messenger_]] (1610)
 contained the first report of observations of heavenly bodies made through a
 telescope; and his
-_Discourses and Mathematical Demonstrations Concerning Two New Sciences_((Discorsi e dimostrazioni matematiche intorno a due nuove scienze.  The two new sciences being static engineering [the strength of unmoving structures] and motion.)) (1638)
+[[https://en.wikipedia.org/w/index.php?title=Two_New_Sciences&oldid=1166797169#Day_three:_Naturally_accelerated_motion|_Discourses and Mathematical Demonstrations Concerning Two New Sciences_]]((The two new sciences being static engineering [the strength of unmoving structures] and the motion of objects.)) (1638)
 contained a quantitative description of the distance travelled by
 <q>naturally</q> falling bodies((i.e. bodies falling solely under the influence of gravity)), namely that <q>the spaces traversed were to each
 other as the squares of the times</q>((e.g. a body will fall four times as far in two seconds as it does in one)), and described measurements he had made of a
@@ -414,7 +398,7 @@ attractive topic of speculation. Galileo had realised from the outset that if
 mechanistic theories were to be plausible they would have to explain our
 sensations of colour, taste and scent as arising from mechanical interactions
 between the external bodies and our sensory organs.  Indeed this was the main
-focus of his 1623 work _the Assayer_:
+focus of his 1623 work [[https://en.wikipedia.org/wiki/The_Assayer|_The Assayer_]]:
     from the point of view of the subject in which they seem to inhere, these
     tastes, odors, colors, etc., are nothing but empty names; rather they inhere
     only in the sensitive body, such that if one removes the animal, then all
@@ -468,31 +452,20 @@ again different from the activity in our brains (and if that gives rise to
 mental entities or properties such as qualia or sensations then those are yet
 different again).
 
-The question of when these beliefs were transmuted into knowledge (if indeed
-there was any such point in the life of any individual or community) does not
-concern us here.  Whether the theories of the mechanistic natural philosophers
-are applauded as attempts to explain the physiological processes of sensation
-and bodily movement using the same fundamental principles that they had thought
-governed the rest of nature; or derided as restricted to an implausibly austere
-range of fundamental interactions too limited to do justice to either humans or
-nature; speculative belief in mechanistic theories eventually led to and was
-replaced by belief in the well supported empirical theories of modern science.
-The empirical successes of those theories has irretrivably shattered the illusion
-that our minds have anything remotely describable as direct contact with the
-properties of the objects around us. The loss of that illusion takes with it the
-traditional account of reasoning that had explained our capacity for insight
-into the modal relationships between the properties of the objects around us.
-
-For a while, it was thought that the old account of knowledge might yet be true
-of knowledge of one's own psychological states. Hope lingered that mental
-objects might be known with the same certainty and directness that had been
-attributed to our knowledge of the properties presented in our sensations of
-objects in the external world.  One effect of this was a sense that philosophy
-was more closely connected to psychology than to other sciences. But even this
-remaining illusion largely collapsed in the face of Freud's theories and the
-(which even if they were wildly wrong, made it plausible that our
-introspective knowledge of our own mental states was fallible) and the
-subsequent development of causal psychological theories.
+When these beliefs were transmuted into knowledge (if indeed
+there is any such point in the life of any individual or community) need not
+concern us here.  Whether the theories of mechanistic natural philosophers
+are applauded as the best explanations of physiological processes of sensation
+and bodily movement available at the time; or derided as restricted to an
+implausibly austere range of fundamental interactions too limited to do justice
+to either human behaviour or natal phenomena; speculative belief in mechanistic theories
+eventually led to and was replaced by belief in the well supported empirical
+theories of modern science.  The empirical successes of those theories has
+irretrivably shattered the illusion that our minds have anything remotely
+describable as direct contact with the properties of the objects around us. The
+loss of that illusion takes with it the traditional account of reasoning that
+had explained our capacity for insight into the modal relationships between the
+properties of the objects around us.
 
 Unlike the [[#1st problem: the justification of scientific theories|first problem]], which merely implied that the traditional account of
 knowledge and reasoning was incomplete, the new discoveries about the
@@ -502,26 +475,26 @@ not the same as the properties of the objects they represent then the
 traditional account of knowledge is false. In particular, the traditional
 explanation of the consonance between the properties we can combine <q>in the
 intellect</q> and the combinations of properties that external objects can
-realise collapses (see {[[perceptual_invariants]]}).
+realise collapses.
 
 The incompatibility of the new understanding of the physiological processes
 underpinning sensation with the ancient account of knowledge and reasoning does
-not compel scepticism about our ability to reason.  Even if the
+not compel scepticism about our ability to reason. Even if the
 traditional account is false and we have no better alternative to offer in its
 place, that does not imply that we cannot distinguish good from bad reasoning,
 nor that we cannot reason our way to justified beliefs, but only that we are
 ignorant of how we have these abilities. The lack of a plausible
 epistemology no more casts doubt on our capacity to reason than ignorance of the
-physiology of the eye casts doubt on our ability to see. However, in both cases a
-deeper understanding of the processes involved can give greater insight into
-when they are liable to go wrong, and make us more able to spot charlatans;
-and in neither case is the naive account of how these processes function or what
+physiology of the eye casts doubt on our ability to see. However, in both cases
+a deeper understanding of the processes involved can give greater insight into
+when they are liable to go wrong, and make us more able to spot charlatans; and
+in neither case is the naive account of how these processes function or what
 they reveal to us beyond question.
 
-There is, however, a far more fundamental conflict between our understanding of
-ourselves as creatures whose physiology obeys the same physical principles as
-the rest of the natural world, and our understanding of ourselves as reasoning
-beings that does threaten scepticism.
+There is, however, a yet more fundamental aspect of the conflict between our
+understanding of ourselves as creatures whose physiology obeys the same physical
+principles as the rest of the natural world, and our understanding of ourselves
+as reasoning beings that does threaten scepticism.
 
 ==== insensitive to necessity and possibility ====
 With the doubtful exception of quantum mechanics, all the objects described in
@@ -549,20 +522,21 @@ us to distinguish valid from invalid arguments.
 
 In our reasoning capacities we appear to display a sensitivity to possibility
 and necessity that is unlike any of the objects revealed to us by scientific
-discoveries. It thus seems impossible for reasoning beings such as ourselves to
+enquiry. It thus seems impossible for reasoning beings such as ourselves to
 be made from the modally insensitive materials postulated in science.
 
-=== a curious inversion ===
-As awareness of these problems spread, there was a curious inversion in where
-the center of the difficulty was supposed to lie:
+=== knowledge of necessary truths becomes the central problem of philosophy ===
+As awareness of these problems spread, there was an inversion in where
+the center of the difficulty was supposed to lie.
 
 At first the chief difficulty was thought to be our knowledge of contingent
-external objects via the senses. As various mechanistic accounts of sensoruy
-organs were proposede it was clear that those senses might respond to objects
-quite other than we supposed them to be. [[descartes|Descartes']] concern was
-that the senses are dubious and he sought after certain reason for trusting
-them. By contrast he took our knowledge of truths of mathematics, and of truths
-underpinning valid arguments such as his cogito to be induibitable((Descartes is inconstant on this point. Sometimes he asserts that it is within God's power to deceive us even about such truths.  This even engenders a well known circularity in Descartes' arguments.  But God's power to deceive us about such truths remains an afterthought for Descartes, intended to ensure compatibility with God's omnipotence. By contrast, the main conclusion of the cogito is that we can trust the senses only because the existence of a God who does not deceive us can be _deduced_ from the certain knowledge of one's own existence and thoughts)):
+external objects via the senses and it was the nature of the justification of
+that knowledge that received the most attention. [[descartes|Descartes']] concern was
+that the senses are dubious and he sought to show why and under what
+circumstances we were justified in trusting them completely.  By contrast, he
+took our knowledge of truths of mathematics, and of truths underpinning valid
+arguments such as his cogito to be induibitable((Descartes is inconstant on this point. Sometimes he asserts that it is within God's power to deceive us even about such truths.  This even engenders a well known circularity in Descartes' arguments.  But God's power to deceive us about such truths remains an afterthought for Descartes, intended to ensure compatibility with God's omnipotence. By contrast, the main conclusion of the cogito is that we can trust the senses only because the existence of a God who does not deceive us can be _deduced_ from the certain knowledge of one's own existence and thoughts)):
+    
     let whoever can do so deceive me, he will never bring it about that I am
     nothing, so long as I continue to think I am something; or make it true at
     some future time that I have never existed, since it is now true that I
@@ -570,20 +544,209 @@ underpinning valid arguments such as his cogito to be induibitable((Descartes is
     than five, or anything of this kind in which I see a manifest contradiction.
     ([[local:zz.texts/descartes2.philosophicalWritingsOfDescartes.pdf|Third Meditation]])
 
-As the conflict between our scientific knowledge and our understanding of
-ourselves as reasoning beings became more apparent, however, it was our
-knowledge of necessary truths that appeared more difficult to explain. In the
-case of knowledge justified by experience there is, at least when things go
-well, a causal chain running from external objects via experiences to the
-formation of beliefs true of those objects.  Modern philosophers may delight in
-considering abberant cases, despair because causal necessity is not strong
-enough to support knowledge according to the traditional view, debate analyses
-of counterfactuals or deny that there are beliefs at all; but there is an
-undeniable comfort to be drawn from the fact that, at least under some fairly
-common conditions, if a belief justified by experience were not true then it
-would not be believed.  By contrast the lack of any such connection between
-necessary truths and the formation of our beliefs in those truths came to be
-seen as increasingly problematic.
+Descartes' reconciliation of the traditional account of knowledge with our
+knowledge of scientific theories was never widely accepted. Instead, eventually,
+the traditional account of the justification of knowledge by experience was
+simply rejected. Scientific principles were no longer held to be either
+necessarily true first principles or deducible from them.
+
+According to the developing scientific theories, the casual connections
+between external objects and our experiences were not necessary, nor did they
+simply imprint the properties of external objects onto our sensations. 
+Nevertheless there remained, at least when things went well, causal chains
+running from external objects to the formation of our beliefs true of those
+objects via our experiences. Once attempts to tighten the links in these chains
+were abandoned, less stringent standards of knowledge were proposed(([[https://en.wikipedia.org/w/index.php?title=Robert_Nozick&oldid=1172878738#Epistemology|Nozick]], [[https://en.wikipedia.org/w/index.php?title=Timothy_Williamson&oldid=1166387750#Philosophical_work|Williamson]] and [[https://en.wikipedia.org/w/index.php?title=Duncan_Pritchard&oldid=1036160614#Academic_studies|Pritchard's]] proposals being among the best known.)) that chains
+of contingent causation could support (some with less stringent standards of
+necessity to go with them((<q>safety is a sort of local necessity</q> - Williamson, [[https://www.amherstlecture.org/williamson2009/|_Probability and Danger_]], 2009)) ).  Of course none of these alternatives is quite
+the same as the full strength original, and there is still ongoing enthusiastic
+discussion of their various shortcomings. Doubtful philosophers continued,
+however, to find solace in the causal connection between our beliefs and the
+objects of which those beliefs were true. According to our best scientific
+theories, the empirical evidence which justifies our beliefs, whether it is
+other beliefs, stimuli, experiences, tracks in the sand or noises in the
+distance, can causally affect the formation of our beliefs. Hence it seems
+possible for creatures displaying roughly our level of success in holding only
+justified beliefs and assessing the justifications of others' beliefs, to be
+constructed from the natural materials revealed by science.
+
+By contrast the traditional account of the justification of our knowledge of
+necessary truths seems both indispensible and incompatible with scientific
+discoveries.  On the one hand, despite our frequent errors in reasoning, we
+appear to be justified in believing some necessary truths with absolute
+certainty. On the other, any causal process producing confidence in beliefs
+will itself be subject to malfunctioning and hence though it may produce a
+_feeling_ of absolute certainty((or at least a feeling that we describe as a feeling of absolute certainty)) that certainty can never be completely
+justified((<q>In every judgment, which we can form concerning probability, as well as concerning knowledge, we ought always to correct the first judgment, deriv’d from the nature of the object, by another judgment, deriv’d from the nature of the understanding. ’Tis certain a man of solid sense and long experience ought to have, and usually has, a greater assurance in his opinions, than one that is foolish and ignorant, and that our sentiments have different degrees of authority, even with ourselves, in proportion to the degrees of our reason and experience. In the man of the best sense and longest experience, this authority is never entire; since even such-a-one must be conscious of many errors in the past, and must still dread the like for the future.</q> - Hume, [[hume1739.treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  Another difficulty is that many necessary truths (e.g. those of
+arithmetic and geometry) appear to refer to objects that are not located in
+space and time and hence incapable of playing any part in causing the formation
+of beliefs about them(((In the more recent philosophical literature this is sometimes called [[https://en.wikipedia.org/w/index.php?title=Paul_Benacerraf&oldid=1172032726#Philosophical_work|Benecerraf's epistemological problem or Beneceraff's dilemma]])).  More generally, as noted earlier, the objects described
+in scientific theories seem to be utterly insensitive to modal relations. As
+[[hume|Hume]] pointed out vigourously and to great effect, the supposedly necessary
+connexions between causes and their effects do not, themselves, cause
+any experiences in us (or cause our beliefs to change by other means).
+
+The problem is not merely that terms such as <q>knowledge</q> and <q>justification</q>
+cannot be translated into the terminology of physics or some other science
+(though such a reduction would provide a decisive resolution of the problem).
+The term <q>bridge</q> may be untranslatable into the langauge of physics((One problem is vagueness and borderline cases. Is an ant-bridge a bridge?  A tree that falls across a river but rots away without any creature crossing over it? Another is the seemingly infinitely diverse ways in which bridges might be constructed of physical materials [unless there is some maximum size for bridges].)). But
+the capacity of a particular bridge to bear a load of a million tons or survive
+a one-in-a-hundred-year earthquake is explicable in purely physical terms. 
+As some very modern philosophers are wont to say, the features that make
+something a useable bridge are _grounded_ by its physical properties.  There is
+no need to appeal to any non-physical aspect or component of bridges in order to
+explain their properties. A bridge may, of course, have properties
+possessed by none of its proper parts. It might weigh five-hundred tons, or have a
+volume of 2000 cubic meters, though those properties are simply the sum of the
+weights of the volumes of 
+
+, One cannot, for inatsnce build a sensor that detects the strength
+and orientation of electric fields out of
+
+If on the other hand a material or type of
+particle is utterly unaffected by say, electric fied
+
+and its capacity to respond to the strength or orientation of electric fields
+could not be explained purely in terms of the neutrons that composed it. There
+would either have to be some other aspect or component of the device that was not
+composed of neutrons or neutrons would have to turn , for the divice to respond
+to electircal fields as it does.
+
+If on the
+other hand a material or type of particle, say neutrons, were utterly unaffected
+by electric fields then a device that responded to electric fields could not be
+composed purely of neutrons.
+
+If say there was a material that was entirely unaffected by say, electrical
+fields and there was a sensor that indicated the strength of electrical fields,
+then it would be safe 
+
+And there is no mystery how a purely
+physical system could have these properties  In the case of sensitivity to modal
+properties such as necessity, validity (and indeed _grounding_)
+
+
+There
+is in principle no mystery of how such a thing as a bridge that can support a
+million ton load 
+
+By constrast we cannot see how any system composed 
+
+potentially but the properties
+that allow its 
+
+In the case of our knowledge of necessary truths and valid arguments the
+prospects of causal systems being able to implement the sensitivity to
+justifications that ordinary believers seem to exhibit seem far dimmer.
+
+For their part
+According to the traditionlaists the solution had only one solution - science
+must be partial.
+
+= convinced that science was partial
+
+and it was true that either science was partial OR the traditional account was
+simply wrong even within its won fields.
+
+
+we needed concepts to be such that we had good reason to believe that others ahd
+beliefs composed from (ore related to) the same concepts as us, 
+
+and preserving our ability to have justified beliefs (though to a lesser degree
+than absolute certainty) that others ahd the same concepts.
+
+The problem is not merely that talk of mental or intensional states (such as Mary's
+hoping that her car doesn't break down or Kya's believing that the Sun is larger
+than the Earth) cannot be translated into the terms of physics.
+
+
+We shall explore some of these alternatives below
+there is one argument which dominated.
+issues below, however, 
+that there is only one way in which these, our knowledge of the necessary truths
+of mathematics, logic
+
+The common theme of all these was that the scientific worldview is partial, and
+that there is some essential element of the universe, and in particular
+
+How it is that the evidence of or, even more austerely, the physically
+specifiable ????-but still not reducioble-????
+digital
+transmissions 
+
+
+No matter how complete an image science appears to be, there must be some
+causally active aspect of the universe that has been omitted from the scientific
+world view.
+
+
+
+That there must be some aspect of the world, because our capacity to reason
+
+The immediate problem for such dualistic theories was discovering a locus for
+interaction between these me=ntal and physical entities. Descartes notoriously
+suggested the pineal gland as the organ in which mental states might control
+the flow of (physical) animal spirits(particularly fine particles)
+But more generally therer was a tension between, if the evidence for such
+attributions were the impingements
+But 
+
+different ways of describing the same underlying reality.
+
+
+Others held that the same physical reality made both true, but untranslatable
+ways of describing the same physical reality.
+
+Further investigation of the physiology revealed no locus where these two realms
+could interact.
+
+How one could have good reason for the empirical justified belief that another
+person has thoughts and beliefs, if there were no causal connection between
+their thoughts and ones own belief about them. In the third person at least,
+that casual chain appeared to play a vital role in justifying 
+
+any causal process, even if it were
+and the laws of thought, if they were to be breachable
+
+these seemed suspiciously hypothesised, wth scant independent evidence for such
+objects
+
+but the what evidence
+At the outset it appeared perhaps that science cold only study material objects
+and mental entities such as.
+
+the evidence for the existence of such objects came to be seen as incresingly
+dubious.
+
+concepts and ideas - objects hypothesised just so their modal and causal
+
+Appeal could be made to ideas or concepts, objects hypothjesised precisely
+becaus their causal propoerties perfectly matched 
+
+some point of interaction between these two disparate fields
+but further investigations not only revealed, such as say, conservation of
+momentum or energy. But if these two fields of mental and physical never
+inte4racted what else other than a harmony between mental and physical events
+ordained by God's grace could reunite the two.
+But even the most radical of divisions,
+
+that no statement concerning events of cognition and deduction is
+equivalent to any statement concerning the movement of brute physical bodies
+
+would still
+except by a massive co-incidental harmony created by god's graced.
+
+Note that even this separation
+does not solve the problem of how a purely physcal system could happen to act as
+though .
+
+could not be explained in naturalistic terms, how is it that a system acting
+purely according to natural laws could move  as though it were controlled by a rational mind which made decisions
+in which deduction (among other things) played a part.
+((or go through whatever motions were involved in evaluating the behaviour of
+others))
+
+
 
 Viewed upon a larger scale, the new focus on the justification of knowledge of
 necessary truths was a reversion to the ancient order.  Explaining our knowledge
@@ -602,48 +765,355 @@ enquiry; the manifest falsehood of traditional epistemology left us without any
 coherent account of the justification of our knowledge of necessary truths, and
 the search for such an account became the central task of philosophy.
 
+to which we could be sensitive
+
 == early modern attempts to explain knowledge of necessary truths ==
 ==== descartes ====
-Although [[Descartes]] was among the first to note that the traditional
-account of the justification of knowledge did not apply to our knowledge of
-scientific truths, he did not give an account of our ability to reason (or
-possess knowledge of necessary truths). In his
-_Discourse on the Method of Rightly Conducting One's Reason_ he gave general
-advice on how to approach broadly mathematical and scientific questions((Along the lines of: take nothing for granted, divide problems into smaller problems));
-but he had faith enough in God, confidence enough in his own abilities, and was
-so strongly struck by the sense of <q>seeing clearly</q> that something must be
-so, that it apparently never occured to him to venture an account of our ability
-to reason beyond attributing it to God's grace.  The British empiricists that
-followed him, by contrast, were keenly interested in demarcating the limits of
-what reason could accomplish, and hence began to propose various theories about
-the process of reasoning.
+????
+[[descartes|Descartes]] broadened the traditional account by allowing contingent
+truths known with certainty (such as knowledge of one's own existence and
+immediate experiences) to serve as first principles in addition to necessary
+truths known with certainty (such as the postulates of geometry). He then
+attempted to show all knowledge, including both mathematical and scientific
+knowledge, could be deduced from those expanded foundations. He did not,
+however, venture an account of our ability to gain knowledge of those necessary
+first principles beyond describing it as <q>seeing by the clear light of
+reason</q> and attributing our possession of it to God's grace. This is not to
+criticise Descartes for taking this ability for granted, but simply to note
+that his objective in works such as
+[[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf|_Discourse on the Method of Rightly Conducting One's Reason_]] and
+[[local:zz.texts/descartes2.philosophicalWritingsOfDescartes.pdf|_Meditations on First Philosophy_]]
+was not to explain our knowledge of necessary truths and necessarily truth
+preserving arguments, but to to show that from that knowledge, together with
+certain knowledge of our own existence and experiences, everything else we know
+could be deduced.
+????
+In his [[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf|_Rules for the Direction of Mind_]] and
+[[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf|_Discourse on the Method of Rightly Conducting One's Reason_]], [[Descartes]]
+confidently claims to describe a method for <q>seeking truth in the sciences</q>
+(including mathematics) that will <q>gradually and constantly increase one’s
+knowledge till one arrives at a true understanding of everything within one’s
+capacity</q>(([[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf|_Rules for the Direction of Mind_]])). His promises, however, do not stand up to close inspection.
+His descriptions of his <q>method</q> amount to little more than pieces of
+general advice on how to approach scientific and mathematical problems; along
+the lines of *take nothing for granted*, and *divide problems into smaller parts*.
+While these tips can be helpful, Descartes himself acknowledges that the
+description of his method does not amount to an account of our capacity to
+reason: <q>The method cannot go so far as to teach us how to perform the actual
+operations of intuition and deduction, since these are the simplest of all and
+quite basic. If our intellect were not already able to perform them, it would
+not comprehend any of the rules of the method, however easy they might
+be.</q>(([[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf|_Rules for the Direction of Mind_]]))
+
+Although Descartes does not propose to explain our knowledge of necessary
+truths, he does outline prototypical versions of two distinctions that later
+philosophers will rely upon in their attempts to explain such knowledge:
+
+The first of these distinctions is between *simple* and *complex* necessary truths.
+Simple truths are known as soon as they are clearly considered (by those who
+possess <q>some degree of rationality</q>) and no further justification for our
+knowledge of them can be given or required. Knowledge of complex truths, by
+contrast, requires reasoning for its justification. Reason, on this view, being
+the ability to devise, or at least inspect, chains of simple inferences whereby
+complex truths may be deduced from truths known with certainty - either
+necessary first principles or infallible statements of one's own experiences.
+
+According to Descartes there are <q>simple natures</q> whose
+distinguishing feature is being known <q>so clearly and distinctly that they
+cannot be divided by the mind into others which are more distinctly known</q>(([[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf]])).
+Descartes' examples of such simple natures include properties such as
+shape, extension, motion, existence, unity and duration, as well as principles
+of Euclidean geometry such as <q>Things that are the same as a third thing are
+the same as each other</q>(([[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf]])), and concepts of small integers such as seven.
+Sometimes Descartes claims these simple natures are mental entities such as
+concepts or ideas, while at other times he says that they are properties of
+objects (and at yet others he warns against assuming that our concepts are the 
+same as the properties of external objects((<q>the understanding of the wise man will not be deceived in such cases: while he will judge that whatever comes to him from his imagination really is depicted in it, he will never assert that it passes, complete and unaltered, from the external world to his senses, and from his senses to the corporeal imagination, unless he already has some other grounds for claiming to know this.</q>, [[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf]]))).  In any case, once these simple
+natures are distinguished no error of judgement can be made about them, nor can
+our knowledge of them be less than complete. Any rational person simply sees the
+modal relationships between these simples by <q>the clear light of reason</q>(([[local:zz.texts/descartes1.philosophicalWritingsOfDescartes.pdf]]))
+and hence, once their attention is drawn to them, knows if simple principles
+are necessarily true or whether it is necessary, possible or impossible for
+an object to possess combinations of simple properties.
+
+It would be a mistake to imagine that Descartes had a coherent, but poorly
+expressed, account of simples, which might be unearthed by careful
+interpretation of his writing. Rather, whenever Descartes finds a principle
+which strikes him as clearly and obviously true, but for which he is unable to
+provide a justification((When, in Wittgenstein's much later metaphor, he <q>hits bedrock</q>.)) he simply declares it to be simple or concern a
+relationship between simple properties. The appeal to simplicity is an attempt
+to explain the phenomena - how can one have clear and certain knowledge of
+principles for which one can provide no further justification. The explanation
+is that they are just too simple for there to be any doubt.  Without an
+independent account of simplicity, however, this explanation is vacuous and the
+<q>method</q> of reducing complicated propositions to simpler ones (the fifth of
+the _Rules for Direction of Mind_) amounts to the practical but somewhat vague
+advice to break things down into obvious steps, rather than a principled account
+of how knowledge of necessary truths is justified. In the end, Descartes offers
+no account of our knowledge of simple truths except for God's grace, and
+no method for identifying them except that they seem clear and obvious.
+
+Descartes' writing also contains occasional hints of a distinction that
+later philosophers would draw between contentive truths and empty or merely
+verbal truths. Though Descartes does not draw a distinction between sorts of
+truths along these lines, he does apply a similar distinction to some forms of
+inference.  In particular, he criticises Aristotelian syllogisms on the grounds
+that we <q>learn nothing new from such forms of reasoning</q>, saying
+<q>dialecticians are unable to formulate a syllogism with a true conclusion
+unless they are already in possession of the substance of the conclusion</q>.
+Although Descartes does not develop the distinction further, it is worth
+noting that a precursor of this distinction, which would eventually become
+central to accounts of our knowledge of necessary truths, is already present at
+this early stage.
+
+
+there is a precursor
+ precursor of 
+the is a precursor of t
+this distinction, which would go on to become central to accounts of of our
+knwoeldge of necessary truth in thew twentieth century
+
+When the first of the two problems seemd the most pressing.
+shiuft in emphasis
+Descartes produced his works prior to the curious inversion noted above. His
+focus is on the truths we may discover by the application of our ability to
+reason rather than the nature of that ability itself. Like the Aristotelian
+philosophers who preceeded him, he maintained that all knowledge was deduced from
+principles known with certainty. Unlike Aristotle, he took such principles to
+include both knowledge of necessary first principles and knowledge of one's own
+experiences. The chief epistemological problem he attempted to solve was how to
+deduce our scientific theories from such certainties, and thereby place them on
+the same secure foundations as our knowledge of mathematics and geometry. He had
+faith enough in God, confidence enough in his own abilities, and was so strongly
+struck by the sense of <q>seeing clearly</q> that something must be so, that it
+apparently never occured to him to venture an account of the foundations of our
+ability to reason beyond attributing it to God's grace. 
 
 ==== locke ====
-In his _Enquiry Concerning Human Understanding_, Locke gave an account of
-reasoning based on the capacity to <q>see</q> relations between <q>ideas</q>.
-Foremost among these relations was identity, and hence among other things,
-reasoning was the power to <q>see</q> that <q>that white is not black, that a
-circle is not a triangle</q>. Chains of such intuitively discernable identities
-gave rise to demonstrative proofs. The resulting account of reasoning applies
-nicely to geometrical proofs demonstrating that two lines are the same length
-or two angles of the same measure by constructing an intermediate which is shown
-equal to both. As Locke himself recognised, however, the capacity to discern the
-identity or difference of ideas is not enough to support all our forms of
-reasoning: <q>For, since all distinct ideas must eternally be known not to be
-the same, and so be universally and constantly denied one of another, there
-could be no room for any positive knowledge at all, if we could not perceive any
-relation between our ideas</q>. But in any case Locke did not venture any
-account of our ability to discern such identities and relations. In such matters
-<q>the mind is at no pains of proving or examining, but perceives the truth as
-the eye doth light, only by being directed towards it.</q> (Locke's analogy with
-the immediacy of sight is somewhat ironic, for a scant five pages later he
-gives a hypothesis regarding the mechanism of sight: <q>supposing the
+Locke's account of our ability to reason in his
+[[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|_Essay Concerning Human Understanding_]] is, in many ways, merely a
+more refined and systematic version of Descartes'. Like Descartes, he
+distinguishes between simple and complex truths, and holds that simple truths
+<q>as soon as understood, are, without any the least reasoning, embraced and
+assented to</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])).  Locke is more careful than Descartes to distinguish mental
+entities - <q>ideas</q> - from the properties they represent. He makes it clear that
+his simples are ideas, and that necessary simple truths express <q>relations
+between ideas</q>.  He goes to considerable lengths to emphasize that these ideas
+are not innate, but impressed upon us by experience; but in the end he still
+relies upon an innate and unexplained ability to discern simple relations
+between ideas once we have experienced them.  In such matters <q>the mind is at
+no pains of proving or examining, but perceives the truth as the eye
+doth light, only by being directed towards it</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])).  The lack of any account of our
+knowledge of such truths stands in salient contrast to Locke's hypothesis
+concerning the mechanism of sight just five pages later: <q>supposing the
 sensation or idea we name whiteness be produced in us by a certain number of
 globules, which, having a verticity about their own centres, strike upon the
 retina of the eye, with a certain degree of rotation, as well as progressive
-swiftness</q>.)
+swiftness</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])).
+
+A notable superiority of Locke's account over Descartes', is that Locke at least
+attempts to provide an independent standard of simplicity.  Foremost among
+Locke's simple truths are statements of identity and non-identity such as
+<q>sweet is not bitter</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])), <q>a circle is not a triangle</q>((ibid.,)) and <q>What is, is</q>((ibid.,)).
+It should be noted, however, that Locke uses an older and broader
+notion of identity statement than is generally accepted by
+logicians today. <q>[B]y identical propositions I mean only such wherein the
+same term, importing the same idea, is affirmed of itself</q>((i.e. sentences in which a term occurs as both predicate and subject, [[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])).  The modern
+distinction between using <q>is</q> to express identity and using it to express
+predication is foreign to him. His prime examples of identical propositions
+are those like <q>A centaur is a centaur</q> in which the same term explicitly occurs
+as both subject and predicate but when pushed.
+
+More complex truths
+Euclidean geometry does include 
+
+Thus he counts both <q>three are equal to one
+and two</q>((original: <q>three are more than two and equal to one and two</q>, [[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf]])) and <q>A centaur is a centaur</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|ibid.,]])) as true identity statements. In
+
+and hints at other forms
+While he discusses such relations at length, and the various ways in which the
+ideas of such relations are formed ,
+(cause and effect, be
+<q>we cannot but observe that several particular, both qualities and substances,
+begin to exist; and that they receive this their existence from the due ap-
+plication and operation of some other being</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|ibid.,]]))
+
+some places Locke claims that all simple truths are statements of identity or
+non-identity((<q>I grant further, that the foundation of all our knowledge lies in the faculty we have of perceiving the same idea to be the same, and of discerning it from those that are different; as I have shown in the foregoing chapter.</q>, https://www.gutenberg.org/ebooks/10615 )). In others, however, he explicitly says there must be simple
+truths other than identity statements: <q>For, since all distinct ideas must
+eternally be known not to be the same, and so be universally and constantly
+denied one of another, there could be no room for any positive knowledge at all,
+if we could not perceive any relation between our ideas</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|ibid.,]])) (and here Locke
+makes it clear that he intends <q>any relation</q> other than identity).  But he
+gives no account of these other simple truths apart from a handful of examples
+such as <q>three are more than two</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|ibid.,]])).
+<q>agreement or disagreement the mind perceives in any of its ideas</q>(([[local:zz.texts/locke1690.essayConcerningHumanUnderstanding.pdf|ibid.,]]))
+and hence do not 
+
+Thus whether non obvious statements of identity such as 'The square root of the
+first odd square number greater than 1 is equal to two plus one'.
+
+Even at this 
+
+Reasoning, by Locke's is the construction of sequences of identities
+if 
+
+= trifling truths =
+Locke is also far more concerned to distinguish truths he calls
+<q>trifling</q> or <q>merely verbal</q> from those he calls <q>instructive</q>.
+Knowledge of the latter is <q>real knowledge</q> , knowledge of the former is
+Unhelpfull is it again identity statements.
+
+edge, from the imputation of trifling, I do not see.</q>
+It is noteworthy that when he explicitly presentes truths as foundational simple
+truths he almost always chooses negative identity statements such as <q>White is
+not black</q> and all his examples of trifling identity statements are positive
+<q>What is, is</q>.
+
+But Locke himself seems unaware of this pattern. He makes no mention
+of it, and certainly never relies upon it to distinguish trivial identity
+statements from those whihc provide the foundations for all knowldege of
+necessary truths.
+
+Part of the appeal of Lockes account of reasoning.
+truths 
+But these identyt statements, such as <q>opposite angles are equal</q>((Euclid,
+Proposition 15 book 1)) are not one in which
+If in wh
+
+
+= genuine problem =
+Locke notes the tension between these two claims in passing
+    the foundation of all our knowledge lies in the faculty we have of
+    perceiving the same idea to be the same, and of discerning it from those
+    that are different ... But how that vindicates the making use of identical
+    propositions, for the improvement of knowledge from the imputation of
+    trifling, I do not see.
+
+To the extent that his distinction/deliintation/characterisation/specification
+of simple truth is clear it is inadequate providing a foundation for our
+knowledge of geometry.gq
+
+but does not seem to appreciate its implications.  a large part of the appeal of
+locke's account was that it appeared to explain the foundations of our knowledge
+f geometrical truths.
+
+a large part of the appeal of locke's account was its apparent capacity to
+exdplain our knowledge of geometerical truths.
+locke's account of our knowledge of necessary truths is that it appears to
+apply to our knowledge of geotemtry. one of the main Methods of proving two
+
+geometrical figures to be equal
+
+(This account of reasoning applies cenicely to geometrical proofs demonstrating
+that two lines are the same length or two angles of the same measure by
+constructing an intermediate which is shown equal to both.)
+
+In Euclid's
+[[https://mathcs.clarku.edu/~djoyce/java/elements/bookI/bookI.html|_Elements_]]
+((The
+
+linked version of the _Elements_ one of the chief methods used to prove that two
+geometrical figures are equal (e.g. that two lines are of equal length, or two
+angles of equal measure) is to construct an intermediate figure, which can be
+directly proven to be equal to both. In Book One of the [[https://gutenberg.org/ebooks/21076|_Elements_]] this method
+is used to prove both Proposition 47 -  Pythagoras’ theorem - and  Proposition
+32 - <q>that the three angles of a triangle are quite equal to two right ones</q> -
+which is Locke’s standard example of a truth established by use of reason. An
+example he mentions 29 times in his Essay. Thus it appears
+
+and if he were to admit such as principle of identity that he would have a
+great difficulty for we do not have the power of recognising right angles
+whenever they consturct them, indeed proving a given angle to be right
+can be the sbject of extended and complicated geometrical proof.
+
+but neither it nor principles it is deduced from, such as <q>opposite angles are
+equal</q> are statements in which <q>the same idea is affirmed of itself</q>
+
+but then his account 
+
+it is utterly unclear how a sequence of identity statements like those 
+could be used. But then we need be able to tell 
+
+Locke had proposed
+    the foundation of all our knowledge lies in the faculty we have of
+    perceiving the same idea to be the same, and of discerning it from those
+    that are different 
+The ability to tell that one idea is identical with itself nd distinct from all
+other ideas.
+
+One of the fundamental axioms of Euclid's geometry is that (Postulate 4)
+_All angles between two straight lines that are equal to their adjacent angles, are equal to each other._
+
+This cannot be taken as a raw ability to recognise right angles, for
+establishing that a particualr angle is a right angle can require lengthy proof.
+
+A raw ability to distinguish different ideas form one another.
+
+The claim that the identity statements of geometry and algebra, such as
+Pythagoras's theorem, were precisely *not* statements in which
+would go on to become Kant's chief criticism, and providing a solution to this
+problem was the central objective to his Critique of pure reason.
+
+If the fundamental steps are identity statements then how can a series of merely
+verbal claims 
+
+Resolving this quandary
+This problem would go on to become the cebtral motivating problem of Kant's
+crituqe of Pure reason.
+
+
+= consonance =
+continues to depended on the ancient assumption of a consonance between upon a
+consonance (Locke's term is <q>confirmity</q>) between our concepts
+(<q>ideas</q>) and the properties they represent.
+
+Locke acknowledges this explicitly:
+<q>Our knowledge, therefore is real only so far as there is a conformity between
+our ideas and the reality of things.</q>, and goes on to give a blend of three
+weak arguments
+
+Another, related, problem is the continued dependence upon the consonance between of ideas
+and the external properties they represent
+
+
+    simple ideas, which since the mind, as has been shown, can by no means make
+    to itself, must necessarily be the product of things operating on the mind,
+    in a natural way, and producing therein those perceptions which by the
+    Wisdom and Will of our Maker they are ordained and adapted to. From whence
+    it follows, that simple ideas are not fictions of our fancies, but the
+    natural and regular productions of things without us, really operating
+    upon us; and so carry with them all the conformity which is intended; or
+    which our state requires
+this mixes together three distinct reasons for conformity: an appeal to God's
+grace, taht since , and 
+In the end however, Locke falls back upon the ancient reliance of a match
+between our concepts and the properties, so that the modal relations betwene the
+former reflect those of the latter, or as Locke puts it <q>all simple ideas are
+really conformed to things</q>. From a handful of simpl statements of the
+agreement (which is strtched to include their modal relations ??/repugnance/??
+
+interesting precursor of Kant:
+we can <q>be infallibly certain, that all the knowledge we attain concerning
+these ideas is real, and reaches things themselves.  Because in all our
+thoughts, reasonings, and discourses of this kind, we intend things no further
+than as they are conformable to our ideas.</q> This solution, which would be
+developed into the central claim of Kant's critique
+
+But here, as is often the case, the unclear blending together of several
+arguments
+highlights the lack of any conclusive 
 
 ==== leibniz ====
+Locke's common sense preventedoprevented from achiving consistency
+pulls back from the extreme positions
+follw the argument through
+
+If Locke's commonsense and repugnance towards outlandish conclusions led him
+into confusions and inconsistencies.
+Many of the confusions and inconsistencies that plague Locke's account of our
+knowledge
+
 [[leibniz|Leibniz]] is the first modern philosopher to attempt to provide an account of
 our knowledge of necessary truths more substantial than simply <q>seeing by
 the light of reason</q> that they must be true. He is also the first to suggest
@@ -704,76 +1174,158 @@ the best of all possible worlds. God can therefore trace the infinite chains of
 reasoning required to deduce the contingent movements of the smallest mote of
 dust.
 
-Leibniz's position may be unconvincing to modern philosophers who have
-abandoned belief in both an omniscient God and the traditional account of
-knowledge, and adopted a firm distinction between logical and causal necessity,
-but it was a work of genius to reconcile the constraints he sought to satisfy.
-God alone can have certain deductively founded knowledge of contingent facts,
-wheras we finite mortals have to rely upon God's providence in arranging things
-according to a causal pattern. With that proviso in place however, we can rely
-upon the necessity of the causal connection between our observations and
-external reality in justifying our beliefs. Almost as a side effect, Leibniz
-gave rise to the notions of analytic truth, the claim that all necessary truths
-are analytic, and the metaphor upon which nearly all of modern philosophy is
-based, the notion of conceptual containment.
+Leibniz's position may be unconvincing to those who have abandoned belief in
+a perfectly omniscient God and the traditional account of knowledge, but it was
+a work of genius to find a way of satisfying those constraints. God alone can
+have certain deductively founded knowledge of contingent facts, wheras we finite
+mortals have to rely upon God's providence in arranging things according to a
+causal pattern.  With that proviso in place however, we can rely upon the
+necessity of the causal connections between our observations and external
+reality to justify our beliefs. As a side effect of satisfying these
+constraints, Leibniz produced an account of the justification of belief in
+necessary truths by the analysis of their meanings, claimed that such analysis
+could justify belief in all necessary truths (other than his <q>basic truths</q>
+which supposedly stood in no need of justification) and provided a beautifully
+clear explication of the metaphor on which modern philosophy would be built, the
+notion of conceptual containment.
 
-Leibniz's metaphor of conceptual containment had both a linguistic and
-metaphysical interpretation. As in the first quote above, it could be
-interpreted as applying to the process 
-HERE
-true of words, and of metaphysical
+Leibniz was not the first to write of terms (or concepts) containing one
+another. Peter of Abelard wrote of claims containing their consequences in the
+12th century, and scholars debate whether the notion of claims containing their
+consequences can be traced back as far as Boethius in the 6th century. He was,
+however, the first to provide a clear interpretation for the metaphor.
+Unfortunately he provided two very different, though aligned interpretations;
+one linguistic and the other ontological.
 
-In the linguistic sense the result of replacing a term with its
-definition term can be replaced by its definition
-without changing the meaning (or truth value) of the overall sentence.
-In the case of defined terms they could be replaced by their
-definitions.
-A term <q>contains</q> the definiens by which it can be
-replaced. This notion of containment is as clear as the notion of synonymy upon
-which it depends.
-Has the same meaning as the original.
-it is impossible for the two to differ in truth value
+In the linguistic version it is the relationship between a term and its
+definition that is compared to the spatial relationship of containment. When, as
+Leibniz described in the first quote above, a term is replaced by its
+definition, it is 'opened up' and its metaphorical contents revealed (at least
+in part). The key point being that a definition is synonymous with the term it
+defines and hence such replacement preserves meaning.  If the result of such
+replacement is a necessary <q>basic truth</q>, then the unexpanded original is
+also a necessarily true. If knowledge of <q>basic truths</q> can be justified,
+or they are so fundamental that no justification for them can be given or
+reasonably required, then knowledge of all necessary truths that can be reduced
+to <q>basic truths</q> by selectively revealing the contents of their terms can
+also be justified.  This sense of containment, and the attendant account of our
+knowledge of necessary truths, is as clear as the notion of synonymy which is
+supposed to hold between terms and their definitions. 
 
-This metaphysical interpretation of conceptual containment, in which each monad 
-contained all the properties and relations
-in somewhat the same way that a mind contains a thought, was based upon a
-profound commitment to the Aristotelian doctrine that all meaningful sentences,
-once stripped of logical connectives are of subject predicate form.
+In the ontological version of the metaphor it is the relationship between an
+object and its properties and relations that is compared to spatial containment.
+Leibniz was deeply committed to the Aristotelian principle that each meaningful
+assertion has a single subject and a single predicate and either affirms or
+denies that predicate of that subject((This already involves a confusion between use and mention - between subject as word and subject as object - which is a serious though remediable fault.  Leibniz, however, is careless of the distinction and the ambiguity is not immediately relevant to our current concerns.)). This is the form of sentences such as
+<q>Jan is not happy</q> or <q>All women are mortal</q> (though in the first the
+subject is individual and in the second it is universal).  Among its other
+limitations, it is difficult to apply Aristotle's logic to sentences such as
+<q>Mary is to the right of John</q> which, at least superficially, has two
+subjects and expresses a relationship between them. Driven by a the procrustean
+urge to make all statements fit within the limits of Aristotelian logic, Leibniz
+sought to give a compatible account of the objects that make our statements
+true. On this view each object <q>contains</q> within itself all the truth
+makers for all the sentences of which that object is the subject. In order to
+get a sense of this form of containment consider the sentence <q>Mary is to the
+left of John</q>.  This can be coerced into subject-predicate form as
+<q>Mary is John-leftward</q>((Or, of course as <q>John is Mary-rightward</q>. A devotee of Aristotelian logic might dismiss the choice between these alternatives as due to a defect in ordinary language.)).  If one takes subject-predicate form seriously,
+this odd sentence concerns only Mary, and it must be something about Mary that
+makes it true. On roughly these grounds, Leibniz held that each object <q>always
+expresses within itself its relations to all others</q> ((Letter to De Bosses, [[local:zz.texts/leibniz1716.lettersAndPapers.pdf]])).  Indeed it is within
+God's power to make <q>Mary is John-leftward</q> true without John existing, though
+God would not do so <q>because he has decreed that all things should function
+most wisely and harmoniously</q>((Letter to De Bosses, [[local:zz.texts/leibniz1716.lettersAndPapers.pdf|Gottfried Wilhelm Leibniz: Philosophical Papers and letters]])).  In this sense, according to Leibniz,
+each object <q>contains</q> all its properties and relations.
 
-Whatever it was that made <q>John is to the left of Mary true</q> (Perhaps
-reduced to the claim <q>John is Mary-leftward</q> or <q>Mary is
-John-rightward</q>. The ambituity as to which is the correct interpretation
-being chalked up to a defect in ordinary language.) Is contained with in
+Doctrines based upon these two metaphors would go on, eventually, to play a key
+role in the origins of analytic philosophy. The first would inspire the central
+doctrine of analytic philosophy: that belief in necessary truths is justified
+solely by analysis of their meanings. The second would give rise to
+[[https://en.wikipedia.org/w/index.php?title=Doctrine_of_internal_relations&oldid=1154083324#cite_ref-1|the doctrine of internal relations]], whose rejection was a key rallying point of
+early analytic philosophy. Before either of those developments, however, a far
+more significant limitation or the assumption that all sentences are of
+subject-predicate form would have to be recognised and overcome.
 
-If God had chosen to make a world in which <q>John is Mary-leftward</q> was true
-despite there being no Mary. What makes this true is purely a state of John, the
-subject John has that property by virtue of something internal to it and not any
-external relationship
+Earlier natural philosophers, most notably Descartes, grossly
+underestimated the difficulty of providing a complete and true theory of the
+physical world. At time writing as though they 
 
-of course it is true that God would never arrange things this way. That would be
-a distressingly unharmonious world unappealing to Divine tastes. Notice here
-that this allows the equivocation, to modern eyes, between logical and causal
-necessity to sustain our having knowledge of the external world by the
-traidtional Aristotelian standard. It is contingent that one things are causally
-arranged, but it is also necessary, although knowledge of that necessity is only
-justified by our faith in divine providence. But this the sense in which each
-substance contains every predicate that is true of it.
+and just as is the case with Dwscartes it is hard to tell if he actually
+believed this, or if it is a bit the exagerration (though these early examples
+set a high bar)
 
-The gap between these two distinct types of containment is bridged by Leibniz's
-notion of a _complete individual concept_. This concept _contains_ all
-predicates true of the substance (monad) that it represents, just as the monad
-contains all the properties and In a perfect langauge, as Leibniz envisaged it,
-each object would only be denoted by the term expressing this and hence when,
-but of course such a langauge could only be spoken by God.
+Descartes had grossly under-estimated the difficulty of grossly
+under-estimated the difficulty 
+and had grossly underestimated the
+difficulty of 
+Just as Descartes had wildly underestimated
+Like many he hopelessly under-estimated the difficulty of the task 
+Like many enlightenment natural philosophers before him (most notably Descartes)
+Leibniz was hoplessly over-confident. He envisaged a languge in which 
+Although Leibniz was the first to describe 
 
-It must also be noted that the <q>basic truths</q>, to which Leibniz maintained
-all necessary truths could be reduced, were not true by virtue of meaning alone,
-but rather profound metaphysical principles, perhaps ones in which belief was
-justified without fur, but nonetheless profound principles 
+incorporate algebraic
+Leibniz's contemporaries had good reason to be skeptical of his fantasy of a
+<q>characteristica universalis</q> or <q>alphabet of thought</q> in which each
+concept was expressed by a unique symbol, formulae expressing necessary truths
+could be identified by their syntax, and all sequences of valid reasoning could
+be verified by mechanical calculation. Leibniz radically underestimated the
+complexity of the inferences required in mathematical reasoning. His critics,
+most notably Kant, correctly pointed out that the truths of mathematics and
+geometry could not all be reduced to statements of identity (e.g. <q>0 = 0</q>,
+or <q>All red things are red</q>)
+merely by replacing terms with their definitions (and omission of some parts of
+the resulting expanded terms). The logical technology of the
+day was simply too limited to meet the demands of mathematical reasoning. At the
+time, most European intellectuals thought that those limits were unalterable,
+and Leibniz's ideas for surpassing those limits were hopelessly naive.  No
+system in which all sentences are treated as being of subject-predicate form can
+have the deductive power required for geometry and mathematics. What no-one,
+including Leibniz, knew at the time however, was that those limitations were the
+result of a failure to recognise the variety of complex forms that sentences may
+possess, rather than being inherent to systems of formal logic _per se_.
+Before analytic philosophers would insist that all knowledge of necessary truths
+is gained by analysis
 
-but the notion of conceptual containment that concerned only definitions and not
-mataphysical substances is as sound as the notion of synonymy upon which it
-depends.
+the class ef sentence that can be reduced
+
+Although most of Leibniz's was forgotten, or lay ignored. It would eventually
+first be re-discovered by German logicians such as Frege. The <q>seeds of
+ideas</q>((Frege, _Boole's Logical Calculus and the Concept-script_)) Frege found in Leibniz's ??? would inspire him to develop 
+
+
+
+===== foreshadowing of modern logic =====
+Leibniz's foreshadowing of formal logic would turn out, eventually, to be even
+more momentous than his account of the foundations of our knowledge of necessary
+truths. (Though for the century after his death it was even less appreciated.) 
+Inspired by the manipulation of algebraic formulae Leibniz hoped for a languge
+in whihc all chains of reasoning could be 
+
+In several ways Leibniz's fantasy was hopelessly naive.
+
+
+= algebraic logic =
+the leqast noted, and ost quickly forgotten of , and least appreciated of his
+innovations was the introduction of algebraic techniques to logical forms of
+deduction. Most notably a rule of substituting
+
+Leibniz's
+and algebraic approached to logic in particular
+Second, his notion of the characteristica universalis lingered on, and when
+The idea of a characteristica universalis remained as a wild dream, sometimes
+mocked sometimes taken seriously. 
+
+Although his <q>characteristica universalis</q> might be dismissed as a fantasy,
+akin to philosophers' stone by which alchemists hoped to transmuting lead into
+gold.
+
+Frege to sift the <q>seeds of ideas</q> and the notion that
+reasoning substantially involved the analysis of meanings and the exposure of
+their content by the unpacking of definitions and 
+
+characteristica universalis remained as an ideal, akin to the alchemists ideal
+of turning base metals into gold, but something that was 
 
 = his logic unachievable =
 There was another effect of Leibniz's  commitment to the Aristotelian principle
@@ -977,7 +1529,7 @@ to the extent they were known at all, were not
 generally deemed worth responding to
 
 ==== hume ====
-[[hume|Hume's]] avowed purpose in his _Treatise of Human Nature_ was to <q>introduce
+[[hume|Hume's]] avowed purpose in his [[hume1739.treatiseHumanNature.pdf|_Treatise of Human Nature_]] was to <q>introduce
 the experimental method of reasoning</q> into the study of what is now called
 human psychology. He does not, of course, stoop to perform any experiments, but
 rather his intent is to develop a theory which is supported by observations of
@@ -1006,19 +1558,22 @@ mathematician's confidence in his proofs caused but not justified:
     that this gradual encrease of assurance is nothing but the addition of new
     probabilities, and is deriv’d from the constant union of causes and effects,
     according to past experience and observation.
-Just as no perception is caused by a necessary connection between external
-events, such as the striking of a billiard ball and its subsequent movement, so
+Just as no experience is caused by a necessary connection between external
+events, such as the striking of a billiard ball and its subsequent movement; so
 too with our thoughts, we sense only that one thought comes after another and
 not that there is a necessary connection between them.
+[:Hume's positive account of belief formation by means of association does not
+concern us here since it is only an account of how those beliefs are formed and
+*not* of why they are justified:]
 
 Hume's _Treatise_ is thus the first influential attempt to grapple with the
 tension between the traditional account of knowledge and causal accounts of
-belief formation. Hume recognised, somewhat dimly and intermittently((as innovators and discoverers are wont to do))
+belief formation. Hume claimed, somewhat unclearly and intermittently((as innovators and discoverers are wont to do)),
 that if the formation of beliefs is a purely causal process, and like other
-natural causal processes insensitive to modal relations, then it seems we can
-have no justification for believing in such modal relationships. (In
+natural causal processes insensitive to modal relations, then we can
+have no justification for believing in such modal relationships. In
 particular no justification for believing there are <q>necessary connexions</q>
-between causes and their effects.)  It is not, however, only beliefs in modal
+between causes and their effects. It is not, however, only beliefs in necessary
 truths that are cast into doubt.  According to the traditional view, reasoning
 is a process of forming beliefs in response to their modal connections. In
 reasoning one infers a belief from others because one <q>sees</q> or somehow
@@ -1078,7 +1633,8 @@ as they appear to us</q> to <q>things as they are in themselves</q>:
     its appearance (i.e., in its visible acts), as conforming necessarily to
     natural law and as to that extent not free; yet on the other hand, qua
     belonging to a thing in itself, as not subject to that law, and hence as
-    free.((Critique of Pure Reason Bxviii))
+    free.[[local:zz.texts/kant1787.critiqueOfPureReason.pluharTrans.pdf|_Critique of Pure Reason_]]((Pluhar Translation))
+[[local:zz.texts/kant1787.critiqueOfPureReason.pluharTrans.pdf|_Critique of Pure Reason_]]((Pluhar translation))
 We could not, of course, know ourselves to be free, anymore than we could know
 any of our concepts to apply correctly to any <q>thing in itself</q>, but we
 were not precluded from entertaining the possibility. So too we could still hope
@@ -1155,8 +1711,8 @@ had already rejected Kant's system they served only as the final nail in its
 coffin, while the core of remaining believers were so committed that these
 discoveries did little to change their minds.
 
-As it turned out, it was a combination of two other factors which had the most
-effect in displacing the systems developed by Kant and his followers:
+As it turned out, however, it was a combination of two other factors which had
+the most effect in displacing the systems developed by Kant and his followers:
 
 The first was the failure of Kant and his followers to deliver on
 their promise of a metaphysics that was <q>purified by critique, and estabished
@@ -1279,7 +1835,7 @@ philosophy freed from irresolvable disputes. The former remained closer to the
 older humanistic understanding of ourselves, maintain the ambitions of
 philosophy to answer seemingly profound  and held that science was at best a partial description of
 the world. 
-???
+????
 The latter regarded themselves , sought to reconcile our 
 held there to be no 
 
@@ -1512,7 +2068,7 @@ about a different meaning altogether and hence one is justified in being
 absolutely confident that *'Today is Friday and today is not Friday'* is false.
 
 
-Now in the case of <q>Today is Friday and Today is not Friday\<q>
+Now in the case of <q>Today is Friday and Today is not Friday</q>
 
 =two steps
 == all logical truths are true by virtue of meaning
@@ -1606,7 +2162,7 @@ all this had been accepted by Kantian philosophy that was it predecessor
 but even on its own terms there were problems: the reconciliation with science
 was only achieved on the optimistic, but inherently unjustifiable belief that
 the scientific image was partial, that the world <q>as it was in itself</q> was
-beyond scientific description and in particualr it could not be established that
+beyond scientific description and in particular it could not be established that
 we acted as a result of reasoning.
 
 Kantian philosophy had claimed that our capcity to reason was something
@@ -2053,9 +2609,6 @@ philosopher puts it((Matze, 2023)).
 not least because philosophy is the pursuit of knowledge by reason.
 
 = complete collapse =
-The purpose of this historical introduction is to make clear 
-that this is not a seeucne
-
 Just another failed philosophical distinction.
 
 A conclusive demonstration that causal processes cannot reason would be as
@@ -2072,6 +2625,9 @@ It seems to me that such and such but I had no idea why you should believe me.
 We would have no more justification for foisitng our opinions on innocent
 passers by than psychics (but probably with a much worse
 inductive track record).
+we need either an account of the justification of knowledge of nbecessary truths
+or an an account of why reasoning leads to truth that does not rely upon
+knowledge of necessary truths
 
 
 = ??? rough notes  reuinte the divided house =
@@ -2187,6 +2743,72 @@ about the fundamental principles upon which reasoning is based app
 
 
 ======
+= conclusion ???? =
+
+traditionalists remained wedded to their account - theiur inflexibility aided by
+theory-ladn [[introspection]]
+
+= cannot be completely rejected ???? =
+Even in the face of these difficulties those who remained committed to the
+traditional account of knowledge and reasoning maintained that there must be
+some way on which science was partial
+
+Those firmly in the grip of the traditional account of knowledge and reasoning
+maintained that could only be due to some omision or partiality on the part of
+science. If 
+
+must be compatible and any apprarance of incompatibility must be due to some
+partiality/ommision on the part of science. But there must be
+
+Even the most scornful of critics the relationship between science and
+philosophy is unlike that between modern chemistry and alchemy.  Although Medieval
+alchemists may have possessed some knowledge of chemical properties and
+reactions buried amongst their supersitions and esoteric theories, but alchemy
+has been altogether superseded by chemistry.  The methods and principles of
+alchemy have been either rejected or justified by means entirely within the
+field of chemistry. There is no residual core of alchemical principles which
+modern chemistry relies upon but cannot justify.  By contrast, modern science
+retains, according to this story, a reliance upon supposedly ancient philosophy
+in the the sphere of deductive inference((see [[truths_of_reason_by_chisholm]] for a modern exposition of this view)).  Within a limited sphere that
+includes mathematics, geometry and deductive logic, knowledge produced by the
+methods of ancient philosophy((Supposedly. One of the more concrete problems with this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege)) remains indispensible to modern scientific
+theories and yet apparently unjustifiable by scientific methods.
+
+The techniques and
+principles of alchemy have either been rejected or justified by means entirely
+within the field of chemistry; and there is no residual core of alchemical
+principles which modern chemistry relies upon but cannot justify.
+
+The continued dependence of science upon apparently unscientific deductive
+principles has led many philosophers((Kant is the exemplar, but there is no shortage of others who have followed his lead; both wittingly and unwittingly.)) to claim that the success
+of science in producing knowledge can _only_ show that the traditional account
+of the justification of knowledge is incomplete, and never that it is altogether
+wrong, on the grounds that science cannot altogether undermine the unscientific
+source of knowledge discerned by ancient philosophers without undermining
+itself.  That philosophers might find this claim appealing is easily understood,
+for it neatly defends the continued relevance and value of philosophical
+enquiries to actual knowledge production and tacitly establishes philosophy as
+the queen of the sciences, standing in judgement over all the rest.
+
+Despite its
+appeal, however, this comforting pablum has two serious defects. It relies upon
+the dubious assumption that the traditional account is the only((or at least the best, though in practice alternatives are almost never considered)) explanation
+of our knowledge of the truths of geometry, mathematics and logic etc., upon
+which scientific theories continue to rely; and it ignores the depth of the
+conflict between the traditional account and the _content_ of our scientific
+theories.
+
+As in ancient times, our knowledge of the necessary truths of geometry and
+mathematics gained by reasoning was viewed as the best most certain 
+knowledge attainable but this 
+What was it about necessary truths that allowed us to distinguish them.
+and what faculty or capacity did we have that allowed us to distinguish
+
+This offered hope of an account of belief formation which respected
+a causal process where by belief in necessary truths were formed
+
+= because
+
 Comte glossed over the 
 Although they rejected Kant's account of our
 knowledge of necessary truths they had nothing to put in its place. In his

@@ -170,9 +170,7 @@ body > p:has(.tag):first-child + div > h1 {
 :not(.header) > a {
     padding: 0px;
     background-color: transparent;
-    font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
     color: inherit;
-    font-size: inherit;
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-style: dotted;
@@ -180,8 +178,7 @@ body > p:has(.tag):first-child + div > h1 {
 }
 
 :not(.header) > a:hover {
-  color: #dcdcdc;
-  background-color: #005380;
+  background-color: #CAB88D;
 }
 
 .header > a {
@@ -190,14 +187,12 @@ body > p:has(.tag):first-child + div > h1 {
 }
 
 a.heavy {
-  background-color: #246eb9;
-  border-radius: 3px;
-  padding: 2px 4px;
-  font-family: "Helvetica", "sans-serif";
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: white;
-  text-decoration: underline;
+    background-color: #e2d5b9;
+    border-radius: 3px;
+    padding: 0px 4px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
 }
 
 a[href^="http"] {
@@ -210,10 +205,7 @@ a[href^="http"] {
     text-decoration-thickness: 1px;
     text-decoration-style: dotted;
     font-weight: normal;
-}
-
-a[href^="../zz.texts"] {
-    font-style: italic;
+    white-space: nowrap;
 }
 
 a[href^="http"]::after {
@@ -243,22 +235,25 @@ p.smallnote a {
  * Tooltip section
  ******************/
 .tooltip {
-  position: relative;
   vertical-align: top;
+  font-size: small;
+  position: relative;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  background-color: black;
-  color: #fff;
-  font-size: smaller;
-  padding: 5px;
-  border-radius: 6px;
+  border: 2px solid black;
+  font-size: small;
+  padding: 4px;
+  background-color: #E2D5B9;
+  border-radius: 5px;
   display: inline-block;
   width: max-content;
-  max-width: 12rem;
+  max-width: 16rem;
+  overflow-x: auto;
   position: absolute;
+  left: 8px;
   z-index: 1;
 }
 
@@ -266,7 +261,7 @@ p.smallnote a {
   visibility: visible;
 }
 
-.tooltiptext > a {
+/*.tooltiptext > a {
   color: white;
   text-decoration: none;
   padding: 3px 6px;
@@ -275,7 +270,7 @@ p.smallnote a {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 90%;
-}
+}*/
 
 /*****************
  * end Tooltip section

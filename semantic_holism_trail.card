@@ -7,14 +7,111 @@ theories and not individual sentences.
 This trail leads from a description of evidence to an argument for semantic
 holism and thence to some of semantic holism's consequences.
 
-= sequence =
-1. Confirmation Holism
+= main =
+This work is mainly concerned with the relationship between representations,
+primarily though not exclusively linguistic representations, and the objects
+they represent.
+
+what sort of knowledge can we have of object on the far side of an epistemic
+bottleneck. Which at are the entities that are justified by the evidence (in
+(e.g. individual sentences or whole theories)
+
+
+The key doctrines that are argued for are confirmation holism. Which is a
+relationship between representations and the 
+
+the nature of claims that they can be about object
+
+Thus the first step is to attempt to clarify the notion of an
+{[[epistemic_bottleneck]]} !!!!!
+and support the claim that, at least provisionally, there are such bottlenecks
+and what our assumptions are concerning our epsitemic .
+And vindicate the claim that there are such bottlenecks by providing some
+concrete examples.
+
+
+What is the basis of our knowledge concerning objects on the far side of an
+epistemic bottleneck.
+
+What can we know about the objects on the far side of an epistemic bottleneck.
+One obvious staring point being can we know that there are objects on the far
+side of an epistemic bottle neck, and if so what is the evidence for that claim.
+When does our knowledge of what happens _in_ an epistemic bottleneck, justify us
+in believing that there is something on the _far_ side of it at all?
+
+What must be true about the statements about objects on the far side of a
+bottleneck in order that we could know them to
+be true.
+
+What can we tell about the meanings of our sentences, or rather the nature of
+lingusitic representation, the way language works, the way the truth and falsity
+of our sentences is determined
+
+But we are not only interested in the nature of our knowledge concerning objects
+on the far side of epistemic bottlenecks, and the relationship between the
+objects that make our claims concerning those distant objects true and the
+evidence for them.
+
+what states of affairs of things on the far side can we have evidence for
+
+We are also interested in the relationship between the things on this side that
+represent object on the far side of the bottleneck. What things on our side are
+confirmed by the. How must representations be related to the objects ain what
+way must the represent in orde3r that they can be true.
+
+What must be true of the things on this side that they can correctly represent
+objects on the far side of an epsitemic bottleneck, and what is their
+relationship.
+
+What is the relationship between the objects on this side and the
+
+What must be the relationship between our statements and the cnoditions that
+they can be true nd we can know them to be true.
+
+That it follows from these sorts of general considerations
+
+= methodological anti-skepticism =
+A guiding principle is a kind of anti-skepticism. This is not to simply
+dogmatically assert that we do have know. But rather 
+On the assumption that we do have knowledge
+
+It may be that the notion of an epistemic bottleneck is hopelessly misguided,
+but if there are such bottlenecks, we do have knowledge.
+
+This assumption is not absolute, if after all we cannot find any way
+
+On the assumption theat we do have knowledge of objects on the far side of
+epistemic bottlenecks, what must the nature of that knowledge be, what is the
+evidence for it, and what is the content of that 
+
+We are particualrly concerned 
+thus what is the unit of confirmation,
+
+This can be put also as methological humility. If our epistemic theory implies
+that we do not know 
+
+this is where epistemic triangles would fit in - if they are still required
+
+
+Confirmation Holism
    Confirmation holism is the doctrine that the entities con/infirmed by
    evidence are whole theories. In order to clarify this doctrine we start by
    clarifying the notion of evidence relative to one or another epistemic
    bottleneck:
     * [[epistemic_bottleneck]]
-   
+   having clarified the term <q>epistemic bottleneck</q> we then go on to make
+   various 
+    * [[computer_exemplification]]
+    * [[why_postulate_remote_objects]]
+
+if confirmation holism is true then
+sum p > 1
+we cannot distinguish analytic truths
+translation is indeterminate
+the unit of meaning is aloso the whole theory i.e. semantic holism
+
+
+
    Confirmation holism is a doctrine about the complexity of the relationship
    between . Under what circumstances must be sue a confirmation 
    Using the notion of an epistemic bottleneck and evidence, we can now consider
@@ -27,7 +124,6 @@ confirmation holism
 when does the evidence justify us in believing that there are objects on the far
 side of an epistemic bottleneck?
 
-[[why_postulate_external_objects]]
 
 To what extent can our statements about the objects on the far side of a bottle
 neck be justified, what are the entities justified by 
@@ -72,7 +168,7 @@ thus we can get an angle of the truth-conditions of those sentences.
 this is in a sense the Kantian/copernican revolution
 
 what are the truth conditions of the statements about objects on the far side of
-an epistemic bottleneck such that our blief in them cojld be justified.
+an epistemic bottleneck such that our belief in them could be justified.
 
 On your (lets call it realist, thouogh of course I amintain that my position is
 the only form of realism  there is) interpretation there is no jusitifcation for
@@ -80,7 +176,7 @@ believing our beliefs (concerning far objects) to be true, thus you fall into
 skepticism. But skepticism is false many of our beliefs are justified, at least
 by the standards around here. So what must our beliefs be 
 
-???^^^ is this the bridge from confirmation holism to semantic holism - they
+???^^^ is this a bridge from confirmation holism to semantic holism - they
 have to be claims that are actually confirmed.
 
 if truth, correct representation that the the concepts in the claim stood in some 1-1 correspondence relationship to
@@ -95,6 +191,8 @@ underdetermination of theories by evidence.
 confirmation conditions are fixed by language
 
 == semantic  holism ==
+It must be possible for us to learn our languages
+
 epistemic triangle
 
 consequences:
@@ -102,6 +200,48 @@ consequences:
 theoretical  under-determination
 
 no analytic/synthetic distinction
+
+must be more than one implementation since turing machine equivalence is
+undecidable.
+
+????-QUOTED
+The problem
+
+Do two halting Turing machines accept the same language (or compute the same "function")?
+
+is undecidable.
+
+Let 𝑀
+ be an arbitrary Turing machine. Let 𝑀′
+ be a Turing machine that on input 𝑥
+, simulates 𝑀
+ (on some predefined input) for |𝑥|
+ steps and accepts if (and only if) 𝑀
+ halts within |𝑥|
+ steps (or, if you want to go with a TM computing a function, returns 1
+ if 𝑀
+ halts within |𝑥|
+ steps and 0
+ otherwise).
+
+If 𝑀
+ doesn't halt then 𝑀′
+ accepts the empty language (or, computes the function 𝑓(𝑥)=0
+). If 𝑀
+ does halt then the language 𝑀′
+ accepts is non-empty (or, the function is non-constant).
+
+This gives a reduction from the Halting problem to the problem of detecting equality, since we just need to ask whether 𝑀′
+ is equal to the machine accepting the empty language (or, the machine computing the function 𝑓(𝑥)=0
+).
+
+This avoids all the issues of the function not being total or being unable to construct the function explicitly.
+QUOTED
+-????
+need to show that the class of TM that accept a given language is undecidable
+????
+can we get translation must be decidable ????
+this seems good!!!!! ????
 
 = prologue =
 == why semantics? ==
@@ -187,13 +327,13 @@ evidence and theory, verificationism, has a consequence that is of
 fundam,ental/extreme/significant** relevant to as just described the complexity of the connection
 between evidence and the statements that are justified by that evidence there is
 an important consequence of this verificationist principle.
-[[introspection_not_admissible_evidence]]
+[[introspection]]
 
 But now
 first 
 [[epistemic_bottleneck]]
 
-[[why_postulate_external_objects]]
+[[why_postulate_remote_objects]]
 the computational analogy
 sum_P > 1
 The question is whether semantic holism

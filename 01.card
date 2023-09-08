@@ -10,8 +10,8 @@
 [[truths_of_reason_by_chisholm]]<br>
 [[cogito]] - historical trail<br>
 [[computational_complexity_for_philosophers]]<br>
-[[introspection_not_admissible_evidence]]<br>
-[[trials_and_tribulations_of_being_a_semantic_holist]]<br>
+[[introspection]]<br>
+[[computer_analogy]]<br>
 [[were_right_theyre_wrong_by_van_inwagen]]<br>
 [[deflationary_truth]]<br>
 [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]<br>
@@ -47,7 +47,6 @@
 = quick markdown guide =
 == links ==
 [[linkname|different text from link]]
-{[[heavy link]]}
 file link: [[local:zz.texts/authorYear.titleOfWork.pdf]]<br>
 [[cardname#anchor]] anchors are headings or even bold text<br>
 {{embed image in page.png}}<br>
