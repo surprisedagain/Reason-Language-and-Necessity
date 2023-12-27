@@ -50,6 +50,7 @@
 file link: [[local:zz.texts/authorYear.titleOfWork.pdf]]<br>
 [[cardname#anchor]] anchors are headings or even bold text<br>
 {{embed image in page.png}}<br>
+{[[heavy link]]}<br>
 
 == typefaces ==
 *bold text*
@@ -79,9 +80,9 @@ EE exists symbol
 2. orderedlist item
 3. another item
 	- list item
-	* other list
+	* other list item
 
-- [ ] checkbox you can complete with gln glp <ctrl><space>
+- [ ] checkbox you can complete with <ctrl><space> or partial with gln glp
 
 == tags ==
 :demotag:

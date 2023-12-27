@@ -21,9 +21,12 @@ Index of all the tags in this cardbox
     - [[meno]]
     - [[plato]]
 
+== annoyance ==
+    - [[computer_analogy#annoyance]]
+    - [[confirmation_holism#annoyance]]
+
 == article ==
     - [[truths_of_reason_by_chisholm]]
-    - [[were_right_theyre_wrong]]
     - [[were_right_theyre_wrong_by_van_inwagen]]
 
 == book ==
@@ -36,13 +39,25 @@ Index of all the tags in this cardbox
     - [[analytic_philosophy]]
     - [[cogito_ergo_sum]]
     - [[computational_complexity_for_philosophers]]
+    - [[confirmation_holism]]
     - [[descartes]]
+    - [[epistemological_sin]]
     - [[experience_cannot_justify_knowledge_of_necessity]]
+    - [[hume]]
+    - [[intuition_of_necessity_trail]]
     - [[kant]]
+    - [[leibniz]]
+    - [[mental_objects_trail#draft0.0]]
+    - [[myth_of_the_given]]
     - [[objects_of_belief_trail]]
     - [[observation_sentences]]
+    - [[perceptual_invariants]]
+    - [[possible_worlds]]
+    - [[quus]]
+    - [[scientific_method]]
     - [[semantic_holism]]
     - [[under_determination_of_theories]]
+    - [[why_postulate_external_objects]]
     - [[why_postulate_remote_objects]]
 
 == draft0.1 ==
@@ -51,10 +66,10 @@ Index of all the tags in this cardbox
     - [[deflationary_truth]]
     - [[epistemic_triangle_of_language_learning]]
     - [[introspection]]
+    - [[introspection_not_admissible_evidence]]
     - [[plato]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
     - [[were_right_theyre_wrong]]
-    - [[were_right_theyre_wrong_by_van_inwagen]]
     - [[wittgenstein]]
 
 == draft0.2 ==
@@ -73,6 +88,7 @@ Index of all the tags in this cardbox
     - [[cogito]]
     - [[cogito_ergo_sum]]
     - [[descartes]]
+    - [[timeline_of_corpuscularian_theories_of_sensation]]
 
 == historical ==
     - [[before_times]]
@@ -84,6 +100,7 @@ Index of all the tags in this cardbox
     - [[cogito]]
     - [[historical_trail]]
     - [[history_trail]]
+    - [[hume]]
     - [[kant]]
     - [[main_introduction]]
     - [[meno]]
@@ -93,8 +110,8 @@ Index of all the tags in this cardbox
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == holism_trail ==
-    - [[epistemic_bottleneck]]
-    - [[computer_analogy]]
+    - [[evidence]]
+    - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == index ==
     - [[tag_index]]
@@ -105,6 +122,9 @@ Index of all the tags in this cardbox
 == intuition_of_analyticity_trail ==
     - [[features_of_supposed_analytic_truths]]
 
+== intuitions_of_necessity_trail ==
+    - [[intuition_of_necessity_trail]]
+
 == justification ==
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
@@ -113,6 +133,7 @@ Index of all the tags in this cardbox
 
 == mental_objects_trail ==
     - [[mental_objects_trail]]
+    - [[myth_of_the_given]]
 
 == modality ==
     - [[inconceivability_guide_to_impossibility]]
@@ -122,6 +143,7 @@ Index of all the tags in this cardbox
     - [[overvalues_innovation_and_undervalues_maintenance]]
 
 == objects_of_belief_trail ==
+    - [[mental_objects_trail#objects_of_belief_trail]]
     - [[objects_of_belief_trail]]
 
 == passing_thought ==
@@ -137,12 +159,13 @@ Index of all the tags in this cardbox
     - [[epistemic_triangle_of_language_learning]]
     - [[if_some_experiences_confirm_others_must_infirm]]
     - [[introspection]]
+    - [[introspection_not_admissible_evidence]]
     - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
     - [[verificationism]]
 
 == quines_errors_trail ==
     - [[observation_sentences]]
-    - [[quines_errors_trail]]
+    - [[quines_errors]]
     - [[quines_errors_trail]]
 
 == representation ==
@@ -153,8 +176,11 @@ Index of all the tags in this cardbox
 
 == roughNotes ==
     - [[were_right_theyre_wrong#roughNotes]]
+    - [[were_right_theyre_wrong_by_van_inwagen#roughNotes]]
 
 == semantic_holism_trail ==
+    - [[confirmation_holism]]
+    - [[epistemic_bottleneck]]
     - [[epistemic_triangle_of_language_learning]]
     - [[semantic_holism_trail]]
     - [[semantic_holism_trail#semantic_holism_trail]]
@@ -165,9 +191,9 @@ Index of all the tags in this cardbox
 
 == start ==
     - [[an_introduction]]
-    - [[epistemic_bottleneck]]
+    - [[evidence]]
     - [[main_introduction]]
-    - [[computer_analogy]]
+    - [[trials_and_tribulations_of_being_a_semantic_holist]]
 
 == text ==
     - [[critique_of_pure_reason]]
@@ -175,25 +201,29 @@ Index of all the tags in this cardbox
     - [[tractatus]]
     - [[truths_of_reason_by_chisholm]]
     - [[were_right_theyre_wrong]]
-    - [[were_right_theyre_wrong_by_van_inwagen]]
+
+== timeline ==
+    - [[timeline_of_corpuscularian_theories_of_sensation]]
 
 == todo ==
+    - [[critique_of_pure_reason#cutting room floor#philosophers dogmatism]]
     - [[critique_of_pure_reason#todo]]
-    - [[main_introduction#upshot#social effects of the collapse]]
+    - [[main_introduction#todo]]
     - [[philosophers_dogmatism#todo]]
-    - [[plato#todo]]
 
 == traditional_epistemology ==
+    - [[explanation_of_first_principles_flawed]]
     - [[problem_of_first_principles]]
 
 == trail ==
-    - [[quines_errors_trail]]
     - [[semantic_holism_trail#trail]]
 
 == trail_hub ==
     - [[historical_trail]]
     - [[history_trail]]
+    - [[intuition_of_necessity_trail]]
     - [[mental_objects_trail]]
+    - [[quines_errors]]
     - [[quines_errors_trail]]
     - [[semantic_holism_trail]]
 
