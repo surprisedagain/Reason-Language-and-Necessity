@@ -1,20 +1,27 @@
-.vimwiki_tags
-00.card
-docs/00.html
-
-zz.texts/
+# automatically generated files
+###############################
 .DS_Store
-
-
+.vimwiki_tags
 # vi swp files
 *.swp
 *.swo
+# all vi autobackups (made on startup)
+.bkp/
+
+# support files that should not be public
+00.card
+01.card
+
+# I do not have copyright to these files
+# and xattr's may not be preserved in online storage?
+zz.texts/
+
 
 # who knows but one day some python might be involved
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# __pycache__/
+# *.py[cod]
+# *$py.class
 
 # Distribution / packaging
-.Python
+# .Python
