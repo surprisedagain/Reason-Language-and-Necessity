@@ -94,6 +94,7 @@ html{
 body{
     min-height: 100vh;
     max-width: 50rem;
+    border-radius:  0.25rem;
     margin: 0rem auto;
     background-color: #f9f3e5;
     padding: 0.5rem 2rem 2rem 2rem;
