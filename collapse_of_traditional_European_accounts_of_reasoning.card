@@ -1,7 +1,6 @@
 [[introduction_trail]] : 1<br>
 :draft0.3:
   = the collapse of traditional European accounts of reasoning =
-
 Long ago, it was thought to be clear why reasoning led us to truth. Our minds
 contained concepts, and these concepts were either the same as the
 properties of the objects around us or at least very similar to them. (Perhaps
@@ -198,8 +197,8 @@ doubt became known as <q>Cartesian skepticism</q> and went on to become a
 central problem of early modern philosophy((in Kant's words, <q>the scandal of philosophy</q>)).  By contrast, Descartes subsequent
 attempt to place our knowledge of scientific theories on the same solid,
 deductive, foundations as geometry and mathematics, was derided as ridiculous by
-many of his [[https://books.google.com.au/books?id=dKxa3gAvWR8C|contemporaries]], and largely dismissed as a second rate addendum by
-his successors.
+many of his contemporaries [e.g. [[https://en.wikipedia.org/w/index.php?title=Martin_Schoock&oldid=1133182057|Martin Schook]] ([[https://books.google.com.au/books?id=dKxa3gAvWR8C|1643]])], and largely
+dismissed as a second rate addendum by his successors.
 
 So it remains for many philosophy students today, who often leave their first
 year encounter with Cartesian skepticism convinced that the take home message of
@@ -266,7 +265,7 @@ remembrance of their perfect originals. Of course, philosophers being what they
 are, these views are riven by further dispute. St Thomas claimed that the
 <q>active intellect</q> which enabled us to grasp the universal properties
 exemplified in our sensations, was an aspect of individual human intellects;
-wheras his predecessors Ibn Sina held there to be just one active intellect
+wheras his predecessor Ibn Sina held there to be just one active intellect
 common to all humans, and St. Augustine considered this one common element to be
 God's divine illumination. Grouping all these views under the title of <q>the
 traditional account</q> is not intended to deny the profound differences between
@@ -333,7 +332,7 @@ speculative theories, but his most significant discoveries were closely based on
 observation and experiment.  His treatise [[https://en.wikipedia.org/w/index.php?title=Sidereus_Nuncius&oldid=1154096054|_The Starry Messenger_]] (1610)
 contained the first report of observations of heavenly bodies made through a
 telescope; and his
-[[https://en.wikipedia.org/w/index.php?title=Two_New_Sciences&oldid=1166797169#Day_three:_Naturally_accelerated_motion|_Discourses and Mathematical Demonstrations Concerning Two New Sciences_]] ((The two new sciences being static engineering [the strength of unmoving structures] and the motion of objects.)) (1638)
+[[https://en.wikipedia.org/w/index.php?title=Two_New_Sciences&oldid=1166797169#Day_three:_Naturally_accelerated_motion|_Discourses and Mathematical Demonstrations Concerning Two New Sciences_]] ((The two new sciences being _statics_ [the strength of unmoving structures] and _kinetics_ [the motion of objects].)) (1638)
 contained a quantitative description of the distance travelled by
 <q>naturally</q> falling bodies((i.e. bodies falling solely under the influence of gravity)), namely that <q>the spaces traversed were to each
 other as the squares of the times</q>((e.g. a body will fall four times as far in two seconds as it does in one)), and described measurements he had made of a
@@ -444,7 +443,7 @@ concern us here.  Whether the theories of mechanistic natural philosophers
 are applauded as the best explanations of physiological processes of sensation
 and bodily movement available at the time; or derided as restricted to an
 implausibly austere range of fundamental interactions too limited to do justice
-to either human behaviour or natal phenomena; speculative belief in mechanistic theories
+to either human behaviour or natural phenomena; speculative belief in mechanistic theories
 eventually led to and was replaced by belief in the well supported empirical
 theories of modern science.  The empirical successes of those theories has
 irretrievably shattered the illusion that our minds have anything remotely
@@ -511,11 +510,11 @@ and necessity that is unlike any of the objects revealed to us by scientific
 enquiry. It thus seems impossible for reasoning beings such as ourselves to
 be made from the modally insensitive materials postulated in science.
 
-== knowledge of necessary truths came to be regarded as the fundamental problem of philosophy ==
-Initially, it was the first of these two problems that appeared most pressing
+== knowledge of necessary truths regarded as the fundamental problem of philosophy ==
+Initially, it was the [[#first problem: the justification of scientific theories|first of these two problems]] that appeared most pressing
 and received the greatest attention.  As awareness of these problems spread,
 however, there was an inversion in where the center of the epistemological
-difficulties was supposed to lie and the second problem came to be seen as more
+difficulties was supposed to lie and the [[#second problem: the content of scientific theories|second problem]] came to be seen as more
 critical.
 
 At first the chief difficulty was thought to be our knowledge of contingent
@@ -554,18 +553,18 @@ various shortcomings continues to this day. Doubtful philosophers continued,
 however, to find solace in the causal connections between our beliefs and the
 objects of which those beliefs were true. According to our best scientific
 theories, the empirical evidence which justifies our beliefs in contingent
-truths (whether that evidence is other beliefs, experiences, stimuli, tracks in
-the sand or noises in the distance) can causally affect the formation of our
-beliefs.  Hence it seems possible for creatures displaying roughly our level of
-success in holding only justified beliefs in contingent truths and assessing the
-empirical justifications of others' beliefs, to be constructed from the natural
-materials described by science.  Although it was only slowly and reluctantly
-accepted that our knowledge of contingent truths, such as those comprising our
-scientific theories was not justified in the way specified by the traditional
-account of knowledge, and the details of just how our experiences justified that
-knowledge are still disputed, there did not appear to be a fundamental conflict
-between our possession of such knowledge and our scientific understanding of the
-world.
+truths (whether that evidence is taken to be other beliefs, experiences,
+stimuli, tracks in the sand or noises in the distance) can causally affect the
+formation of our beliefs.  Hence it seems possible for creatures displaying
+roughly our level of success in holding only justified beliefs in contingent
+truths and assessing the empirical justifications of others' beliefs, to be
+constructed from the natural materials described by science.  Although it was
+only slowly and reluctantly accepted that our knowledge of contingent truths,
+such as those comprising our scientific theories was not justified in the way
+specified by the traditional account of knowledge, and the details of just how
+our experiences justified that knowledge are still disputed, there did not
+appear to be a fundamental conflict between our possession of such knowledge
+and our scientific understanding of the world.
 
 By contrast, the incompatibility between our scientific theories and our
 apparent knowledge of necessary truths (and capacity for deductive reasoning)
@@ -744,35 +743,51 @@ influential majority of Anglo-European philosophers who believed that an
 account of the justification of our knowledge of necessary truths would provide
 a touchstone for evaluating philosophical claims and resolving philosophical
 disputes; and also that without such a touchstone two <q>awkward facts</q> about
-philosophy, as [[local:zz.texts/daly2017.persistentPhilosophicalDisagreement.pdf|Chris Daly (2016)]] describes them, would continue to be true:
+philosophy [as [[local:zz.texts/daly2017.persistentPhilosophicalDisagreement.pdf|Chris Daly (2016)]] describes them] would continue to be true:
 <q>First, no philosophical problems have been solved; second, philosophers
 cannot agree about anything beyond that</q>. It is in this sense that modern
 Anglo-European philosophers generally came, for a time, to regard providing an
 account of the justification of our knowledge of necessary truths as _the_
 fundamental problem of philosophy.
 
-=== foundations for science ===
-Namely, that scientific theories contained necessary truths,
-most conspicuously those of mathematics and logic, in which belief could not be
-justified by scientific means.
+=== ???? ===
+%% Knowledge of necessary truths not only required fro philosophy
+%% both indispensable and unjustifiable
+If it were only a matter of providing foundations for philosophy this problem
+might be resolved (as popular scientists such as [[https://en.wikipedia.org/w/index.php?title=Neil_deGrasse_Tyson&oldid=1194043681#Philosophy|Neil deGrasse Tyson]],
+[[https://www.scientificamerican.com/article/the-consolation-of-philos/|Lawrence Krauss]] and [[https://en.wikipedia.org/w/index.php?title=Stephen_Hawking&oldid=1193926342#Philosophy_is_unnecessary|Stephen Hawking]] have suggested) by simply dismissing
+philosophy as a source of knowledge altogether. But the lack of foundations for
+philosophy is only one aspect of the more general lack of an account of
+our capacity to reason that is compatible with our best scientific theories.
+The lack of such an account of reasoning is particularly salient in
+philosophy because, at least until recently in the Anglo-European tradition,
+philosophy was thought of as a field in which knowledge was pursued
+_by reason alone_ (i.e. unaided by the senses((Except, perhaps, for the initial acquisition of the relevant concepts as per the traditional view described [[#second problem: the content of scientific theories|above]] )) ). But philosophy is not the only
+field in which we reason, and our ability to reason about other matters is no
+less puzzling than our ability to reason in philosophy.
 
-Scientific theories seem to involve necessary truths in another way
-more broadly the connection between theories and the evidence that would confirm
-or infirm those theories appears to be necessary.
-
-
-
-
-
-
-As in ancient times, our knowledge of the necessary truths of geometry and
-mathematics gained by reasoning was viewed as the best most certain 
-knowledge attainable but this 
-What was it about necessary truths that allowed us to distinguish them.
-and what faculty or capacity did we have that allowed us to distinguish
-
-This offered hope of an account of belief formation which respected
-a causal process where by belief in necessary truths were formed
+In particular, as many philosophers have noted, scientific theories themselves
+rely upon reasoning for their justification. The relationship between science
+and philosophy is not like that between modern chemistry and alchemy. Medieval
+alchemists may have possessed some knowledge of chemical properties and
+reactions buried amongst their superstitions and esoteric theories, but alchemy
+has been altogether superseded by chemistry. The methods and principles of
+alchemy have been either rejected or justified by means entirely within the
+field of chemistry, leaving no residual core of alchemical principles which
+modern chemistry relies upon but cannot justify. By contrast, modern science
+appears to retain a reliance upon principles supposedly discovered by the
+unscientific methods of ancient philosophers((One of the more concrete problems with this history is that the full range of logical techniques required in mathematical reasoning was only first adequately and rigourously described in 1879 by Frege)). Most obvious are the truths of
+mathematics and logic, which feature explicitly in scientific theories. More
+broadly, however, the relationship between scientific theories and the evidence
+that supports them appears not to be itself a matter for scientific
+investigation.  Whether a scientific principle or theory is supported by a given
+range of evidence seems to be a necessary truth that is itself undiscoverable by
+empirical scientific investigation (though scientific investigation may reveal
+whether that evidence happens to exist).  So it is that both within a limited
+sphere that includes at least algebra, geometry and deductive logic, and more
+broadly, our knowledge of necessary truths appears to remain indispensable to
+the justification of scientific theories and yet apparently unjustifiable by
+scientific methods.
 
 
 
@@ -784,13 +799,6 @@ and mental entities such as.
 the evidence for the existence of such objects came to be seen as incresingly
 dubious.
 
-concepts and ideas - objects hypothesised just so their modal and causal
-
-Appeal could be made to ideas or concepts, objects hypothjesised precisely
-becaus their causal propoerties perfectly matched 
-
-would still
-except by a massive co-incidental harmony created by god's graced.
 
 Note that even this separation
 does not solve the problem of how a purely physcal system could happen to act as
@@ -801,7 +809,6 @@ purely according to natural laws could move  as though it were controlled by a r
 in which deduction (among other things) played a part.
 ((or go through whatever motions were involved in evaluating the behaviour of
 others))
-
 
 Viewed upon a larger scale, the new focus on the justification of knowledge of
 necessary truths was a reversion to the ancient order.  Explaining our knowledge
@@ -817,50 +824,8 @@ There again those who find in this difference reason to suppose that the inner
 workings of the mind must be forever
 mysterious??impenetrable??unfathomable??impervious to scientific investigation. 
 
-= conclusion =
-Led either by their confidence and sense of value in ?? their own reasoning
-powers, or by the conviction that science is itself dependent upon our powers
-of reasoning and hence cannot overthrow them, many philosophers have concluded
-that science must be a partial description of the world. That there are aspects
-and/or objects that are not treated of in scientific theories that yet have a
-causal influence on the course of the world, or at least of human history. Such
-philosophers have labeled the belief that science is capable of providing a
-complete description of the world (?? physical processes unerlying reasoning) as
-_Scientism_.
-
-Either because on their view,
-what is more likely, that (in Kantian terms) the exercise of practical reason
-has a causal influence over people actions that cannot be detected by scientific
-investigation, or that reason has no influence upon our physical movements at
-all, or that the traditional account of reasoning is mistaken (even within its
-own boundaries).
-
 that we have misdiagnosed what it is we are doing when we are reasoning.
 
-%% indispensable
-???? MAYBE AT END OF FIRST HALF ????
-The need for an account of how reason justifies belief goes deeper than merely
-reconciling our traditional understanding of ourselves with our latest
-empiricially supported theories. Other features and capacities attributed to us
-in our traditional theories (the so called <q>manifest image</q> of ourselves)
-can simply be rejected altogether. We can, for instance, reconcile our account of free will with our
-current scientific theories, if need be, by simply denying that we have free
-will at all and supplying an alternative account of the causes of our actions.
-So too for the hard problem of consciousness, we may simply deny that we have
-qualia or are conscious in the way described in traditional theories, and supply
-an alternative account of how there is a way the world appears to us.  Some have
-even gone so far as to deny that we possess beliefs at all and have attempted to
-provide an alternative account of what lies behind our sincere assertions.
-Whether the offered alternatives can do justice to the phenomena the traditional
-theories sought to explain is, of course, a matter of debate, but at least in
-principle in these other areas the traditional account can be denied. Our
-capacity to justify beliefs by reasoning, however, cannot be denied. Not only,
-as noted [[#consequences of these differences|above]], are principles discerned
-by reason indispensable to the scientific theories with which reconciliation is
-sought, but the proponents of any of these alternatives will themselves rely on
-reasoning to justify their claims. Reason, like intensionality, and unlike free
-will, is an indispensable component of our understanding of ourselves.
-%% end of = later section =
 
 = complete collapse =
 Just another failed philosophical distinction.
@@ -870,17 +835,14 @@ welcome as an account of how it is that they do.
 
 Just where our understanding. To what extent and just where . What phenomena 
 
-it is not permissible for us to give up on an account of just what the
-sense of seeing <q>clearly and distinctly</q> since it is what we rely upon for
-to0 justify all our claims. If there is no reason for supposing that this
-then, as Tom Pehrer put it, <q>The very least we could do is shut up</q>
 
 It seems to me that such and such but I had no idea why you should believe me.
-We would have no more justification for foisitng our opinions on innocent
-passers by than psychics (but probably with a much worse
-inductive track record).
-we need either an account of the justification of knowledge of nbecessary truths
-or an an account of why reasoning leads to truth that does not rely upon
+We would have no more justification for foisting our opinions on innocent
+passers by than psychics (but probably with a much worse inductive track
+record).
+
+we need either an account of the justification of knowledge of necessary truths
+or an account of why reasoning leads to truth that does not rely upon
 knowledge of necessary truths
 
 
@@ -1092,6 +1054,7 @@ philosopher's crazy theory.
 
 
 === any justification of reasoning must be circular ===
+
 It is tempting, at this point, to suggest that the principles of
 reasoning are bedrock. That no further justification is required. But what we are
 seeking is not justification. No more than an account of the physical processes

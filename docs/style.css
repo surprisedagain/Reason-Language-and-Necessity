@@ -86,6 +86,14 @@ code {
 /*******************************************/
 /* NATHANS HANDWRITTEN CSS BELOW THIS LINE */
 /*******************************************/
+/* Possible use of folding sections*/
+details summary { 
+  cursor: pointer;
+}
+/*details summary * {
+  display: inline;
+}*/
+
 html{
     background-color: #8cadcb;
     padding: 1rem 2rem 1.5rem 2rem;
@@ -99,7 +107,7 @@ body{
     background-color: #f9f3e5;
     padding: 0.5rem 2rem 2rem 2rem;
     font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
-    font-size: 100%;
+    font-size: 1.1em;
     box-shadow: 1px 4px 4px 0 rgba(0, 0, 0, 0.2), 1px 6px 15px 0 rgba(0, 0, 0, 0.19);
 }
 
