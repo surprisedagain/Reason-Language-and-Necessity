@@ -1,6 +1,5 @@
-introduction_trail :trail_hub:
+introduction :outline:
   = reason, language and necessity&ast; =
-
 == outline ==
 This work is devoted to the following question:
     | What is reasoning, that creatures such as us can do it? |
@@ -9,18 +8,23 @@ Our enquiry begins by considering previous answers to this question and
 attempting to understand why they are unsatisfactory.
 
 === introduction ===
+	0) {[[|Outline]]} (this document)
 	1) {[[collapse_of_traditional_European_accounts_of_reasoning|The collapse of traditional European accounts of reasoning]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#first problem: the justification of scientific theories|First problem: the justification of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories|Second problem: the content of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths became viewed as the fundamental problem of philosophy|Knowledge of necessary truths became viewed as the fundamental problem of philosophy]]}
-	3) {[[modern_accounts_of_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]}
+		- {[[
+collapse_of_traditional_European_accounts_of_reasoning#Wretched
+Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat! 
+	2) {[[modern_accounts_of_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]}
 
 Giving a precise account of the fundamental grounds for the failure of the 
 most recent influential account of our knowledge of necessary truths
 requires an explication and defence of the controversial doctrines of
 confirmation holism and semantic holism.
 
-=== part 1: [[semantic_holism_trail|Semantic Holism]] ===
+=== part 1: Semantic Holism ===
+	0) Part 1 outline
 	1) Confirmation holism
 		- epistemic bottlenecks
 		- why postulate objects?
@@ -40,6 +44,14 @@ confirmation holism and semantic holism.
 
 	?) semantic holism and analytic truth
 		- quine's errors OR IS THIS ANOTHER SECTION??/TAG for orthog?
+
+how theories are connected to evidence
+
+attitudes towards logic
+    non classical logics - IF pretenxe to strenght
+    modal logic - does not exceed the recursively enumerable
+
+
 
 
 	?) The intuition of analyticity

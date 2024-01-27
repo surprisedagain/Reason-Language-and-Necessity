@@ -32,8 +32,8 @@ blockquote {
   color: #484848;
   font-size: 0.9rem;
   line-height: 120%;
-  padding: 0.6rem;
-  border-left: 5px solid #dcdcdc;
+  padding: 0.3rem 0.6rem;
+  border-left: 5px solid red;
   background-color: #fdfcf8;
 }
 
@@ -66,8 +66,6 @@ del {
   margin-right: auto;
 }
 
-
-
 code {
   font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
   -webkit-border-radius: 1px;
@@ -86,11 +84,11 @@ code {
 /*******************************************/
 /* NATHANS HANDWRITTEN CSS BELOW THIS LINE */
 /*******************************************/
-/* Possible use of folding sections*/
+/* Possible use of folding sections
 details summary { 
   cursor: pointer;
 }
-/*details summary * {
+details summary * {
   display: inline;
 }*/
 
@@ -138,6 +136,11 @@ h1, h2, h3, h4, h5, h6 {
     padding-right: 0.1rem;
 }
 
+.header:has(> .justcenter) {
+    margin: auto;
+    text-align:center;
+}
+
 h1::first-letter, h2::first-letter, h3::first-letter, h4::first-letter,
 h5::first-letter {
     text-transform: uppercase;
@@ -147,8 +150,8 @@ h1 {font-size: 2rem; color: #000000; text-transform:capitalize; width: 100%;}
 h2 {font-size: 1.6rem; color: #404040; width: 90%;}
 h3 {font-size: 1.4rem; color: #555555; width: 80%;}
 h4 {font-size: 1.2rem; color: #808080; width: 70%;}
-h5 {font-size: 1.0rem; color: #909090; width: 50%;}
-h6 {font-size: 0.8rem; color: #9c9c9c; width: fit-content;}
+h5 {font-size: 1.1rem; color: #909090; width: 50%;}
+h6 {font-size: 0.9rem; color: #9c9c9c; width: fit-content;}
 
 
 /* Reduce space at top of section (after heading) */
@@ -156,14 +159,18 @@ div:has(h1, h2, h3, h4, h5) + p,
 div:has(h1, h2, h3, h4, h5) + blockquote {
     margin-top: 0.3rem;
 }
-div:has(h6) + p,
-div:has(h6) + blockquote {
-    margin-top: -0.2rem;
+
+
+/* and .smallnotes */
+div:has(h6) + p, .smallnote {
+    margin-top: -0.1rem;
+    font-size: 0.9rem;
+    line-height: 1;
+    font-weight: 200;
 }
 
-.header:has(> .justcenter) {
-    margin: auto;
-    text-align:center;
+p.smallnote a {
+    font-size: 0.7rem;
 }
 
 /* extra space at end of section (before heading) */
@@ -173,7 +180,7 @@ p + div:has(h1, h2, h3, h4, h5) {
 
 /* but not at the end of a h6 section */
 div:has(h6) ~ div:has(h1, h2, h3, h4, h5):not(div:has(h6) ~ div ~ div) {
-    margin-top: -0.6rem;
+    margin-top: -0.4rem;
 }
 
 /* and no space before first heading under tags */
@@ -184,38 +191,25 @@ body > p:first-child + div:has(h1) {
 /******************
  * Anchor section
  ******************/
+.header > a {
+  text-decoration: none;
+  color: inherit;
+  background-color: transparent;
+}
+
 :not(.header) > a {
-    padding: 0px;
-    background-color: transparent;
     color: inherit;
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-style: dotted;
-    font-weight: normal;
 }
-
+ 
 :not(.header) > a:hover {
   background-color: #CAB88D;
 }
 
-.header > a {
-  text-decoration: underline;
-  color: inherit;
-}
-
-.header > a[href^="#"] {
-    text-decoration: none;
-}
-
-.header > a:hover {
-  background-color: #CAB88D;
-}
-
-.header > a:hover[href^="#"] {
-    background-color: transparent;
-}
-
 a.heavy {
+    color: inherit;
     background-color: #e2d5b9;
     border-radius: 3px;
     padding: 0px 4px;
@@ -244,21 +238,6 @@ a[href^="http"]::after {
     font-size: x-small;
     margin-right: 1em;
 }
-
-/*****************
- * .smallnote section
- ******************/
-p.smallnote a {
-    font-size: 0.6rem;
-}
-
-.smallnote {
-    margin-top: -0.5rem;
-    font-size: 0.7rem;
-    line-height: 1;
-    font-weight: 200;
-}
-
 /*****************
  * Tooltip section
  ******************/
