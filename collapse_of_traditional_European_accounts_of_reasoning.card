@@ -2,13 +2,18 @@
 :draft0.3:
   = the collapse of traditional European accounts of reasoning =
 Roughly four hundred years have passed since European philosophers had an
-account of reasoning that was generally regarded as plausible. Just over than
+account of reasoning that was generally regarded as plausible. Just over
 two generations have passed since the last great philosophical research program
-which sought to develop an account of our capacity to reason compatible with our
-knowledge of the world around us collapsed. To young philosophers, who have
+which sought to develop an account of our capacity to reason, compatible with our
+knowledge of the world around us, collapsed. To young philosophers, who have
 never experienced anything else, the fundamental incompatibility between our
 understanding of ourselves as reasoning beings and our understanding of the
-world around us, has come to seem normal and tolerable. In order to get a sense
+world around us, has come to seem normal and tolerable. In order to regain a
+sense of the incoherence of our current understanding of our place in the world
+let us cast our minds back to happier
+consider
+
+how incoherent our current understanding of our place in the world is
 
 In order to understand our plight
 
@@ -23,7 +28,7 @@ significant the conflict is between the
 We have been so long without a plausible
 that to appreciate the seriousness of this lack it is worth casting our minds
 back to the last 
-
+==========================
 
 Long ago, it was thought to be clear why reasoning led us to truth. Our minds
 contained concepts, and these concepts were either the same as the
@@ -33,9 +38,9 @@ similar.) Maybe these concepts were imprinted in our minds through our senses,
 or maybe they were perfect forms of which physical properties were imperfect
 copies. But in either case there was a consonance between our concepts and the
 properties of the objects around us. The sensation felt when touching a flame
-was supposed to be similar to the heat which causes the flame to burn, the
+was supposed to be similar to the heat which causes the flame to burn. The
 weight felt when lifting a stone similar to the weight in the stone which caused
-it to resist being pushed, and the color seen when looking at a white patch of
+it to resist being pushed; and the color seen when looking at a white patch of
 snow similar to the whiteness of the snow.  Because of these direct encounters
 with objects' properties we could intuit the fundamental necessary principles
 governing them. 
@@ -69,17 +74,17 @@ ancient skeptics simply insisted that nothing fulfilled it.
 
 In the European intellectual tradition, philosophers began to note the cracks
 heralding the long, unstoppable, collapse of these accounts of reason and
-knowledge shortly before 1650. It is, of course, impossible to put a precise
-date upon when the collapse began or ended.  At first, awareness of the problems
-in the traditional accounts spread piecemeal, and when they were noted they did
-not immediately give rise to despair, but rather to various attempts to repair
-or resolve them.  The death-knell of the ancient account of reasoning might
-reasonably be said to have been struck in 1919, when decisive empirical evidence
-was gathered confirming Einstein's theory that physical space was not Euclidean.
-But some thinkers had abandoned hope in the old scheme long before this, while
-others continued to hold faith in it even after this point (see [[chisholm1987-truths_of_reason|Chisholm, 1987]])
-and even in those who officially abandoned it, its influence continues to run
-deep.
+knowledge around the beginning of the 17th century. It is, of course, impossible
+to put a precise date upon when the collapse began or ended.  At first,
+awareness of the problems in the traditional accounts spread piecemeal, and when
+they were noted they did not immediately give rise to despair, but rather to
+various attempts to repair or resolve them.  The death-knell of the ancient
+account of reasoning might reasonably be said to have been struck in 1919, when
+decisive empirical evidence was gathered confirming Einstein's theory that
+physical space was not Euclidean.  But some thinkers had abandoned hope in the
+old scheme long before this, while others continued to hold faith in it even
+after this point (see [[chisholm1987-truths_of_reason|Chisholm, 1987]]) and even
+in those who officially abandoned it, its influence continues to run deep.
 
 The key factor that caused this collapse, was the undeniable growth in
 scientific knowledge. This growth posed two distinct and fundamental problems
@@ -383,7 +388,7 @@ cursory, theory of the transmission of sensory signals:
     organ proper to each Sense, .  . . which pressure, by the mediation of
     Nerves, and other strings, and membranes of the body, continued inwards to
     the Brain and Heart<br>
-    ([[https://en.wikisource.org/w/index.php?title=Leviathan/The_First_Part&oldid=9608826#Chapter_I:_Of_Sense|_Leviathan, Chap. I_ ]])
+    ([[https://en.wikisource.org/w/index.php?title=Leviathan/The_First_Part&oldid=9608826#Chapter_I:_Of_Sense|_Leviathan, Chap. I_]])
 
 Descartes was another:
     I would have you consider the light in bodies we call <q>luminous</q> to be
@@ -619,13 +624,11 @@ Analytic philosophy's dominance amongst American philosophers at the end of the
     are dominated by analytic philosophy, and among the leading philosophers in
     the United States, all but a tiny handful would be classified as analytic
     philosophers. Practitioners of types of philosophizing that are not in the
-    analytic tradition—such as phenomenology, classical pragmatism,
-    existentialism, or Marxism—feel it necessary to define their position in
+    analytic tradition — such as phenomenology, classical pragmatism,
+    existentialism, or Marxism —feel it necessary to define their position in
     relation to analytic philosophy.<br>
     (_Contemporary Philosophy in the United States_ in
-    [[https://doi.org/10.1111/b.9780631219088.2002.00021.x|_The Blackwell Companion to Philosophy_]] 2002
-    ((Note this doi is not properly maintained by Wiley -
-    ISBN: 978-0-631-21908-8)) )
+    [[https://doi.org/10.1111/b.9780631219088.2002.00021.x|_The Blackwell Companion to Philosophy_, 2002]]((Note this doi is not properly maintained by Wiley - ISBN: 978-0-631-21908-8)) )
 In other English speaking countries Analytic philosophy held much the same
 dominance. In continental Europe, however, while there were small circles of
 highly influential Analytic philosophers, the lingering influence of various
@@ -663,8 +666,8 @@ Kant's death in 1804) European philosophy was noted more for its debates than
 its points of widespread agreement, but:
     Remarkably, almost everyone of importance in the debates, apart from the
     parties of metaphysics, faith, and common sense, seemed to profess to be
-    philosophizing <q>in the Kantian spirit</q>.
-    <br>([[local:zz.texts/collection2012.cambridgeHistoryPhil19thCentury.pdf|_Cambridge History of Philosophy in the Nineteenth Century_]])
+    philosophizing <q>in the Kantian spirit</q>.<br>
+    ([[local:zz.texts/collection2012.cambridgeHistoryPhil19thCentury.pdf|_Cambridge History of Philosophy in the Nineteenth Century_]])
 Just as with Analytic philosophy, in its heyday Kantianism was the orthodoxy in
 relation to which practitioners of other forms of philosophy had to define their
 positions in order to make their work generally accessible to other
@@ -797,6 +800,7 @@ partiality of science without such an explanation is simply to opt to live with
 the mystery rather than deal with it.
 
 === necessity: a remnant of the traditional account ===
+Like the ancient Aristotelian philosophers before him
 Kant took 
 A more significant defect of the argument just considered, is that it relies
 upon the assump
