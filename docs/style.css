@@ -120,6 +120,7 @@ p {
   line-height: 0.9rem;
   font-family: monospace;
   padding: 2px;
+  width: fit-content;
 }
 
 /******************
@@ -153,15 +154,13 @@ h4 {font-size: 1.2rem; color: #808080; width: 70%;}
 h5 {font-size: 1.1rem; color: #909090; width: 50%;}
 h6 {font-size: 0.9rem; color: #9c9c9c; width: fit-content;}
 
-
 /* Reduce space at top of section (after heading) */
 div:has(h1, h2, h3, h4, h5) + p,
 div:has(h1, h2, h3, h4, h5) + blockquote {
     margin-top: 0.3rem;
 }
 
-
-/* and .smallnotes */
+/* p after h6s and .smallnotes are reduced in size */
 div:has(h6) + p, .smallnote {
     margin-top: -0.1rem;
     font-size: 0.9rem;

@@ -22,21 +22,28 @@
 	- [[confirmation_holism#annoyance]]
 
 == article ==
-	- [[chisholm1987.truths_of_reason]]
-	- [[inwagen2010.wereRightTheyreWrong]]
+	- [[chisholm1987-truths_of_reason]]
+	- [[inwagen2010-wereRightTheyreWrong]]
+	- [[truths_of_reason_by_chisholm]]
+	- [[were_right_theyre_wrong_by_van_inwagen]]
+
+== background ==
+	- [[timeline:_modern_atomism_to_nerve_impulses]]
 
 == demotag ==
 	- [[01#quick markdown guide#tags]]
 
 == draft0.0 ==
-	- [[00]]
 	- [[actually_learning_another_langauge]]
 	- [[analytic_philosophy]]
 	- [[computational_complexity_for_philosophers]]
 	- [[confirmation_holism]]
 	- [[descartes]]
 	- [[epistemological_sin]]
+	- [[experience_cannot_justify_believing_a_truth_to_be_necessary]]
+	- [[experience_cannot_justify_believing_a_truth_to_be_necessary#draft0.0]]
 	- [[experience_cannot_justify_knowledge_of_necessity]]
+	- [[history of modern atomic theory and corpuscularian theories of sensation]]
 	- [[hume]]
 	- [[intuition_of_necessity_trail]]
 	- [[kant]]
@@ -66,6 +73,7 @@
 
 == draft0.3 ==
 	- [[collapse_of_traditional_European_accounts_of_reasoning]]
+	- [[modern_accounts_of_our_knowledge_of_necessary_truths]]
 
 == draft1.0 ==
 	- [[theories_as_suits_of_armour]]
@@ -119,6 +127,10 @@
 == modality ==
 	- [[inconceivability_guide_to_impossibility]]
 
+== outline ==
+	- [[introduction_trail_hub]]
+	- [[semantic_holism_trail]]
+
 == passing_thought ==
 	- [[theories_as_suits_of_armour]]
 
@@ -138,16 +150,20 @@
 	- [[quines_errors_trail]]
 
 == response ==
-	- [[chisholm1987.truths_of_reason]]
+	- [[chisholm1987-truths_of_reason]]
+	- [[truths_of_reason_by_chisholm]]
 
 == roughNotes ==
-	- [[inwagen2010.wereRightTheyreWrong#roughNotes]]
+	- [[inwagen2010-wereRightTheyreWrong#roughNotes]]
+	- [[were_right_theyre_wrong_by_van_inwagen#roughNotes]]
+
+== semantic_holism ==
+	- [[semantic_holism_trail]]
 
 == semantic_holism_trail ==
 	- [[confirmation_holism]]
 	- [[epistemic_bottleneck]]
 	- [[epistemic_triangle_of_language_learning]]
-	- [[semantic_holism_trail]]
 	- [[semantic_holism_trail#semantic_holism_trail]]
 	- [[under_determination_of_theories]]
 	- [[underdetermination_of_theories]]
@@ -157,14 +173,16 @@
 	- [[observation_sentences#start]]
 
 == text ==
+	- [[chisholm1987-truths_of_reason]]
 	- [[meno]]
-	- [[chisholm1987.truths_of_reason]]
+	- [[truths_of_reason_by_chisholm]]
 
 == timeline ==
 	- [[timeline_of_corpuscularian_theories_of_sensation]]
 
 == todo ==
 	- [[collapse_of_traditional_European_accounts_of_reasoning#todo]]
+	- [[experience_cannot_justify_believing_a_truth_to_be_necessary#todo]]
 	- [[experience_cannot_justify_knowledge_of_necessity#todo]]
 	- [[philosophers_dogmatism#todo]]
 	- [[plato#todo]]
@@ -177,11 +195,13 @@
 
 == trail_hub ==
 	- [[history_trail]]
-	- [[introduction_outline]]
+	- [[introduction_trail]]
 	- [[intuition_of_necessity_trail]]
 	- [[mental_objects_trail]]
 	- [[quines_errors_trail]]
-	- [[semantic_holism_trail]]
 
 == under-determination ==
 	- [[cogito]]
+
+== unresolved ==
+	- [[problem_with_treating_belief_as_binary#unresolved]]

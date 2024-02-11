@@ -1,4 +1,4 @@
-introduction :outline:
+introduction_trail :trail_hub:
   = reason, language and necessity&ast; =
 == outline ==
 This work is devoted to the following question:
@@ -7,8 +7,8 @@ This work is devoted to the following question:
 Our enquiry begins by considering previous answers to this question and
 attempting to understand why they are unsatisfactory.
 
-=== introduction ===
-	0) {[[|Outline]]} (this document)
+=== Introduction ===
+	0) {[[|Introduction Trail Hub]]} (this document)
 	1) {[[collapse_of_traditional_European_accounts_of_reasoning|The collapse of traditional European accounts of reasoning]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#first problem: the justification of scientific theories|First problem: the justification of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories|Second problem: the content of scientific theories]]}
@@ -16,13 +16,13 @@ attempting to understand why they are unsatisfactory.
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!|Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!]]}
 	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]}
 
-Giving a precise account of the fundamental grounds for the failure of the 
-most recent influential account of our knowledge of necessary truths
-requires an explication and defence of the controversial doctrines of
-confirmation holism and semantic holism.
+Giving a precise account of the fundamental grounds for the failure of the most
+recent influential account of our knowledge of necessary truths requires an
+explication and defence of the controversial doctrines of confirmation holism
+and semantic holism.
 
-=== part 1: Semantic Holism ===
-	0) Part 1 outline
+=== Semantic Holism Trail ===
+	0) [[semantic_holism_trail|Semantic Holism Trail Hub]]
 	1) Confirmation holism
 		- epistemic bottlenecks
 		- why postulate objects?
@@ -30,7 +30,7 @@ confirmation holism and semantic holism.
 		- confirmation holism
 		- indeterminacy of translation
 		?? however computer languages contain analytic truths
-	4) Confirmation Holism coherent: the computer exemplar
+	3) Confirmation Holism coherent: the computer exemplar
 		- confirmation holism
 		- why compactness not incoherent
             - ???? a run thourgh has <q>inout/output<q> content but its meaning is
