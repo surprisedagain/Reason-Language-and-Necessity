@@ -11,8 +11,7 @@
 %% :S <term>       # opens locationlist with matching terms
 %% !grep -ho ':\w*:' * | sort | uniq	# list all tags
 
-
-= Generated Tags =
+= Tag Index =
 == ancient ==
 	- [[meno]]
 	- [[plato]]
@@ -128,7 +127,7 @@
 	- [[inconceivability_guide_to_impossibility]]
 
 == outline ==
-	- [[introduction_trail_hub]]
+	- [[introduction_outline]]
 	- [[semantic_holism_trail]]
 
 == passing_thought ==
@@ -196,6 +195,7 @@
 == trail_hub ==
 	- [[history_trail]]
 	- [[introduction_trail]]
+	- [[introduction_trail_hub]]
 	- [[intuition_of_necessity_trail]]
 	- [[mental_objects_trail]]
 	- [[quines_errors_trail]]
