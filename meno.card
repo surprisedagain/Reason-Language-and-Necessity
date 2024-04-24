@@ -1,97 +1,116 @@
-:text:ancient:historical_trail:
+:text:ancient:
 = Meno =
-====== short ======
-[[http://classics.mit.edu/Plato/meno.html]] ((sha256: 3596a8b0d246a579d565b96d20f4be08b78d34cfa67cc601b06653c9f9534e91))<br>
-By plato, written perhaps ~399 BCE.
+[: [[https://en.wikisource.org/w/index.php?title=The_Dialogues_of_Plato_(Jowett)/Meno&oldid=11706346]], 
+By Plato, written perhaps ~399 BCE. :]
 
-The Platonic dialog featuring Meno in which Socrates demonstrates geometrical
-reasoning.  Often held to be one of the <q>middle dialogues</q> in which Plato
-began to advance his own positive views. In this case a positive (if wildly
-implausible) account of the nature of reasoning.
+====== short ======
+The Platonic dialog in which Socrates demonstrates geometrical reasoning and
+explains our capacity to reason as being due to anamnesis (recollection of
+knowledge acquired before birth). Generally held to be one of the <q>middle
+dialogues</q> in which Plato began to advance his own positive views.
 
 = main =
 The Meno contains the oldest exemplar of deductive reasoning in the western
-tradition((While the geometrical claims involved were certainly known in other
-cultures (see [[local:zz.texts/ancientChineseMathematics.pdf]]) I am unaware of
-any other tradition in which general deductive arguments were presented to
-justify such claims, or considered as objects of investigation or interest in
-their own right)).  In it Socrates teaches a hitherto ignorant slave boy how to
-construct a square that is double the size of a given square.
+tradition((While the geometrical claims involved were certainly known in other cultures (See [[local:zz.texts/ancientChineseMathematics.pdf]]) I am unaware of any other tradition in which general deductive arguments were presented to justify such claims, or considered as objects of investigation or interest in their own right)). In it Socrates teaches a hitherto ignorant slave boy how to
+construct a square double the size of a given square. (The relevant section
+begins on p. 40
 
 At first the boy mistakenly believes that the method to double the size of
-a square is to double the length of each of the sides.<br>
-i.e. that the solid blue square below is double the area of the red one.
+a square is to double the length of each of the sides<br>
+(i.e. that the solid blue square below is double the area of the red one).
 
 {{local:docs/zz.images/wrongDouble.png}}
 
 Socrates, however, convinces the boy that this new square will in fact be four
 times as large as the original. Then Socrates shows him that the correct method
-is to draw the square based on the diagonal of the original.<br>
-i.e. that the true double of the red square is in fact the dashed blue square
-below
+is to draw the square based on the diagonal of the original<br>
+(i.e. that the true double of the red square is in fact the dashed blue square
+below).
 
 {{local:docs/zz.images/rightDouble.png}}
 
-??the point is that the boy does not gain additional information, neither does
-he observe some new feature nor is he told by socrates what is the case, but
+The point is that the boy does not gain additional information, neither does
+he observe some new feature nor is he told by Socrates what is the case, but
 rather when the matter is clearly put before him, or perhaps broken up into
 simple enough steps (though this is a dangerously misleading analogy) he is able
-to discern the truth himself without further intruction. As Socrtates puts
+to discern the truth himself without further instruction. As Socrates puts
 it: <q>Attend now to the questions which I ask him, and observe whether he
-learns of me or only remembers.</q>
-
-
-    ({[[local:zz.texts/gulley1962-platosTheoryofKnowledge|gulley1962]]}, p.10.1)
+learns of me or only remembers.</q> Though Socrates' questions are doubtless
+leading:
     Yet it does nothing to invalidate Plato's main point, which is that a
     previously untutored slave is able to recognise as indubitably true (or
     false) propositions brought to his notice for the first time.
-
+    (Gulley, [[local:zz.texts/gulley1962-platosTheoryOfKnowledge.pdf|_Plato's Theory of Knowledge_]], 1962, p.10.1)
 
 == theory of recollection ==
-The meno is where Plato first introduces the [[plato#theory of recollection|theory of recollection]].
+The Meno is where Plato first introduces the theory of recollection, according
+to which all knowledge is recollected from previous lives. In the Meno the
+suggestion is that it is previous lives in this world, but elsewhere the
+suggestion is that these are recollections from a divine realm in which we
+existed before being born as human.
 
+But there is obviously a huge qualifier here. One does not learn that it is
+raining (for instance) by recollection from a previous life.
+So when Socrates claims that:
+
+     The soul, then, as being immortal, and having been born again many times,
+     and having seen all things that exist, whether in this world or in the
+     world below, has knowledge of them all; and it is no wonder that she should
+     be able to call to remembrance all that she ever knew about virtue, and
+     about everything; for as all nature is akin, and the soul has learned all
+     things, there is no difficulty in her eliciting or as men say learning, out
+     of a single recollection all the rest, if a man is strenuous and does not
+     faint; for all enquiry and all learning is but recollection
+
+His claim can only be made plausible by a tacit restriction as to the sort of
+knowledge involved. It is knowledge of <q>the nature of</q> things, knowloedge
+such as geometrical knowledge - knowledge of the unchanging eternal (which Greek
+mystical traditions appear to have held to be the marker of true reality - that
+which is, *is* and does not change). For our purposes it is tempting 
 
 == paradox of enquiry ==
-The interaction with the slaveboy is prompted by (the character) 
-Meno (the character) also puts forwrd the paradox of analysis:
-    <b>Meno</b>: And how will you enquire, Socrates, into that which you do not
+The interaction with the slave boy is prompted by Meno putting forward the
+paradox of analysis:
+
+    *Meno*: And how will you enquire, Socrates, into that which you do not
     know? What will you put forth as the subject of enquiry? And if you find
     what you want, how will you ever know that this is the thing which you did
     not know?<br>
-    <br>
-    <b>Socrates</b>: I know, Meno, what you mean; but just see what a tiresome
+    *Socrates*: I know, Meno, what you mean; but just see what a tiresome
     dispute you are introducing. You argue that man cannot enquire either about
     that which he knows, or about that which he does not know; for if he knows,
     he has no need to enquire; and if not, he cannot; for he does not know the,
     very subject about which he is to enquire.<br>
-    <br>
-    <b>Meno</b>: Well, Socrates, and is not the argument sound?
+    *Meno*: Well, Socrates, and is not the argument sound?
 
 == a further mystery of irrational numbers ==
 One of the lovely features of Plato's dialogues is how many levels they work on
-simultaeneously. As is well known, each of the characters Socrates interrogates is a
-manifestation of the sort of personality that is attracted to the doctrines they
-espouse. hence there is a sense both that these issues touch upon each
+simultaneously. As is well known, each of the characters Socrates interrogates
+is a manifestation of the sort of personality that is attracted to the doctrines
+they espouse. Hence there is a sense both that these issues touch upon each
 individuals whole approach to life and not merely their intellectual beliefs in
 isolation.
 
 In the case of the Meno, this layering applies to the geometrical argument as
-well. The tyro geometrician can appreciate the strength of Socrates argument
-and count themselves knowledgeable for being able to understand Socrates prrof
-that the square on the diagonal is double the size of the original (see the second image
-above as above)
+well. The tyro geometrician can appreciate the strength of Socrates argument and
+count themselves knowledgeable for being able to understand Socrates proof that
+the square on the diagonal is double the size of the original (see the second
+image above as above)
 
 But there is a deeper mystery concealed within Socrates example. At one point
 Socrates asks the boy of the length of the sides of this doubled square
 
-    Soc: Then the line which forms the side of eight feet ought to be more than this
-line of two feet, and less than the other of four feet?
-    Boy: It ought.
-    Soc: Try and see if you can tell me how much it will be.
+    *Socrates*: Then the line which forms the side of eight feet ought to be more than this
+    line of two feet, and less than the other of four feet?<br>
+    *Boy*: It ought.
+    *Socrates*: Try and see if you can tell me how much it will be.
 
-If we set the length of each side of the original square to 1, then the length
+If we set the length of each side of the original square to 2, then the length
 of each side of the dashed blue square (the true double in area) is the square
-root of two.
+root of eight, which is an irrational number. The Greeks lacked a notation for
+naming such numbers.
 
-= other related cards =
-[[before_times]]
+It is tempting to think that there is a suggestion of an irresolvable mystery
+concerning the nature of virtue (the supposed overarching subject of enquiry
+for the dialogue). The intended moral may be that we can never achieve a precise
+definition of virtue but only ever closer (rational) approximations to it.
