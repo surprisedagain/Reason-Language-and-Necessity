@@ -11,197 +11,169 @@
 %% :S <term>       # opens locationlist with matching terms
 %% !grep -ho ':\w*:' * | sort | uniq	# list all tags
 
-= Tag Index =
+= tag index =
 == ancient ==
-	- [[meno]]
-	- [[plato]]
+    - [[meno]]
+    - [[plato]]
 
 == annoyance ==
-	- [[computer_analogy#annoyance]]
-	- [[confirmation_holism#annoyance]]
+    - [[computer_analogy#annoyance]]
+    - [[confirmation_holism#annoyance]]
 
 == article ==
-	- [[chisholm1987-truths_of_reason]]
-	- [[inwagen2010-wereRightTheyreWrong]]
-	- [[truths_of_reason_by_chisholm]]
-	- [[were_right_theyre_wrong_by_van_inwagen]]
+    - [[chisholm1987-truths_of_reason]]
+    - [[inwagen2010-wereRightTheyreWrong]]
 
 == background ==
-	- [[timeline-modern_atomism_to_nerve_impulses.card]]
-
-== demotag ==
-	- [[01#quick markdown guide#tags]]
+    - [[timeline-modern_atomism_to_nerve_impulses]]
 
 == draft0.0 ==
-	- [[actually_learning_another_langauge]]
-	- [[analytic_philosophy]]
-	- [[computational_complexity_for_philosophers]]
-	- [[confirmation_holism]]
-	- [[descartes]]
-	- [[epistemological_sin]]
-	- [[experience_cannot_justify_believing_a_truth_to_be_necessary]]
-	- [[experience_cannot_justify_believing_a_truth_to_be_necessary#draft0.0]]
-	- [[experience_cannot_justify_knowledge_of_necessity]]
-	- [[history of modern atomic theory and corpuscularian theories of sensation]]
-	- [[hume]]
-	- [[intuition_of_necessity_trail]]
-	- [[kant]]
-	- [[leibniz]]
-	- [[myth_of_the_given]]
-	- [[observation_sentences]]
-	- [[perceptual_invariants]]
-	- [[possible_worlds]]
-	- [[quus]]
-	- [[scientific_method]]
-	- [[semantic_holism]]
-	- [[under_determination_of_theories]]
-	- [[underdetermination_of_theories]]
-	- [[why_postulate_remote_objects]]
+    - [[a_posteriori_necessities]]
+    - [[analytic_philosophy]]
+    - [[computational_complexity_for_philosophers]]
+    - [[confirmation_holism]]
+    - [[descartes]]
+    - [[epistemological_sin]]
+    - [[experience_cannot_justify_believing_a_truth_to_be_necessary]]
+    - [[experience_cannot_justify_believing_a_truth_to_be_necessary#draft0.0]]
+    - [[history of modern atomic theory and corpuscularian theories of sensation]]
+    - [[intuition_of_necessity_trail]]
+    - [[kant]]
+    - [[leibniz]]
+    - [[myth_of_the_given]]
+    - [[observation_sentences]]
+    - [[perceptual_invariants]]
+    - [[possible_worlds]]
+    - [[quus]]
+    - [[underdetermination_of_theories]]
+    - [[why_postulate_remote_objects]]
 
 == draft0.1 ==
-	- [[cogito]]
-	- [[deflationary_truth]]
-	- [[epistemic_triangle_of_language_learning]]
-	- [[introspection_not_a_source_of_theoretical_knowledge]]
-	- [[plato]]
-	- [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[cogito]]
+    - [[deflationary_truth]]
+    - [[epistemic_triangle_of_language_learning]]
+    - [[hume]]
+    - [[introspection_not_a_source_of_theoretical_knowledge]]
+    - [[plato]]
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == draft0.2 ==
-	- [[if_some_experiences_confirm_others_must_infirm]]
-	- [[verificationism]]
+    - [[if_some_experiences_confirm_others_must_infirm]]
+    - [[verificationism]]
 
 == draft0.3 ==
-	- [[collapse_of_traditional_European_accounts_of_reasoning]]
-	- [[modern_accounts_of_our_knowledge_of_necessary_truths]]
-
-== draft1.0 ==
-	- [[theories_as_suits_of_armour]]
+    - [[collapse_of_traditional_European_accounts_of_reasoning]]
+    - [[modern_accounts_of_our_knowledge_of_necessary_truths]]
 
 == empiricism ==
-	- [[verificationism]]
+    - [[verificationism]]
 
 == enlightenment ==
-	- [[cogito]]
-	- [[descartes]]
-	- [[timeline_of_corpuscularian_theories_of_sensation]]
+    - [[cogito]]
+    - [[descartes]]
 
 == historical ==
-	- [[before_times]]
+    - [[before_times]]
 
 == historical_trail ==
-	- [[analytic_philosophy]]
-	- [[cogito]]
-	- [[history_trail]]
-	- [[hume]]
-	- [[kant]]
-	- [[meno]]
-	- [[plato]]
+    - [[analytic_philosophy]]
+    - [[cogito]]
+    - [[history_trail]]
+    - [[hume]]
+    - [[kant]]
+    - [[plato]]
 
 == history_trail ==
-	- [[under_determination_of_theories]]
-	- [[underdetermination_of_theories]]
+    - [[underdetermination_of_theories]]
 
 == holism ==
-	- [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == holism_trail ==
-	- [[observation_sentences#holism_trail]]
+    - [[observation_sentences#holism_trail]]
 
 == intuition_of_analyticity ==
-	- [[philosophers_dogmatism]]
+    - [[philosophers_dogmatism]]
 
 == intuition_of_analyticity_trail ==
-	- [[features_of_supposed_analytic_truths]]
+    - [[features_of_supposed_analytic_truths]]
 
 == intuitions_of_necessity_trail ==
-	- [[intuition_of_necessity_trail]]
+    - [[intuition_of_necessity_trail]]
 
 == justification ==
-	- [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
 == mental_objects_trail ==
-	- [[mental_objects_trail]]
-	- [[myth_of_the_given]]
+    - [[mental_objects_trail]]
+    - [[myth_of_the_given]]
 
 == modality ==
-	- [[inconceivability_guide_to_impossibility]]
+    - [[inconceivability_guide_to_impossibility]]
 
 == outline ==
-	- [[introduction_outline]]
-	- [[semantic_holism_trail]]
-
-== passing_thought ==
-	- [[theories_as_suits_of_armour]]
+    - [[semantic_holism_trail]]
 
 == person ==
-	- [[descartes]]
-	- [[plato]]
+    - [[descartes]]
+    - [[plato]]
 
 == principle ==
-	- [[epistemic_triangle_of_language_learning]]
-	- [[if_some_experiences_confirm_others_must_infirm]]
-	- [[introspection_not_a_source_of_theoretical_knowledge]]
-	- [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
-	- [[verificationism]]
+    - [[epistemic_triangle_of_language_learning]]
+    - [[if_some_experiences_confirm_others_must_infirm]]
+    - [[introspection_not_a_source_of_theoretical_knowledge]]
+    - [[sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+    - [[verificationism]]
 
 == quines_errors_trail ==
-	- [[observation_sentences]]
-	- [[quines_errors_trail]]
+    - [[observation_sentences]]
+    - [[quines_errors_trail]]
 
 == response ==
-	- [[chisholm1987-truths_of_reason]]
-	- [[truths_of_reason_by_chisholm]]
+    - [[chisholm1987-truths_of_reason]]
 
 == roughNotes ==
-	- [[inwagen2010-wereRightTheyreWrong#roughNotes]]
-	- [[were_right_theyre_wrong_by_van_inwagen#roughNotes]]
+    - [[inwagen2010-wereRightTheyreWrong#roughNotes]]
 
 == semantic_holism ==
-	- [[semantic_holism_trail]]
+    - [[semantic_holism_trail]]
 
 == semantic_holism_trail ==
-	- [[confirmation_holism]]
-	- [[epistemic_bottleneck]]
-	- [[epistemic_triangle_of_language_learning]]
-	- [[semantic_holism_trail#semantic_holism_trail]]
-	- [[under_determination_of_theories]]
-	- [[underdetermination_of_theories]]
+    - [[confirmation_holism]]
+    - [[epistemic_bottleneck]]
+    - [[epistemic_triangle_of_language_learning]]
+    - [[semantic_holism_trail#semantic_holism_trail]]
+    - [[underdetermination_of_theories]]
 
 == start ==
-	- [[confirmation_holism]]
-	- [[observation_sentences#start]]
+    - [[confirmation_holism]]
+    - [[observation_sentences#start]]
 
 == text ==
-	- [[chisholm1987-truths_of_reason]]
-	- [[meno]]
-	- [[truths_of_reason_by_chisholm]]
-
-== timeline ==
-	- [[timeline_of_corpuscularian_theories_of_sensation]]
+    - [[chisholm1987-truths_of_reason]]
+    - [[meno]]
 
 == todo ==
-	- [[collapse_of_traditional_European_accounts_of_reasoning#todo]]
-	- [[experience_cannot_justify_believing_a_truth_to_be_necessary#todo]]
-	- [[experience_cannot_justify_knowledge_of_necessity#todo]]
-	- [[philosophers_dogmatism#todo]]
-	- [[plato#todo]]
+    - [[experience_cannot_justify_believing_a_truth_to_be_necessary#todo]]
+    - [[philosophers_dogmatism#todo]]
+    - [[plato#todo]]
+    - [[tt#todo]]
 
 == traditional_epistemology ==
-	- [[problem_of_first_principles]]
+    - [[problem_of_first_principles]]
 
 == trail ==
-	- [[semantic_holism_trail#trail]]
+    - [[semantic_holism_trail#trail]]
 
 == trail_hub ==
-	- [[history_trail]]
-	- [[introduction_trail]]
-	- [[introduction_trail_hub]]
-	- [[intuition_of_necessity_trail]]
-	- [[mental_objects_trail]]
-	- [[quines_errors_trail]]
+    - [[history_trail]]
+    - [[introduction_trail_hub]]
+    - [[intuition_of_necessity_trail]]
+    - [[mental_objects_trail]]
+    - [[quines_errors_trail]]
 
 == under-determination ==
-	- [[cogito]]
+    - [[cogito]]
 
 == unresolved ==
-	- [[problem_with_treating_belief_as_binary#unresolved]]
+    - [[problem_with_treating_belief_as_binary#unresolved]]

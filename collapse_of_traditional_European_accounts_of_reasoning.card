@@ -348,7 +348,7 @@ reasoning is complicated by the fact that the traditional Aristotelian theories
 of sensation and knowledge were not directly replaced by scientific theories
 based upon experiment and observation, but were instead swept away by a wave of
 wild speculation with only a tenuous connection to empirical evidence
-(see {[[timeline-modern_atomism_to_nerve_impulses.card|timeline: modern atomism to nerve impulses]]}).
+(see {[[timeline-modern_atomism_to_nerve_impulses|timeline: modern atomism to nerve impulses]]}).
 
 At the start of the 17th century Galileo set off a wave of speculative physics
 that spread over Europe. However, while Galileo himself certainly believed a
@@ -543,22 +543,22 @@ apparent knowledge of necessary truths (and capacity for deductive reasoning)
 appeared more pressing and more irresolvable the more it was considered. Our
 capacity to gain knowledge of necessary truths seemed both indispensable to and
 incompatible with our scientific discoveries. One difficulty is that many
-necessary truths (such as those of arithmetic and geometry) appear to refer to
+necessary truths (such as those of arithmetic) appear to refer to
 objects that are not located in space and time. Objects that are hence incapable
 of playing any part in causing the formation of beliefs about them((In the more recent philosophical literature this is sometimes called [[https://en.wikipedia.org/w/index.php?title=Paul_Benacerraf&oldid=1172032726#Philosophical_work|Benecerraf's epistemological problem or Beneceraff's dilemma]] )).
-Another apparent difficulty is that, despite our frequent errors in reasoning,
-we appear to be justified in believing some necessary truths with absolute
-certainty. But any causal psychological process by which confidence is produced
-will be subject to malfunctioning and hence though it may produce a _feeling_ of
-absolute certainty (or at least a feeling that we customarily describe as
-absolute certainty) such certainty could never be justified by
-any causal psychological process((The point is roughly Hume's, though he draws from this claim the conclusion that we can never have any confidence in our judgements at all:<q>In every judgment, which we can form concerning probability, as well as concerning knowledge, we ought always to correct the first judgment, deriv’d from the nature of the object, by another judgment, deriv’d from the nature of the understanding. ’Tis certain a man of solid sense and long experience ought to have, and usually has, a greater assurance in his opinions, than one that is foolish and ignorant, and that our sentiments have different degrees of authority, even with ourselves, in proportion to the degrees of our reason and experience. In the man of the best sense and longest experience, this authority is never entire; since even such-a-one must be conscious of many errors in the past, and must still dread the like for the future.</q> [[hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  More generally, as noted above, the
-objects described in scientific theories, unlike elements of the processes by
-which we hold our beliefs to be formed, appear to be utterly insensitive to
+Another apparent difficulty is that according to the traditional view we are,
+despite our frequent errors in reasoning, justified in believing some necessary
+truths with absolute certainty. But any causal psychological process by which
+confidence is produced will be subject to malfunctioning and hence though it may
+produce a _feeling_ of absolute certainty (or at least a feeling that we
+customarily describe as absolute certainty) such certainty could never be
+justified by any causal psychological process((The point is roughly Hume's, though he draws from this claim the conclusion that we can never have any confidence in our judgements at all:<q>In every judgment, which we can form concerning probability, as well as concerning knowledge, we ought always to correct the first judgment, deriv’d from the nature of the object, by another judgment, deriv’d from the nature of the understanding. ’Tis certain a man of solid sense and long experience ought to have, and usually has, a greater assurance in his opinions, than one that is foolish and ignorant, and that our sentiments have different degrees of authority, even with ourselves, in proportion to the degrees of our reason and experience. In the man of the best sense and longest experience, this authority is never entire; since even such-a-one must be conscious of many errors in the past, and must still dread the like for the future.</q> [[hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  More generally, as noted above,
+the objects described in scientific theories, unlike elements of the processes
+by which we hold our beliefs to be formed, appear to be utterly insensitive to
 modal relations. As [[hume|Hume]] pointed out vigorously and to great effect,
 the supposedly necessary connexions between causes and their effects do not,
-themselves, cause any experiences in us (or cause our beliefs to change by
-other means).
+themselves, cause any experiences in us (or cause our beliefs to change by other
+means).
 
 The problem is not merely that terms such as <q>knowledge</q> and <q>justification</q>
 cannot be translated into the terminology of physics or some other science
@@ -582,14 +582,14 @@ Appearing initially as a felt need for a guarantee of correspondence between
 our concepts and the properties they represent (the starting point for the
 traditional account of our capacity to reason) resolving the conflict between
 our understanding of ourselves as reasoning beings sensitive to modal
-connections, and the scientific understanding of ourselves as physical systems
+relationships, and the scientific understanding of ourselves as physical systems
 constructed from modally insensitive materials, came to be regarded as the
 fundamental problem of philosophy.
 
 === regarded as fundamental by Kantian and Analytic philosophers ===
 Largely because of the repeated failure of attempts to resolve this conflict,
-many philosophers now doubt that any problem could be _the_ fundamental
-problem of philosophy. Not only had those attempts failed to re-establish
+many philosophers now doubt that there is any such thing as _the_ fundamental
+problem of philosophy. Not only had those attempts ???? failed to re-establish
 rational foundations upon which grand philosophical systems could be built
 (foundations that had been washed away in the collapse of the traditional
 account of reasoning) they also cast doubt on the idea of there being an
@@ -752,17 +752,16 @@ field of chemistry, leaving no residual core of alchemical principles which
 modern chemistry relies upon but cannot justify. By contrast, modern science
 appears to be unavoidably reliant upon necessary principles in which belief is
 justified by much the same means as those by which ancient philosophers
-justified their beliefs in the truths of geometry. Most obvious are the truths
-of mathematics and logic, many of which are indispensable members of scientific
-theories. More broadly, however, the relationship between scientific theories
-and the evidence that supports them appears to involve necessary truths that are
-not themselves known through scientific investigation. Whether a scientific
-principle or theory is supported by a given range of evidence seems, ultimately,
-to be a necessary truth that is not itself discoverable by empirical scientific
-investigation (though scientific investigation may reveal whether that evidence
-happens to exist). In both these ways, our knowledge of necessary truths appears
-to remain indispensable to the justification of scientific theories and yet
-apparently unjustifiable by scientific methods.
+justified their beliefs in the truths of geometry. Not only do scientific
+theories contain mathematical claims, but the relationship between scientific
+theories and the evidence that supports them appears to involve necessary truths
+that are not themselves known through scientific investigation. Whether a
+scientific principle or theory is supported by a given range of evidence seems,
+ultimately, to be a necessary truth that is not itself discoverable by empirical
+scientific investigation (though scientific investigation may reveal whether
+that evidence happens to exist). In both these ways, our knowledge of necessary
+truths appears to remain indispensable to the justification of scientific
+theories and yet apparently unjustifiable by scientific methods.
 
 A conclusion some philosophers have drawn from the apparent dependence of
 science upon unscientific knowledge of valid inferences and necessary truths, is
@@ -788,8 +787,9 @@ knowledge of necessary truths can affect aspects of reality (such as our bodily
 movements) of which knowledge can be gained by scientific means and yet remain
 beyond scientific discovery itself. Worse yet, the conclusion that if scientific
 theories are incompatible with our having the capacity to gain knowledge of
-necessary truths then we could not know those theories to be true simply takes
-key elements of the traditional account of knowledge and reasoning for granted.
+necessary truths then we could not know those theories to be true is only
+reached by taking key elements of the traditional account of knowledge and
+reasoning for granted.
 
 === knowledge of scientific theories not dependent upon knowledge of necessary truths ===
 Many, perhaps all, scientific theories contain mathematical and logical truths((Statements that are true under all interpretations of their non-logical or non-mathematical terms)).
@@ -846,15 +846,14 @@ partial (i.e. there were not elements of reality, and more particularly elements
 of the creatures who believed these theories, of a kind other than those
 postulated in our scientific theories and governed by laws other than those our
 scientific theories claim govern other natural phenomena) then we could not know
-those theories to be true. In this sense the claim that 
-that no aspect of reality was beyond scientific discovery would be
-pragmatically self-defeating; for we could not know those theories if they were
-false, and if they were true then we could not know the ascriptions of necessity
-that they contained. However, our current best scientific theories do not
-contain such ascriptions, and it is only by taking it for granted that we know
-that some of the statements contained by scientific theories are necessarily
-truth that the claim that science is total is made to appear pragmatically
-self-defeating.
+those theories to be true. In this sense the claim that no aspect of reality was
+beyond scientific discovery would be pragmatically self-defeating; for we could
+not know those theories if they were false, and if they were true then we could
+not know the ascriptions of necessity that they contained. However, our current
+best scientific theories do not contain such ascriptions, and it is only by
+taking it for granted that we know that some of the statements contained by
+scientific theories are necessarily true that the claim that science is total
+is made to appear pragmatically self-defeating.
 
 Another way in which our knowledge of scientific theories might be thought to
 depend upon our knowledge of necessary truths is via their evidential support.
@@ -880,16 +879,16 @@ preserved truth; then, again, the claim that science was total (and hence the
 principles which, according to our best scientific theories, govern the
 rest of the natural world also govern our behaviour and the formation of our
 beliefs) would be pragmatically self-defeating. If our scientific theories were
-true then we could not know them to be so.  But again, this is merely a
+true then we could not know them to be so. But again, this is merely a
 particularly partisan way of saying that if our scientific theories preclude
 sensitivity to modal properties and relationships then they are incompatible
-with theories of knowledge such as the traditional account of knowledge and
+with theories of knowledge, such as the traditional account of knowledge and
 reasoning, according to which such sensitivity is required for knowledge.
 
 The reason these arguments are so widely taken as establishing that the
 (non-modal) principles which, according to our best scientific theories, govern
 the rest of the natural world, do not govern our actions and the formation of
-our beliefs, is that elements of the  traditional account of knowledge are
+our beliefs, is that elements of the traditional account of knowledge are
 still deeply embedded in our((or at least the Anglo-European)) common understanding of ourselves. The
 Aristotelian principle that in the best and most certain form of knowledge
 (_epistêmê_ - the sort of knowledge we have of geometry, logic and mathematics)
@@ -899,15 +898,15 @@ possession of this best form of knowledge, remains so fundamental
 to folk epistemology that any questioning of this principle is easily taken as
 tantamount to skepticism.
 
-Our knowledge of scientific theories is no doubt dependent upon our
-ability to reason (including, among other things, the ability to infer the
-logical consequences of a theory from its axioms) but it is not, however,
-dependent upon the truth of any one particular explanation of that ability. In
-particular it is not dependent upon the truth of the traditional account of
-knowledge and reasoning.  The conflict between our scientific theories and that
-account of knowledge and reasoning does not imply that we do not know those
-theories, but only that _either_ we do not know those theories _or_ the
-traditional account of knowledge and reasoning is wrong.
+Our knowledge of scientific theories is no doubt dependent upon our ability to
+reason (including, among other things, the ability to infer the logical
+consequences of a theory from its axioms) but it is not dependent upon the truth
+of any one particular explanation of that ability. In particular it is not
+dependent upon the truth of the traditional account of knowledge and reasoning.
+The conflict between our scientific theories and that account of knowledge and
+reasoning does not imply that we do not know those theories, but only that
+_either_ we do not know those theories _or_ the traditional account of knowledge
+and reasoning is wrong.
 
 == traditional account of knowledge and reasoning a false explanation ==
 Attentive readers may have wondered at the caveat in the claim of the last
@@ -967,49 +966,84 @@ need to take the diagnosis of sensitivity to necessity/contingency at face
 value, and questioning that diagnosis need not plunge us into skepticism.
 
 == this view and modern modal realism both products of the failure of analytic philosophy ==
-Currently, Anglo-European philosophy is dominated by various forms of
-modal realism/actualism as advocated by influential philosophers such as 
-The rejection of the distinction between necessary and contingent truths
-advocated in this work is profoundly at odds with the various forms of modal
-realism/actualism that currently dominate Anglo-European philosophy.
-Influential philosophers such as Lewis, Kripke and Fine have made popular
-approaches to modality which either take possible worlds to be just as real as
-the actual world we inhabit, or mere possibilities to be aspects of the world
-which exist independently of our attitudes towards them
-, or mere possibilities, to be
-either just as real as the actual world we inhabit or objective aspects of this
-actual world. (Aspects which exist independently of our attitudes towards them, and
-make our ascriptions of necessity and possibility true or false.)
+Since the late twentieth century, modal realism, most notably new versions
+proposed and defended by influential philosophers such as David Lewis, Saul
+Kripke and Kit Fine, ha
+Its most notable proponents 
 
-Despite this opp
-
-Although the anti-realist position advocated here
-approach to modality advocated here 
-se two approaches to modality, one which treats it as an objective
-feature of the external world which our minds can distinguish, and one which
-treats it primarily as a misdiagnosis of a psychological distinction between two
-distinguishable types of belief, are clearly at odds with each other, both are
-products of the failure of the central project of Analytic philosophy. Viz., to
+a notable resurgence in popularity((by the standards of academic philosophy)). According to their accounts the
+truthmakers of modal truths are either other possible worlds just as real as the
+actual world we inhabit, or at at least aspects of the actual world which exist
+independently of our attitudes towards them. The view urged here is
+diametrically opposed to such modal realism, but both are products of the
+generally perceived failure of the central project analytic philosophy - viz.,
 to explain our knowledge of necessary truths in terms of meaning and empirically
-acquired linguistic competence and thus reconcile our capacity to reason and
+acquired linguistic competence, thereby reconciling our capacity to reason and
 discern the necessary consequences of our beliefs with our scientific theories.
 
-Superficially it may appear that modern modal realism represents a less severe
-break than the modal anti-realism offered here. After all like modern modal
-realists
+The failure of this project, or at least the loss of confidence 
+Analytic philosophy was the last widely influential attempt to resolve
+the conflict between the traditional account of knowledge and reasoning and our
+modern scientific theories.  Its failure, or at least, the crisis of confidence
+in its main project, has left us with three alternatives:
 
-Superficially, it may seem that modern modal realism represents a less profound
-break
+The first is to wholeheartedly reject the naturalistic constraints that
+both Kantian and Analytic philosophers accepted((Though Kantians held those constraints only applied to the world as it appeared to us.)) and claim that the processes
+by which our beliefs are formed follow laws other than those that govern the
+natural world outside our minds. To throw off the naturalistic constraints
+that Analytic philosophers aspired to abide by,
+and accept
+reasoning as a extra-empirical source of substantive knowledge about the
+necessary structure of the world (much as the ancient Greeks had considered their
+knowledge of geometry to be). This reaction is the fundamental cause of the
+<q>rationalist renaissance</q> in recent philosophy.
+
+This is the course taken explicitly or implicitly
+by the proponents of modal realism (since they also claim to have knowledge of
+these modal realities).  Of course, no account of how we know such truths is
+widely held to be plausible.  there is no agreement, as to how the capacity to
+discern necessary truths is realised. Whether this insight is attributed to raw
+intuition, an ability to perceive necessary connections akin to our perception
+of physical objects, a sensitivity to the unity and economy of our overall
+theories(([[local:zz.texts/lewis1986-pluralityOfWorlds.pdf]])) or even,
+ironically enough, to <q>philosophical
+analysis</q>(([[local:zz.texts/kripke1980-namingAndNecessity.pdf]]))
+
+
+
+
+
+
+
+
+
+The recognition of putative
+
+Necessity and possibility is a genuine and fundamental feature of the world and
+if it cannot be explained in some other way then our sensitivity to these
+features must be accepted as a brute
+
+According to these new forms of modal realism necessities and possibilities are
+not true by virtue of meaning alone, but reflect
+and if our capacity to discern these features cannot be accounted for in some
+other way then it must be accepted
+
+Although such modal realism is antithetical to the modal anti-realism advocated
+here
+according to which claims of necessity are a misdiagnosis of a psychological
+distinction between distinguishable beliefs
+
+
+exceptions such as <q>Hesperus is Phosphorous</q>, <q>Water is H,,2,,O</q> 
+
 
 Reconcile our modern scientific theories with our possession of knowledge of
 necessary truths, and once we can see that these attempts to reconcile, then we
 will be in a position
 
-that the analytic account of our knowledge of necessary truths
-
 That the pursuit of such reconciliation is somehow misguided.
 
-iFomr this point of view analytic philosophy found the one last way in which our
+From this point of view analytic philosophy found the one last way in which our
 knowledge of necessary truths might be reconciled
 
 From the modern view such reconciliation is misplaced
@@ -1021,30 +1055,13 @@ and hence have come to regard those limits as misguided.
 By contrast, the view advocated here
 
 we alone out of creation appear to be sensitive to reasons and not merely
-causes. If no cause can play the role ascribed to reasons in that ancient account of
-reasoning, then that ancient account is false.
+causes. If no cause can play the role ascribed to reasons in that ancient
+account of reasoning, then that ancient account is false.
 
 Having abandoned the hope that sufficiently sophisticated causes could be
 reasons, the attempt to live . Having seen that the naturalistic account of
 reasoning is too austere to do justice to the phenomena
 
-By contrast, if sense could be made of the notion of necessity, and our capacity
-to reason explained in terms of a capacity to discern necessary truths and
-necessarily truth preserving inferences, then it 
-
-== historical antecedents ==
-
-
-Superficially, it may appear that the rejection of modality represents a moreis a more profound
-break with
-
-a posteriori necessities such as Putnam's <q>water is H,,2,,O</q>
-
-Wheras modal realists may be taken as regarding Analytic philosophy . The
-
-After all, both the current modal realists and . If t
-
-wheras the modal realists tend to agree. However, 
 
 Attempts to reconcile 
 In a sense influential empiricists such 
