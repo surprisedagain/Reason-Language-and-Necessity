@@ -1,0 +1,291 @@
+[[introduction_trail_hub#Confirmation Holism|confirmation holism]] : 1<br>
+
+    The world with its quarks and chromosomes, its distant lands and spiral
+    nebulae, is like a vast computer in a black box, forever sealed except for
+    its input and output registers. These we directly observe, and in the light
+    of them we speculate on the structure of the machine, the universe. Thus it
+    is that we think up the quarks and chromosomes, the distant lands and the
+    nebulae; they would account for the observable data. When an observation
+    turns out unexpectedly, we may try modifying our theory of that structure at
+    one or another point.
+	<br>Quine & Ullian, [[local:zz.texts/quine1978-webOfBelief.pdf|_Web of Belief_]]
+
+= epistemic bottlenecks =
+We know of some objects only through their effects on other objects to which we
+have comparatively direct epistemic access. Stars too faint to be seen by the
+naked eye, for example, are known to us only through their effects on
+photographic plates, the antennae of radio telescopes and other astronomical
+equipment. Let us call this kind of epistemic dependency an epistemic
+bottleneck; and speak of the objects, like faint stars, which are known
+only indirectly as being _on the far side_ of the relevant bottleneck, and the
+objects through which they are known as being _in_ the relevant bottleneck.
+
+== sense-data supposedly an ultimate bottleneck ==
+Many philosophers, most notably empiricists such as Berkeley and Hume, but also
+many non-empiricists including Aristotle, Descartes and Kant, have believed that
+there is a special type of object through which all others (or at least all
+other objects located in space and time) are known us. This special class of
+objects are sometimes dubbed <q>sense-data</q> or <q>sensations</q>, and many
+phi
+
+that all objects other than sense data themselves are known to us only through
+their effects on 
+
+it is only by their effects on these sense data that we know of other objects
+
+
+, and that we only know of other objects (or at least other
+objects located in space and time) through their effects on these sense-data. If
+there are such sense-data they constitute a kind of ultimate epistemic
+bottleneck, on the far side of which were all the other objects in the world.
+The claim that there are epistemic bottlenecks, however, does not commit us to
+the existence of such an ultimate bottleneck nor the existence of sense data.
+Even if there is no ultimate epistemic bottleneck nor ultimate evidence upon
+which all our knowledge of a posteriori truths is based, and what is taken as
+evidence depends on context and passing interests, there may still be
+non-ultimate epistemic bottlenecks.
+
+Although belief in sense-data is no longer as widespread as it was, it may
+be worthwhile to note several other properties that have traditionally been
+attributed to sense-data which are not required of the objects in epistemic
+bottlenecks as that term is being defined here:
+
+==== need not be directly observed ====
+The objects in one epistemic bottleneck, may themselves be on the far side of
+some other epistemic bottleneck, and known only by their effects on yet closer
+objects to which our epistemic access is again _comparatively_ more direct.
+
+In Russell's terminology the objects in an epistemic bottleneck need not be
+<q>known by acquaintance</q> but may
+be <q>known by description</q>. But the existence of epistemic
+bottlenecks, or rather of objects in epistemic bottlenecks, does not presume on
+Russell's theory of knowledge.  Indeed the existence of epistemic bottlenecks
+does not imply that there are any epistemically closest objects that are known
+to us by acquaintance at all.
+
+The claim that there are epistemic bottlenecks does not preclude there being
+proximal _causes_ of experience without proximal objects _of_ experience.  Our
+awareness may always be of more or less distal objects((Least distal are those objects which directly impinge upon our skin or other sensory surfaces, and the firing of our sensory cells themselves. In psychological texts these are sometime described as proximal stimuli which are <q>directly perceived by our sensory receptors</q>. But of course such events are not directly perceived by _us_ and are not known to us by acquaintance.  By that rigorous standard such impingements still count as distal and there is a sense in which the firing of our sensory cells is not perceived by us at all except with the aid of special equipment (and generally in the third person). Let us avoid being drawn into just where to draw the line between proximal and distal stimuli for the time being.)). If we perceive
+apples, chairs and people without there being intermediary sense-data which we
+perceive directly, that does not preclude the existence of epistemic
+bottlenecks.
+
+==== known infallibly, only a simplifying assumption ====
+Another special property many philosophers have attributed to sense-data
+is that each of us has infallible knowledge of our own sense-data.
+    Each sense has one kind of object which it discerns, and never errs in
+    reporting that what is before it is colour or sound (though it may err as to
+    what it is that is coloured or where that is, or what it is that is sounding
+    or where that is). Such objects are what we call the special objects of this
+    or that sense.
+    <br>(Aristotle, [[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf|_De Anima_]], Book II, Section 6)
+
+    the intellect can never be deceived by any experience, provided that when
+    the object is presented to it, it intuits it in a fashion exactly
+    corresponding to the way in which it possesses the object, either within
+    itself or in the imagination.
+    <br>(Descartes, [[local:zz.texts/descartes1-philosophicalWritings.pdf|_Rules for the Direction of the Mind_]], Rule Twelve)
+	
+    as far as ideas((In the next paragraph Descartes explicitly includes sensations such as <q>hearing a noise, as I do now, or seeing the sun, or feeling the fire</q> among his ideas.)) are concerned, provided they are considered solely
+    in themselves and I do not refer them to anything else, they cannot strictly
+    speaking be false; for whether it is a goat or a chimera that I am
+    imagining, it is just as true that I imagine the former as the latter. 
+    <br>(Descartes, [[local:zz.texts/descartes2-philosophicalWritings.pdf|_Third Meditation_]])
+
+    since all actions and sensations of the mind are known to us by
+    consciousness, they must necessarily appear in every particular what they
+    are, and be what they appear.
+    <br>(Hume, [[local:zz.texts/descartes2-philosophicalWritings.pdf|_Third Meditation_]])
+
+    It is correctly said that the senses do not err; yet not because they always
+    judge correctly, but because they do not judge at all
+    <br>(Kant, [[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_Critique of Pure Reason_]], A293)
+
+No such infallibility is attributed to our knowledge of the objects in epistemic
+bottlenecks in general. However, as our main concern is with relationships
+between the objects in epistemic bottlenecks and the claims
+made concerning the objects on the far side, it may occasionally simplify
+matters to assume (contrary to fact) that our knowledge of the objects in the
+particular bottleneck in question is infallible in some places is a simplifying assumption to
+consider our
+
+
+it will be convenient, much of the time, to assume that we have certain
+knowledge of the objects in the epistemic bottleneck
+
+Furthermore, for our purposes we may pretend that the objects described in the
+theory or statement are known with certainty, or at least without any practical
+doubt for the purposes of the conversation at hand, and so we may take the
+conditions of the relevant bottleneck as the only confirmation conditions of the
+statement or theory in question.
+
+== need not be either necessary or complete ==
+Like sense data
+Although the existence of uncircumventable , i.e. objects of which we have no
+knowledge except . And they are the true epistemic bottlenecks
+
+But there are others, such as an example that we will consider at some length,
+such as the screen and keyboard of a computer. In this case we might, perhaps,
+open up the case of a and measure. However, so long as we are thinking 
+
+===== no commitment to epistemic internalism/externalism =====
+Thus for instance, it does not matter, 
+whether our beliefs concerning the objects on the far side of an epistemic
+bottleneck are justified by our beliefs about the objects in the relevant
+epistemic bottleneck or by virtue of the fact that they are reliably caused by
+objects in the relevant or are justified by those 
+
+or it is the arrangements of the objects in an epistemic bottleneck themselves
+which justify our beliefs
+concerning the objects 
+
+some exemplary epistemic bottlenecks
+
+It is however precluded that there are loops of epistemic dependency. If we know
+of electrons, say, partly by their influence on protons, and of protons partly
+by their influence on electrons then neither is on the far side of an epistemic
+bottleneck that the other is in. Either both 
+
+====== not reliabilism ======
+
+== epistemic bottlenecks of facts not of things ==
+???? may only be aspects
+It certainly seems plausible that there are only a finite number of
+distinguishable states of affairs
+
+= If one has a more or less causal theory of justification =
+    Normally, if I believe there is a red apple on the table in front of me, my
+    belief is caused by a red apple in front of me. The apple exists, and is
+    red, and is the indirect, distal cause of my belief. (It causes events in my
+    eyes and visual cortex which cause me eventually to go into the mental state
+    of believing that there is a red apple in front of me.)
+
+If one has a more or less
+ such that all causal chains from the objects 
+But 
+At least for some aspects. But we should neither rely upon 
+Somewhere
+In the chain of causation from distal to proximal stimuli, 
+there is 
+ll the states of those remote objects of which our beliefs are caused by 
+
+
+=== we should not assume that all knowledge === 
+For that innocent assuming assumption.
+and even though we have now explicitly acknowledged this danger it may slip past
+us we must remain on guard
+
+Maybe we know that objects on the far side of any epistemic bottleneck are
+self-identical
+
+
+Those who believe that we have such knowledge may take this as an exercise of
+seeing just how much baby we must throw out with the bath water. To the extent
+that we only have knowledge of objects on the far side
+If we did???
+
+
+
+== confirmation holism ==
+We are considering the relationship of claims made about the objects on the far
+side of an epistemic bottleneck 
+
+=== evidence ===
+
+
+
+
+(or those aspects of them, if objects may be par
+
+
+As being evidence for claims concerning objects on the far side of that
+bottleneck, and speak of arrangements of objects . Note that this is not to assume 
+
+
+Neither of these doctrines is required that they are both an epistemic
+bottleneck through which all our information about the external world must flow
+before going on to cause our beliefs, and because they are in practice the last
+clear and public cause of our beliefs.
+
+
+
+. But the views advance in this collection of notes do not rely upon the
+existence of such an all encompassing epistemic bottleneck, nor of such ultimate
+evidence.  But only the more humble claim that there are some epistemic
+bottlenecks or other at some points in the flow of information to us from the
+objects of which we have knowledge. Even if there are no clear input and output
+registers, and what is taken as "ultimate evidence" depends on context and
+passing interests, that is still compatible with the existence of epistemic
+bottlenecks, and hence still compatible with the arguments on offer here.
+
+=== may merely be for the sake of argument ===
+or a simplfying assumption
+one common reason is to seek common ground against which to resolve a dispute.
+Common practice of seeking common ground.
+One may hold oneself to have reams
+
+=== not known perfectly ===
+There is nothign more the sense data than what we sense of them. There may be
+more to objects in an epistemic bottleneck
+
+This issue is so important that 
+
+== structure of our knowledge of objects in epistemic bottlenecks ==
+Having described some of the ways in which our knowledge of epistemic
+bottlenecks and the objects in them may fall short of the standard.
+In the case of radio telescopes, for instance, they may be an epistemic
+bottleneck in our knowledge of distant stars. But They provide this epistemic
+bottleneck. We may not, for instance know exactly 
+
+Here a device of semantic assent
+
+In the next section we shall begin to make claims regarding the complexity of
+the sequences of states of the objects in epistemic bottlenecks. In order for
+those evaluations of the complexity of sets of sequences of states we require
+there to be . Thus, rather than talking about the structure of the states of
+affairs themselves, which come in such multifarious forms that they resist, and
+any abstraction may be felt to include some unacknowledged assumption concerning
+the nature of those. We can instead rely upon the device of semantic ascent, and
+instead . What then is the required structure of the statements that we can know
+to be true.
+
+In order to get our minds clear it is useful, rather than starting with the
+general structures, to begin with (comparatively) concrete examples of epistemic
+bottlenecks and what we know of them.
+
+Some examples:
+computer screen
+
+the wire at the back of your computer is an epistemic bottleneck
+
+q is P
+This can be treated as either
+P(q)
+or as
+q ∊ P
+
+This alternative as in fact one of the dominant moves of early analytic
+philosophy [[Properties as sets of objects in early analytic philosophy]]
+
+
+
+
+temporal sequences:
+If all that can be told is that one state of the 
+
+Probabilistic knowledge of:
+All the examples w
+
+Claims concerning the underdetermination of our knowledge of the objects and the
+indeterminacy of the translations of claims concerning the objects on the far
+side of an epistemic bottleneck, will loom large in much of what is to follow,
+and hence it is worthwhile to point 
+
+We might take the statements
+
+
+= other related cards =
+
+= trails =
+This card is the start of the semantic_holism_trail
+

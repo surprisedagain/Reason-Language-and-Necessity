@@ -1,14 +1,14 @@
-:text:article:response:
-= Truths of reason =
-====== short ======
-[[local:zz.texts/zz.exemplaryErrors/chisholm1987.truthsOfReason.pdf]]<br>
-public url: {[[https://philpapers.org/rec/CHITTO-2]]} <br>
-by R. Chisholm, published 1987 in the collection _A Priori Knowledge_
+:article:modality:reasoning:response:
+= truths of reason =
+[: [[local:zz.texts/chisholm1987-truthsOfReason.pdf]],
+public url: [[https://philpapers.org/rec/CHITTO-2]] <br>
+by R. Chisholm, 1987. :]
 
+====== summary ======
 A prime example of the continued grip of the traditional view of reasoning and
 _a priori_ knowledge on modern philosophers.
 
-= Response =
+= response =
 === An initial concern ===
     (p.1.1) Reason, according to one traditional view, functions as a source of
     knowledge. This view, when it is clearly articulated, may be seen to
@@ -58,14 +58,14 @@ misguided constraints.
 Why focus on these "relationships" of inclusion and exclusion?
 
 ALL squares are rectangles<br>
-AAx [Square(x) -> Rectangle(x)]<br>
+∀x [Square(x) -> Rectangle(x)]<br>
 
 NO squares are circles<br>
-not EEx [Square(x) AND Circle(x)]<br>
+not ∃x [Square(x) ∧ Circle(x)]<br>
 which is interdeducible in FOL with<br>
-AAx not [Square(x) AND Circle(x)]<br>
+∀x not [Square(x) ∧  Circle(x)]<br>
 
-NOT EEx NOT =interdeducible in classical First Order Logic with= AAx<br>
+NOT ∃x NOT =interdeducible in classical First Order Logic with= ∀x<br>
 
 So these are the two ways in which universal quantifiers can occur at the
 beginning of a statement. Either immediately followed by a negation or not.  In
@@ -96,7 +96,7 @@ The <q>challenge</q> is: how can reasoning be a process which justifies confiden
 such universal claims. Indeed so.
 
 == Four reasons knowledge of some general truths must be _a priori_ ==
-Chisholm offers roughly four reasons why our knowlege of some general truths
+Chisholm offers roughly four reasons why our knowledge of some general truths
 cannot be justified _a posteriori_ and hence must be justified a _priori_.
 Unfortunately all of these arguments rely in one way or another upon the
 following premise:
@@ -269,7 +269,7 @@ Chisholm appears to be agreeing with William Whewell when he says:
     happened; but she cannot find, in any case, or in any accumulation of cases,
     any reason for what _must_ happen." 
 
-But in the immediately preceeding paragraph Chisholm claims merely that:
+But in the immediately preceding paragraph Chisholm claims merely that:
     (p.3.4) The step from the inductive generalisation "Every individual thing,
     past, present, and future, is such that if it is red then it is not blue"
     . . . to "Necessarily, every individual thing, past, present, and future,
@@ -427,7 +427,7 @@ delicious.
 Those who take necessity more seriously than I, might draw much the same
 conclusion from Hume's dictum "no connexions among distinct existences are
 ever discoverable by human understanding." (p.400.1
-[[local:zz.texts/hume1739.treatiseHumanNature.pdf|Treatise]]). Provided a
+[[local:zz.texts/hume1739-treatiseHumanNature.pdf|Treatise]]). Provided a
 general claim is not already known to be true with absolute certainty, no
 observation can justify becoming absolutely certain about that claim. For there
 is no (knowable) necessary connection between my experience and the truth of
