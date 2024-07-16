@@ -1,4 +1,4 @@
-introduction_trail :trail_hub:
+Table of Contents
   = reason, language and necessity&ast; =
 == outline ==
 This work is devoted to the following question:
@@ -7,48 +7,118 @@ This work is devoted to the following question:
 Our enquiry begins by considering previous answers to this question and
 attempting to understand why they are unsatisfactory.
 
+	2) {[[Table of Contents]]} (this document)
+
 === Introduction ===
-	0) {[[|Introduction Trail Hub]]} (this document)
 	1) {[[collapse_of_traditional_European_accounts_of_reasoning|The collapse of traditional European accounts of reasoning]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#first problem: the justification of scientific theories|First problem: the justification of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories|Second problem: the content of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths became viewed as the fundamental problem of philosophy|Knowledge of necessary truths became viewed as the fundamental problem of philosophy]]}
-		- {[[collapse_of_traditional_European_accounts_of_reasoning#Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!|Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!]]}
-	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]}
+	- {[[collapse_of_traditional_European_accounts_of_reasoning#Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!|Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!]]}
+	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
 
-Giving a precise account of the fundamental grounds for the failure of the most
-recent influential account of our knowledge of necessary truths requires an
-explication and defence of the controversial doctrines of confirmation holism
-and semantic holism.
 
-=== Semantic Holism Trail ===
-	0) [[semantic_holism_trail|Semantic Holism Trail Hub]]
-	1) Confirmation holism
-		- epistemic bottlenecks
-		- why postulate objects?
-	2) The computer bottleneck
+=== Confirmation Holism and Semantic Holism ===
+	1) {[[epistemic_bottlenecks]]}
+		- {[[epistemic_bottlenecks#sense-data supposedly an ultimate bottleneck|sense-data supposedly an ultimate bottleneck]]}
+	2) {[[confirmation_holism]]}
+		- fallen on hard times - regarded as incoherent - this may be compjter
+		  analogy
+ 
+What reason do we have for postulating external objects. For what we are
+enquiring into is the supposed objects of belief. So a clear understanding of
+the role of the postulation of obejcts.
+
+???? ---- ???? ---- ???? ---- ????
+	1) [[semantic_holism_trail|Semantic Holism Trail Hub]]
+	2) [[confirmation_holism]]
+
+	3) epistemic bottlenecks
+	4) The computer analogy
 		- confirmation holism
 		- indeterminacy of translation
-		?? however computer languages contain analytic truths
-	3) Confirmation Holism coherent: the computer exemplar
+3) What is the relationship between . Given knowledge of the objects _in_ the
+   relevant epistemic bottleneck what can we know of those beyond them?
+   this does not decide internalism/externalism. If we are in this situation
+   what can we know of the objects that are on the far side of the relevant
+   epistemic bottleneck. The first obvious question is under what circumstances
+   can we know or are we justified in believing that anything is on the far side
+   of an epistemic bottleneck at all?
+        - positivism - the answer of positivism is that we cant. Given only
+          knowledge of the objects in a epistemic bottle neck and knowing
+          nothign the the principles (necessary or otherwise) that govern the
+          objects on the far side and having no contact with the properties of
+          those objects except through these intermediaries, we can have no
+          knowledge of the objects on the far side nor even know that there are
+          such objects.
+          
+      - Why posit objects?
+      What arrangements of objects in an epistemic justification
+          an engineering perspective - there must be something
+          an introdution to computational complexity
+          the is why to be is to be the value of a variable.
+      let us talk about the patterns on the screen. Since this is all we know,
+      there must be something about these patterns that justifies our knowledge
+      of the objects on the far side.
+      Since we are not skeptics we . ON the assumption that we do have
+      knowledge. The anti-empiricist, insists in a sense that there never
+      are pure epistemic bottlenecks. That we always have some knowledge of the
+      <q>nature of being</q> which allows us to know some very general features
+      of the objects of any kind , the necessary truths that concern such
+      objects and hence there are other sources of knowledge .
+      
+      Is this pragmatism? I honestly do not know. I consider pragmatism to be a
+      matter <q>what you can get away with</q> i.e. the inferential gambits that
+      will be accepted as giving reason to assent to a given sentence determine
+      the meaning of those statements. This is simply the question of what it is
+      that we achieve by means of the positing of objects? 
+      
+      The attitude behind the question.
+      This is the first application of the computer analogy.
+      
+      The computer programs we write involve the postulation of objects. This is
+      . But what the . This is more than a more homonymy of corporate buzzwords.
+      Although.
+      bigendian vs littlendian our theory can be true of either. COmputers of
+      either stripe will be said to
+
+    This can also be put as why does redutionism fail? ???? THIS MIGHT GO
+    EARLIER as an introduction.
+    
+    This is why positivism is false. So long as we restrict ourselves
+    
+    
+    Of more than merely theoretical interest: in computer science there was a
+    movement towards formal programs and provable proframs in the early to mid
+    90s. In order to make the appraoch look plausible examples of
+    pre-conditions, loop invariants and so on were produced.
+    
+	3) Confirmation Holism
+    Before we can precisely define confirmation holism we may best get an
+    intuitive sense of it by again relying upon the computer analogy. Here we
+    will eventually rely upo
+    That there are theories of 
+    coherent: the computer exemplar
 		- confirmation holism
+        
 		- why compactness not incoherent
             - ???? a run through has <q>input/output<q> content but its meaning is
               not exhausted by that run through. It mayh contribute to other
               outputs of the program. Thus even those statements do not face the
               tribunal of eperience on their own. There is a subtlety here that
               easily leds to confusion (see weir1985.againstHolism
-		- other objections to confimation holism from morrison paper
-	?) Quine's error (1) observation sentences
+		- other objections to confirmation holism from morrison paper
+        - simply the failure of positivism. If each sentence had a distinct set
+          
+?? however computer languages contain analytic truths
+
+what confirmation holism requires -
+	?) sum of credences/probabilities greater than 1
+    why this entails there is no analytic truth or synonymy
+
+?) Quine's error (1) observation sentences
 how theories are connected to evidence
 there need be no observational terms/sentences
-
-Even at this preliminary stage
-epistemic triangles
-why introspection is not a source of theoretical knowledge
-https://www.jstor.org/stable/42920209
-
-	?) sum of credences/probabilities greater than 1
     
 	?) Cartesian scepticism redux
 Descartes and the very interesting thought pump - two cultures which divided
@@ -58,53 +128,108 @@ that we can read any two systems into the world. And it is not the case that one
 is wrong and the other is right - if we do not then we do not have knowledge of
 the external world.
 
+brain_in_a_vat
+and meanings ain't in the head
 
 	?) semantic holism and analytic truth
-    the point at which to draw the boundary is arbitrary. If wish we could take
+    the point at which to draw the boundary between one langauge and a more
+    inclusive other is arbitrary. If wish we could take
     all the stetments 
     one can hardwire all the claims that are atbly true (speed of light,
     gravitational constant say, and render the claims that are stably true as
     logical truths. In the program we can hardwire in these assumptions in
     various complicated ways.
-    - why quine never argues
-		- quine's errors OR IS THIS ANOTHER SECTION??/TAG for orthog?
-        - denial of deceitful demon - <q>analytically<q> true
+
+
+In what sense can <q>any sentence be held true come what may?</q>
+
+epistemic triangles ????- here ?
+why introspection is not a source of theoretical knowledge
+https://www.jstor.org/stable/42920209
+
+when we convert the statements of a langauge into a logical notation we are
+faced with choices. We can render something as a logical truth or as an
+commonly known non-logoicla truth.
+    this sentence I can tell is trtue merely by its (overt) logical structure (A
+    or not A). This other sentence requires empirical investigation. Surely this
+    marks an essential difference
+
+attitudes towards logic
+complexity, contingency and IF logics/hypercomputational logics
+but in a sense logic is undeniable, if we wish to capute the range of complexity
+we do. We logic is so solid. mathematics????
+    non classical logics - IF pretence to strength
+    modal logic - does not exceed the recursively enumerable
 
 a posteriori necessities and a priori contingencies
 earth air water fire
 Air is a natural kind terms too. when did it stop being one
 Putnam and the indeterminacy of translation
 
-objects for the intensional attitudes
+= 2nd half - the correct diagnosis =
+	1) intro
+there are, as it happens other reasons for wanting to make sense of supposedly
+intensional idioms, not least of which is their indispensibility in both
+everyday life and ??{ prediction of behaviour }??
+	
 	1) wittgenstein's error
+		1) what wittgenstein got right. perhaps the first to acknowledge the
+		   indeterinacy - sultan who has feelings solipsism and realism in trac
+		2) witts error: from the tractatus
+		3) objects of intensional attitudes
+Perhaps the main reason why all the case against necessity was so difficult to
+appreciate was that 
+		*)
+the range of positive possibilities delineated - the range of negative
+possibilities - ways the world is not - not delineated
 
-
-On necessity
-the problem of ambiguity
-	?) The intuition of analyticity
-		- 
-		- 
-		- why 
-
-attitudes towards logic
-    this sentence I can tell is trtue merely by its (overt) logical structure (A
-    or not A). This other sentence requires empirical investigation. Surely this
-    marks an essential difference
-    non classical logics - IF pretence to strength
-    modal logic - does not exceed the recursively enumerable
+expectation. It may is possible that the term is . One of the chief indicators
+of expectation is that a failure of expectations causes a chengce in subsequent
+expectations. So long as things go the way you expect, the way you expect things
+to go doesn't change much. Its when one unexpectedly runs into a table in the
+dark (or the Spanish inquisition) that ones expectations change.
 
 	?) solutions to problems and other implications
 		- quus and dispositionalism
+		- authoritative knowledge of ones own mental states
+			- the social solution (Wittgenstein), we can't really mean it
+			  because no physical mechanism could ever vouchsafe such certainty.
+			  hence it must be a social role. Solution- just a false leftover of
+			  Aristotelian epistemology.
 		- deflationary truth
 		- philosophers excessive dogmatism
+		- confirmation - confirmation by tacking an on topic but not specially
+		  perspicuous/valuable/good starting link:
+		  https://philsci-archive.pitt.edu/17474/1/PSA2020GenConf.pdf
 		- kripkean problems
-            - necessary identity - rigid designators - if it doesn't refer to
-              that it has a different meaning. STart with the 1m stick case. In
-              a possible world in which the stick ws a different length at (of
-              course) t0 , those people would be rigidly designating a
-              different meter - hence speaking a different language.
-              
-the parts of the elephant - what the wise men got right
+			- necessary identity - rigid designators - if it doesn't refer to
+			  that it has a different meaning. STart with the 1m stick case. In
+			  a possible world in which the stick ws a different length at (of
+			  course) t0 , those people would be rigidly designating a different
+			  meter - hence speaking a different language.  -false definite
+			  descriptionsd that still succeeed in referring - the man with
+			  champagne in his glass over there. champagne*
+
+the problem of wildly overcomplicated definite descriptions that are required
+to denote ordinary physical objects. The two problems are that what is required
+is on the one hand
+
+well that can't br right because then each person would have their own meaning
+of each term, mthodological solipsism gone mad! (refute this claim, by talk of
+the non-linguistic representation model)
+
+also can't be right because no person is aware of anything like that definite
+description.
+
+generally reflects the underestimation of complexity. which then heads into the
+implausibility that we believe any of the insane complexity required for say,
+the deteection of 3d objects from visual stimuli. (aufbau der welt relevant)
+
+- also helps with the problem of fictional objects?
+a tenuous starting point in S1 [wn.notes:dennett2017-historyOfQualia
+
+
+== the parts of the elephant - what the wise men got right ==
 plato - recollection from before birth. In a sense true, though it was imbued by
 evolution and not in some sacred realm
 Kant - to perceive is not merely some blob of color/sound a wild mishmash of
@@ -116,7 +241,23 @@ alignment between our language and the range of the world. Trying the only
 plausible way to reconcile the irreconcilable.
 
 
-		- The status of logic
+reasoning - the interplay between two forms of representation
+dretske analog and digital
+    I will say that a signal (structure, event, state) carries the information
+    that s is F in digital form if and only if the signal carries no additional
+    information about s, no information that is not already nested in s’s being
+    F.  If the signal does carry additional information about s, information
+    that is not nested in s’s being F, then I shall say that the signal carries
+    this information in analog form. When a signal carries the information that
+    s is F in analog form, the signal always carries more specific, more
+    determinate, information about s than that it is F.22
+    “Sensation and Perception”, in Y. H. Gunther (ed.) Essays on Nonconceptual
+    Content, (Cambridge, MA: MIT Press, 2003), 25–41; repr. F. Dretske,
+    Knowledge and the Flow of Information (Cambridge, MA: MIT Press, 1981),
+    135–153.
+
+this is not any more <q>non-conceptual</q> than any other form of
+representation, though it is non-linguistic.
 
 		- Our knowledge of mathematics
             - the original epistemic sin - teletubbies and learning to watch
@@ -126,7 +267,10 @@ If you look into it hard enough, everything is messy
 what of the nature of good reasoning.
 The standard pattern of bad reasoning - oh I didnt think of that
 Anti slogan - When you assume you make an ass out of U and me.
-
+    In fact none of the errors to which men- men, I say, not the brutes- are
+    liable is ever due to faulty inference; they are due only to the fact that
+    men take for granted certain
+    descartes1-philosophicalWritings.pdf-23-       
 
 		- What of knowledge?  https://plato.stanford.edu/entries/knowledge-analysis/
             - always relative to a range. How is it that we <q>Mrs bennett</q> like
@@ -137,6 +281,7 @@ Anti slogan - When you assume you make an ass out of U and me.
               all.
             - knowledge is a result that is formed by a process that in a safe
               space around the real world is safe/sensitive.
+
 When I claim to knowledge i claim that in a sufficiently large sphere of
 possible worlds around the real world, my belief in sensitive to the truth.              
 [[https://plato.stanford.edu/entries/knowledge-analysis/#Sens|Stanford encyclopedia on sensitivity as a criteria of knowledge]]
@@ -145,20 +290,21 @@ false.
 
 “George knows that he has hands, but he doesn’t know that he’s not the handless
 victim of a Cartesian demon”
-
-But George does not know that he has hands and he's not a Cartesian victim.
+!! But George does not know that he has hands and he's not a Cartesian victim.
 
 That we do not like to admit this is that once we open up the scope we do not
-like to admit that we adopt any other. We are alwasy right about the scope of
+like to admit that we adopt any other. We are always right about the scope of
 possibilities, and it is so wide that we could not be wrong.
-
-
 
 		- What of philosophy?
             - we can see now why reasoning is so productive in logic,
               mathematics, 
             - MAking ones beliefs manifest in language.
             - [[deflationary_truth]]
+
+    - why quine never argues
+		- quine's errors OR IS THIS ANOTHER SECTION??/TAG for orthog?
+        - denial of deceitful demon - <q>analytically<q> true
 
 == orthogonal trails ==
 This version of work uses some features modern. The outline
