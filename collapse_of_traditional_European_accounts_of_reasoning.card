@@ -5,12 +5,13 @@ Roughly four hundred years have passed since European philosophers had an
 account of reasoning that was compatible with their understanding of the world
 around them. Just over two generations have passed since the collapse of the
 last great philosophical research program devoted to producing an account of
-reasoning compatible with our most plausible scientific theories. Sheer time,
-and repeated failure, have rendered acceptable what was once felt to
-absolutely intolerable. In order to rouse ourselves from the numbing effects of
-failure and familiarity, let us cast our minds back to rosier days when our
-theories of the world and our theories of our capacity to reason were
-compatible.
+reasoning compatible with highly plausible modern scientific theories. 
+This conflict between our understanding of ourselves as reasoning beings and our
+understanding of the world around us was once thought to be absolutely
+intolerable, but sheer time and repeated failure have rendered it unexceptional
+In order to rouse ourselves from the numbing effects of failure and familiarity,
+let us begin by recalling rosier days when our theories of the world and our
+theories of our capacity to reason were compatible.
 
 Long ago, it was thought to be clear why reasoning led us to truth. Our minds
 contained concepts, and these concepts were the same as, or at least very
@@ -23,9 +24,9 @@ the objects around us. The sensation felt when touching a flame was thought to
 be identical to the heat which causes the flame to burn. The weight felt when
 lifting a stone identical to the weight in the stone which caused it to resist
 being pushed; and the color seen when looking at a white patch of snow identical
-to the whiteness of the snow. Because of these direct encounters with objects'
-properties we could intuit the fundamental necessary principles governing those
-properties. 
+to the snows whiteness. Because of these direct encounters with objects'
+properties we could intuit the fundamental necessary principles that governed
+them. 
 
 A corollary of this view was the belief that knowledge, at least in its best
 and purest form, is produced by starting with first principles known with
@@ -35,49 +36,56 @@ omniscient intellect such as the Christian God's could determine the necessity
 of the arrangement of the material world around us; but even limited intellects
 such as ours could determine which combinations of properties were possible or
 impossible by examining which combinations of concepts we could conceive of
-<q>clearly and distinctly</q> (in Descartes' famous phrase). Combinations of
-properties that could not be conceived despite our familiarity with them, such
-as would be realised by round squares, or triangles whose internal angles did
-not sum to two right angles, were impossible.
+<q>clearly and distinctly</q> (as Descartes' often put it((quote original french/latin here????))). Combinations of
+properties that we could not conceive despite our familiarity with them, such
+as would be realised by round squares, triangles whose internal angles did
+not sum to two right angles, or object that were both completely red and
+completely green, were impossible.
 
 The pre-eminent example of knowledge, according to this view (and hence for most
 of European intellectual history from Aristotle to Hume) was geometry.
-Geometry taken, not as we now understand it, an investigation into various
+Geometry taken, not as we now understand it, an investigation of various
 non-physical mathematical idealisations, but as the ancients understood it, an
-investigation into the spatial properties of physical objects. Geometry was the
-exemplary demonstration of the power of reason. It was taken to show that
-reason, perhaps based upon concepts of lines and circles imprinted in us by
-experience, but otherwise unaided by experiment and observation, could produce
-substantial knowledge of the necessary structure of the world.  There were, of
-course, famous ancient skeptics, but they tended to focus on the fallibility of
-the senses; and their criticisms tended to amount to noting that our
-justifications for beliefs about the external world did not reach the standard
-set by geometry. Rather than challenging the classical theory of knowledge,
-ancient skeptics simply insisted that nothing fulfilled it.
+investigation into the spatial properties of the physical objects around us.
+Geometry was the exemplary demonstration of the power of reason. It was taken to
+show that reason, perhaps based upon concepts of lines and circles imprinted in
+us by experience, but otherwise unaided by experiment and observation, could
+produce substantial knowledge of the necessary structure of the world.  There
+were, of course, famous ancient skeptics, but they tended to focus on the
+fallibility of the senses; and their criticisms tended to amount to noting that
+our justifications for beliefs about the external world did not reach the
+standard set by geometry. Rather than challenging the classical theory of
+knowledge, ancient skeptics simply insisted that nothing fulfilled it.
 
 In the European intellectual tradition, philosophers began to note the cracks
-heralding the long, gradual, collapse of this account of reason and
-knowledge around the beginning of the 17th century. It is, of course, impossible
-to put a precise date upon when the collapse began and, as yet, it is not
-complete. At first, awareness of the problems in the traditional account spread
-piecemeal, and when they were noted they did not immediately give rise to
-despair, but rather to various attempts to repair or resolve them. The
-death-knell of the ancient account of reasoning might reasonably be said to have
-been struck in 1919, when decisive empirical evidence was gathered confirming
-Einstein's theory that physical space was not Euclidean. But although it is now
-generally accepted that the geometry of physical space is neither Euclidean, nor
-capable of being known _a priori_, the traditional account of reasoning continues
-to have devoted adherents (e.g. [[local:zz.texts/chisholm1987-truths_of_reason|Chisholm, 1987]]).
-????
-Even to the current day, and among those who accept that many of traditional
-account's claims are unequivocally false, the most obdurate elements of this
-account continue to restrict the range of accounts of our capacity to reason
-that are thought to be worth considering. ????Continues to influence our
-accounts of our capacity to reason from beyond the grave.????
+heralding the long, gradual, collapse of these accounts of knowledge and
+reasoning around the beginning of the 17th century. It is, of course, impossible
+to put a precise date upon when the collapse began and it is, as yet,
+incomplete. At first, awareness of the problems in the traditional accounts of
+knowledge and reasoning spread piecemeal,
+and when they were noted they did not immediately give rise to despair, but
+to attempts to repair or resolve them. The death-knell of the
+ancient account of reasoning might reasonably be said to have been struck in
+1919, when decisive empirical evidence was gathered confirming Einstein's theory
+that physical space was not Euclidean. But although it is now generally accepted
+that the geometry of physical space is neither Euclidean, nor capable of being
+known _a priori_, the traditional account of reasoning still has devoted
+adherents (e.g. [[local:zz.texts/chisholm1987-truths_of_reason|Chisholm, 1987]]).
+An even today and among those who overtly reject these ancient accounts,
+obdurate elements of the traditional accounts continue to restrict the range of
+accounts of our capacity to reason that are thought to be worth considering.
+Still, these accounts were once philosophical orthodoxies, accepted 
+more widely than any modern philosophical theory, were, in the 20th century,
+almost equally widely derided by English speaking philosophers as ancient errors and are now they are now 
+to an extent that 
+widely accepted to an extent 
+that is to an extent that 
 
-The key cause of this collapse, was the undeniable increase in scientific
-knowledge, which posed two distinct and fundamental problems for the traditional
-accounts of knowledge and reasoning.
+these views have now although they are undergoing a odd resurgence
+
+The key cause of this collapse of belief in the ancient accounts of knowledge
+and reasoning, was the undeniable increase in scientific knowledge, which posed
+two distinct and fundamental problems for the traditional accounts:
 
 == first problem: the justification of scientific theories ==
 While the principles of Aristotelian physics were perhaps neither so precise nor
@@ -105,10 +113,10 @@ Aristotle had been prepared to postulate bodies too small to be sensed directly;
 but the qualities he attributed to them were akin to the ordinary sensible
 qualities of wet and dry, hot and cold.  By contrast, human sensory organs are
 not sensitive to properties such as electric field strength, quantum spin or
-quantum color (and if we can sense magnetic fields, the capacity is so
+quantum color (and if we can sense magnetic fields, our capacity is so
 rudimentary as to be debatable. See [[https://doi.org/10.1523/ENEURO.0483-18.2019|_Transduction of the Geomagnetic Field as Evidenced from Alpha-Band Activity in the Human Brain_]], 2019).
 
-Even the attributions of those properties that might be thought to be sensible,
+Even the attributions of properties that might be thought to be sensible,
 such as wavelength and mass, is often at odds with ordinary sensations.  The
 mass of an object, for example, is unlike its felt weight in that the latter is
 dependent upon gravity (or the seemingly distinct constant acceleration) wheras
@@ -118,7 +126,7 @@ bodies when we support objects unaided) it seems we do not sense the mass of
 objects.
 
 ==== not necessary truths ====
-The next difference is that scientific generalisations are not thought to be
+Another difference is that scientific generalisations are not thought to be
 true necessarily.  This claim's most influential advocate may be Popper, for
 though he did not argue for it explicitly, it is implied by his well known
 principle that scientific claims must be [[https://en.wikipedia.org/wiki/Falsifiability|falsifiable]].  According to
@@ -138,32 +146,33 @@ plausible _a priori_ and yet mutually exclusive. While other principles, such as
 palpably arbitrary to be considered necessary.
 
 In the other direction, while we may now be confident that Newtonian mechanics
-is false, it is at least implausible that it is necessarily false.  Hence no
-scientific theory incompatible with Newtonian mechanics can be necessarily true.
+is false, it is at least not obviously that it is necessarily false((????  [[contradictions_in_Newtonian_mechanics]])).
+And if Newtonian mechanics is not necessarily false then no scientific theory 
+incompatible with it can be necessarily true.
 
 ==== not known with certainty ====
-While Popper formulated his falsification principle in the mid 20th century, by
-1650 Descartes had already recognized that scientific claims gained credence
-via their success in predicting observations( (??source??) ). For several centuries afterwards,
-it was only dimly apprehended((by everyone apart, perhaps, from the [[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Thomas Bayes]])) that for an experience to give credence to a
-hypothesis, [[if_some_experiences_confirm_others_must_infirm|there must be other possible experiences which would confute it]]
-(hence Popper's emphasis on falsification); but it _was_ widely understood that
+Popper formulated his falsification principle in the mid 20th century, but
+Descartes had recognized that scientific claims gained credence
+via their success in predicting observations before 1650( (????source) ). For
+several centuries afterwards, it was only dimly apprehended((by everyone apart, perhaps, from the [[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Thomas Bayes]])) that for an
+experience to give credence to a hypothesis,
+[[if_some_experiences_confirm_others_must_infirm|there must be other possible experiences which would confute it]] (hence Popper's
+emphasis on falsification); but it _was_ widely understood that
 belief in scientific theories was justified by their success in predicting
-observations and that they were _not deducible from_ (reports of) those
+observations and that they were _not deducible from_ reports of those
 observations.
 
 There are thus two sources of uncertainty built into the foundations of our
 knowledge of scientific truths. Firstly our observations are subject to error,
 we may see the needle on the voltmeter pointing to 11 when in fact it is
-pointing to 10; and secondly even if our observations are correct, they do not
-_guarantee_ the truth of the general scientific principles they support. Any
-number of ????
-general principle may have any number of positive instances
-and yet be false. It ????
-is possible for a supposedly universal law to be vindicated by any finite number
-of observations and yet be false, hence, at least according to the traditional
-theory of knowledge, those observations cannot justify believing that
-principle with absolute certainty.
+pointing to 10. Secondly even if our observations are correct, they do not
+_guarantee_ the truth of the general scientific principles they support.
+The principles of scientific theories are not deducible from the observations
+that support them.  Any principle in which belief is only justified by repeated
+observation of positive instances may yet be false, no matter how many positive
+instances are observed.  Hence, at least according to the traditional theory of
+knowledge, our observations cannot justify believing such principle with
+absolute certainty.
 
 ==== known less certainly than their consequences ====
 Another point of difference between scientific laws and Aristotelian first
@@ -180,7 +189,7 @@ the sixth digit of the last number in the equation just given is the same as the
 sixth digit in the first). Plato, by contrast, relied upon a looser and
 more complex relationship between ordinary objects and the forms than
 instantiation _simpliciter_; He held that ordinary objects realise forms only
-imperfectly((see {[[chisholm1987-truths_of_reason#Geometrical figures exist|Chisholm's discussion of geometrical figures]]} for a modern exponent of the view)).  This shortcoming means that ordinary sensible objects may fail
+imperfectly((see {[[chisholm1987-truths_of_reason#Geometrical figures exist|Chisholm's discussion of geometrical figures]]} for a modern exponent of the view)). This shortcoming means that ordinary sensible objects may fail
 to fulfill the laws obtaining between the forms they imperfectly instantiate. In
 either case the general law is more certain that its exemplification in any
 given instance.
@@ -190,15 +199,15 @@ litmus paper turns red when immersed in acid</q> are known with less certainty
 than particular observations of their instances.  Indeed on the modern view it
 follows from fundamental principles of probability that such generalizations
 must be less certain than observations of any particular positive instance.
-For the falsehood of any of instance would render the universal claim false as
-well, and hence the probability of the universal claim must be lower than the
-probability of that claim being fulfilled in any particular case.
+For the falsehood of any of instance would render the universal claim false, and
+hence the probability of any universal claim must be lower than the
+probability of it being exemplified in any particular instance.
 
 ==== not intuitable as a result of observation ====
 The final point of difference, which is also the most difficult to make sense of
 from the modern viewpoint, is that scientific laws are not grasped in a flash of
-insight after repeated sensation. After repeated encounters with circles, one
-might in a sudden insight, realise that each is a set of points equidistant from
+insight after repeated sensation. After repeated encounters with circles one
+might, in a sudden insight, realise that each is a set of points equidistant from
 a centre. After repeated encounters with lines, one may realise that just one
 line passes through any pair of distinct points. But one does not, after
 repeatedly lifting heavy objects, suddenly realise that the gravitational
@@ -206,16 +215,16 @@ constant is 6.6743 +/- 0.00015 x 10^-11^ Newton square meters per square
 kilogram.
 
 === consequences of these differences ===
-The differences just noted make it clear that knowledge of scientific
-generalisations is not justified in the way prescribed by the traditional view.
-Such is the tenacity and strength of the traditional view's hold on modern minds
-however, that a dawning realisation that our knowledge of scientific truths is
-not justified in this way often first manifests itself as skepticism; a denial
-that we have knowledge of scientific generalizations at all.
+The differences just noted make it clear that our knowledge of scientific
+generalisations is not justified in the way the traditional accounts of
+knowledge and reasoning prescribe.  Such is the tenacity and strength of these
+traditional views' hold on modern minds however, that a dawning realisation that
+the realization that scientific truths are not justified in this way, often
+first manifests itself as skepticism; a denial that we have knowledge of
+scientific generalizations at all.
 
-So it was for Descartes, though he claimed his skepticism was merely
-%% ???? perhaps COGITO (next line)  will link to that section of conclusion ????
-methodological.  The starting point of his _cogito_ is the realisation that that
+So it was for Descartes. Though he claimed his skepticism was merely
+methodological, the starting point of his _cogito_ is the realisation that that
 our theories of the external world cannot be deduced from observations and
 necessary first principles, and hence our knowledge of them is dubious.  This
 doubt became known as <q>Cartesian skepticism</q> and went on to become a
@@ -232,7 +241,7 @@ philosophy is that no-one _really_ knows anything except their own experiences
 and perhaps some mathematics; i.e. truths of which the traditional account of
 knowledge remains at least superficially plausible. Nor is this insistence upon
 rejecting all claims of knowledge that are not justified by the lights of the
-traditional view limited to pioneers and novices. Russell notes the wide spread
+traditional view limited to pioneers and novices. Russell bemoans the widespread
 of this skepticism in his complaint that <q>... when people begin to
 philosophize they seem to think it necessary to make themselves artificially
 stupid</q>((_Theory of knowledge_ from [[https://doi.org/10.4324/9780203875391|_The Basic Writings of Bertrand Russell_]])) (i.e. to reject all knowledge claims apart from those that can be
@@ -312,7 +321,7 @@ of the physical objects around us. As Aristotle put it:
     what is coloured or flavoured or sounding, but it is indifferent what in
     each case the substance is; what alone matters is what quality it has
     <br>( [[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf|_De Anima_]], Book II, Section 12)
-The colour of the distant red object is, through the light created
+The colour of the distant red object is, through the light induced
 transparency of the intervening air, able to impress itself on the parts of
 the eye that were sensitive to it. The property present in the sensitive parts
 of the eye (and by which those parts are affected) is the very same as the
@@ -323,15 +332,18 @@ forms realised without matter in our sensations, and the forms realised by the
 material objects that we perceive and think of, was supposed to ensure that our
 concepts _are_ the properties of the objects around us.  In Aquinas' words:
 <q>The intellect, by the act of understanding, is made one with the object
-understood</q>((Nam intellectus, secundum hoc quod actu intelligit, secundum hoc fit unum cum intellecto.<br>Darcy, [[local:zz.texts/zz.background/darcy1903-aquinasEpistemology.pdf|_Knowledge According to Aquinas_]], 1903)); or as Cajetan, a later influential commentator on Aquinas put it
+understood</q>((Nam intellectus, secundum hoc quod actu intelligit, secundum hoc fit unum cum intellecto.<br>Darcy, [[local:zz.texts/zz.referenceOnly/darcy1903-aquinasEpistemology.pdf|_Knowledge According to Aquinas_]], 1903)); or as Cajetan, a later influential commentator on Aquinas put it
 <q>to know is nothing else than for the intellect to be [the thing known] and
-the species is the form whereby it comes to that being.</q>((Darcy, [[local:zz.texts/zz.background/darcy1903-aquinasEpistemology.pdf|_Knowledge According to Aquinas_]], 1903)) We moderns may
-wonder at this somewhat mystical unity between acts of cognition and the objects
-cognized((Aquinas held it to be the same unity as obtains between Jesus, the word of God, and God the father, who is the source of that word.)), and scholars continue to dispute various interpretations of
-Aristotle's account of the relationships between substances, species, forms and
-universals; but what is clear, in modern terms, is that the properties possessed
-by the objects around us, the properties presented in our immaterial sensations
-and the concepts by which we think of those objects were held to be the same.
+the species is the form whereby it comes to that being.</q>((Darcy, [[local:zz.texts/zz.referenceOnly/darcy1903-aquinasEpistemology.pdf|_Knowledge According to Aquinas_]], 1903))
+Aquinas held this unity between concepts and properties to be the same as that
+obtaining between Jesus, who is the word of God, and God the father, who is the
+source of that word. We moderns may wonder at this mystical unity between acts
+of cognition and the objects thereby cognized, and scholars continue to dispute
+various interpretations of Aristotle's account of the relationships between
+substances, species, forms and universals; but what is clear, in modern terms,
+is that the properties possessed by the objects around us, the properties
+presented in our immaterial sensations and the concepts by which we think of
+those objects were held to be the same.
 
 Finally, it was because the properties we were manipulating in our imaginations,
 memories and intellects were the very same as the properties instantiated by the
@@ -354,7 +366,7 @@ wild speculation with only a tenuous connection to empirical evidence
 (see {[[timeline-modern_atomism_to_nerve_impulses|timeline: modern atomism to nerve impulses]]}).
 
 At the start of the 17th century Galileo set off a wave of speculative physics
-that spread over Europe. However, while Galileo himself certainly believed a
+that spread over Europe. However, although Galileo certainly believed a
 variety of speculative theories, his most significant discoveries were closely
 based on observation and experiment.  His treatise [[https://en.wikipedia.org/w/index.php?title=Sidereus_Nuncius|_The Starry Messenger_]] (1610)
 contained the first report of observations of heavenly bodies made through a
@@ -366,7 +378,9 @@ other as the squares of the times</q>((e.g. a body will fall four times as far i
 of a bronze ball rolling down an inclined plane which confirmed his claim. His
 private notebooks also reveal a wealth of experiments, though these were
 downplayed in his published work, where he tended to present his claims as
-deducible from first principles.
+deducible from first principles. By contrast the natural philosophers who
+followed after Galileo tended to spurn menial laboratory experimentation in
+favour of gentlemanly armchair reasoning.
 
 The bodily mechanisms involved in movement and sensation were a particularly
 attractive topic of speculation. From the outset Galileo realised that if
@@ -416,13 +430,13 @@ best explanations of physiological processes of sensation and bodily movement
 available at the time; or derided as restricted to an implausibly austere range
 of fundamental interactions too limited to do justice to either human behaviour
 or natural phenomena; speculative belief in mechanistic theories eventually led
-to and was replaced by belief in the well supported empirical theories of modern
-science.  The empirical successes of those theories have irretrievably shattered
-the illusion that our minds have anything remotely describable as direct contact
-with the properties of the objects around us. The loss of that illusion took
-with it the traditional account of reasoning that had explained our capacity for
-insight into the modal relationships between the properties of the objects
-around us.
+to and was replaced by belief in the empirically well supported theories of
+modern science.  The empirical successes of those theories have irretrievably
+shattered the illusion that our minds have anything remotely describable as
+direct contact with the properties of the objects around us. The loss of that
+illusion took with it the traditional account of reasoning that had explained
+our capacity for insight into the modal relationships between the properties of
+the objects around us.
 
 Unlike the [[#first problem: the justification of scientific theories|first problem]], which merely implied that the traditional account of
 knowledge and reasoning was incomplete, the new discoveries about the
@@ -442,11 +456,11 @@ place, that does not imply that we cannot distinguish good from bad reasoning,
 nor that we cannot reason our way to justified beliefs, but only that we are
 ignorant of how we have these abilities. The lack of a plausible epistemological
 theory no more casts doubt on our capacity to reason than ignorance of the
-physiology of the eye casts doubt on our ability to see. In both cases, however,
-a deeper understanding of the processes involved can give greater insight into
-when they are liable to go wrong, and make us more able to spot charlatans; and
-in neither case is the naive account of how these processes function or what
-they reveal to us beyond question.
+physiology of the eye casts doubt on our ability to see. In both cases, a deeper
+understanding of the processes involved may improve our abilities.  Giving us
+insight into when they are liable to go wrong and making us less susceptible to
+charlatans. But in neither case is the naive account of these processes beyond
+question.
 
 There is, however, a yet more fundamental aspect of the conflict between our
 understanding of ourselves as creatures whose physiologies obey the same
@@ -457,33 +471,33 @@ ourselves as reasoning beings, which does threaten skepticism.
 With the doubtful exception of quantum mechanics, all the objects described in
 our scientific theories are utterly unresponsive to mere possibilities. The
 moving bodies postulated in both Newtonian mechanics and general relativity
-alter their velocity only in response to actual forces such as the impact of
-another object, the influence of a magnetic field or of gravitation.  The mere
-possibility that an object might be struck or the possibility of magnetic flux
-has no effect upon such bodies whatsoever.
+alter their velocity only in response to actual forces such as occasioned by the
+impact of another object, the influence of a magnetic field or of gravitation.
+The mere possibility that an object might be struck or the possibility of
+magnetic flux has no effect upon such bodies whatsoever.
 
 In reasoning, at least as it has been understood in the European philosophical
 tradition since the time of the ancient Greeks till today, we appear to have
 access to truths concerning possibility and necessity. Reason reveals to us not
 only that each triangle's internal angles sum to two right angles, but that
-they _must_ do so. On the other hand, the merest possibility of rain tomorrow
-may motivate us to take an umbrella.  The latter may be explicable as a mere
-appearance. The apparent influence of a future possibility may, upon further
-reflection, be attributed to the effect of various actual objects and events
-present and past; the looming of dark clouds, the weather reporter's confident
-assertion that it will rain and so on. In the case of our ability to reason,
-however, our sensitivity to modal truths is not so easily dismissed.  An
-argument is valid just in case it is impossible for its premises to be true and
-its conclusion false; and reasoning is supposed, amongst other things, to enable
-us to distinguish valid from invalid arguments.
+it is impossible for them not to do so. On the other hand, the merest
+possibility of rain tomorrow may motivate us to take an umbrella.  The latter
+may be explicable as a mere appearance. The apparent influence of a future
+possibility may, upon further reflection, be attributed to the effect of various
+actual objects and events present and past; the looming of dark clouds, the
+weather reporter's confident assertion that it will rain and so on. In the case
+of our ability to reason, however, our sensitivity to modal truths is not so
+easily dismissed.  An argument is valid just in case it is impossible for its
+premises to be true and its conclusion false; and reasoning is supposed, amongst
+other things, to enable us to distinguish valid from invalid arguments.
 
 In our reasoning capacities we appear to display a sensitivity to possibility
-and necessity that is unlike any of the objects revealed to us by scientific
-enquiry. It thus seems impossible for reasoning beings such as ourselves to
-be made from the modally insensitive materials postulated in our best
-scientific theories.
+and necessity that is unlike any of the objects revealed to us by our scientific
+enquiries. It thus seems impossible for reasoning beings such as ourselves to be
+made from the modally insensitive materials postulated in our best scientific
+theories.
 
-== knowledge of necessary truths regarded as the fundamental problem of modern philosophy ==
+== knowledge of necessary truths came to be regarded as the fundamental problem of modern philosophy ==
 Initially, it was the [[#first problem: the justification of scientific theories|first of these two problems]] that appeared most pressing
 and received the greatest attention from European philosophers.  As awareness
 of these problems spread, however, there was an inversion in where the center
@@ -501,8 +515,8 @@ arguments such as his cogito to be indubitable((Descartes is inconstant on this 
     nothing, so long as I continue to think I am something; or make it true at
     some future time that I have never existed, since it is now true that I
     exist; or bring it about that two and three added together are more or less
-    than five, or anything of this kind in which I see a manifest contradiction.
-    <br>([[local:zz.texts/descartes2-philosophicalWritings.pdf|_Third Meditation_]])
+    than five, or anything of this kind in which I see a manifest contradiction.<br>
+    ([[local:zz.texts/descartes2-philosophicalWritings.pdf|_Third Meditation_]])
 Descartes' attempt to reconcile the traditional account of knowledge with our
 knowledge of scientific theories (via God's grace) was never widely accepted.
 Instead, eventually, the traditional account of the justification of knowledge
@@ -530,13 +544,13 @@ theories, the empirical evidence which justifies our beliefs in contingent
 truths (whether that evidence is taken to be other beliefs, experiences,
 stimuli, tracks in the sand or noises in the distance) can causally affect the
 formation of our beliefs.  Hence it seems possible for creatures displaying
-roughly our level of success in believing only justified contingent statements
+roughly our level of success in believing only justified contingent statements,
 and assessing the justifications of others' beliefs in contingent statements, to
-be constructed from the natural materials described by science.  Although it was
+be constructed from the natural materials described by science. Although it was
 only slowly and reluctantly accepted that our knowledge of contingent truths,
 such as those comprising our scientific theories was not justified in the way
 specified by the traditional account of knowledge, and the details of just how
-our experiences justified that knowledge are still disputed, there did not
+our experiences justified that knowledge continued to be disputed, there did not
 appear to be a fundamental conflict between our sensitivity to the justification
 of contingent statements (and hence our knowledge of contingent truths) and our
 scientific understanding of the world.
@@ -548,20 +562,20 @@ capacity to gain knowledge of necessary truths seemed both indispensable to and
 incompatible with our scientific discoveries. One difficulty is that many
 necessary truths (such as those of arithmetic) appear to refer to
 objects that are not located in space and time. Objects that are hence incapable
-of playing any part in causing the formation of beliefs about them((In the more recent philosophical literature this is sometimes called [[https://en.wikipedia.org/w/index.php?title=Paul_Benacerraf&oldid=1172032726#Philosophical_work|Benecerraf's epistemological problem or Beneceraff's dilemma]] )).
+of playing any part in causing the formation of beliefs about them((In recent philosophical literature this is sometimes called [[https://en.wikipedia.org/w/index.php?title=Paul_Benacerraf&oldid=1172032726#Philosophical_work|Benecerraf's dilemma]] or Beneceraff's epistemological problem]] )).
 Another apparent difficulty is that according to the traditional view we are,
 despite our frequent errors in reasoning, justified in believing some necessary
 truths with absolute certainty. But any causal psychological process by which
 confidence is produced will be subject to malfunctioning and hence though it may
 produce a _feeling_ of absolute certainty (or at least a feeling that we
-customarily describe as absolute certainty) such certainty could never be
-justified by any causal psychological process((The point is roughly Hume's, though he draws from this claim the conclusion that we can never have any confidence in our judgements at all:<q>In every judgment, which we can form concerning probability, as well as concerning knowledge, we ought always to correct the first judgment, deriv’d from the nature of the object, by another judgment, deriv’d from the nature of the understanding. ’Tis certain a man of solid sense and long experience ought to have, and usually has, a greater assurance in his opinions, than one that is foolish and ignorant, and that our sentiments have different degrees of authority, even with ourselves, in proportion to the degrees of our reason and experience. In the man of the best sense and longest experience, this authority is never entire; since even such-a-one must be conscious of many errors in the past, and must still dread the like for the future.</q> [[hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  More generally, as noted above,
+customarily describe as absolute certainty) no causal psychological process
+could ever _justify_ such certainty((The point is roughly Hume's, though he draws from this claim the conclusion that we can never have any confidence in our judgements at all:<q>In every judgment, which we can form concerning probability, as well as concerning knowledge, we ought always to correct the first judgment, deriv’d from the nature of the object, by another judgment, deriv’d from the nature of the understanding. ’Tis certain a man of solid sense and long experience ought to have, and usually has, a greater assurance in his opinions, than one that is foolish and ignorant, and that our sentiments have different degrees of authority, even with ourselves, in proportion to the degrees of our reason and experience. In the man of the best sense and longest experience, this authority is never entire; since even such-a-one must be conscious of many errors in the past, and must still dread the like for the future.</q> [[hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  More generally, as noted above,
 the objects described in scientific theories, unlike elements of the processes
 by which we hold our beliefs to be formed, appear to be utterly insensitive to
 modal relations. As [[hume|Hume]] pointed out vigorously and to great effect,
 the supposedly necessary connexions between causes and their effects do not,
 themselves, cause any experiences in us (or cause our beliefs to change by other
-means).
+means or indeed cause anything at all).
 
 The problem is not merely that terms such as <q>knowledge</q> and <q>justification</q>
 cannot be translated into the terminology of physics or some other science
@@ -588,6 +602,7 @@ our understanding of ourselves as reasoning beings sensitive to modal
 relationships, and the scientific understanding of ourselves as physical systems
 constructed from modally insensitive materials, came to be regarded as the
 fundamental problem of philosophy.
+
 
 === regarded as fundamental by Kantian and Analytic philosophers ===
 Largely because of the repeated failure of attempts to resolve this conflict,
@@ -737,31 +752,32 @@ competence, thereby reconciling our capacity to reason and discern the necessary
 consequences of our beliefs with our scientific theories. In less than 50 years
 the central tenets of Analytic philosophy (such as the doctrine that all
 necessary truths are true by virtue of meaning alone, and our sensitivity to the
-justification of necessary truths can (only) be explained in terms of our
-knowledge of the meanings of our statements) went from being orthodoxies to
+justification of necessary truths can be explained by our empirically justified
+knowledge of our statements' meanings) went from being orthodoxies to
 being viewed as <q>decidely antique</q>((Soames, [[https://doi.org/10.1515/9781400825790|_Philosophical Analysis in the 20th century_]], (2003)&zwj;)) doctrines, held true by <q>very few
 philosophers</q>(([[https://doi.org/10.1515/9781400825790|ibid.,]])).
 
-One of the causes of this rapid decline, was the increased scope offered for
+One of the causes of the rapid decline of Analytic philosophy, was the
+increased scope offered for
 metaphysical speculation. Both Kantian and Analytic philosophers had denounced
 the temptations of metaphysical speculation and its appeal to <q>vanity and
 convenience</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])). Of course, they drew the line between productive philosophy
 and metaphysical speculation in different ways. According to Kant we
 stray into metaphysical speculation when we claim to have knowledge of
 things <q>as they are in themselves</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])) rather than <q>only insofar as they appear to
-us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])). According to Analytic philosophers it is when we claim to
-have knowledge of necessary truths that are not true due to the linguistic
-proprieties of the language in which they are expressed. Both these boundaries
-were, of course, disputed; as was the question of whether philosophy (or
-science) could be done entirely without metaphysical speculation.
-Regardless of the coherence of these limits, or how well Kantian and
-Analytic philosophers abided by them, the speed and generality with which the
-central tenets of Analytic philosophy fell into disrepute was certainly assisted
-by the prospect of silencing the critics of metaphysical speculation and once
-again openly indulging in this traditional philosophical sport.
+us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])). According to Analytic philosophers we stray into metaphysics when we claim
+to have knowledge of necessary truths that are not true by virtue of the
+linguistic proprieties of the language in which they are expressed. Both these
+boundaries were, of course, disputed; as was the question of whether philosophy
+(or science) could be done entirely without metaphysical speculation.
+Regardless of the coherence of these limits, or how well Kantian and Analytic
+philosophers abided by them, the speed and generality with which the central
+tenets of Analytic philosophy fell into disrepute was certainly assisted by the
+prospect of silencing critics of metaphysical speculation and once again
+openly indulging in this traditional philosophical sport.
 
-While the temptations of metaphysical speculation were among the _causes_ of the
-general loss of confidence in Analytic philosophy (and in particular in the
+While the temptations of metaphysical speculation are among the _causes_ of the
+general loss of confidence in Analytic philosophy (in particular in the
 claim that all necessary truths were analytic) the _reasons_ for this loss of
 confidence stemmed from two quite distinct problems raised by Analytic
 philosophy's critics:
@@ -774,7 +790,7 @@ alleged that our epistemic access to the property of analyticity was every bit
 as unclear as our epistemic access to ascriptions of necessity.  Although the
 structure, premises, and even conclusions of Quine's arguments are still
 debated, the continuing inability of analytic philosophers to provide a
-generally accepted account of how to determine whether or not a sentence of an
+generally accepted account of how to determine whether a sentence of an
 unfamiliar language is analytic was more than merely embarrassing. Difficulties
 which, up until that point, had been thought to be merely technical((Such as the failure of reduction in Carnap's _Aufbau der Welt_.)), came to
 be suspected of being symptoms of a fundamental problem. In particular, it was
@@ -801,22 +817,12 @@ analyticity was at best incomplete, and our knowledge of at least some
 necessary truths must be justified by other means.
 
 == three alternatives ==
-The loss of confidence in Analytic approaches to explaining our knowledge of
+The loss of confidence in Analytic attempts to explain our knowledge of
 necessary truths did not introduce a new approach to reconciling our scientific
-theories with our capacity to reason.
-The basic alternatives explored by philosophers in the wake of that loss of
-confidence, had all been considered
-
-explored before that loss, The fundamental alternatives
-explored by, philosophers in the wake of this loss of confidence had all been
-known 
-
-At a sufficiently fundamental level, the basic alternatives explored by
-philosophers in the wake of this loss of confidence had all been explored
-before. Philosophers were however, led to reconsider fundamental alternatives
-that had previously been rejected in favour of analytic approaches.
-
-The three fundamental alternatives are:
+theories with our capacity to reason. Rather it threw philosophers back to the
+same three fundamental alternatives that had been recognised since before Kant.
+Where, for a time, Analytic
+:!9: These three basic alternatives are:
 
 ==== abandon naturalism ====
 The first alternative is to abandon the claim that the laws and principles
@@ -830,9 +836,43 @@ thought geometry to be) and a causal influence on our actions that is altogether
 omitted from the scientific image of the world.
 
 One form this alternative can take is, of course, an open return to Aristotelian
-philosophy (despite its implausible theory of perception) and, indeed, there has
-been a marked resurgence of interest in Aristotelian epistemology and metaphysic
-since the late 20th century.
+philosophy (despite its implausible theory of perception) and, indeed, 
+a marked resurgence of interest in Aristotelian epistemology and metaphysic has
+been one of the features of philosophy in the early 21st century.
+
+Another form 
+
+This is the course taken explicitly or implicitly
+by the proponents of modal realism (since they also claim to have knowledge of
+these modal realities).  Of course, no account of how we know such truths is
+widely held to be plausible.  there is no agreement, as to how the capacity to
+discern necessary truths is realised. Whether this insight is attributed to raw
+intuition, an ability to perceive necessary connections akin to our perception
+of physical objects, a sensitivity to the unity and economy of our overall
+theories(([[local:zz.texts/lewis1986-pluralityOfWorlds.pdf]])) or even,
+ironically enough, to <q>philosophical
+analysis</q>(([[local:zz.texts/kripke1980-namingAndNecessity.pdf]]))
+
+This approach has also manifested as the so-called 
+<q>rationalist renaissance</q> in recent philosophy.
+
+explored before that loss, The fundamental alternatives
+explored by, philosophers in the wake of this loss of confidence had all been
+known 
+where proponents of the two forms of rejecting naturalism just mentioned
+proponents are liable to talk of intuitions and take our access to knowledge of
+modal truths as a brute, fundamental, and not further explicable capacity of
+human reasoning.
+
+At a sufficiently fundamental level, the basic alternatives explored by
+philosophers in the wake of this loss of confidence had all been explored
+before. Philosophers were however, led to reconsider fundamental alternatives
+that had previously been rejected in favour of analytic approaches.
+
+
+The three fundamental alternatives are:
+
+
 
 Other forms this alternative can take include the various new versions of modal
 realism advocated by philosophers such as David Lewis and Kit Fine((Whether Kripke's account of our modal knowledge is a form of rationalism is debatable)).
@@ -962,7 +1002,7 @@ of knowledge of contingent truths was straightforward, but because they held
 certain knowledge of necessary truths to be the only sort of knowledge worth
 considering.
 
-== not ia search for  foundations of our knowledge == 
+== not a search for foundations of our knowledge == 
 
 It is tempting, at this point, to suggest that the principles of reasoning are
 bedrock. That no further justification is required. But what we are seeking is

@@ -1,5 +1,6 @@
 # These are EREs
 s/href="[^"]*zz.texts[^"]*\/aristotle-completeWorks\.oxfordRevisedTrans\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t8bh0gh94"/g
+s/href="[^"]*zz.texts[^"]*\/carnap1926-derAufbauDerWelt\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/s2gqkbn48vn"/g
 s/href="[^"]*zz.texts[^"]*\/collection2012-cambridgeHistoryPhil19thCentury\.pdf"/href="https:\/\/doi\.org\/10\.1017\/CHO9780511975257"/g
 s/href="[^"]*zz.texts[^"]*\/daly2017-persistentPhilosophicalDisagreement\.pdf"/href="https:\/\/doi\.org\/10\.1093\/arisoc\/aow020"/g
 s/href="[^"]*zz.texts[^"]*\/darcy1903-aquinasEpistemology\.pdf"/href="https:\/\/www\.jstor\.org\/stable\/4544136"/g
@@ -25,7 +26,6 @@ s/>(local:zz\.texts\/[^> ]+)\.pdf</>\1</g
 s/>local:zz\.texts\//>/g
 
 
-
 # template:
 # s/href="[^"]*zz\.texts[^"]*\/FILENAME"/href="URL"/g
 # if both filename and URL do not have spaces then these command will create
@@ -38,6 +38,7 @@ s/>local:zz\.texts\//>/g
 # <FILENAME> <URL>
 # =================================
 # aristotle-completeWorks.oxfordRevisedTrans.pdf https://n2t.net/ark:/13960/t8bh0gh94
+# carnap1926-derAufbauDerWelt.pdf https://n2t.net/ark:/13960/s2gqkbn48vn
 # collection2012-cambridgeHistoryPhil19thCentury.pdf https://doi.org/10.1017/CHO9780511975257
 # daly2017-persistentPhilosophicalDisagreement.pdf https://doi.org/10.1093/arisoc/aow020
 # darcy1903-aquinasEpistemology.pdf https://www.jstor.org/stable/4544136
