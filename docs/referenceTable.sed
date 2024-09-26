@@ -14,7 +14,7 @@ s/href="[^"]*zz.texts[^"]*\/leibniz1716-lettersAndPapers\.pdf"/href="https:\/\/d
 s/href="[^"]*zz.texts[^"]*\/lewis1986-pluralityOfWorlds\.pdf"/href="https:\/\/n2t\.net\/\/ark:\/13960\/t16n0s46p"/g
 s/href="[^"]*zz.texts[^"]*\/locke1690-essayConcerningHumanUnderstanding\.pdf"/href="https:\/\/www\.gutenberg\.org\/ebooks\/10615"/g
 s/href="[^"]*zz.texts[^"]*\/loomis1999-necessityAPrioriStandardMeter\.pdf"/href="https:\/\/www\.jstor\.org\/stable\/20118231"/g
-s/href="[^"]*zz.texts[^"]*\/quine1953-fromALogicalPointOfView.pdf"/href="https://doi.org/10.2307/j.ctv1c5cx5c"/g
+s/href="[^"]*zz.texts[^"]*\/quine1953-fromALogicalPointOfView.pdf"/href="https:\/\/doi\.org\/10\.2307\/j\.ctv1c5cx5c"/g
 s/href="[^"]*zz.texts[^"]*\/quine1960-wordAndObject\.pdf"/href="https:\/\/doi\.org\/10\.7551\/mitpress\/9636\.001\.0001"/g
 s/href="[^"]*zz.texts[^"]*\/quine1978-webOfBelief\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t1dk2zh8k"/g
 s/href="[^"]*zz.texts[^"]*\/russell1905-onDenoting\.pdf"/href="https:\/\/doi\.org\/10\.1093\/mind\/xiv\.4\.479"/g

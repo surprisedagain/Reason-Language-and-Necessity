@@ -153,8 +153,8 @@ incompatible with it can be necessarily true.
 ==== not known with certainty ====
 Popper formulated his falsification principle in the mid 20th century, but
 Descartes had recognized that scientific claims gained credence
-via their success in predicting observations before 1650( (????source) ). For
-several centuries afterwards, it was only dimly apprehended((by everyone apart, perhaps, from the [[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Thomas Bayes]])) that for an
+via their success in predicting observations before 1650((see [[local:zz.texts/descartes1-philosophicalWritingsOfDescartes.pdf|_Principles of Philosophy_]] §206: <br><q>Suppose for example that someone wants to read a letter written in Latin but encoded so that the letters of the alphabet do not have their proper 328 value, and he guesses that the letter B should be read whenever A appears, and C when B appears, i.e. that each letter should be replaced by the one immediately following it. If, by using this key, he can make up Latin words from the letters, he will be in no doubt that the true meaning of the letter is contained in these words. It is true that his knowledge is based merely on a conjecture, and it is conceivable that the writer did not replace the original letters with their immediate successors in the alphabet, but with others, thus encoding quite a different message; but this possibility is so unlikely <especially if the message contains many words> that it does not seem credible.  Now if people look at all the many properties relating to magnetism, fire and the fabric of the entire world, which I have deduced in this book from just a few principles, then, even if they think that my assumption of these principles was arbitrary and groundless, they will still perhaps acknowledge that it would hardly have been possible for so many items to fit into a coherent pattern if the original principles had been false.</q><br> That our belief in such is justified by their fit specifically with <q>things manifest to the senses</q> is made clear in the previous section.)). For several
+centuries afterwards, it was only dimly apprehended((by everyone apart, perhaps, from the [[https://en.wikipedia.org/wiki/Thomas_Bayes|Reverend Thomas Bayes]])) that for an
 experience to give credence to a hypothesis,
 [[if_some_experiences_confirm_others_must_infirm|there must be other possible experiences which would confute it]] (hence Popper's
 emphasis on falsification); but it _was_ widely understood that
@@ -279,11 +279,11 @@ _content_ of our scientific knowledge and the adequacy of the traditional
 account of knowledge and reasoning _even within its own sphere_.
 
 == second problem: the content of scientific theories ==
-The first problem for the traditional account of knowledge was simply that we
-_possess_ knowledge that is not justified by the lights of that account. The
-second problem is that the _content_ of that knowledge is wildly incompatible 
-with claims upon which the traditional account of reasoning and knowledge
-relied.
+The first problem for the traditional Aristotelian account of knowledge was
+simply that we _possess_ knowledge that is not justified by the lights of that
+account. The second problem is that the _content_ of that knowledge is wildly
+incompatible with claims upon which the traditional account of reasoning and
+knowledge relied.
 
 St. Thomas Aquinas was probably the original, and certainly the most influential
 author of the phrase <q>Nothing is in the mind that was not first in the
@@ -309,9 +309,16 @@ belief that that our concepts are identical with (or at least similar to) the
 properties of our sensations, was an orthodoxy amongst European and Arabic
 philosophers from Aristotle up until Descartes.
 
-According to the traditional account, not only were the properties of our
-sensations the same as the concepts in our minds, they were also the properties
-of the physical objects around us. As Aristotle put it:
+According to the traditional Aristotelian account, not only were the properties
+of our sensations the same as the concepts in our minds, they were also the
+properties of the physical objects around us. As Aristotle puts it:
+    As we have said, what has the power of sensation is potentially like what
+    the perceived object is actually; that is, while at the beginning of the
+    process of it being acted upon the two interacting factors are dissimilar,
+    at the end the one acted upon is assimilated to the other and is identical
+    in quality with it.<br>
+    ([[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf|_De Anima_]], Book II, §5)
+
     By a 'sense' is meant what has the power of receiving into itself the
     sensible forms of things without the matter. This must be conceived of as
     taking place in the way in which a piece of wax takes on the impress of a
@@ -319,11 +326,11 @@ of the physical objects around us. As Aristotle put it:
     impression is a signet of bronze or gold, but its particular metallic
     constitution makes no difference: in a similar way the sense is affected by
     what is coloured or flavoured or sounding, but it is indifferent what in
-    each case the substance is; what alone matters is what quality it has
-    <br>( [[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf|_De Anima_]], Book II, Section 12)
+    each case the substance is; what alone matters is what quality it has<br>
+    ([[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf|_De Anima_]], Book II, §12)
 The colour of the distant red object is, through the light induced
 transparency of the intervening air, able to impress itself on the parts of
-the eye that were sensitive to it. The property present in the sensitive parts
+the eye that are sensitive to it. The property present in the sensitive parts
 of the eye (and by which those parts are affected) is the very same as the
 property of the distant object.
 
@@ -384,10 +391,10 @@ favour of gentlemanly armchair reasoning.
 
 The bodily mechanisms involved in movement and sensation were a particularly
 attractive topic of speculation. From the outset Galileo realised that if
-mechanistic theories were to be plausible they would have to explain our
-sensations of colour, taste and scent as arising from mechanical interactions
-between the external bodies and our sensory organs.  Indeed this was the main
-focus of his 1623 work [[https://en.wikipedia.org/wiki/The_Assayer|_The Assayer_]]:
+mechanistic theories were to be plausible our sensations of colour, taste and
+scent would need to be explained as arising from mechanical interactions between
+the external bodies and our sensory organs. Indeed this was the main focus of
+his 1623 work [[https://en.wikipedia.org/wiki/The_Assayer|_The Assayer_]]:
     from the point of view of the subject in which they seem to inhere, these
     tastes, odors, colors, etc., are nothing but empty names; rather they inhere
     only in the sensitive body, such that if one removes the animal, then all
@@ -402,6 +409,17 @@ cursory, theory of the transmission of sensory signals:
     ([[https://en.wikisource.org/w/index.php?title=Leviathan/The_First_Part&oldid=9608826#Chapter_I:_Of_Sense|_Leviathan_]], Chap. I, 1651)
 
 Descartes was another:
+    We must take care not to assume – as our philosophers [namely, the
+    Scholastics] commonly do – that in order to perceive the soul must
+    contemplate certain images transmitted by objects to the brain; or at any
+    rate we must conceive the nature of these images in an entirely different
+    manner from that of the philosophers. For since their conception of the
+    images is confined to the requirement that they should resemble the objects
+    they represent, the philosophers cannot possibly show us how the images can
+    be formed by the objects, or how they can be received by the external sense
+    organs and transmitted by the nerves to the brain.
+    ([[https://en.wikipedia.org/w/index.php?title=Dioptrique&oldid=1184902374|_Optics_]], 1637, §4 via [[local:zz.texts/descartes1-philosophicalWritingsOfDescartes.pdf]])
+
     I would have you consider the light in bodies we call <q>luminous</q> to be
     nothing other than a certain movement, or very rapid and lively action,
     which passes to our eyes through the medium of the air and other transparent
@@ -411,7 +429,7 @@ Descartes was another:
     something material passes from objects to our eyes to make us see colours
     and light, or even that there is something in the objects which resembles
     the ideas or sensations that we have of them.<br>
-    ([[https://en.wikipedia.org/w/index.php?title=Dioptrique&oldid=1184902374|_Optics_]], 1637, via [[local:zz.texts/descartes1-philosophicalWritingsOfDescartes.pdf]])
+    (_ibid.,_ §1 via [[local:zz.texts/descartes1-philosophicalWritingsOfDescartes.pdf]])
 
 Although the paucity of the evidence upon which Descartes and Hobbes based their
 speculations is remarkable (as was their aversion to laboratory work) it is
@@ -431,12 +449,13 @@ available at the time; or derided as restricted to an implausibly austere range
 of fundamental interactions too limited to do justice to either human behaviour
 or natural phenomena; speculative belief in mechanistic theories eventually led
 to and was replaced by belief in the empirically well supported theories of
-modern science.  The empirical successes of those theories have irretrievably
-shattered the illusion that our minds have anything remotely describable as
-direct contact with the properties of the objects around us. The loss of that
-illusion took with it the traditional account of reasoning that had explained
-our capacity for insight into the modal relationships between the properties of
-the objects around us.
+modern science. The empirical successes of those theories have irretrievably
+shattered the Aristotelian triple identity between the properties of external
+objects, our sensations and our concepts, and with it the illusion that our
+minds have anything remotely describable as direct contact with the properties
+of the objects around us. The loss of that illusion took with it the traditional
+account of reasoning that had explained our capacity for insight into the modal
+relationships between the properties of the objects around us.
 
 Unlike the [[#first problem: the justification of scientific theories|first problem]], which merely implied that the traditional account of
 knowledge and reasoning was incomplete, the new discoveries about the
@@ -581,7 +600,7 @@ The problem is not merely that terms such as <q>knowledge</q> and <q>justificati
 cannot be translated into the terminology of physics or some other science
 (though such a translation would provide a conclusive solution to the
 problem).  The term <q>bridge</q> may be untranslatable into the language of
-physics((One problem is vagueness and borderline cases. Is an ant-bridge a bridge?  A tree that falls across a river but rots away without any creature crossing over it? Another is the seemingly infinitely diverse ways in which bridges might be constructed of physical materials [unless there is some maximum size for bridges].)), but the capacity of some particular bridge to bear a load of a
+physics((One problem is vagueness and borderline cases. Is an ant-bridge a bridge?  A tree that falls across a river but rots away without any creature crossing over it? Another is the seemingly infinitely diverse ways in which bridges might be constructed of physical materials [unless there is some maximum size for bridges].)), but the capacity of any particular bridge to bear a load of a
 million tons or survive a one-in-a-hundred-year earthquake is explicable in
 physical terms. As some 21st century philosophers are wont to say, the
 features that make something a useable bridge are _grounded_ by its
@@ -596,13 +615,12 @@ arguments) to be constructed purely from materials utterly unaffected by modal
 relationships and properties.
 
 Appearing initially as a felt need for a guarantee of correspondence between
-our concepts and the properties they represent (the starting point for the
+our concepts and the properties they represent((see [[local:zz.texts/descartes1-philosophicalWritings.pdf|_The World_]] Opening paragraph: <q>The subject I propose to deal with in this treatise is light, and the first point I want to draw to your attention is that there may be a difference between the sensation we have of light (i.e. the idea of light which is formed in our imagination by the mediation of our eyes) and what it is in the objects that produces this sensation within us (i.e. what it is in a flame or the sun that we call by the name 'light'). For although everyone is commonly convinced that the ideas we have in our mind are wholly similar to the objects from which they proceed, nevertheless I cannot see any reason which assures us that this is so. On the contrary, I note many observations which should make us doubt it.</q>)) (the starting point for the
 traditional account of our capacity to reason) resolving the conflict between
 our understanding of ourselves as reasoning beings sensitive to modal
 relationships, and the scientific understanding of ourselves as physical systems
 constructed from modally insensitive materials, came to be regarded as the
 fundamental problem of philosophy.
-
 
 === regarded as fundamental by Kantian and Analytic philosophers ===
 Largely because of the repeated failure of attempts to resolve this conflict,
@@ -757,24 +775,23 @@ knowledge of our statements' meanings) went from being orthodoxies to
 being viewed as <q>decidely antique</q>((Soames, [[https://doi.org/10.1515/9781400825790|_Philosophical Analysis in the 20th century_]], (2003)&zwj;)) doctrines, held true by <q>very few
 philosophers</q>(([[https://doi.org/10.1515/9781400825790|ibid.,]])).
 
-One of the causes of the rapid decline of Analytic philosophy, was the
-increased scope offered for
-metaphysical speculation. Both Kantian and Analytic philosophers had denounced
-the temptations of metaphysical speculation and its appeal to <q>vanity and
-convenience</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])). Of course, they drew the line between productive philosophy
-and metaphysical speculation in different ways. According to Kant we
-stray into metaphysical speculation when we claim to have knowledge of
-things <q>as they are in themselves</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])) rather than <q>only insofar as they appear to
-us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])). According to Analytic philosophers we stray into metaphysics when we claim
-to have knowledge of necessary truths that are not true by virtue of the
+One of the causes of the rapid decline of Analytic philosophy, was the increased
+scope offered for metaphysical speculation. Both Kantian and Analytic
+philosophers had denounced the temptations of metaphysical speculation and its
+appeal to <q>vanity and convenience</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])). Of course, they drew the line between
+productive philosophy and metaphysical speculation in different ways. According
+to Kant we stray into metaphysical speculation when we claim to have knowledge
+of things <q>as they are in themselves</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])) rather than <q>only insofar as they appear
+to us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])). According to Analytic philosophers we stray into metaphysics when we
+claim to have knowledge of necessary truths that are not true by virtue of the
 linguistic proprieties of the language in which they are expressed. Both these
 boundaries were, of course, disputed; as was the question of whether philosophy
 (or science) could be done entirely without metaphysical speculation.
 Regardless of the coherence of these limits, or how well Kantian and Analytic
 philosophers abided by them, the speed and generality with which the central
 tenets of Analytic philosophy fell into disrepute was certainly assisted by the
-prospect of silencing critics of metaphysical speculation and once again
-openly indulging in this traditional philosophical sport.
+prospect of silencing critics of metaphysical speculation and once again openly
+indulging in this traditional philosophical sport.
 
 While the temptations of metaphysical speculation are among the _causes_ of the
 general loss of confidence in Analytic philosophy (in particular in the
@@ -816,88 +833,147 @@ Hence the explanation of our knowledge of ascriptions of necessity via
 analyticity was at best incomplete, and our knowledge of at least some
 necessary truths must be justified by other means.
 
-== three alternatives ==
-The loss of confidence in Analytic attempts to explain our knowledge of
-necessary truths did not introduce a new approach to reconciling our scientific
-theories with our capacity to reason. Rather it threw philosophers back to the
-same three fundamental alternatives that had been recognised since before Kant.
-Where, for a time, Analytic
-:!9: These three basic alternatives are:
+== loss of confidence led to re-confrontation with three basic alternatives ==
+Almost from the start of Kantian philosophy's dominance, a variety of its
+internal problems were recognised and widely discussed. While various attempts
+to rectify those problems were ventured, none ever commanded the same general
+acceptance that Kant's views possessed at the height of their influence. There
+were, of course, external challenges to Kantian philosophy's dominance. Darwin's
+successful explanation of the origin of species in entirely natural terms
+inspired philosophers as disparate as Nietzsche and [[https://en.wikipedia.org/wiki/Herbert_Spencer|Spencer]] to offer
+evolutionary accounts of human nature, accompanied by correspondingly dim
+views about the scope and value of human reasoning. Under the banner of
+scientific progress, populists such as [[https://en.wikipedia.org/wiki/John_Tyndall|John Tyndall]] and [[https://en.wikipedia.org/wiki/Thomas_Henry_Huxley|Thomas Huxley]] championed
+versions of agnosticism in which they claimed, not perfectly consistently, to
+reject all claims to knowledge of objects beyond those posited in our best
+scientific theories and (perhaps) the experiences comprising our evidence for
+them.
 
+Despite these challenges, however, Kantianism continued to provide an effective
+defence of traditional religion, morality and epistemology.  Due in no small
+part to the implausibility of the accounts of reasoning offered by the
+alternatives, Kantian approaches maintained a clear, though not unwavering,
+dominance amongst professional Anglo-European philosophers for over a hundred
+years. It was not until technical developments in formal logic improved Analytic
+philosophy's prospects that Kantianism was finally displaced.  These technical
+developments raised hopes that the statements of natural languages might be
+translatable (at least in principle) into a notation in which all and only
+necessary truths were expressed by the theorems of a formal logic. This hope
+lent plausibility to one of Analytic philosophy's central claims: that the truth
+of necessary truths was fixed by adherence to linguistic convention.
+
+Unlike the rejection of Kantian in favour of Analytic approaches to explaining
+our knowledge of necessary truths, the loss of confidence in the central
+tenets of of Analytic philosophy was not occasioned by the discovery of new
+approaches or techniques offering a better prospect of reconciling our
+scientific theories with our understanding of our capacity to reason.
+Where the final and most decisive loss of confidence in Kantian philosophy had
+been due to its displacement by a newly invigorated alternative, the loss of
+confidence in Analytic philosophy was (to the delight of the remaining Kantians)
+due to its own internal antinomies. In the most influential philosophical paper
+of the 20th century Quine attacked the analytic-synthetic distinction on the
+grounds that it was <q>an unempirical dogma of empiricists</q>((zz.texts/quine1953-fromALogicalPointOfView.pdf)). In taking the
+distinction seriously Analytic philosophers were, according to Quine, failing to
+live up to the epistemological standards that had driven them to claim that all
+necessary truths were analytic in the first place.
+
+The collapse of confidence in Analytic philosophy thus marks a particularly low
+point in the overall collapse of the traditional accounts of knowledge and
+reasoning. After demolishing the known attempts to pursue other alternatives,
+the last and most promising approach to reconciling our capacity for
+knowledge of necessary truths with our scientific theories had collapsed under
+its own weight without any clear alternative to take its place. Having reached
+an apparent dead-end the natural reaction amongst philosophers was to reconsider
+the path that had led up to it and try to work out where things had gone wrong.
+
+Without a new and more promising approach into which to direct their efforts,
+Anglo-European philosophers were thrown back into reconsidering the
+fundamental alternatives for healing the rift between our scientific theories
+and our understanding of our ability to reason that had been apparent from the
+outset. Stripped of all the refinements, subtleties and techniques that had been
+developed in the roughly three hundred years since the conflict had come to
+philosophers attention, these fundamental alternatives remained the same as they
+always had been.
+
+These three fundamental alternatives are:
 ==== abandon naturalism ====
-The first alternative is to abandon the claim that the laws and principles
-governing the rest of the natural world (and fallibly and incompletely
-described in our empirically justified scientific theories) are the only laws
-that govern our actions and the formation of our beliefs. Reject the
-naturalistic constraints that both Kantian and Analytic philosophers aspired to
-abide by. Accept reason as an extra-empirical source of substantive knowledge
-about the necessary structure of the world (much as the ancient Greeks had
-thought geometry to be) and a causal influence on our actions that is altogether
-omitted from the scientific image of the world.
+Abandon the claim that the laws and principles governing the rest of the natural
+world (and fallibly and incompletely described in our empirically justified
+scientific theories) are the only laws that govern our actions and the formation
+of our beliefs. Reject the naturalistic constraints that both Kantian and
+Analytic philosophers aspired to abide by. Accept that science can only deliver
+irredeemably partial descriptions of the world. In particular, accept reason as
+an extra-empirical source of substantive knowledge about the necessary structure
+of the world (much as the ancient Greeks had thought the study of geometry to be)
+and a causal influence on our actions that is altogether omitted from
+scientific images of the world.
 
-One form this alternative can take is, of course, an open return to Aristotelian
-philosophy (despite its implausible theory of perception) and, indeed, 
-a marked resurgence of interest in Aristotelian epistemology and metaphysic has
-been one of the features of philosophy in the early 21st century.
+The most obvious manifestation of the renewed exploration of this alternative
+was the marked resurgence of interest in Aristotelian metaphysics and
+epistemology around the start of the 21st century (particularly in American
+universities). But an open return to Aristotelian philosophy is not the only
+form that such re-engagement with this alternative has taken.
 
-Another form 
+Another, even more popular aspect of the rehabilitation of rationalism,
+was the exploration of new versions of modal realism. The best known of
+these are those developed by [[https://en.wikipedia.org/wiki/David_Lewis_(philosopher)#Realism_about_possible_worlds|David Lewis]] and [[https://iep.utm.edu/fine-k/|Kit Fine]].  According to their
+accounts, the truth-makers of modal truths are either other possible worlds just
+as real as the actual world we inhabit, or at at least aspects of the actual
+world which exist independently of our attitudes towards them. There is, of
+course, no widely accepted account of our epistemic access to these truths. Our
+knowledge of them is variously attributed to a raw intuitive ability to gain
+insight into <q>the necessary character of reality</q>((BonJour, [[http://doi.org/10.1017/CBO9780511625176|_In Defense of Pure Reason: A Rationalist Account of A Priori Justification_, 1997]])), an ability to perceive
+modal relationships akin to either our perception of physical objects((Bealer, [[local:zz.texts/collection2002-conceivabilityPossibility.pdf]])),
+or our introspective awareness of our own thoughts, a sensitivity to the unity
+and economy of our overall theories(([[local:zz.texts/lewis1986-pluralityOfWorlds.pdf]])) and even to <q>philosophical analysis</q>(([[local:zz.texts/kripke1980-namingAndNecessity.pdf]]))
+(albeit in a sense richer than that countenanced by Analytic philosophy's
+proponents in its heyday).  In any case, our capacity to reason is once again
+supposed to give us knowledge of substantive features of the world which,
+although completely omitted from our scientific theories, nonetheless affect (or
+are at least correlated with) the formation of beliefs which go on to affect our
+actions.
 
-This is the course taken explicitly or implicitly
-by the proponents of modal realism (since they also claim to have knowledge of
-these modal realities).  Of course, no account of how we know such truths is
-widely held to be plausible.  there is no agreement, as to how the capacity to
-discern necessary truths is realised. Whether this insight is attributed to raw
-intuition, an ability to perceive necessary connections akin to our perception
-of physical objects, a sensitivity to the unity and economy of our overall
-theories(([[local:zz.texts/lewis1986-pluralityOfWorlds.pdf]])) or even,
-ironically enough, to <q>philosophical
-analysis</q>(([[local:zz.texts/kripke1980-namingAndNecessity.pdf]]))
+Although it is far from clear
+This alternative had the greatest increase in popularity as a result of the
+general loss of confidence in Analytic philosophy. Although the first [[https://survey2020.philpeople.org/survey/results/longitudinal|PhilPapers]]
+survey((The first modern attempt to survey the beliefs of professional philosophers)) was conducted in 2009, well after the major loss of confidence in
+Analytic accounts of our knowledge of necessary truths had already occurred; between 2009 and
+2020 the percentage of respondents who indicated that they <q>accept or lean
+towards naturalism</q> dropped from 50% to 43%. While, in response to the
+question <q>Knowledge: empiricism of rationalism?</q> the percentage of
+respondents who indicated that they accepted or leant towards rationalism only
+increased from 28% to 29%((https://survey2020.philpeople.org/survey/results/4830))
+there was a 13% decrease in those who accepted <q>a combination of views</q>
+(which might reasonably be considered the mainstream view among Analytic
+philsoophers in the second half of the 20th century) and a 
+a 9% increase in 
+with a total increase of 9% in those
+who indicated that
 
-This approach has also manifested as the so-called 
-<q>rationalist renaissance</q> in recent philosophy.
+ finding the question of empiricism
+vs rationalism too unclear to answer or holding that there is no fact of the
+matter
+themselves as being undecided,
 
-explored before that loss, The fundamental alternatives
-explored by, philosophers in the wake of this loss of confidence had all been
-known 
-where proponents of the two forms of rejecting naturalism just mentioned
-proponents are liable to talk of intuitions and take our access to knowledge of
-modal truths as a brute, fundamental, and not further explicable capacity of
-human reasoning.
-
-At a sufficiently fundamental level, the basic alternatives explored by
-philosophers in the wake of this loss of confidence had all been explored
-before. Philosophers were however, led to reconsider fundamental alternatives
-that had previously been rejected in favour of analytic approaches.
-
-
-The three fundamental alternatives are:
+((It should be noted that there was a 6% drop in the number of respondents who
+accepted or leaned towards *rejecting* the analytic-synthetic distinction.
+Although one can only speculate as to why this is so, my guess is that having
+explored how barren the alternative accounts there was perhaps a rebound
 
 
+This alternative saw the greatest increase in popularity is the one that has gained the greatest popularity as a result
+has gained the most popularity in the wake of the loss of confidence in the
 
-Other forms this alternative can take include the various new versions of modal
-realism advocated by philosophers such as David Lewis and Kit Fine((Whether Kripke's account of our modal knowledge is a form of rationalism is debatable)).
-According to their accounts, the truth-makers of modal truths are
-either other possible worlds just as real as the actual world we inhabit, or at
-at least aspects of the actual world which exist independently of our attitudes
-towards them.  There is, of course, no widely accepted account of our epistemic
-access to these truths.  Our knowledge of them is variously attributed to a raw
-intuitive ability to gain insight into <q>the necessary character of reality</q>((BonJour, [[http://doi.org/10.1017/CBO9780511625176|_In Defense of Pure Reason: A Rationalist Account of A Priori Justification_, 1997]])),
-an ability to perceive modal relationships akin to either our perception of
-physical objects(????Bealer????) or our introspective awareness of our own
-thoughts, or a sensitivity to the unity and economy of our overall
-theories(([[local:zz.texts/lewis1986-pluralityOfWorlds.pdf]])). In any case, our capacity to reason is once again supposed to give us
-knowledge of substantive features of the world which, although completely
-omitted from our scientific theories, nonetheless affect (or are at least
-correlated with) the formation of beliefs which go on to affect our actions.
-
-This is the alternative that has gained the most advocates as a result of the
-loss of confidence in Analytic approaches to explaining our knowledge of
-necessary truths. Those who openly embrace this rejection of naturalism, have
+This alternative has been the chief beneficiary of the loss of confidence in
+Analytic approaches to explaining our knowledge of
+necessary truths. With those
+who openly celebrate this rejection of naturalism quite accurately describing of
+these approaches , have
 quite accurately described the renewed popularity of these approaches as a
-<q>rationalist rennaissance</q>((Bealer, [[https://doi.org/10.1093/oso/9780198250890.001.0001|_Modal Epistemology and the Rationalist Renaissance_]], 2002))
+<q>rationalist rennaissance</q>((Bealer, [[https://doi.org/10.1093/oso/9780198250890.001.0001|_Modal Epistemology and the Rationalist Renaissance_]], 2002)).
 
 ==== reconcile naturalism with knowledge of necessity ====
-The second option is to hold out hope that some way of reconciling our capacity
+The second alternative is to hold out hope that some way of reconciling our capacity
 to distinguish (at least some) necessary truths with our scientific theories may
 yet be discovered. To hold that that either the objections to Analytic
 philosophy are flawed and its central claim, that all necessary truths are true
