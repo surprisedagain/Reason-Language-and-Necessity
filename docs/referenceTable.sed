@@ -9,7 +9,7 @@
 # 2: s/ \+\([^ ]\+\)$/\/href="\1"\/g/
 
 # <FILENAME> <URL>
-# formula
+# sed formula
 
 # aristotle-completeWorks.oxfordRevisedTrans.pdf https://n2t.net/ark:/13960/t8bh0gh94
 s/href="[^"]*zz.texts[^"]*\/aristotle-completeWorks\.oxfordRevisedTrans\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t8bh0gh94"/g
