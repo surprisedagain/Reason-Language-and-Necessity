@@ -15,6 +15,7 @@
 *.swo
 # all vi autobackups (made on startup)
 .bkp/
+Session.vim
 
 # support files that should not be public
 00.card

@@ -7,9 +7,13 @@
 # 0: s/\(\.\|\/\|&\)/\\\1/g
 # 1: s/^\([^ ]\+\)/s\/href="[^"]*zz\.texts[^"]*\\\/\1"/
 # 2: s/ \+\([^ ]\+\)$/\/href="\1"\/g/
-
+#
 # <FILENAME> <URL>
 # sed formula
+
+
+# adriaenssen2017-representationScepticismAquinasToDescartes.pdf https://doi.org/10.1017/9781316855102
+s/href="[^"]*zz.texts[^"]*\/adriaenssen2017-representationScepticismAquinasToDescartes\.pdf"/href="https:\/\/doi\.org\/10\.1017\/9781316855102"/g
 
 # aristotle-completeWorks.oxfordRevisedTrans.pdf https://n2t.net/ark:/13960/t8bh0gh94
 s/href="[^"]*zz.texts[^"]*\/aristotle-completeWorks\.oxfordRevisedTrans\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t8bh0gh94"/g
@@ -53,9 +57,10 @@ s/href="[^"]*zz.texts[^"]*\/hume1739-treatiseHumanNature\.pdf"/href="https:\/\/e
 # kant1787-critiqueOfPureReason.pluharTrans.pdf https://n2t.net/ark:/13960/s2gvpc8p9x0
 s/href="[^"]*zz.texts[^"]*\/kant1787-critiqueOfPureReason\.pluharTrans\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/s2gvpc8p9x0"/g
 
-# kripke1980-namingAndNecessity.pdf https://n2t.net/ark:/13960/t40s0jk5g# leibniz1716-lettersAndPapers.pdf https://doi.org/10.1007/978-94-010-1426-7
+# kripke1980-namingAndNecessity.pdf https://n2t.net/ark:/13960/t40s0jk5g
 s/href="[^"]*zz.texts[^"]*\/kripke1980-namingAndNecessity\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t40s0jk5g"/g
 
+# leibniz1716-lettersAndPapers.pdf https://doi.org/10.1007/978-94-010-1426-7
 s/href="[^"]*zz.texts[^"]*\/leibniz1716-lettersAndPapers\.pdf"/href="https:\/\/doi\.org\/10\.1007\/978-94-010-1426-7"/g
 
 # lewis1986-pluralityOfWorlds.pdf https://n2t.net//ark:/13960/t16n0s46p
@@ -69,6 +74,9 @@ s/href="[^"]*zz.texts[^"]*\/loomis1999-necessityAPrioriStandardMeter\.pdf"/href=
 
 # nimtz2003-analyticTruthsStillHarmless.pdf https://doi.org/10.1163/18756735-90000813
 s/href="[^"]*zz.texts[^"]*\/nimtz2003-analyticTruthsStillHarmless\.pdf"/href="https:\/\/doi\.org\/10\.1163\/18756735-90000813"/g
+
+# putnam1975-meaningOfMeaning.pdf https://hdl.handle.net/11299/185225
+s/href="[^"]*zz.texts[^"]*\/putnam1975-meaningOfMeaning\.pdf"/href="https:\/\/hdl\.handle\.net\/11299\/185225"/g
 
 # quine1953-fromALogicalPointOfView.pdf https://doi.org/10.2307/j.ctv1c5cx5c
 s/href="[^"]*zz.texts[^"]*\/quine1953-fromALogicalPointOfView.pdf"/href="https:\/\/doi\.org\/10\.2307\/j\.ctv1c5cx5c"/g
@@ -97,6 +105,3 @@ s/href="[^"]*zz.texts[^"]*\/soberHylton2000-quinesTwoDogmas\.pdf"/href="https:\/
 # and just to clean up any link text for [[local:directly_named]] files
 s/>(local:zz\.texts\/[^> ]+)\.pdf</>\1</g
 s/>local:zz\.texts\//>/g
-
-
-

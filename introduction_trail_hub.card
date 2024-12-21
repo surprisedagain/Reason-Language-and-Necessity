@@ -148,6 +148,12 @@ epistemic triangles ????- here ?
 why introspection is not a source of theoretical knowledge
 https://www.jstor.org/stable/42920209
 
+[[[
+do these belong here as a interval/light break
+or do they belong at the end as a variety of problems to be solved
+or present them here as problems and themn show that they are solved (this is
+russells approach in on denoting)
+
 when we convert the statements of a langauge into a logical notation we are
 faced with choices. We can render something as a logical truth or as an
 commonly known non-logoicla truth.
@@ -166,6 +172,7 @@ a posteriori necessities and a priori contingencies
 earth air water fire
 Air is a natural kind term too. when did it stop being one
 Putnam and the indeterminacy of translation
+]]]
 
 = 2nd half - the correct diagnosis =
 	1) intro: three reasons for rejecting semantic holism as presented by quine
@@ -255,7 +262,7 @@ exist).
 
 Cartesian cont.: the quest for normal circumstances. That way we could identify ...
 Cartesian theories presented a clear example of backward looking theories of
-meaning.
+meaning. (this percept is caused by that property)
 the properties represented by phenomenal objects could be determined purely by
 looking back at what caused those phenomenal instantiating those properties.
 
@@ -263,8 +270,6 @@ This can be achieved without language.
 
 
 in what sense is this still [[wn.notes:behaviourism]]
-
-
 
 reasoning - the interplay between two forms of representation
 
@@ -298,13 +303,23 @@ dark (or the Spanish inquisition) that ones expectations change.
 			  meter - hence speaking a different language.  -false definite
 			  descriptionsd that still succeeed in referring - the man with
 			  champagne in his glass over there. champagne*
-
+	?) here?? 
 the problem of wildly overcomplicated definite descriptions that are required
 to denote ordinary physical objects. The two problems are that what is required
 is on the one hand
+: this is also the problem of why we cannot distinguish observation sentences:
+we have already seen one reason for the failure of positivism (#section 1.2 of
+this work)
+    But the positivist project failed. No one could come up with a clear and
+    purely logical criterion for distinguishing between observation sentences
+    and theoretical sentences. This was part of a widespread failure of the
+    grand scheme to use purely logical resources to defi ne much of what is
+    foundational to the scientifi c and philosophical enterprise.<br>
+	Braddon-Mitchell, 2009, conceptual analysis and philosophical naturalism
+	chapter 2
 
 well that can't be right because then each person would have their own meaning
-of each term, mthodological solipsism gone mad! (refute this claim, by talk of
+of each term, methodological solipsism gone mad! (refute this claim, by talk of
 the non-linguistic representation model)
 
 also can't be right because no person is aware of anything like that definite
@@ -312,16 +327,57 @@ description.
 
 generally reflects the underestimation of complexity. which then heads into the
 implausibility that we believe any of the insane complexity required for say,
-the deteection of 3d objects from visual stimuli. (aufbau der welt relevant)
+the detection of 3d objects from visual stimuli. (aufbau der welt relevant)
 
 - also helps with the problem of fictional objects?
-a tenuous starting point in S1 [wn.notes:dennett2017-historyOfQualia
+a tenuous starting point in S1 [[wn.notes:dennett2017-historyOfQualia]]
 
             - the original epistemic sin - teletubbies and learning to watch
               television
+			  [[wn.notes:epistemological_original_sin]]
+how could we have meant something else.
+Like humes account of necessity we say that necessity is really something else.
+There is a puzzle here, how _could_ we have _taken_ this whatever it is as
+necessity. We have no epistemic access to the notion of necessity and hence
+cannot represent it/learn to use a language in which that property is attributed
+[[wn.notes:representation_requires_epistemic_access]]
+but then how could we have taken it for necessity - if we cannot conceive of it.
+
+rigid designators goes in here
+[[
+Even worse, to avoid the counterexamples presented by undeniably contingent
+identity statements (such as <q>The first violin in the Tasmanian Symphony
+Orchestra is the tallest person in Hobart</q>) the terms replacing the
+placeholders <q>a</q> and <q>b</q> in the above schema had to be so-called rigid
+designators. Unlike definite descriptions such as <q>the tallest person in
+Hobart</q> which might denote different people in different possible worlds,
+rigid designators denoted the same individual in every possible world no matter
+how its properties might vary from one possible world to another.
+While rigid designators can be defined in formal modal languages, where it can
+be simply stipulated whether objects in two different possible worlds are the
+same, the problem of our epistemic access to identity across different possible
+worlds, and hence our capacity to learn and use rigid designators, raised much
+the same issues as our knowledge of necessary truths in the first place((see Trans-world Heir Lines????)).
+If what made claims involving modal operators and rigid designators true was how
+things stood in other possible worlds, but other possible worlds had no causal
+connection with this world or the process by which our beliefs were formed then
+how was the consonance between our beliefs and how things stand in other
+possible worlds to be explained?
+]]
+
+
+=== why the ancients mistook this for necessary truth ===
+fundamentally evolutionary
+
+in the final stretch of the computer analogy, 
+reason is perhaps
+the earliest known benefits of digitalisation
+
+Is this psychologism? The problem with psychologism is that it gives us no
+reason to beleive that 
 
 == the parts of the elephant - what the wise men got right ==
-plato - recollection from before birth. In a sense true, though it was imbued by
+Plato - recollection from before birth. In a sense true, though it was imbued by
 evolution and not in some sacred realm
 Kant - to perceive is not merely some blob of color/sound a wild mishmash of
 sensation. When we are <q>perceiving</q> we are running our non-linguistic
