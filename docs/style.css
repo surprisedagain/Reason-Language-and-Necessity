@@ -155,13 +155,13 @@ h5 {font-size: 1.1rem; color: #909090; width: 50%;}
 h6 {font-size: 0.9rem; color: #9c9c9c; width: fit-content;}
 
 /* Reduce space at top of section (after heading) */
-div:has(h1, h2, h3, h4, h5) + p,
+div:has(h1, h2, h3, h4, h5, h6) + p,
 div:has(h1, h2, h3, h4, h5) + blockquote {
     margin-top: 0.3rem;
 }
 
 /* p after h6s and .smallnotes are reduced in size */
-div:has(h6) + p, .smallnote {
+.smallnote {
     margin-top: -0.1rem;
     font-size: 0.9rem;
     line-height: 1;
@@ -242,7 +242,9 @@ a[href^="http"]::after {
  ******************/
 .tooltip {
   vertical-align: top;
+  font-size: 70%;
   position: relative;
+  font-weight: bold;
 }
 
 /* Tooltip text */
@@ -250,6 +252,7 @@ a[href^="http"]::after {
   visibility: hidden;
   border: 2px solid black;
   font-size: small;
+  font-weight: normal;
   padding: 4px;
   background-color: #E2D5B9;
   border-radius: 5px;
