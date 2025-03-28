@@ -1,22 +1,22 @@
-Table of Contents
   = reason, language and necessity&ast; =
-== outline ==
+[: &ast;two out of three ain't bad :]
+== Table of Contents ==
 This work is devoted to the following question:
     | What is reasoning, that creatures such as us can do it? |
     |---------------------------------------------------------|
 Our enquiry begins by considering previous answers to this question and
-attempting to understand why they are unsatisfactory.
-
-	2) {[[Table of Contents]]} (this document)
+why they are unsatisfactory.
 
 === Introduction ===
 	1) {[[collapse_of_traditional_European_accounts_of_reasoning|The collapse of traditional European accounts of reasoning]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#first problem: the justification of scientific theories|First problem: the justification of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories|Second problem: the content of scientific theories]]}
-		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths became viewed as the fundamental problem of philosophy|Knowledge of necessary truths became viewed as the fundamental problem of philosophy]]}
-	- {[[collapse_of_traditional_European_accounts_of_reasoning#Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!|Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!]]}
-	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
-
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths regarded as the fundamental problem of modern philosophy|Knowledge of necessary truths regarded as the fundamental problem of modern philosophy]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#loss of confidence in Analytic accounts of knowledge of necessary truths|Loss of confidence in Analytic accounts of knowledge of necessary truths]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#three fundamental alternatives|Three fundamental alternatives]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#this work|This work]]}
+	2) {[[three_superficial_objections_and_an_apology|Three superficial objections and an apology]]}
+	3) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
 
 === Confirmation Holism and Semantic Holism ===
 	1) {[[epistemic_bottlenecks]]}
@@ -27,16 +27,24 @@ attempting to understand why they are unsatisfactory.
  
 What reason do we have for postulating external objects. For what we are
 enquiring into is the supposed objects of belief. So a clear understanding of
-the role of the postulation of obejcts.
+the role of the postulation of objects.
+
+A crash course in computational complexity for philosophers
+
+A computational reprise of Quine's account of language and translation.
+One way of specifying the meaning of an expression in language L is to specify
+the conditions expressions in other languages would have to fulfill in order to
+be properly translated into home language L as that expression.
 
 ???? ---- ???? ---- ???? ---- ????
 	1) [[semantic_holism_trail|Semantic Holism Trail Hub]]
 	2) [[confirmation_holism]]
 
 	3) epistemic bottlenecks
-	4) The computer analogy
+	4) The computer example
 		- confirmation holism
 		- indeterminacy of translation
+
 3) What is the relationship between our claims regarding objects on the far side
    and the evidence presented by arrangements of objects . Given knowledge of the objects _in_ the
    relevant epistemic bottleneck what can we know of those beyond them?
@@ -238,7 +246,7 @@ Ways in which the cartesian model is wanting:
   
   3) causation and representation alignment not perfect. 
 
-text to insert ????-
+text to insert [????
 
 Our phenomena, do not merely cause us to have beliefs about
 the world, they themselves are about the world. They are a way our minds
@@ -313,8 +321,8 @@ this work)
     But the positivist project failed. No one could come up with a clear and
     purely logical criterion for distinguishing between observation sentences
     and theoretical sentences. This was part of a widespread failure of the
-    grand scheme to use purely logical resources to defi ne much of what is
-    foundational to the scientifi c and philosophical enterprise.<br>
+    grand scheme to use purely logical resources to define much of what is
+    foundational to the scientific and philosophical enterprise.<br>
 	Braddon-Mitchell, 2009, conceptual analysis and philosophical naturalism
 	chapter 2
 
@@ -335,6 +343,7 @@ a tenuous starting point in S1 [[wn.notes:dennett2017-historyOfQualia]]
             - the original epistemic sin - teletubbies and learning to watch
               television
 			  [[wn.notes:epistemological_original_sin]]
+teletubbies, ghosts and epistemological original sin.
 how could we have meant something else.
 Like humes account of necessity we say that necessity is really something else.
 There is a puzzle here, how _could_ we have _taken_ this whatever it is as
@@ -344,7 +353,7 @@ cannot represent it/learn to use a language in which that property is attributed
 but then how could we have taken it for necessity - if we cannot conceive of it.
 
 rigid designators goes in here
-[[
+[ !
 Even worse, to avoid the counterexamples presented by undeniably contingent
 identity statements (such as <q>The first violin in the Tasmanian Symphony
 Orchestra is the tallest person in Hobart</q>) the terms replacing the
@@ -363,9 +372,17 @@ things stood in other possible worlds, but other possible worlds had no causal
 connection with this world or the process by which our beliefs were formed then
 how was the consonance between our beliefs and how things stand in other
 possible worlds to be explained?
-]]
+! ]
 
-
+- van inwagens everyday possibilities vs philosophical possibilities (FP) lines
+up nicely with this. The Yablo conceivable claims are ones that can be directly
+read off - simply a modern update of Descartes <q>clearly and distinctly
+conceived</q>
+see:
+	[[wn.notes:yablo1993-isConceivabilityAGuideToPossibility]]
+	[[wn.notes:hawke2011-vanInwagensModalSkepticism]]
+	[[wn.notes:vanInwagen1998-modalEpistemology]]
+	
 === why the ancients mistook this for necessary truth ===
 fundamentally evolutionary
 
@@ -383,9 +400,9 @@ Kant - to perceive is not merely some blob of color/sound a wild mishmash of
 sensation. When we are <q>perceiving</q> we are running our non-linguistic
 representation. We impose our structure, but that does not guarantee that that
 structure is correct, nor can such a structure really be imposed at all
-Wittgenstein, and the analytics, holding up a tape measure against, and the
-alignment between our language and the range of the world. Trying the only
-plausible way to reconcile the irreconcilable.
+Wittgenstein, and the analytics, holding up a tape measure/compass/measuring
+stock against, and the alignment between our language and the range of the
+world. Trying the only plausible way to reconcile the irreconcilable.
 
 Aristotle
 

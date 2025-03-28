@@ -11,12 +11,20 @@
 # <FILENAME> <URL>
 # sed formula
 
+# chisholm1966-truthsOfReason.pdf https://n2t.net/ark:/13960/t2h78286r
+s/href="[^"]*zz.texts[^"]*\/chisholm1966-truthsOfReason\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t2h78286r"/g
+
+# collection2016-modalEpistemologyAfterRationalism.pdf https://doi.org/10.1007/978-3-319-44309-6
+s/href="[^"]*zz.texts[^"]*\/collection2016-modalEpistemologyAfterRationalism\.pdf"/href="https:\/\/doi\.org\/10\.1007\/978-3-319-44309-6"/g
 
 # adriaenssen2017-representationScepticismAquinasToDescartes.pdf https://doi.org/10.1017/9781316855102
 s/href="[^"]*zz.texts[^"]*\/adriaenssen2017-representationScepticismAquinasToDescartes\.pdf"/href="https:\/\/doi\.org\/10\.1017\/9781316855102"/g
 
 # aristotle-completeWorks.oxfordRevisedTrans.pdf https://n2t.net/ark:/13960/t8bh0gh94
 s/href="[^"]*zz.texts[^"]*\/aristotle-completeWorks\.oxfordRevisedTrans\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t8bh0gh94"/g
+
+# benYami2015-descartesPhilosophicalRevolution.pdf https://doi.org/10.1057/9781137512024
+s/href="[^"]*zz.texts[^"]*\/benYami2015-descartesPhilosophicalRevolution\.pdf"/href="https:\/\/doi\.org\/10\.1057\/9781137512024"/g
 
 # boghossian1996-analyticityReconsidered.pdf https://doi.org/10.2307/2216275
 s/href="[^"]*zz.texts[^"]*\/boghossian1996-analyticityReconsidered\.pdf"/href="https:\/\/doi\.org\/10\.2307\/2216275"/g
@@ -33,11 +41,14 @@ s/href="[^"]*zz.texts[^"]*\/daly2017-persistentPhilosophicalDisagreement\.pdf"/h
 # darcy1903-aquinasEpistemology.pdf https://www.jstor.org/stable/4544136
 s/href="[^"]*zz.texts[^"]*\/darcy1903-aquinasEpistemology\.pdf"/href="https:\/\/www\.jstor\.org\/stable\/4544136"/g
 
-# descartes1-philosophicalWritingsOfDescartes.pdf https://doi.org/10.1017/CBO9780511805042 
+# descartes1-philosophicalWritings.pdf https://doi.org/10.1017/CBO9780511805042 
 s/href="[^"]*zz.texts[^"]*\/descartes1-philosophicalWritings\.pdf"/href="https:\/\/doi\.org\/10\.1017\/CBO9780511805042"/g
 
-# descartes2-philosophicalWritingsOfDescartes.pdf https://doi.org/10.1017/CBO9780511818998 
+# descartes2-philosophicalWritings.pdf https://doi.org/10.1017/CBO9780511818998 
 s/href="[^"]*zz.texts[^"]*\/descartes2-philosophicalWritings\.pdf"/href="https:\/\/doi\.org\/10\.1017\/CBO9780511818998"/g
+
+# donaldson2022-ancientMathematicsNotes.pdf https://www.math.uci.edu/~ndonalds/math184/notes.pdf
+s/href="[^"]*zz.texts[^"]*\/donaldson2022-ancientMathematicsNotes\.pdf"/href="https:\/\/www\.math\.uci\.edu\/~ndonalds\/math184\/notes\.pdf"/g
 
 # fennell2003-threeQuines.pdf 10.1080/0967255032000108011
 s/href="[^"]*zz.texts[^"]*\/fennell2003-threeQuines\.pdf"/href="10\.1080\/0967255032000108011"/g
@@ -103,5 +114,5 @@ s/href="[^"]*zz.texts[^"]*\/sher1999-isThereAPlaceForPhilosophyInQuinesTheory\.p
 s/href="[^"]*zz.texts[^"]*\/soberHylton2000-quinesTwoDogmas\.pdf"/href="https:\/\/doi\.org\/10\.1111\/1467-8349\.00071"/g
 
 # and just to clean up any link text for [[local:directly_named]] files
-s/>(local:zz\.texts\/[^> ]+)\.pdf</>\1</g
+s/>local:zz\.texts[^> ]*\/([^/]+)\.pdf</>\1</g
 s/>local:zz\.texts\//>/g
