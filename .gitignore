@@ -1,21 +1,30 @@
+############################
+# git log convention notes:
+# fin/mod/new: <CARD>#<SEC>
+############################
+
+##################
+# FILES TO IGNORE:
+
 # automatically generated files
-###############################
 .DS_Store
 .vimwiki_tags
+
 # vi swp files
 *.swp
 *.swo
 # all vi autobackups (made on startup)
 .bkp/
+Session.vim
 
 # support files that should not be public
 00.card
 01.card
 
-# I do not have copyright to these files
+# pdfs to which it would breach copyright to publish
 # and xattr's may not be preserved in online storage?
 zz.texts/
-
+####################
 
 # who knows but one day some python might be involved
 # Byte-compiled / optimized / DLL files

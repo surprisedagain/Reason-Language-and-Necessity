@@ -1,22 +1,22 @@
-Table of Contents
   = reason, language and necessity&ast; =
-== outline ==
+[: &ast;two out of three ain't bad :]
+== Table of Contents ==
 This work is devoted to the following question:
     | What is reasoning, that creatures such as us can do it? |
     |---------------------------------------------------------|
 Our enquiry begins by considering previous answers to this question and
-attempting to understand why they are unsatisfactory.
-
-	2) {[[Table of Contents]]} (this document)
+why they are unsatisfactory.
 
 === Introduction ===
 	1) {[[collapse_of_traditional_European_accounts_of_reasoning|The collapse of traditional European accounts of reasoning]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#first problem: the justification of scientific theories|First problem: the justification of scientific theories]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories|Second problem: the content of scientific theories]]}
-		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths became viewed as the fundamental problem of philosophy|Knowledge of necessary truths became viewed as the fundamental problem of philosophy]]}
-	- {[[collapse_of_traditional_European_accounts_of_reasoning#Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!|Wretched science, after taking from us your valid inferences, do you overthrow us? Our fall will be your defeat!]]}
-	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
-
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#knowledge of necessary truths regarded as the fundamental problem of modern philosophy|Knowledge of necessary truths regarded as the fundamental problem of modern philosophy]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#loss of confidence in Analytic accounts of knowledge of necessary truths|Loss of confidence in Analytic accounts of knowledge of necessary truths]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#three fundamental alternatives|Three fundamental alternatives]]}
+		- {[[collapse_of_traditional_European_accounts_of_reasoning#this work|This work]]}
+	2) {[[three_superficial_objections_and_an_apology|Three superficial objections and an apology]]}
+	3) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
 
 === Confirmation Holism and Semantic Holism ===
 	1) {[[epistemic_bottlenecks]]}
@@ -30,17 +30,26 @@ attempting to understand why they are unsatisfactory.
  
 What reason do we have for postulating external objects. For what we are
 enquiring into is the supposed objects of belief. So a clear understanding of
-the role of the postulation of obejcts.
+the role of the postulation of objects.
+
+A crash course in computational complexity for philosophers
+
+A computational reprise of Quine's account of language and translation.
+One way of specifying the meaning of an expression in language L is to specify
+the conditions expressions in other languages would have to fulfill in order to
+be properly translated into home language L as that expression.
 
 ???? ---- ???? ---- ???? ---- ????
 	1) [[semantic_holism_trail|Semantic Holism Trail Hub]]
 	2) [[confirmation_holism]]
 
 	3) epistemic bottlenecks
-	4) The computer analogy
+	4) The computer example
 		- confirmation holism
 		- indeterminacy of translation
-3) What is the relationship between . Given knowledge of the objects _in_ the
+
+3) What is the relationship between our claims regarding objects on the far side
+   and the evidence presented by arrangements of objects . Given knowledge of the objects _in_ the
    relevant epistemic bottleneck what can we know of those beyond them?
    this does not decide internalism/externalism. If we are in this situation
    what can we know of the objects that are on the far side of the relevant
@@ -150,6 +159,12 @@ epistemic triangles ????- here ?
 why introspection is not a source of theoretical knowledge
 https://www.jstor.org/stable/42920209
 
+[[[
+do these belong here as a interval/light break
+or do they belong at the end as a variety of problems to be solved
+or present them here as problems and themn show that they are solved (this is
+russells approach in on denoting)
+
 when we convert the statements of a langauge into a logical notation we are
 faced with choices. We can render something as a logical truth or as an
 commonly known non-logoicla truth.
@@ -166,25 +181,110 @@ we do. We logic is so solid. mathematics????
 
 a posteriori necessities and a priori contingencies
 earth air water fire
-Air is a natural kind terms too. when did it stop being one
+Air is a natural kind term too. when did it stop being one
 Putnam and the indeterminacy of translation
+]]]
 
 = 2nd half - the correct diagnosis =
-	1) intro
-there are, as it happens other reasons for wanting to make sense of supposedly
-intensional idioms, not least of which is their indispensibility in both
-everyday life and ??{ prediction of behaviour }??
-	
+	1) intro: three reasons for rejecting semantic holism as presented by quine
+		i) rejection of intentional idioms
+			The abandonment of the intentional idiom is the chief threat of
+			semantic holism.  It is the price that was too high to be paid. The
+			notion that all intentional idoms are essentially nonsense, on the
+			level of play acting, and as subject to being evaluated as wrong as
+			a gambit in improv theatre, is simply unacceptable.
+		ii) 
+		iii) Lack of solid foundations from which to argue
+			  If I like the premise and dislike the conclusion why not simply
+			  reject that form of inference. It doesnt preserve truth in this
+			  case and that it does in general is just another piece of
+			  <q>background knowledge</q>
+
 	1) wittgenstein's error
-		1) what wittgenstein got right. perhaps the first to acknowledge the
+		i) what wittgenstein got right. perhaps the first to acknowledge the
 		   indeterinacy - sultan who has feelings solipsism and realism in trac
-		2) witts error: from the tractatus
-		3) objects of intensional attitudes
-Perhaps the main reason why all the case against necessity was so difficult to
-appreciate was that 
-		*)
-the range of positive possibilities delineated - the range of negative
-possibilities - ways the world is not - not delineated
+		ii) witts error: from the tractatus
+Simple principle if our predictions are so complex that they require the
+postulation of objects, then so too are our expectations. 
+The complexity that lies on the far side of an epistemic bottleneck is mirrored
+by the processes and structures that give rise to our expectations on this side
+(when those expectations are correct). 
+
+On one side of an epistemic bottleneck, a subject who has knowledge/justifiably
+beliefs about the patterns of states of the objects in the relevant epistemic
+(/whatever positive epistemic relationship it is we stand in to
+say the theory of general relativity). On the other
+
+		4) langauge games
+seen from this view the meandering path of Wittgenstein staggering through the
+philosophical ivestigations makes sense. One the one hand driven not to deny the
+complexity of intentional attitudes, on the other refusing on the principle that
+everything that can be known about people's mental lives/belief
+formation/prediction generating system can be known purely on the basis of
+observing their behaviour.
+
+		1) objects of intensional attitudes
+What is taken as the fundamental evidence for this is not the sequences of
+states of affairs of the objects in the relevant epistemic bottleneck. But
+rather the expectations of the arrangements in the relevant epistemic bottleneck
+held by the relevant observer/theorist.
+
+Not a Cartesian theatre
+The Cartesian theatre is widely understood as a theory of perception. What is
+less widely realised is that it is also connected with an account of
+representation. The inner perceiver, the 
+To think about objects in the external world is to _imagine_ or be disposed to
+imagine objects on the Cartesian theatre.
+Arrangements of objects on the Cartesian stage is at least one way, perhaps the
+most foundational way, in which we can represent the world to ourselves.
+
+Also contrast with previous scholastic model of representation
+see [[wn.notes:benYami2015-descartesPhilosophicalRevolution]]
+
+Ways in which the cartesian model is wanting:
+  1) doesnt explain the attitude towards the phenomena that uses them as
+	 representations. It is only when the guide uses them to base her beliefs
+	 about the trian on them. When we treat them as representations.
+  get to be positive about tractatus acocunts here
+  
+  3) causation and representation alignment not perfect. 
+
+text to insert [????
+
+Our phenomena, do not merely cause us to have beliefs about
+the world, they themselves are about the world. They are a way our minds
+_represent_ the external world to itself.
+Although the relationship between sensations and figments of the imagination was
+always a difficulty for these views. (Often, if unsatisfactorily, described as a
+difference of vividity, or faintness or precision((Dennett himself appeals to lack of detail for the somewhat similar purpose of distinguishing hallucinations from merely false beliefs)).)
+To imagine a state of affairs is, according to these views, to arrange phenomena
+or some kind of faint echo of them, on the Cartesian stage.  On the other hand,
+such phenomena are often caused by the external objects they represent. The
+causal relationship between external objects and the phenomena that represent
+them (or our knowledge of it) is a key part of the justification of our
+confidence that our perceptions are veridical.  Explaining why this alignment is
+neither perfect nor coincidental is one of the chief problems for both Cartesian
+theatre accounts of and the neurological accounts that Dennett prefers. In
+neither case, however, need it be assumed that the properties of
+phenomenal/neurological representations are identical with the properties that
+they represent (and which, when things go well, cause those representations to
+exist).
+-????
+
+Cartesian cont.: the quest for normal circumstances. That way we could identify ...
+Cartesian theories presented a clear example of backward looking theories of
+meaning. (this percept is caused by that property)
+the properties represented by phenomenal objects could be determined purely by
+looking back at what caused those phenomenal instantiating those properties.
+
+This can be achieved without language.
+
+
+in what sense is this still [[wn.notes:behaviourism]]
+
+reasoning - the interplay between two forms of representation
+
+automatic driving mentioned in [[dennett????-consciousnessExplained]]
 
 expectation. It may is possible that the term is . One of the chief indicators
 of expectation is that a failure of expectations causes a chengce in subsequent
@@ -192,7 +292,7 @@ expectations. So long as things go the way you expect, the way you expect things
 to go doesn't change much. Its when one unexpectedly runs into a table in the
 dark (or the Spanish inquisition) that ones expectations change.
 
-	?) solutions to problems and other implications
+	?) solutions to problems/objections and other implications
 		- quus and dispositionalism
 		- authoritative knowledge of ones own mental states
 			- the social solution (Wittgenstein), we can't really mean it
@@ -205,20 +305,32 @@ dark (or the Spanish inquisition) that ones expectations change.
 		  perspicuous/valuable/good starting link:
 		  https://philsci-archive.pitt.edu/17474/1/PSA2020GenConf.pdf
 		- kripkean problems
+			- a finite way of describing a infinite number of expected
+			  patterns. Solutions to kripkean objections to dispositionalism
 			- necessary identity - rigid designators - if it doesn't refer to
-			  that it has a different meaning. STart with the 1m stick case. In
+			  that it has a different meaning. Start with the 1m stick case. In
 			  a possible world in which the stick ws a different length at (of
 			  course) t0 , those people would be rigidly designating a different
 			  meter - hence speaking a different language.  -false definite
 			  descriptionsd that still succeeed in referring - the man with
 			  champagne in his glass over there. champagne*
-
+	?) here?? 
 the problem of wildly overcomplicated definite descriptions that are required
 to denote ordinary physical objects. The two problems are that what is required
 is on the one hand
+: this is also the problem of why we cannot distinguish observation sentences:
+we have already seen one reason for the failure of positivism (#section 1.2 of
+this work)
+    But the positivist project failed. No one could come up with a clear and
+    purely logical criterion for distinguishing between observation sentences
+    and theoretical sentences. This was part of a widespread failure of the
+    grand scheme to use purely logical resources to define much of what is
+    foundational to the scientific and philosophical enterprise.<br>
+	Braddon-Mitchell, 2009, conceptual analysis and philosophical naturalism
+	chapter 2
 
-well that can't br right because then each person would have their own meaning
-of each term, mthodological solipsism gone mad! (refute this claim, by talk of
+well that can't be right because then each person would have their own meaning
+of each term, methodological solipsism gone mad! (refute this claim, by talk of
 the non-linguistic representation model)
 
 also can't be right because no person is aware of anything like that definite
@@ -226,23 +338,76 @@ description.
 
 generally reflects the underestimation of complexity. which then heads into the
 implausibility that we believe any of the insane complexity required for say,
-the deteection of 3d objects from visual stimuli. (aufbau der welt relevant)
+the detection of 3d objects from visual stimuli. (aufbau der welt relevant)
 
 - also helps with the problem of fictional objects?
-a tenuous starting point in S1 [wn.notes:dennett2017-historyOfQualia
+a tenuous starting point in S1 [[wn.notes:dennett2017-historyOfQualia]]
 
+            - the original epistemic sin - teletubbies and learning to watch
+              television
+			  [[wn.notes:epistemological_original_sin]]
+teletubbies, ghosts and epistemological original sin.
+how could we have meant something else.
+Like humes account of necessity we say that necessity is really something else.
+There is a puzzle here, how _could_ we have _taken_ this whatever it is as
+necessity. We have no epistemic access to the notion of necessity and hence
+cannot represent it/learn to use a language in which that property is attributed
+[[wn.notes:representation_requires_epistemic_access]]
+but then how could we have taken it for necessity - if we cannot conceive of it.
+
+rigid designators goes in here
+[ !
+Even worse, to avoid the counterexamples presented by undeniably contingent
+identity statements (such as <q>The first violin in the Tasmanian Symphony
+Orchestra is the tallest person in Hobart</q>) the terms replacing the
+placeholders <q>a</q> and <q>b</q> in the above schema had to be so-called rigid
+designators. Unlike definite descriptions such as <q>the tallest person in
+Hobart</q> which might denote different people in different possible worlds,
+rigid designators denoted the same individual in every possible world no matter
+how its properties might vary from one possible world to another.
+While rigid designators can be defined in formal modal languages, where it can
+be simply stipulated whether objects in two different possible worlds are the
+same, the problem of our epistemic access to identity across different possible
+worlds, and hence our capacity to learn and use rigid designators, raised much
+the same issues as our knowledge of necessary truths in the first place((see Trans-world Heir Lines????)).
+If what made claims involving modal operators and rigid designators true was how
+things stood in other possible worlds, but other possible worlds had no causal
+connection with this world or the process by which our beliefs were formed then
+how was the consonance between our beliefs and how things stand in other
+possible worlds to be explained?
+! ]
+
+- van inwagens everyday possibilities vs philosophical possibilities (FP) lines
+up nicely with this. The Yablo conceivable claims are ones that can be directly
+read off - simply a modern update of Descartes <q>clearly and distinctly
+conceived</q>
+see:
+	[[wn.notes:yablo1993-isConceivabilityAGuideToPossibility]]
+	[[wn.notes:hawke2011-vanInwagensModalSkepticism]]
+	[[wn.notes:vanInwagen1998-modalEpistemology]]
+	
+=== why the ancients mistook this for necessary truth ===
+fundamentally evolutionary
+
+in the final stretch of the computer analogy, 
+reason is perhaps
+the earliest known benefits of digitalisation
+
+Is this psychologism? The problem with psychologism is that it gives us no
+reason to beleive that 
 
 == the parts of the elephant - what the wise men got right ==
-plato - recollection from before birth. In a sense true, though it was imbued by
+Plato - recollection from before birth. In a sense true, though it was imbued by
 evolution and not in some sacred realm
 Kant - to perceive is not merely some blob of color/sound a wild mishmash of
 sensation. When we are <q>perceiving</q> we are running our non-linguistic
 representation. We impose our structure, but that does not guarantee that that
 structure is correct, nor can such a structure really be imposed at all
-Wittgenstein, and the analytics, holding up a tape measure against, and the
-alignment between our language and the range of the world. Trying the only
-plausible way to reconcile the irreconcilable.
+Wittgenstein, and the analytics, holding up a tape measure/compass/measuring
+stock against, and the alignment between our language and the range of the
+world. Trying the only plausible way to reconcile the irreconcilable.
 
+Aristotle
 
 reasoning - the interplay between two forms of representation
 dretske analog and digital
@@ -263,8 +428,6 @@ this is not any more <q>non-conceptual</q> than any other form of
 representation, though it is non-linguistic.
 
 		- Our knowledge of mathematics
-            - the original epistemic sin - teletubbies and learning to watch
-              television
 
 If you look into it hard enough, everything is messy
 what of the nature of good reasoning.
@@ -305,6 +468,8 @@ possibilities, and it is so wide that we could not be wrong.
             - MAking ones beliefs manifest in language.
             - [[deflationary_truth]]
 
+How to argue.
+unsatisfactory position
     - why quine never argues
 		- quine's errors OR IS THIS ANOTHER SECTION??/TAG for orthog?
         - denial of deceitful demon - <q>analytically<q> true
