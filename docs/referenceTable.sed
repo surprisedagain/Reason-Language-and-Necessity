@@ -107,6 +107,9 @@ s/href="[^"]*zz.texts[^"]*\/russell1914-knowledgeOfExternalWorld\.pdf"/href="htt
 # russell1918-logicalAtomism.pdf https://doi.org/10.4324/9780203864777
 s/href="[^"]*zz.texts[^"]*\/russell1918-logicalAtomism\.pdf"/href="https:\/\/doi\.org\/10\.4324\/9780203864777"/g
 
+# russell1961-basicWritings.pdf https://doi.org/10.4324/9780203875391
+s/href="[^"]*zz.texts[^"]*\/russell1961-basicWritings\.pdf"/href="https:\/\/doi\.org\/10\.4324\/9780203875391"/g
+
 # sher1999-isThereAPlaceForPhilosophyInQuinesTheory.pdf https://doi.org/10.2307/2564611
 s/href="[^"]*zz.texts[^"]*\/sher1999-isThereAPlaceForPhilosophyInQuinesTheory\.pdf"/href="https:\/\/doi\.org\/10\.2307\/2564611"/g
 
