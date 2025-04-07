@@ -11,8 +11,13 @@
 # <FILENAME> <URL>
 # sed formula
 
+
+
 # chisholm1966-truthsOfReason.pdf https://n2t.net/ark:/13960/t2h78286r
 s/href="[^"]*zz.texts[^"]*\/chisholm1966-truthsOfReason\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t2h78286r"/g
+
+# collection2002-conceivabilityPossibility.pdf https://doi.org/10.1093/oso/9780198250890.001.0001
+s/href="[^"]*zz.texts[^"]*\/collection2002-conceivabilityPossibility\.pdf"/href="https:\/\/doi\.org\/10\.1093\/oso\/9780198250890\.001\.0001"/g
 
 # collection2016-modalEpistemologyAfterRationalism.pdf https://doi.org/10.1007/978-3-319-44309-6
 s/href="[^"]*zz.texts[^"]*\/collection2016-modalEpistemologyAfterRationalism\.pdf"/href="https:\/\/doi\.org\/10\.1007\/978-3-319-44309-6"/g
