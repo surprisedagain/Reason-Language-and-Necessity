@@ -736,9 +736,9 @@ accounts of how knowledge of necessary truths was justified and claimed that
 those accounts would, when fully developed, allow us to distinguish good reasoning
 from bad and thereby put philosophy on a solid footing. Kant claimed his
 account would <q>serve as the touchstone of the value, or lack of value, or all
-_a priori_ cognitions</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_Critique of Pure Reason_]], introduction))(:Here, as is usual for him, Kant phrases the problem in terms of _a priori_ knowledge, rather than knowledge of necessary truths. However he held that all and only truths known _a priori_ could be known to be necessarily true: <q>any cognition that is to hold _a priori_ proclaims on its own that it wants to be regarded as absolutely necessary</q> ([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_CPR_]], Preface A) and <q>if we find a proposition such that in thinking it we think at the same time its necessity, then it is an _a priori_ judgment</q>([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_CPR_]] , Introduction B). Hence, at least by his standards the questions concerning the justification of our knowledge of necessary truths, and our capacity for _a priori_ judgements are equivalent.:), <q>will make reason secure in its rightful claims and will
-dismiss all baseless pretensions</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_CPR_]], preface A)) and put philosophy <q>on the secure path of a
-science</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_CPR_]], preface B)).  For his part, Bertrand Russell claimed that his new form of
+_a priori_ cognitions</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]], introduction))(:Here, as is usual for him, Kant phrases the problem in terms of _a priori_ knowledge, rather than knowledge of necessary truths. However he held that all and only truths known _a priori_ could be known to be necessarily true: <q>any cognition that is to hold _a priori_ proclaims on its own that it wants to be regarded as absolutely necessary</q> ([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]], Preface A) and <q>if we find a proposition such that in thinking it we think at the same time its necessity, then it is an _a priori_ judgment</q>([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]] , Introduction B). Hence, at least by his standards the questions concerning the justification of our knowledge of necessary truths, and our capacity for _a priori_ judgements are equivalent.:), <q>will make reason secure in its rightful claims and will
+dismiss all baseless pretensions</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]], preface A)) and put philosophy <q>on the secure path of a
+science</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]], preface B)).  For his part, Bertrand Russell claimed that his new form of
 philosophy, in which necessary truths were discovered through a process of <q>logical
 analysis, followed by logical synthesis</q>(([[local:zz.texts/russell1918-logicalAtomism.pdf]])), <q>introduced the same kind of advance
 into philosophy as Galileo introduced into physics, making it possible at last
@@ -792,7 +792,7 @@ the central tenets of Analytic philosophy (such as the doctrine that all
 necessary truths are analytic, and that our sensitivity to the
 justification of necessary truths can be explained by our empirically justified
 knowledge of our statements' meanings) went from being orthodoxies to
-being viewed as <q>decidely antique</q>((Soames, [[https://doi.org/10.1515/9781400825790|_Philosophical Analysis in the 20th century_]], (2003)&zwj;)) doctrines, held true by <q>very few
+being viewed as <q>decidely antique</q>((Soames, [[https://doi.org/10.1515/9781400825790|_Philosophical Analysis in the 20th century_]], 2003)) doctrines, held true by <q>very few
 philosophers</q>(([[https://doi.org/10.1515/9781400825790|ibid.,]])).
 
 One of the causes of the rapid decline of Analytic philosophy, was the increased
@@ -801,8 +801,8 @@ philosophers had denounced the temptations of metaphysical speculation and its
 appeal to <q>vanity and convenience</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])). Of course, they drew the line between
 productive philosophy and metaphysical speculation in different ways. According
 to Kant we stray into metaphysical speculation when we claim to have knowledge
-of things <q>as they are in themselves</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])) rather than <q>only insofar as they appear
-to us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|ibid.,]])). According to Analytic philosophers we stray into metaphysics when we
+of things <q>as they are in themselves</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])) rather than <q>only insofar as they appear
+to us</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])). According to Analytic philosophers we stray into metaphysics when we
 claim to have knowledge of necessary truths that are not true purely by virtue
 of the linguistic proprieties of the language in which they are expressed. Both
 these boundaries were, of course, disputed; as was the question of whether
@@ -821,8 +821,8 @@ philosophy's critics:
 
 ==== justification of analyses ====
 The first problem concerned the nature of the evidence for Analytic
-philosophers analyses. In one of the most influential philosophy papers of the
-twentieth century – [[local:zz.texts/quine1953-fromALogicalPointOfView.pdf|_Two Dogmas of Empiricism_]] (1953) – Quine alleged that our
+philosophers analyses. In [[local:zz.texts/quine1953-fromALogicalPointOfView.pdf|_Two Dogmas of Empiricism_]] (1953), one of the most
+influential philosophy papers of the twentieth century, Quine alleged that our
 epistemic access to the property of analyticity was just as unclear as our
 epistemic access to necessity.
 
@@ -1179,7 +1179,7 @@ natural kind term, and <q>the predominant sense of natural kind words</q> was
 one in which they were true of <q>whatever things share the nature that things
 satisfying the description [potable, thirst quenching, transparent etc.,]
 normally possess</q>. Sharing a nature was a matter of having the same 
-<q>hidden structure</q>(:<q>To sum up: if there is a hidden structure, then generally it determines what it is to be a member of the natural kind, not only in the actual world, but in all possible worlds.</q> ([[local:zz.texts/putnam1975-meaningOfMeaning.pdf|_ibid_.,]]) :), and in the case of liquids such as water
+<q>hidden structure</q>(:<q>To sum up: if there is a hidden structure, then generally it determines what it is to be a member of the natural kind, not only in the actual world, but in all possible worlds.</q> ([[local:zz.texts/putnam1975-meaningOfMeaning.pdf]]) :), and in the case of liquids such as water
 this hidden structure was _chemical_ structure.  In other words, the statement
 <q>All water bears the relationship same,,L,, to the water around here.</q> was
 _analytic_ – true by virtue of the meanings of the terms it contained. (Most
