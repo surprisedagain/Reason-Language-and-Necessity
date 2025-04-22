@@ -188,9 +188,10 @@ principles, is that scientific laws are known with less certainty than the
 particular cases fulfilling them; wheras geometrical and arithmetic laws are
 known with greater certainty than the particular cases that they subsume.
 
-Most of us, for instance, are more confident that addition is symmetric(:i.e. that for any pair of numbers _n_ and _m_, _n_ + _m_ = _m_ + _n_:) than
-that 38974298435982 + 87248912374 = 87248912374 + 38974298435982. A modern view
-may ascribe our uncertainty as to the truth of the latter to the difficulty of
+Most of us, for instance, are more confident that addition is symmetric (i.e.
+that for any pair of numbers _n_ and _m_, _n_ + _m_ = _m_ + _n_) than that
+38974298435982 + 87248912374 = 87248912374 + 38974298435982. A modern view may
+ascribe our uncertainty as to the truth of the latter to the difficulty of
 determining whether the particular case presented falls under the general rule
 (i.e. whether, among other things, the sixth digit of the first number in the
 equation just given is the same as the sixth digit in the last). Plato, by
@@ -204,11 +205,12 @@ exemplification in any given instance.
 By contrast, scientific generalisations – even mundane ones such as <q>Blue
 litmus paper turns red when immersed in acid</q> – are known with less certainty
 than particular observations of their instances. Indeed on modern views it
-follows from fundamental principles of probability that such generalizations
-must be less certain than observations of any particular positive instance. For
-the falsehood of any instance renders a universal claim false, and hence the
-probability of any universal claim must be lower than the probability of it
-being fulfilled in any particular instance.
+follows from fundamental principles of probability that the probability assigned
+to such generalizations in our best theories must be less than probability
+assigned to the observation of any particular positive instance. For the
+falsehood of any instance renders a universal claim false, and hence the
+probability of any universal claim must be at least as low as the probability of
+it being (or having been) fulfilled in any particular case.
 
 ==== not intuitable as a result of observation ====
 The final point of difference, which is also the most difficult to make sense of
