@@ -13,6 +13,7 @@
 
 
 
+
 # chisholm1966-truthsOfReason.pdf https://n2t.net/ark:/13960/t2h78286r
 s/href="[^"]*zz.texts[^"]*\/chisholm1966-truthsOfReason\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t2h78286r"/g
 
@@ -120,6 +121,9 @@ s/href="[^"]*zz.texts[^"]*\/sher1999-isThereAPlaceForPhilosophyInQuinesTheory\.p
 
 # soberHylton2000-quinesTwoDogmas.pdf https://doi.org/10.1111/1467-8349.00071
 s/href="[^"]*zz.texts[^"]*\/soberHylton2000-quinesTwoDogmas\.pdf"/href="https:\/\/doi\.org\/10\.1111\/1467-8349\.00071"/g
+
+# yablo1993-isConceivabilityAGuideToPossibility.pdf https://doi.org/10.2307/2108052
+s/href="[^"]*zz.texts[^"]*\/yablo1993-isConceivabilityAGuideToPossibility\.pdf"/href="https:\/\/doi\.org\/10\.2307\/2108052"/g
 
 # and just to clean up any link text for [[local:directly_named]] files
 s/>local:zz\.texts[^> ]*\/([^/]+)\.pdf</>\1</g
