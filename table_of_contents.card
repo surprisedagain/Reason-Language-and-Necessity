@@ -15,8 +15,8 @@ why they are unsatisfactory.
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#loss of confidence in Analytic accounts of knowledge of necessary truths|Loss of confidence in Analytic accounts of knowledge of necessary truths]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#three fundamental alternatives|Three fundamental alternatives]]}
 		- {[[collapse_of_traditional_European_accounts_of_reasoning#this work|This work]]}
-	2) {[[initial_objections|Three objections and an apology]]}
-	3) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of knowledge of necessary truths]]} ????
+	2) {[[modern_accounts_of_our_knowledge_of_necessary_truths|Modern accounts of our knowledge of necessary truths]]} ????
+	3) {[[initial_objections|Three objections and an apology]]}
 
 === Confirmation Holism and Semantic Holism ===
 	1) {[[epistemic_bottlenecks]]}
@@ -115,7 +115,7 @@ be properly translated into home language L as that expression.
         
 		- why compactness not incoherent
             - ???? a run through has <q>input/output<q> content but its meaning is
-              not exhausted by that run through. It mayh contribute to other
+              not exhausted by that run through. It may contribute to other
               outputs of the program. Thus even those statements do not face the
               tribunal of eperience on their own. There is a subtlety here that
               easily leds to confusion (see weir1985.againstHolism
@@ -158,20 +158,21 @@ https://www.jstor.org/stable/42920209
 [[[
 do these belong here as a interval/light break
 or do they belong at the end as a variety of problems to be solved
-or present them here as problems and themn show that they are solved (this is
-russells approach in on denoting)
+or present them here as problems and then show that they are solved (this is
+Russell's approach in _On Denoting_)
 
-when we convert the statements of a langauge into a logical notation we are
+when we convert the statements of a language into a logical notation we are
 faced with choices. We can render something as a logical truth or as an
-commonly known non-logoicla truth.
-    this sentence I can tell is trtue merely by its (overt) logical structure (A
+commonly known non-logical truth.
+    this sentence I can tell is true merely by its (overt) logical structure (A
     or not A). This other sentence requires empirical investigation. Surely this
     marks an essential difference
 
 attitudes towards logic
 complexity, contingency and IF logics/hypercomputational logics
-but in a sense logic is undeniable, if we wish to capute the range of complexity
-we do. We logic is so solid. mathematics????
+but in a sense logic is undeniable, if we wish to compute the range of complexity
+we do. Why are still left with the question of why logic and mathematics are so
+solid.
     non classical logics - IF pretence to strength
     modal logic - does not exceed the recursively enumerable
 
@@ -181,10 +182,11 @@ Air is a natural kind term too. when did it stop being one
 Putnam and the indeterminacy of translation
 ]]]
 
-= 2nd half - the correct diagnosis =
-STRATEGY: set up a range of problems and then show how one thing (internal
+= 2nd half- looking within =
+*the correct diagnosis* of what we misdisgnose as necerssity
+A STRATEGY: set up a range of problems and then show how one thing (internal
 objects and non-linguistic representation) solve them
-probelms with observation sentences also go here!!!!!! 
+problems with observation sentences also go here!!!!!! 
 ?) Quine's error (1) observation sentences
 how theories are connected to evidence
 there need be no observational terms/sentences
@@ -237,7 +239,7 @@ held by the relevant observer/theorist.
 Not a Cartesian theatre
 The Cartesian theatre is widely understood as a theory of perception. What is
 less widely realised is that it is also connected with an account of
-representation. The inner perceiver, the 
+representation. The inner perceiver,
 To think about objects in the external world is to _imagine_ or be disposed to
 imagine objects on the Cartesian theatre.
 Arrangements of objects on the Cartesian stage is at least one way, perhaps the
@@ -391,20 +393,23 @@ see:
 	[[wn.notes:hawke2011-vanInwagensModalSkepticism]]
 	[[wn.notes:vanInwagen1998-modalEpistemology]]
 	
+
 === why the ancients mistook this for necessary truth ===
 fundamentally evolutionary
 
-in the final stretch of the computer analogy, 
 reason is perhaps
 the earliest known benefits of digitalisation
 
 Is this psychologism? The problem with psychologism is that it gives us no
 reason to beleive that 
 
-Aristotle
 = reasoning =
 reasoning - the interplay between two forms of representation
-dretske analog and digital
+linguistic representations are in fact representations of sentences in the
+public language. Built out of a system which can be viewed as an non-linguistic
+system for predicting what phoneme comes next. A non-linguistic representation
+of linguistic tokens.
+Dretske analog and digital
     I will say that a signal (structure, event, state) carries the information
     that s is F in digital form if and only if the signal carries no additional
     information about s, no information that is not already nested in s’s being
@@ -420,7 +425,6 @@ dretske analog and digital
 
 this is not any more <q>non-conceptual</q> than any other form of
 representation, though it is non-linguistic.
-
 		- Our knowledge of mathematics
 
 If you look into it hard enough, everything is messy
@@ -456,11 +460,14 @@ That we do not like to admit this is that once we open up the scope we do not
 like to admit that we adopt any other. We are always right about the scope of
 possibilities, and it is so wide that we could not be wrong.
 
-		- What of philosophy?
-            - we can see now why reasoning is so productive in logic,
-              mathematics, 
-            - MAking ones beliefs manifest in language.
-            - [[deflationary_truth]]
+== whither reason ==
+One way of setting up the problem of reasoning, is to explain why reason is so
+productive in ordinary life, logic and mathematics, and yet so unproductive in
+philosophy. More commonly this is set up as a justification of philosophy.
+In Kant for instance if reason doesnt set up the rules of the game of science
+then how can we adjudicate bwteen different scientific theories?
+    - we can see now why reasoning is so productive in logic,
+      mathematics, ordinary life - so unproductive in philosophy
 
 How to argue.
 It seems that an account of reasoning should provide some positive practical
@@ -470,11 +477,6 @@ arguing both sides of a dispute is one but not the only way of forming an
 opinion. This view of, 
 In fact thinking in words is itself not the only way of forming an
 opinion.
-
-linguistic representations are in fact representations of sentences in the
-public language. Built out of a system which can be viewed as an non-linguistic
-system for predicting what phoneme comes next. A non-linguistic representation
-of linguistic tokens.
 
 may be one way of forming an opinion.
 unsatisfactory position
@@ -488,9 +490,20 @@ this involves finding a common epistemic bottleneck that you can both accept. We
 may disagree over the temperature of the surface of mars, but we can agree that
 the thermometer is showing 110 degrees. Furthermore this
 
+
+== whither philosophy ==
+We are not in a position to explain why
+    - What of philosophy?
+        - MAking ones beliefs manifest in language.
+        - [[deflationary_truth]] (hmm does this belong earlier? Or not at all?)
+
+
+
+
+
 2nd find a theory large enough to encompass. In order to do this you may need to
 alter the spaces mapped to each of your sentences. This will feel like changing
-the meanings of your terms. They dont quite mean what you mean by
+the meanings of your terms. <q>They</q> don't quite mean what you mean by
 <q>socialism</q>
 
 If you suspect your opponent is shifting the connection between
@@ -508,11 +521,29 @@ world. Trying the only plausible way to reconcile the irreconcilable.
 
 then
 the last blank cheque
-=== why the ancients thought this was necessary in the first place ===
 
+=== why the ancients thought this was necessary in the first place ===
+Against a background of changing
+and unpredictable circumstances, the salient success of geometrical proofs in
+reliably producing apparently true beliefs concerning the measurable spatial
+properties and relationships of physical objects, prompted ancient Greek
+philosophers to attempt to explain their success. The hypothesis that the truths
+revealed to us by this method are necessarily true, and that we have an innate
+capacity to distinguish at least some such truths, (and some patterns of
+inference that necessarily preserve truth) appeared to explain a range of
+phenomena. How we acquired such knowledge without empirical investigation. Why
+some truths could be known in this way but not others. Why the results of these
+methods were so much more reliable than beliefs justified by observation.
+Another factor contributing to the spread of this explanation amongst ancient
+Greek philosophers (and those influenced by them) was its consonance with the
+ancient Greek mystical view that the changing world we observe is a shadowy
+illusion, cast by an underlying and unchanging true reality. (A view that
+lingers on in the Christian belief that the bedrock of reality is a
+necessarily existing and unchanging God.)
+
+= END =
 
 == orthogonal trails ==
-This version of work uses some features modern. The outline
 The above outline is not the only sequence is . The following are subsequences
 which may be useful to some.
 
@@ -520,5 +551,3 @@ The Chief propnent famous for introducing the notion of semantic holism to 20th
 century philosophy
 == [[quines_errors_trail]] ==
     
-
-

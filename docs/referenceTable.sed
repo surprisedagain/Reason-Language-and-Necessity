@@ -13,7 +13,6 @@
 
 
 
-
 # chisholm1966-truthsOfReason.pdf https://n2t.net/ark:/13960/t2h78286r
 s/href="[^"]*zz.texts[^"]*\/chisholm1966-truthsOfReason\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t2h78286r"/g
 
@@ -22,6 +21,9 @@ s/href="[^"]*zz.texts[^"]*\/collection2002-conceivabilityPossibility\.pdf"/href=
 
 # collection2016-modalEpistemologyAfterRationalism.pdf https://doi.org/10.1007/978-3-319-44309-6
 s/href="[^"]*zz.texts[^"]*\/collection2016-modalEpistemologyAfterRationalism\.pdf"/href="https:\/\/doi\.org\/10\.1007\/978-3-319-44309-6"/g
+
+# collection2017-theActualAndThePossible.pdf https://doi.org/10.1093/oso/9780198786436.001.0001
+s/href="[^"]*zz.texts[^"]*\/collection2017-theActualAndThePossible\.pdf"/href="https:\/\/doi\.org\/10\.1093\/oso\/9780198786436\.001\.0001"/g
 
 # adriaenssen2017-representationScepticismAquinasToDescartes.pdf https://doi.org/10.1017/9781316855102
 s/href="[^"]*zz.texts[^"]*\/adriaenssen2017-representationScepticismAquinasToDescartes\.pdf"/href="https:\/\/doi\.org\/10\.1017\/9781316855102"/g
@@ -103,6 +105,9 @@ s/href="[^"]*zz.texts[^"]*\/quine1960-wordAndObject\.pdf"/href="https:\/\/doi\.o
 
 # quine1978-webOfBelief.pdf https://n2t.net/ark:/13960/t1dk2zh8k
 s/href="[^"]*zz.texts[^"]*\/quine1978-webOfBelief\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t1dk2zh8k"/g
+
+# russell1903.1905-collectedPapersVol4.pdf https://doi.org/10.4324/9781003557364
+s/href="[^"]*zz.texts[^"]*\/russell1903\.1905-collectedPapersVol4\.pdf"/href="https:\/\/doi\.org\/10\.4324\/9781003557364"/g
 
 # russell1905-onDenoting.pdf https://doi.org/10.1093/mind/xiv.4.479
 s/href="[^"]*zz.texts[^"]*\/russell1905-onDenoting\.pdf"/href="https:\/\/doi\.org\/10\.1093\/mind\/xiv\.4\.479"/g
