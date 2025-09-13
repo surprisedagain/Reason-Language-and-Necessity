@@ -12,7 +12,6 @@
 # sed formula
 
 
-
 # chisholm1966-truthsOfReason.pdf https://n2t.net/ark:/13960/t2h78286r
 s/href="[^"]*zz.texts[^"]*\/chisholm1966-truthsOfReason\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t2h78286r"/g
 
@@ -48,6 +47,9 @@ s/href="[^"]*zz.texts[^"]*\/daly2017-persistentPhilosophicalDisagreement\.pdf"/h
 
 # darcy1903-aquinasEpistemology.pdf https://www.jstor.org/stable/4544136
 s/href="[^"]*zz.texts[^"]*\/darcy1903-aquinasEpistemology\.pdf"/href="https:\/\/www\.jstor\.org\/stable\/4544136"/g
+
+# dennett2017-aHistoryOfQualia.pdf https://doi.org/10.1007/s11245-017-9508-2
+s/href="[^"]*zz.texts[^"]*\/dennett2017-aHistoryOfQualia\.pdf"/href="https:\/\/doi\.org\/10\.1007\/s11245-017-9508-2"/g
 
 # descartes1-philosophicalWritings.pdf https://doi.org/10.1017/CBO9780511805042 
 s/href="[^"]*zz.texts[^"]*\/descartes1-philosophicalWritings\.pdf"/href="https:\/\/doi\.org\/10\.1017\/CBO9780511805042"/g
