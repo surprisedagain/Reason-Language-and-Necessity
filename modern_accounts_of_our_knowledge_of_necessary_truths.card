@@ -1,5 +1,16 @@
 [[table_of_contents#Introduction|introduction]] : 2<br>
 :draft0.3:
+    [: Analytic philosophy suffers from a triple failure of confidence,
+    especially among younger philosophers. People are not confident it can solve
+    its own problems, not confident that it can be modified so as to do better
+    on that first score, and not confident its problems are worth solving in the
+    first place. The first two problems are resultant from internal pressures,
+    the latter a mix of internal and external. However, there is no successor
+    paradigm in a position to really take advantage of this weakness, and so the
+    field listlessly drifts on, anxious and insecure and filled with
+    self-recriminations.<br>
+    (Liam Kofi Bright, [[https://sootyempiric.blogspot.com/2021/05/the-end-of-analytic-philosophy.html|_The End of Analytic Philosophy_]], 2021) :]
+
    = modern accounts of our knowledge of necessary truths =
 === building upon modern philosophy's progress ===
 One immediate, though circumstantial, reason for rejecting modal skepticism out
@@ -10,18 +21,18 @@ traditions all held concerning the ultimate foundations of philosophical
 enquiry.  Ever since Aristotle, Anglo-European philosophers have overwhelmingly
 agreed that some statements are necessarily true and we can know them to be so.
 Standout examples include: <q>2 + 2 = 4</q>, <q>All bachelors are unmarried</q>
-and <q>The internal angles of any Euclidean triangle are together equal
-to two right angles in magnitude.</q> In a field notorious for intractable
-disagreements, the claims that such statements are necessarily true, that we can
-be justified in believing them with absolute certainty and that such
-justification depends upon our capacity to discern that they are necessarily
-true have been among the few philosophical claims on which the vast majority of
-Anglo-European philosophers have agreed. Modal skepticism rejects all of them.
+and <q>The internal angles of any Euclidean triangle are together equal to
+two right angles in magnitude.</q> In a field notorious for intractable
+disagreements, the vast majority of Anglo-European philosophers have agreed that
+such statements are necessarily true, that we can be justified in believing them
+with absolute certainty and that such justification depends upon our capacity to
+discern that they are necessarily true. According to modal skepticism, all these
+claims are false.
 
-In particular, modal skepticism seems to require a dim view of _modern_
+Modal skepticism thus appears to require a dim view of _modern_
 European philosophy. After all, if modern philosophy's dominant movements were
 based around attempts to explain the basis of our knowledge of necessary truths,
-and _there are no such truths_, then it appears that even on the most charitable
+and _there are no such truths_, then it seems that even on the most charitable
 interpretations, much of modern philosophy will have to be dismissed as
 misguided. If this appearance was correct, and modal skepticism required
 regarding the central projects of modern philosophy as illusory, that would be
@@ -35,7 +46,7 @@ Those who regard determining the foundations of our knowledge of necessary
 truths as just one more philosophical problem among many, are required to hold a
 far more pessimistic view of the history of modern European philosophy than
 modal skeptics. If the problem of determining the basis of our knowledge of
-necessary truths is regarded as merely the parochial concern of two
+necessary truths is regarded as merely the parochial concern of a couple of
 Anglo-European philosophical traditions; If the claim that this problem is the
 fundamental problem of philosophy, an indispensable prolegomena to placing other
 philosophical projects on <q>the secure path of a science</q>((A phrase that occurs _fourteen times_ in Kant's [[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf|_Critique_]])), is regarded as
@@ -47,7 +58,7 @@ resolving other philosophical issues, must be viewed as entirely misguided.
 There are now growing numbers of philosophers who dismiss the justification of
 our knowledge of necessary truths as a parochial concern. A concern arising from
 the assumptions of specific philosophical traditions, and of little interest to
-those who do not accept the framework within which those traditions operated.
+those who do not accept the framework in which those traditions operated.
 Such views possess the appealing merit of allowing philosophers to move on in
 the absence of a satisfactory solution. Further engagement can be derided as
 foolish; the naïve pursuit of <q>answers of a kind that the experience of
@@ -65,15 +76,16 @@ the last four hundred years has been a sort of delusion.
 Rationalism requires an almost equally pessimistic view of modern philosophy. If
 rationalism is true, then modern philosophers' attempts to explain how we can be
 both reasoning beings and creatures whose observable actions <q>conform
-necessarily to natural law</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])) are as quixotic as alchemists' attempts to
-transmute lead into gold. Where alchemists failed to distinguish between
+necessarily to natural law</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])) will have been as quixotic as alchemists' attempts
+to transmute lead into gold. Where alchemists failed to distinguish between
 chemical and nuclear reactions, philosophers will have failed to distinguish
 between natural and unnatural causes; and like alchemists, in their ignorance
 they will have devoted themselves to an impossible task. Dazzled by scientific
 successes, modern philosophers will have been drawn into falsely believing that
 explanations of our capacity to reason must fit within scientific constraints;
-and it is only once they are freed of such <q>scientism</q> that genuine
-progress in understanding the human capacity to reason will once more be made.
+and it is only once they are freed of the <q>scientism</q> that has dominated
+philosophy since Descartes, that genuine progress in understanding the human
+capacity to reason will once more be made.
 
 Those who only regard _Analytic_ philosophers' attempts to explain our knowledge
 of necessary truths (by appealing to our knowledge of the meanings of
@@ -87,15 +99,16 @@ dead-end was a mistaken commitment to scientism, naturalism, colonialism or
 simply the linguistic turn itself.)
 
 ==== modal skepticism comparatively positive ====
-By contrast, the form of modal skepticism urged in this work offers a far more
+The form of modal skepticism urged in this work offers a far more
 positive view of modern philosophy. On this view the leading philosophers of
 the European Enlightenment(:Including Descartes, Locke, Leibniz, Berkeley, Hume and Kant among many others:) correctly identified the fault line between the
 traditional account of reasoning and the new scientific discoveries. The
 capacity to reason _as traditionally described_ cannot be thought of <q>as the
 property of a being to which I attribute effects in the world of sense</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])).
-As Hume and Kant claimed, there is a fundamental conflict between viewing
+As Hume and Kant both noted, there is a fundamental conflict between viewing
 ourselves as agents who exercise reason in choosing our actions, and as systems
-whose observable behaviour conforms to natural laws.
+whose observable behaviour conforms to the natural laws revealed to us by
+scientific enquiry.
 
 According to the view urged here, enlightenment philosophers were also right in
 taking explaining our justification for believing putatively necessary truths as
@@ -116,19 +129,19 @@ system) could capture those patterns of inferences and hence that they must be
 due to a conceptual/intuitional structure in the human mind unlike anything in
 the natural world. Hence, it was also reasonable for him to suppose that as well
 as the objects described in our scientific theories on the basis of our
-observations, there must also be another kind of object (or aspects of the same
-objects) that were inaccessible to empirical scientific investigation that might
-include reasoning agents.
+observations, there must also be another kind of object (or other aspects of the
+same objects) that were inaccessible to empirical scientific investigation that
+might include reasoning agents.
 
 According to the view advanced here, Analytic philosophers were also right in
 their assessment that Kant's explanation of our knowledge of necessary truths
 was inadequate, and right also in the orthodox positive doctrines concerning our
 knowledge of necessary truths that they offered in its place. In the wake of the
-collapse of the Analytic project, it has become easy for those who wish to throw
-off the strictures Analytic philosophers sought to impose on philosophical
-practice, to deny that Analytic philosophy was bound together by positive
-doctrines at all. Instead claiming that Analytic philosophy was only unified by
-stylistic similarities and the rejection of Kantian and Hegelian approaches to
+collapse of the Analytic project, it has become easy for those who wish to
+reject the strictures Analytic philosophers sought to impose on philosophical
+practice to deny that Analytic philosophy was bound together by positive
+doctrines at all. Instead claiming that it was only ever unified by
+stylistic similarities and opposition to Kantian and Hegelian approaches to
 philosophy.  By contrast, on the present view, not only was the belief that
 appeals to meaning and representation offered the only hope of reconciling
 naturalism with our possession of knowledge of necessary truths an orthodoxy
@@ -140,18 +153,19 @@ take or the sorts of sentences it should count among its theorems) nor an agreed
 account of how to distinguish analytic truths. No account of analyticity or the
 logical/conceptual structure supposed to be revealed by logical/conceptual
 analysis was ever widely held to be satisfactory. Nevertheless, Analytic
-philosophers did widely hold that a satisfactory account would explain our
-knowledge of necessary truths, and that it was only by such means that our
-possession of such knowledge could be explained.
+philosophers did widely hold that a satisfactory account of meaning would
+explain our knowledge of necessary truths, and that it was only by such means
+that our possession of such knowledge could be explained. In the later,
+according to the view urged here, they were right.
 
 Finally, according to the view defended here, Quine's arguments against the
 analytic-synthetic distinction are good. There is compelling reason to accept
-the indeterminacy of translation, and that (despite rumours to the contrary)
-gives good reason to reject the claim that individual sentences have meanings;
-and hence to abandon the claim that some sentences are analytic and some pairs
-of sentences synonymous. However, as is often the case with fundamental
+the indeterminacy of translation, and that gives us good reason to reject the
+claim that individual sentences have meanings; which in turn gives us good
+reason to abandon the claim that some sentences are analytic and some pairs of
+sentences synonymous.  However, as is often the case with fundamental
 discoveries(:In [[https://n2t.net/ark:/13960/t9280t31d|_La Géométrie_]], for instance, Descartes never uses co-ordinate systems with perpendicular axes.:), Quine's initial formulation of these semantic doctrines
-is convoluted, and his arguments obscure (as evidenced by the
+is convoluted, and his arguments for them obscure (as evidenced by the
 plethora of conflicting interpretations of his arguments((see [[local:zz.texts/zz.referenceOnly/grice1956-inDefenseOfADogma.pdf|Grice, 1956]]; [[https://n2t.net/ark:/13960/t0gv3gf5x|Putnam, 1983]]; [[https://n2t.net/ark:/13960/s2m2f4p1c92|Fodor and Lepore, 1992]]; [[local:zz.texts/zz.referenceOnly/boghossian1996-analyticityReconsidered.pdf|Boghossian, 1996]] and [[local:zz.texts/zz.referenceOnly/sher1999-isThereAPlaceForPhilosophyInQuinesTheory.pdf|Sher, 1999]] among many, many others.))&zwj;). The first positive
 objective of the current work is to present good arguments for these doctrines
 and show why their conclusions are true. The question of whether the arguments
@@ -163,29 +177,29 @@ inspired by them, is one which semantic holism teaches us has no answer.
 Of course, this view still requires attributing some widespread and fundamental
 philosophical errors. If modal skepticism is correct then clearly the ancient
 Aristotelian account of knowledge and reasoning is false. Equally clearly, for
-rejection to be plausible it must be accompanied with an alternative explanation
-of our reasoning capacity, why it leads to forming the beliefs it does, and why
-those beliefs are so often justified. However, the additional burden, of
-explaining why the ancients came up with their supposedly false theory of
-reasoning is comparatively light.
+this rejection to be plausible it must be accompanied with an alternative
+explanation of our reasoning capacity, why it leads to forming the beliefs it
+does, and why those beliefs are so often justified. However, the additional
+burden of explaining why the ancients came up with their supposedly false
+theory of reasoning, is comparatively light.
 
-Even if, like the Aristotelian account of perception with which it coheres,  the
-traditional Aristotelian account of knowledge and reasoning is mistaken, it is
-easy to understand its appeal. Humans frequently construct and use
+Even if, like the Aristotelian account of perception with which it coheres, the
+traditional Aristotelian account of knowledge and reasoning is mistaken, its
+appeal is easily grasped. Humans frequently construct and use
 representations that share some of the properties of the objects they represent.
 We use colour swatches to represent the colour paint will have once applied, we
 put our hands a certain distance apart to represent the distance between
 objects. Such representations not only share properties with their subjects,
-they represent them as _having_ those properties. This naturally gives rise to a
-naive theory of mental representation viz., that mental objects possess the very
-properties that they represent external objects as having. (Indeed, as Dennett
-has noted(([[local:zz.texts/dennett2017-aHistoryOfQualia.pdf]])), most people find it deeply counter-intuitive to reject this view.)
-This, in turn, gives rise to the view that in reasoning we are manipulating
-mental objects with the very same properties as the objects they represent and
-can hence discover the modal relationships between those properties. Not only
-was this view compatible with the ancient Greeks' limited knowledge of the
-physiology of human perceptual and cognitive processes, it also provided an
-elegant explanation of the success of geometry.
+they represent them as _having_ those shared properties. This naturally gives
+rise to a naive theory of mental representation according to which mental objects
+possess the very properties that they represent external objects as having.
+(Indeed, as Dennett has noted(([[local:zz.texts/dennett2017-aHistoryOfQualia.pdf]])), most people find it deeply counter-intuitive to
+reject this view.) This, in turn, gives rise to the view that in reasoning we
+are manipulating mental objects with the very same properties as the objects
+they represent and can hence discover the modal relationships between those
+properties. Not only was this view compatible with the ancient Greeks' limited
+knowledge of the physiology of human perceptual and cognitive processes, it also
+provided an elegant explanation of the success of geometry.
 
 What is more difficult to explain is why the traditional account of reasoning
 has proven so much more resistant to correction than the traditional Aristotelian
@@ -198,18 +212,19 @@ proven so resistant to revision?
 
 ===== ... and modern =====
 This question becomes even more pressing when we consider the fundamental errors
-the current view requires us to attribute to modern philosophers. Despite the
+the current view requires us to attribute to recent(:i.e. since about 1960:) philosophers. Despite the
 obscurity of his arguments, the moral Quine drew from his rejection of the
 analytic-synthetic distinction was absolutely clear: at most, the distinction
-between necessary and contingent truths marked a difference in our willingness
-to consider revising them, and modal idioms had no part to play in our best
+between necessary and contingent truths only marked a difference in our willingness
+to consider rejecting them, and modal idioms had no part to play in our best
 theories of the world. Like talk of sakes(([[local:zz.texts/quine1960-wordAndObject.pdf]], search <q>sakes</q>)), holes((This case belongs to Quine's student David Lewis.  See https://doi.org/10.1080/00048407012341181 which may be taken as a playful attempt to apply Quine's standard for postulation to an interesting though everyday case. Though Quine did not declare a position on the existence of holes, they certainly feature in our everyday language, lack exhaustive identity conditions, and do not feature in our scientific theories.)) and meanings, talk of
 possibilities might play a useful (even indispensable) role in casual
-conversation, but it did not sufficiently engage the machinery  of existential
-quantification to count as postulating their existence. Unlike statements of our
-best scientific theories, expressed in our most austere adequate notation, the
-truth values we attribute to modal claims (such as <q>If Caesar were in command,
-he would use catapults</q>(([[local:zz.texts/quine1960-wordAndObject.pdf]]))&zwj;) depend upon passing interest and rhetorical purpose.
+conversation, but it did not sufficiently engage the machinery of existential
+quantification to count as postulating their existence. Unlike the statements
+of our best scientific theories, expressed in our most austere adequate
+notation, the truth values we attribute to modal claims (such as <q>If Caesar
+were in command, he would use catapults</q>(([[local:zz.texts/quine1960-wordAndObject.pdf]]))&zwj;) depend upon our passing interest
+and rhetorical purposes.
 
 The bulk of modern philosophers, when confronted by Quine's criticism of the
 analytic-synthetic distinction, drew the reverse lesson. Instead of
@@ -221,12 +236,27 @@ traditional Aristotelian account of knowledge, philosophers renewed their
 commitment to the claim that we possess a capacity to discern the modal
 structure of the world. Rather than rejecting modal idioms, they rejected the
 limitations on claims to knowledge of necessary truths that Analytic
-philosophers had sought to impose. The result, as described in Part 1, was a
+philosophers had sought to impose. The result, as we saw in Part 1, was a
 revival of Aristotelian essentialism and reassertion of modal realism that
 reshaped the discipline.
 
-The influence of Quine's rejection of the analytic-synthetic distinction
-extended well beyond changing attitudes to modality. With the collapse of the
+By the lights of the view urged here, philosophers fell short of the dictum
+often attributed to Churchill((https://quoteinvestigator.com/2012/11/11/exhaust-alternatives/)) and failed to do the right thing even
+after exhausting the other alternatives. At the critical juncture, when
+the last remaining way of reconciling naturalism with our possession of
+knowledge of necessary truths was discredited, the grip of the traditional
+account of reasoning proved too strong. With no plausible alternative
+to replace it, the threat of intellectual self-annihilation
+posed by its rejection appeared too great. Instead of rejecting this ancient
+account, philosophers abandoned the project of reconciliation. Instead they
+championed some form of rationalism, dismissed this project as the parochial
+concern of a particular philosophical tradition or simply (and quietly) moved on
+to other topics. In less than fifty years the hard-won progress modern European
+philosophy had made over four centuries came to be widely regarded as either
+misguided or obsolete.
+
+The effect of Quine's rejection of the analytic-synthetic distinction
+went well beyond changing attitudes to modality. With the collapse of the
 Analytic project came a broader loss of cohesion. As confidence in
 a shared philosophical method waned, so too did confidence in grand unifying
 projects, contributing to the increased pluralism and fragmentation that now
@@ -236,21 +266,20 @@ philosophical progress _simpliciter_ came to be regarded as dubious, and the
 claim that philosophy has or ever had a central problem was increasingly viewed
 as implausible.
 
-Though these shifts in the philosophical zeitgeist were produced by many
-factors, they were reasonable responses to the collapse of the Analytic project.
-Philosophical projects hinge upon good arguments. The best arguments, according
-the Aristotelian tradition, are those in which it is impossible for the premises
-to be true and conclusion false. But even arguments that give only
-probabilistic, or otherwise tentative support for their conclusions appear (by
-the lights of the traditional account) to do so necessarily. In the absence of
-any widespread agreement as to how we can distinguish good arguments, it was
-natural to rely more heavily upon the accepted principles and methods of the
-particular tradition one operated within.  Within the confines of a particular
-tradition, established principles and methods could be treated as authoritative.
-Shared beliefs and accepted reasoning patterns still allowed practitioners to
-construct arguments that convinced many of their peers, and thus continue to
-achieve a kind of progress, even as broader agreement as to how we distinguished
-good arguments dissolved.
+These shifts in the philosophical zeitgeist were reasonable responses to the
+collapse of the Analytic project. Philosophical projects hinge upon good
+arguments. The best arguments, according the Aristotelian tradition, are those
+in which it is impossible for the premises to be true and conclusion false. But
+even arguments that give only probabilistic, or otherwise tentative support for
+their conclusions do so (at least by the lights of the traditional account)
+necessarily. In the absence of any general agreement as to how we distinguish
+good arguments from bad, it was natural to rely more heavily upon the accepted
+principles and methods of the particular tradition one operated within.  Within
+the confines of a particular tradition, established principles and methods could
+be treated as authoritative. Shared beliefs and accepted reasoning patterns
+still allowed practitioners to construct arguments that convinced many of their
+peers, and thus continue to achieve a kind of progress, even as broader
+agreement as to how we distinguished good arguments dissolved.
 
 By any standard this has been an extraordinarily high price to pay to maintain
 the commitment to the claim that reasoning gives us knowledge of necessary
@@ -259,40 +288,64 @@ view of modern philosophy, it also commits us to a future of hyperspecialisation
 in which modelling our inferential patterns replaces explaining their
 justification, and the grand universal projects of modern philosophy are quietly
 sidelined. But if the modal skepticism advocated in this work is correct, then
-this price was paid to preserve an illusion just as we stood on the brink of
-seeing through it.
+this price was paid to preserve an illusion.
 
-By the lights of the view urged here this re-embrace of modal realism, and our
-capacity to gain knowledge of modal truths, has been a fundamental error.  At
-the last moment, despite having gone through eliminated the other alternatives,
-the allure of the traditional account of knowledge won out. Rather than give up 
+==== optimistic history provides only circumstantial support ====
+All of the views just considered – demoting the problem of knowledge of
+necessary truths, positing an unnatural influence on our reasoning or embracing
+modal skepticism – require regarding some portion of mainstream modern
+philosophy as a dead-end from which we must now extract ourselves. Each involves
+a degree of pessimism and attributes fundamental errors to pivotal modern
+philosophers. Of these three, however, modal skepticism is the least
+pessimistic. If it is correct, then mainstream philosophy has only gone astray
+in its reaction to Quine's attack on analyticity; whereas the alternatives
+require one to regard centuries of mainstream modern philosophy as fundamentally
+misguided.
 
-rather than give it up 
+As noted above, for this view to be plausible it must meet the challenge of
+explaining why, if it is false, the traditional account has proven so enduring
+and why, when it came to the crunch, modern philosophers chose to re-embrace the
+doctrine that reasoning gives us knowledge of necessary truths. Even if that
+explanatory burden can be met, the mere fact that this view offers a more
+optimistic history of modern philosophy is at most weak circumstantial evidence
+in its favour. As with any other philosophical position, to determine its merits
+we must consider the quality of the arguments for and against it and of the
+explanations it can offer. Hopefully, however, it is now clear that far from
+rejecting the progress of modern philosophy, the view urged here is built upon
+it.
 
-would give up the coherence and unity of their discipline than 
+== a brief description of the positive argument ==
+Stripped to its barest bones, a historical argument for the main positive theory
+version of the main positive
+argument for the modal skepticism urged in this work is simple. Early modern
+philosophers were right to be concerned about the conflict between
+naturalism and our capacity to gain knowledge of necessary truths. Hume, for
+example, was right when he claimed that necessary connexions have no causal
+influence on the formation of our beliefs and hence we can have no
+knowledge of them; And Kant was right that the objects revealed to us by our
+observations cannot exercise the power of reason (as described in the
+traditional European account of reasoning). The linguistic turn was also
+justified – Analytic philosophers were right that the only necessary truths we
+can gain knowledge of analytic. Finally, Quine was right (though confused and
+unclear) that there is no distinction between analytic and synthetic truths;
+and hence we have no knowledge of necessary truths at all.
 
-Thus this view does require regarding some period within modern philosophy as
-having been spent largely pursuing a dead-end that we must now extract our
-selves from,  but it is a comparatively short period of time. Only the last 50
-years or so, and that in only in a fragmented fashion, often simply for lack of
-any other alternative that would allow academic philosophers to meet the
-obligations imposed by their professional positions.
+This is an inherently weak argument structure, 
 
-If this view is right, then philosophers, and philosophers
-will now be doing 
-On the view urged here philosophers will have done the right thing, rejecting
-the supposed distinction between 
+The bulk of this work consists of outlining
+consequences of confirmation holism, including both the indeterminacy
+ unrecognised
+As for the 
+
+
+
+when finally faced with the prospect of accepting that the traditional acci
 
 Stripped to its barest and least appealing bones, the historical argument for
-this extraordinary conclusion, is that analytic philosophers were rightbased upon the failure of analytic philosophy.
+this extraordinary conclusion, is that analytic philosophers were right
+based upon the failure of analytic philosophy.
 In order to see just how good this argument is, let us begin be reminding
 ourselves
-
-
-Certainly, modal skepticism bears a
-particularly heavy burden of explaining how the diagnosis of our statements as
-necessary and contingent arose and why it has proven so enduring
-
 
 Wheras this work is devoted to providing an alternative account
 the view urged in this work is not so much a reconciliation
@@ -303,36 +356,8 @@ are false, and the consequent??attached??conected diagnsis of some of the truths
 of which we have knowledge (viz., those of which we have kowledge by the
 exercise of pure reason) as _necessary_ is mistaken. The last dominant
 
-
-Although the repudiation of this distinction is profoundly at odds with the
-dominant movements of modern philosophy, which sought to explain our capacity to
-have knowledge of necessary truths
-
-after all these attempts have failed we must simply accept that we have a raw
-and inexplicable intuitive capacity to discern necessary truths and necessary
-relations. A view that may be better described as choosing to live with the
-mystery rather than to try to either provide an explanation or do without.
-the view urged here is that both Kant and his followers and the
-Analytic philosophers who came after them had very good reasons for believing
-that their account of our capacity to reason and gain knowledge of necessary
-truths was the only possible solution. And that when
-
-== conclusion of this initial section of introduction : 2 ==
-
-If none of the solutions work than we have to give up on the fruits of those
-solutions. russell - all the benefits of theft over honest toil.
-
-The view urged here is that we must live within the means that honest toil can
-provide.
-
 In order to see just how appealing
-let us reconsider the path that lead to the development of ANalytic philosophy
-
-for now/the moment/the time being
-we shall put other immediate objections to modal skepticism
-, such as the apparent performative contradictions involved in the ongoing
-flagrant use of modal language and terminology (as exemplified by the opening
-statements of both this and the preceding Part.)
+let us reconsider the path that lead to the development of Analytic philosophy
 
 =========================
 THIS IS WHERE WE RECONNECT WITH PREVIOUS WORK

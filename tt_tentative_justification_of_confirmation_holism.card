@@ -1,0 +1,26 @@
+:idea:
+= a justification for confirmation holism =
+====== short ====== 
+
+====== related to ====== 
+
+= main =
+Say I want to define a predicate true of just the symbol sequences produced by a
+arbitrary given turing machine.
+
+In one sense it can be done - I can define it matching each of the steps in the
+turing machine and be sure that P(xyz) if and only if TM_produces(xyz)
+
+but in another sense I cant - you cant prove equivalence of two turing machines.
+
+But of course the resolution is that you can't in general - there must be
+alternative ways that cannot be shown to be identical. (but there are some you
+can show to be identical)
+
+you can for any specified TM produce the matching predicate, but you cannot in
+general determine that a predicate is true of just the strings produced by a
+given TM
+
+this justifies confirmation holism because ???
+if there were a criteria - say simplicity, which ordered TM (or predicates) and
+for a given TM we could determine that 
