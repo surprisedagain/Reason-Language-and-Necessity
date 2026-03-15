@@ -29,7 +29,7 @@ with absolute certainty and that such justification depends upon our capacity to
 discern that they are necessarily true. According to modal skepticism, all these
 claims are false.
 
-In particular Modal skepticism appears to require a dim view of _modern_
+In particular modal skepticism appears to require a dim view of _modern_
 European philosophy. After all, if modern philosophy's dominant movements were
 based around attempts to explain the basis of our knowledge of necessary truths,
 and _there are no such truths_, then it seems that even on the most charitable
@@ -322,7 +322,7 @@ Although this argument is not very compelling, it has the virtues of being
 clear and brief. The premises of this argument are as follows:
 
 === first premise ===
-    *(HP1)* Early modern philosophers were correct in their diagnosis of a
+    *(HP1)* Early modern philosophers were right in their diagnosis of a
     conflict between naturalism and our capacity to gain knowledge of necessary
     truths.
 
@@ -330,11 +330,11 @@ In particular, Hume was right that necessary connexions have no causal influence
 on the formation of our beliefs and hence we have no knowledge of them.
 He was also right <q>that the understanding, when it acts alone, and according
 to its most general principles, entirely subverts itself</q>(([[local:zz.texts/hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]])).  When we apply the
-general principles of causation to ourselves we see that our beliefs are formed
+general principles of causation to ourselves, we see that our beliefs are formed
 by causal processes that are completely insensitive to modal relationships.
 Although Hume's view that mathematicians' confidence in the conclusions of
 their proofs is but <q>deriv'd from the constant union of causes and effects</q>(([[local:zz.texts/hume1739-treatiseHumanNature.pdf|_Treatise of Human Nature_]]))
-(i.e. the result of repetition strengthening the tendencies of their minds to
+(i.e. the result of repetition strengthening their minds' tendencies to
 proceed from one step to the next) was overly simplistic, he was right that this
 confidence is the result of a modally insensitive causal process rather than
 apprehension of modal relationships between those proofs' steps. By the
@@ -347,8 +347,7 @@ philosophy or common life</q>(([[local:zz.texts/hume1739-treatiseHumanNature.pdf
 So too, Kant was right that our observations cannot justify us in believing that
 the objects around us are reasoning beings (as described in the traditional
 account of reasoning). Natural causal systems, as they appear to us in our
-empirical investigations, do not possess the sensitivity to modal relations
-required of reasoning beings.
+empirical investigations, do not possess the sensitivity to modal relations required of reasoning beings.
 
 (*HP1*) asserts that both Hume and Kant (and, at least until recently, the vast
 majority of the philosophers influenced by them) correctly recognised that there
@@ -356,17 +355,27 @@ is a conflict between naturalism and our traditional understanding of ourselves
 as reasoning beings.
 
 === second premise ===
-    *(HP2)* Early Analytic philosophers were right that if naturalism is true
-    then all explanations of our capacity to gain knowledge of necessary truths
-    are false, apart from those based upon appeals to synonymy, analytic truth
-    and linguistic meaning.
+    *(HP2)* Early Analytic philosophers were right that naturalism can only be
+    reconciled with our possession of knowledge of necessary truths if there is
+    a distinction between analytic and synthetic truths.
 
-Expressed more directly, though in superficially modal terms, *(HP2)*
-asserts that early analytic philosophers were right that naturalism
-can only be reconciled with our possession of knowledge of necessary truths by
+A defect in this formulation of *(HP2)*, at least for our purposese, is that it
+contains the apparently modal phrase <q>can only be reconciled</q>.
+This phrase, however, may be viewed as a mere gloss hinting at the reasons for
+inferring the consequent from the antecedent.  At the cost of losing these hints
+(and some elegance) *(HP2)* may be rendered as the following: <q>Early Analytic
+philosophers were right that if naturalism is true and we possess knowledge of
+necessary truths then there is a distinction between analytic and synthetic
+truths</q>. While this paraphrase is straightforwardly non-modal, it departs
+more from the spirit of Analytic philosophy, whose early adherents still hoped
+that a naturalistic account of our knowledge of necessary truths would be
+forthcoming and hence had to reason to avoid modal terminology.
+
+*(HP2)* asserts that early analytic philosophers were right that naturalism can
+only be reconciled with our possession of knowledge of necessary truths by
 appealing to a natural capacity to discern statements that are true by virtue of
 meaning alone. (Meanings that we become acquainted with in the natural process
-of learning language.) If *(HP2)* is correct, then 20th century philosophy's
+of learning a language.) If *(HP2)* is correct, then 20th century philosophy's
 linguistic turn was warranted. The only plausible natural basis for our
 knowledge of necessary truths lay in the meanings of our terms, and hence it was
 only proper for those seeking the foundations of our capacity to reason to turn
@@ -403,77 +412,127 @@ words, if 'a' and 'b' and rigid designators then the statement <q>If a is
 identical to b then a is necessarily identical to b</q> follows from the
 semantic properties of 'a' and 'b' (and of course the other terms this
 statement contains). But this is simply to say that this _a priori_ necessity is
-an analytic truth.
+analytic.
 
-If appeals to meaning successfully explain both our justification for believing
-the relevant _a priori_ necessities, and for believing the relevant deductive
-arguments preserve truth(:e.g. if such arguments correspond to analytically true conditional statements:), then they also explain our knowledge of the
-_a posteriori_ necessities deduced from those premises(:together with obvious contingent _a posteriori_ truths to which our epistemic access is already explained.:)
-*even if they aren't analytic*.
+Contrary to popular belief the mere existence of contingent _a posteriori_
+necessities does not show that we have some form of epistemic access to
+necessity other than via analyticity. If appeals to meaning successfully explain
+both our justification for believing the relevant _a priori_ necessities, and
+for believing the relevant deductive arguments preserve truth(:e.g. if such arguments correspond to analytically true conditional statements:), then they
+also explain our knowledge of the _a posteriori_ necessities deduced from
+them(:together with obvious contingent _a posteriori_ truths to which our epistemic access is already explained.:) *even if they aren't analytic*.
 
 Of course, this defence does not provide a positive reason for accepting
 *(HP2)*; it shows only that an influential objection does not eliminate it at
 the outset and hence that it may be worth further consideration. Later in this
 chapter we will sketch the path that led modern philosophers to accept *(HP2)*
-and evaluate their reasons for doing so. Now, however, let us turn to the next
-premise.
+and evaluate their reasons for doing so. Now, however, let us turn to the
+arguments next premise.
 
 === third premise ===
-    *(HP3)* Quine was right that there are no analytic truths.
+    *(HP3)* Quine was right that there is no distinction between analytic and
+    synthetic truths.
 
-Quine famously proclaimed that the <q>belief in some fundamental cleavage
+Quine famously proclaimed <q>belief in some fundamental cleavage
 between truths that are _analytic_, or grounded in meanings independently of
 matters of fact, and truths that are _synthetic_, or grounded in
-fact</q>(([[local:zz.texts/quine1953-fromALogicalPointOfView.pdf]])) was <q>an unempirical dogma of empiricists, a metaphysical article of
-faith</q>, which (setting aside the rhetorical flourishes) is to say that it is
-false. *(HP2)* asserts that Quine's claim is true: there are no analytic truths,
-no statements are true by virtue of meaning alone and there is no 
-distinguishable class of statements which must be held true on pain of
+fact</q>(([[local:zz.texts/quine1953-fromALogicalPointOfView.pdf]])) to be <q>an unempirical dogma of empiricists, a metaphysical article of
+faith</q>(([[local:zz.texts/quine1953-fromALogicalPointOfView.pdf|_ibid_.]])). Setting aside the rhetorical flourishes, this is to say that the
+belief is false. *(HP2)* asserts that Quine's proclamation is true: there are no
+analytic truths, no statements are true by virtue of meaning alone and there is
+no distinguishable class of statements which must be held true on pain of
 linguistic incompetence or whose truth is guaranteed by linguistic propriety.
 
 === fourth premise ===
     *(HP4)* Naturalism is true.
 
 The fourth and final premise of this argument is a straightforward scientific
-claim. It would be falsified by the measurement of a single electron in the human
-brain whose movements (or some other aspect of its behaviour) diverged from
-those predicted by our physical theories, a chemical reaction anywhere in our
-physiology whose products other than those predicted in our chemists or a
-statistical variation in the outcomes of the subatomic reactions somewhere
-within our bodies as compared to those occurring outside the physiologies of
-thinking(:and/or conscious:) beings. If the same laws which we discover hold
-over the objects, events and/or processes that we observe in the world around us
-(which is to say outside the )
-If there is some causal influence at play in the processes by which we form our
-beliefs and make our decisions
+claim. If naturalism is false then there is some causal influence at play in the
+processes forming our beliefs and producing our actions which is absent from the
+unthinking world around us. If naturalism is true, then cognition is continuous
+with the rest of nature – the same fundamental theories that successfully
+predict the behaviour of stones and stars also apply to thinking beings like us.
+Although the complexity of the physical structures grounding our cognitive
+capacities is staggering and the details are as yet unknown, no additional
+causal influences are involved in our capacity to reason.
 
-between the outcomes or any
-other rmeasurebly whose movements
-varied from predicted by the physical laws that successfully, a chemical
-reaction that if some other
+Naturalism would be falsified by the well attested observation of a
+particle within our bodies whose behaviour diverged from that predicted by our
+otherwise successful physical theories, a chemical reaction anywhere in our
+physiology whose products were other than those predicted in our otherwise
+successful theories of chemistry or a statistical variation in the outcomes of
+the subatomic reactions within our bodies as compared to those occurring outside
+the physiologies of reasoning beings. To date there are no plausible reports of
+any such divergences.
 
-The theory that there is some unnatural causal influence 
-If there is some causal influence over our belief formation and decision making
-processes unlike those to be found 
+=== conclusion ===
+    *(HC)* We do not possess knowledge of necessary truths
+
+As with *(HP1)* and *(HP2)*, the phrase <q>knowledge of necessary truths</q>
+makes *(HC)* ambiguous. *(HC)* may be read either as denying that we know any
+truths that are necessary, or as denying that we know of any statement that it
+is a necessary truth. Hopefully it is clear by now that the latter is the
+intended interpretation. The conflict diagnosed by Kantian and early analytic
+philosophers early modern philosophers was between our scientific understanding
+of ourselves as physical systems and our knowledge that various statements were
+necessarily true.  As Kant put it in his _Critique_, <q>experience does indeed
+teach us that something is thus or thus, but not that it cannot be
+otherwise</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])).
+
+== evaluating the historical argument ==
+Put together, the historical argument reads as follows:
+    *(HP1)* Early modern philosophers were right in their diagnosis of a
+    conflict between naturalism and our capacity to gain knowledge of necessary
+    truths.
+    *(HP2)* Early Analytic philosophers were right that naturalism can only be
+    reconciled with our possession of knowledge of necessary truths if there is
+    a distinction between analytic and synthetic truths.
+    *(HP3)* Quine was right that there is no distinction between analytic and
+    synthetic truths.
+    *(HP4)* Naturalism is true.
+    *(HC)* We do not possess knowledge of necessary truths
+
+In a work of popular philosophy, one intended to communicate philosophers'
+professional opinions to a general audience, it might be acceptable to advance
+such an argument. A work of popular philosophy expressing this particular
+argument would be _misleading_; for although the fourth premise, and each of the
+views attributed in the first three, have been orthodoxies of a dominant
+philosophical movement, almost no reputable philosophers have accepted all four
+of them, and thus far only Quine(:Peter van Inwagen not withstanding.:) has accepted the conclusion.  But in such a
+work it would not be _improper_ to mention that these views had been held by the
+members of modern philosophies dominant movements as part of the reason to
+believe that the conclusion is true.
+
+This, however, is not a work of popular philosophy and its purpose is not to
+report philosophers' opinions but to change them. The norms currently governing
+academic philosophy require claims to be supported by arguments rather than
+survey results or appeals to popularity. Thus, even though each of the premises
+of this argument has already been asserted in this work, and the truth of the
+premises does provide good reason for believing the conclusion, it is not the
+main argument of this work.
+
+Hopefully, however, this argument is enough to prevent us from rejecting modal
+skepticism at the outset. Rejecting any of the argument's premises requires
+regarding much of modern philosophy as misguided and based upon fundamental
+falsehoods. This is not enough to establish that the conclusion is true, but if
+we are guided by the opinions of earlier eminent philosophers, it does warrant
+taking the time and effort to consider modal skepticism more closely. 
+
+=== historical elements not the only defect ===
+Even though the mention of the various historical movements whose members held
+these views is, at best irrelevant
+
+even with these elements stripped out, 
+
+the
+<q>historical</q> elements of these premises, the attributions
 
 
-Belief in this final premise is not merely justified by a kind of occam's razor.
-By the
-
-
-
-
-Wheras this work is devoted to providing an alternative account
-the view urged in this work is not so much a reconciliation
-
-Analytic philosophy
-showing that traditional accounts of reasoning
-are false, and the consequent??attached??conected diagnsis of some of the truths
-of which we have knowledge (viz., those of which we have kowledge by the
-exercise of pure reason) as _necessary_ is mistaken. The last dominant
 
 In order to see just how appealing
 let us reconsider the path that lead to the development of Analytic philosophy
+
+Still, why modern/analystic/kantian philosophers thought that our 
 
 =========================
 THIS IS WHERE WE RECONNECT WITH PREVIOUS WORK
