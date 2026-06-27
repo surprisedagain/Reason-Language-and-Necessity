@@ -15,7 +15,7 @@
 === building upon modern philosophy's progress ===
 One immediate, though circumstantial, reason for rejecting modal skepticism out
 of hand is that it seems to require an implausibly pessimistic attitude towards
-of the history of European philosophy. Modal skepticism requires the rejection
+the history of European philosophy. Modal skepticism requires the rejection
 of principles that pre-eminent members of the Scholastic, Kantian and Analytic
 traditions all held concerning the ultimate foundations of philosophical
 enquiry. Ever since Aristotle, Anglo-European philosophers have overwhelmingly
@@ -73,7 +73,7 @@ projects were built. If modern philosophers were wrong on both these points then
 the problem at the centre of Anglo-European philosophy's dominant movements for
 the last four hundred years has been a sort of delusion.
 
-==== rationalism requires almost as pessimistic ====
+==== rationalism almost equally pessimistic ====
 Rationalism requires an almost equally pessimistic view of modern philosophy. If
 rationalism is true, then modern philosophers' attempts to explain how we can be
 both reasoning beings and creatures whose observable actions <q>conform
@@ -319,7 +319,7 @@ it.
 The comparatively optimistic view of modern philosophy's history just outlined
 can be distilled into a more or less historical argument for modal skepticism.
 Although this argument is not very compelling, it has the virtues of being
-clear and brief. The premises of this argument are as follows:
+clear and brief. The argument's premises are as follows:
 
 === first premise ===
     *(HP1)* Early modern philosophers were right in their diagnosis of a
@@ -363,13 +363,13 @@ A defect in this formulation of *(HP2)*, at least for our purposese, is that it
 contains the apparently modal phrase <q>can only be reconciled</q>.
 This phrase, however, may be viewed as a mere gloss hinting at the reasons for
 inferring the consequent from the antecedent.  At the cost of losing these hints
-(and some elegance) *(HP2)* may be rendered as the following: <q>Early Analytic
+(and some elegance) *(HP2)* may be rendered as the following: “Early Analytic
 philosophers were right that if naturalism is true and we possess knowledge of
 necessary truths then there is a distinction between analytic and synthetic
-truths</q>. While this paraphrase is straightforwardly non-modal, it departs
+truths”. While this paraphrase is straightforwardly non-modal, it departs
 more from the spirit of Analytic philosophy, whose early adherents still hoped
 that a naturalistic account of our knowledge of necessary truths would be
-forthcoming and hence had to reason to avoid modal terminology.
+forthcoming and hence had no reason for avoiding modal terminology.
 
 *(HP2)* asserts that early analytic philosophers were right that naturalism can
 only be reconciled with our possession of knowledge of necessary truths by
@@ -379,12 +379,13 @@ of learning a language.) If *(HP2)* is correct, then 20th century philosophy's
 linguistic turn was warranted. The only plausible natural basis for our
 knowledge of necessary truths lay in the meanings of our terms, and hence it was
 only proper for those seeking the foundations of our capacity to reason to turn
-to semantics and the philosophy of language.
+to semantics and philosophy of language.
 
 A major reason this claim has fallen into disrepute is
 that Putnam’s and Kripke’s putative _a posteriori_ necessities
 are currently taken to be decisive counterexamples. However, as we saw in [[collapse_of_traditional_European_accounts_of_reasoning#_a posteriori_ necessities neither undermine analytic accounts of knowledge of necessary truths nor suggest an alternative|Chapter 1]],
-while these examples do show that there are non-analytic necessary(:Or rather that if there are any necessary truths then there are some non-analytic oens among them.:) truths,
+while these examples do show that if we have knowledge of necessary truths at
+all then we have knowledge of some non-analytic necessary truths,
 they do not provide any reason for believing that our knowledge of those truths
 cannot be explained by appeals to analyticity. Putnam and Kripke justified
 belief in their _a posteriori_ necessities by _deducing_ them from a combination
@@ -414,8 +415,8 @@ semantic properties of 'a' and 'b' (and of course the other terms this
 statement contains). But this is simply to say that this _a priori_ necessity is
 analytic.
 
-Contrary to popular belief the mere existence of contingent _a posteriori_
-necessities does not show that we have some form of epistemic access to
+Contrary to popular belief, the mere existence of contingent _a posteriori_
+necessities does not prove that we have some form of epistemic access to
 necessity other than via analyticity. If appeals to meaning successfully explain
 both our justification for believing the relevant _a priori_ necessities, and
 for believing the relevant deductive arguments preserve truth(:e.g. if such arguments correspond to analytically true conditional statements:), then they
@@ -479,55 +480,99 @@ necessarily true.  As Kant put it in his _Critique_, <q>experience does indeed
 teach us that something is thus or thus, but not that it cannot be
 otherwise</q>(([[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]])).
 
-== evaluating the historical argument ==
-Put together, the historical argument reads as follows:
+== not this work's main argument ==
+Put together, the historical argument is as follows:
     *(HP1)* Early modern philosophers were right in their diagnosis of a
-    conflict between naturalism and our capacity to gain knowledge of necessary
-    truths.
+	      conflict between naturalism and our capacity to gain knowledge of
+          necessary truths.
     *(HP2)* Early Analytic philosophers were right that naturalism can only be
-    reconciled with our possession of knowledge of necessary truths if there is
-    a distinction between analytic and synthetic truths.
+          reconciled with our possession of knowledge of necessary truths if
+          there is a distinction between analytic and synthetic truths.
     *(HP3)* Quine was right that there is no distinction between analytic and
-    synthetic truths.
+          synthetic truths.
     *(HP4)* Naturalism is true.
-    *(HC)* We do not possess knowledge of necessary truths
+    *(HC)*  We do not possess knowledge of necessary truths.
 
-In a work of popular philosophy, one intended to communicate philosophers'
-professional opinions to a general audience, it might be acceptable to advance
-such an argument. A work of popular philosophy expressing this particular
-argument would be _misleading_; for although the fourth premise, and each of the
-views attributed in the first three, have been orthodoxies of a dominant
-philosophical movement, almost no reputable philosophers have accepted all four
-of them, and thus far only Quine(:Peter van Inwagen not withstanding.:) has accepted the conclusion.  But in such a
-work it would not be _improper_ to mention that these views had been held by the
-members of modern philosophies dominant movements as part of the reason to
-believe that the conclusion is true.
+In a work of popular philosophy, intended to communicate philosophers'
+professional opinions to a general audience, such an argument might be
+acceptable. A work of popular philosophy advancing this particular argument
+would be _misleading_, for no reputable philosopher except perhaps Quine has
+accepted all five of these claims, and even he did not argue for the conclusion
+from these premises.  But it would not be _improper_ to mention that these views
+had been held by the members of modern philosophy's dominant movements as part
+of the reason for believing the conclusion to be true.
 
 This, however, is not a work of popular philosophy and its purpose is not to
-report philosophers' opinions but to change them. The norms currently governing
-academic philosophy require claims to be supported by arguments rather than
-survey results or appeals to popularity. Thus, even though each of the premises
-of this argument has already been asserted in this work, and the truth of the
-premises does provide good reason for believing the conclusion, it is not the
-main argument of this work.
+report philosophers' opinions but to change them. The current norms of academic
+philosophy require claims to be supported by arguments rather than appeals to
+authority, and the historical argument just presented is not this work's main
+argument.
 
-Hopefully, however, this argument is enough to prevent us from rejecting modal
-skepticism at the outset. Rejecting any of the argument's premises requires
-regarding much of modern philosophy as misguided and based upon fundamental
-falsehoods. This is not enough to establish that the conclusion is true, but if
-we are guided by the opinions of earlier eminent philosophers, it does warrant
-taking the time and effort to consider modal skepticism more closely. 
+Although the historical argument does not provide a good enough reason to accept
+its conclusion, it still establishes something useful. Rejecting any of its
+premises requires regarding much of modern philosophy as fundamentally
+misguided, and that warrants considering modal skepticism seriously rather than
+dismissing it out of hand. It justifies the effort of considering a more direct
+positive case. Presenting such a case is the chief purpose of this work's main
+body.
 
-=== historical elements not the only defect ===
+== recognition of the problem and attempted solutions ==
+
+if there were necessary truths,
+and we could distinguish them then we could - they could not be truly denied
+without change of meaning. But since there are no such sentences
+Ignore which, if
+
+Quine's point, was never that we cannot distinguish the two types of necessary
+truth, analytic and metaphysical, true by virtue , but that there were no
+sentences, no matter how good the evidence for them that were beyond rejection.
+And the defence that some revisions were so fundamental that they involved a
+change of meaning or language . 
+Revisability not incompatible with necessity
+Water is not H2O is a _epistemic_ possibility, but not a metaphysical
+possibility.
+Kripke, and to a lesser extent Putnam have shown that necessity and
+unrevisability are distinct.
+
+In the face of someone who steadfastly denies Putnam's claim(:lightly paraphrased from [[local:zz.texts/putnam1975-meaningOfMeaning.pdf|_The meaning of “meaning”_]]:) that
+“water is stuff that bears the relation same_Liquid to the water around here”.
+is not revisable without change of meaning.
+And that claim is one that, according to Putnam
+And if we are convinced that they do not have some idosyncratic meaning for
+their other terms, then they must not be using the term “water” to denote a
+natural kind.  (Putnam, 
+
+
+if someone steadfastly denies that a = b ⊃ □ a = b, then we must treat them as
+not using the names that take the place of a and b as so-called rigid
+designators. Indeed this is the touchstone by which to judge if terms are being
+used as rigid designators or as descriptions.
+
+
+In either case 
+
+
+that “Some water isn't the same
+kind of liquid as water around here.” We must treat them as all water is of the same
+natural kind as water around here”, we must treat them 
+
+
+
+But as we saw in part one, our knowledge of these _a posteriori_
+
+But the sentence 
+
+but that we could not distinguish those sentences that cannot be truly denied
+without change of meaning from those that can, no matter what the grounds for
+their necessity.
+
+It leaves us with an appallingly thin and implausible account of reasoning. (As
+we shall see below, this is an aspect of naturalistic accounts of belief
+formation since Hume first grappled with it
+
+any popular movement espoused them and
 Even though the mention of the various historical movements whose members held
 these views is, at best irrelevant
-
-even with these elements stripped out, 
-
-the
-<q>historical</q> elements of these premises, the attributions
-
-
 
 In order to see just how appealing
 let us reconsider the path that lead to the development of Analytic philosophy
@@ -660,7 +705,7 @@ ability to reason beyond attributing it to God's grace.
 
 ==== locke ====
 Locke's account of our ability to reason in his
-[[local:zz.texts/locke1690-essayConcerningHumanUnderstanding.pdf|_Essay Concerning Human Understanding_]] is, in many ways, merely a
+[[local:zz.texts/locke1690-essayConcerningHumanUnderstanding.pdf|_Essay Concerning Human Understanding_]] is, in some ways, merely a
 more refined and systematic version of Descartes'. Like Descartes, he
 distinguishes between simple and complex truths, and holds that simple truths
 <q>as soon as understood, are, without any the least reasoning, embraced and
@@ -724,7 +769,7 @@ first odd square number greater than 1 is equal to two plus one'.
 
 Even at this 
 
-Reasoning, by Locke's is the construction of sequences of identities
+Reasoning, on Locke's account, is the construction of sequences of identities
 if 
 
 = trifling truths =
@@ -828,8 +873,8 @@ If the fundamental steps are identity statements then how can a series of merely
 verbal claims 
 
 Resolving this quandary
-This problem would go on to become the cebtral motivating problem of Kant's
-crituqe of Pure reason.
+This problem would go on to become the central motivating problem of Kant's
+Critique of Pure Reason.
 
 
 = consonance =
@@ -855,7 +900,7 @@ and the external properties they represent
     upon us; and so carry with them all the conformity which is intended; or
     which our state requires
 this mixes together three distinct reasons for conformity: an appeal to God's
-grace, taht since , and 
+grace, that since , and 
 In the end however, Locke falls back upon the ancient reliance of a match
 between our concepts and the properties, so that the modal relations betwene the
 former reflect those of the latter, or as Locke puts it <q>all simple ideas are
@@ -886,7 +931,7 @@ meant that knowledge gained by experience could be knowledge of necessary truths
 God is a necessary
 being, all the rest of us may be surrounded by a fuzz of possibilities. But God
 is absolute, God could not have been otherwise than they are. Gods willing the
-world into existence is an aspect of them. Gods had a plan for the world, if
+world into existence is an aspect of them. God had a plan for the world, if
 they have one, must be an inevitable plan. One giving God necessary (and
 sufficient) reason reason for willing the world as it does. Hence Leibniz's
 principle that this is the best of all possible worlds. All the truths in such a
@@ -899,6 +944,8 @@ that (until the start of the twentieth century) it was the only association in
 the public mind . only principle
 Leibniz was known, and then only for its obvious falsehood.
 
+ “eadem sunt quorum unum potest substitui alteri salva veritate”
+ from Leibniz' General Science. Characteristics:
 
 Locke's common sense prevented himfrom achiving consistency
 pulls back from the extreme positions
@@ -908,6 +955,13 @@ If Locke's commonsense and repugnance towards outlandish conclusions led him
 into confusions and inconsistencies.
 Many of the confusions and inconsistencies that plague Locke's account of our
 knowledge
+
+from Wittgenstein's tractatus
+6.24	The method by which mathematics arrives at its equations is the method
+		of substitution.  For equations express the substitutability of two
+		expressions and, starting from a number of equations, we advance to new
+		equations by substituting different expressions in accordance with the
+		equations.
 
 [[leibniz|Leibniz]] is the first modern philosopher to attempt to provide an account of
 our knowledge of necessary truths more substantial than simply <q>seeing by
@@ -987,7 +1041,7 @@ notion of conceptual containment.
 Leibniz was not the first to write of terms (or concepts) containing one
 another. Peter of Abelard wrote of claims containing their consequences in the
 12th century, and scholars debate whether the notion of claims containing their
-consequences can be traced back as far as Boethius in the 6th century. He was,
+consequences can be traced back as far as Boethius in the 6th century. Leibniz was,
 however, the first to provide a clear interpretation for the metaphor.
 Unfortunately he provided two very different, though aligned interpretations;
 one linguistic and the other ontological.
@@ -1016,7 +1070,7 @@ denies that predicate of that subject((This already involves a confusion between
 subject is individual and in the second it is universal).  Among its other
 limitations, it is difficult to apply Aristotle's logic to sentences such as
 <q>Mary is to the right of John</q> which, at least superficially, has two
-subjects and expresses a relationship between them. Driven by a the procrustean
+subjects and expresses a relationship between them. Driven by the Procrustean
 urge to make all statements fit within the limits of Aristotelian logic, Leibniz
 sought to give a compatible account of the objects that make our statements
 true. On this view each object <q>contains</q> within itself all the truth
@@ -1045,8 +1099,8 @@ Earlier natural philosophers, most notably Descartes, grossly
 underestimated the difficulty of providing a complete and true theory of the
 physical world. At time writing as though they 
 
-and just as is the case with Dwscartes it is hard to tell if he actually
-believed this, or if it is a bit the exagerration (though these early examples
+and just as is the case with Descartes it is hard to tell if he actually
+believed this, or if it is a bit the exaggeration (though these early examples
 set a high bar)
 
 Descartes had grossly under-estimated the difficulty of grossly
@@ -1068,19 +1122,19 @@ be verified by mechanical calculation. Leibniz radically underestimated the
 complexity of the inferences required in mathematical reasoning. His critics,
 most notably Kant, correctly pointed out that the truths of mathematics and
 geometry could not all be reduced to statements of identity (e.g. <q>0 = 0</q>,
-or <q>All red things are red</q>)
+or, in Leibniz' expanded understanding of identity statements, <q>All red things are red</q>)
 merely by replacing terms with their definitions (and omission of some parts of
-the resulting expanded terms). The logical technology of the
-day was simply too limited to meet the demands of mathematical reasoning. At the
+the resulting expanded terms). Aristotelian logic, the logical technology of the
+day, was simply too limited to meet the demands of mathematical reasoning. At the
 time, most European intellectuals thought that those limits were unalterable,
 and Leibniz's ideas for surpassing those limits were hopelessly naive.  No
 system in which all sentences are treated as being of subject-predicate form can
 have the deductive power required for geometry and mathematics. What no-one,
 including Leibniz, knew at the time however, was that those limitations were the
 result of a failure to recognise the variety of complex forms that sentences may
-possess, rather than being inherent to systems of formal logic _per se_.
-Before analytic philosophers would insist that all knowledge of necessary truths
-is gained by analysis
+possess, rather than being inherent to systems of formal logic _per se_.  Before
+analytic philosophers would insist that all knowledge of necessary truths is
+gained by analysis
 
 the class ef sentence that can be reduced
 
@@ -1324,6 +1378,23 @@ to the extent they were known at all, were not
 generally deemed worth responding to
 
 ==== hume ====
+
+for later maybe?:
+    When we entertain, therefore, any suspicion, that a philosophical term is
+    employed without any meaning or idea (as is but too frequent), we need but
+    enquire, from what impression is that supposed idea derived? And if it be
+    impossible to assign any, this will serve to confirm our suspicion.
+    [[local:zz.texts/hume1748-enquiryConcerningHumanUnderstanding.pdf]]
+	
+Try taking this approach to logical connectives, or to “all” “some”
+
+Although Hume was concerned to defend the claim that there are no abstract
+ideas, no general idea of a triangles other than the impressions of particular
+triangles, with partcular dimensions.
+
+
+	
+
 ????
     Nothing, at first view, may seem more unbounded than the thought of man,
     which not only escapes all human power and authority, but is not even
@@ -1602,10 +1673,145 @@ knowledge of the truths of geometry((Now cast as concerning non-physical spaces.
 metaphysics appeared equally dependent on their proponents' intuitive
 sense of necessity and no unified opposition developed.
 
-<q>The new logic</q>, as its English speaking proponents tended to call it,
+== frege ==
+Barely a hundred years after Kant had declared
+declared logic to be “closed and
+completed”
+The development of Frege's logic is a unrepeatable landmark in the intellectual
+history of humanity. The only comparable breakthoughs in intellectual technology
+are the development of writing. Which allowed individual statements to be
+symbolised by static physical marks or inscriptions, and the development modern
+development of computers - physical systems systems causal systems operating according to natural laws,
+but whose causal processes respect (at least some of) the semantic properties 
+
+our construction of physical systems whose
+causal processes respect the semantic properties of the symbols they manipulate.
+
+Indeed, it is
+the only intellectual step that rivals Frege's (because it can be viewed as the
+completing his construction) is
+
+The technical breakthroughs of Frege's formal logic was not tangential to his
+philosophy of language, nor the subsequent development?? of analytic philosophy.
+It is not that technical ,
+
+were used to justify dubious 
+it was not that dubious metaphysical principles were read into them, but rather
+that they offered 
+
+The technical developments of Frege's logic are not tangential
+are essential
+
+The development in formal logic is integral to the reconciliation with
+naturalism that it
+
+In explanations for laypeople the “formality” of formal logic is often explained
+by appeal to logical forms. The Encyclopedia Britannica entry on formal logic,
+for instance, describes it as “the abstract study of propositions, statements,
+or assertively used sentences and of deductive arguments. The discipline
+abstracts from the content of these elements the structures or logical forms
+that they embody”. Leaving aside the tacit suggestion that ordinary statements
+_have_ determinate logical forms, this tends to suggest that logical form is
+a structure of some specially ethereal medium, perhaps the medium of thought, of
+of consciousness. But a form that is not possessed by purely natural systems and
+to which the human mind is particularly responsive.  The form of a judgement or
+a thought, which whatever it is, is not a spatial form nor a structure in some
+physical medium. Formal logic in this sense, and if Frege's logic is regarded as
+a formal logic in this sense, then the 
+
+Whether this logical form is a
+physical property of concrete statements or a non physical property of
+propositions or judgements is left unclear.
+
+but taken in another sense it offers a reconciliation with naturalism.
+the forms of the sentences (or formulae) are the shapes of the letters and
+sequence of them. The natural (and non-semantic) properties. The inferential
+rules of systems of formal logic rely only on those natural properties.
+For the first time
+
+
+a breakthrough in humanities intellectual development rivaled only by
+the development of writing – 
+
+Originally, of course, such inferences. These days they are liable to be carried
+out by computers, and here it is clear that they are responding.
+
+
+Although it was not clear to anyone at the time, including Frege, the
+superiority of Frege's notation did not lie in the dubious claim that it
+reflected the structure of our thoughts, but in the undeniable fact that it
+captured a range of inferential patterns that were a mathematically definable
+order of complexity more sophisticated than those that were captured by
+Aristotelian logic.
+
+The “new logic”, as English speaking philosophers later tended to call it (after
+it was introduced to them by Russell)
 captured a far wider and more complex range of inferential patterns than the
-traditional Aristotelian logic which Kant had declared to be <q>closed and
-completed</q> just one hundred years earlier. The inadequacy of Aristotelian
+traditional Aristotelian logic.
+
+Instead the chief perceived benefit was that it allowed sentences asserting that
+there were relations between two objects.
+Aristotelian logic
+And this, or so at least Russell later alleged, had led Leibniz to his doctrine
+that the world was composed of uninteracting monads and many inheritors of the
+Kantian tradition to hold that all relations were internal.
+
+So it was that dispute over Russell's doctrine of external relations became
+one of the chief loci/?foci/?metric/?fields/?disputes
+for / by which
+evaluating the new logic.
+
+Such relations were not entirely tangential to the increased in the power
+and complexity of the inferential structures captured by the “new logic”. They
+allowed for ancestral relations, chains of relationships that could tie together
+arbitrarily long sequences of objects.  Relational terms spanning such chains
+such as "ancestor of" could be defined in terms of the relations directly
+connecting their links together, in this case "parent of".  The guarantee of
+synonymy between these definitions and the pre-existing term "ancestor of" was
+that Frege's definition was clearly guaranteed to get the right extension.
+Anyone who understood the meaning of the term "ancestor" could see, given a good
+enough understanding of the logic, that the complex predicate Frege constructed
+was always true of just the right pairs objects.  Such definitions set the
+ground for defining natural numbers as successors to zero, and in more modern
+terms are akin to linked lists in computer programming(:One of the data-structures which lift computer programs from the complexity level of finite automata to the level of Turing machines.:).
+
+A more fundamental key to the power of Frege's logic, however, was its recursive
+structure. 
+
+The first schema presented in the Begriffsschrift was 'A ⊃ B'. (Often rendered
+in English as "If A then B" or, more accurately, "It is not the case that A and
+not B".) In this schema any sentence might take the place of A or B, even one
+which was itself an instance of this schema. 
+Unlike Aristotelian logic, in which each of statements it dealt with was viewed
+as an instance of a single sentence form(: A: “All S are P.” E: “No S are P.” I: “Some S are P. ” or O: “Some S are not P”:) instance
+The arbitrarily deep nesting of
+sentences within sentences meant that all except the simplest sentences were
+instances of multiple sentence schema.
+
+Any instance of "(A ⊃ B) ⊃ B", for instance,
+was also an instance of "A ⊃ B". This unrestricted nesting of sentences within
+sentences was not unprecedented. It had been a feature of Boolean logic which
+like Frege's was explicitly inspired by mathematical notations in which
+equations were nested within each other without limit (much as Leibniz had
+advocated over 150 years earlier).
+
+The other key advance over Aristotelian logic
+Aristotelian logic was term based, the objects that were taken to be related
+
+
+== predicates vs subjects ==
+Another key difference
+
+== is: a sharp distinction between identity and predication ==
+
+It is in such definitions that 
+akin to what are called linked lists
+
+
+
+
+
+The inadequacy of Aristotelian
 logic for the inferences required in geometry had been one of the instigations
 for the _Critique of Pure Reason_.  Since the truths of geometry could not be
 purely logical truths, there must be extra-logical _a priori_ principles which
@@ -1613,17 +1819,82 @@ were true by virtue of irreducible modal relationships between the concepts they
 contained((e.g. the relationship between the concept of a straight line, and that of the shortest distance between two points)), and the intricate system of the _Critique_ was constructed to explain
 our knowledge of those principles.
 
-By contrast, it was reasonable to hope that the new logic rigourously delinated
-all the patterns of inference required for mathematics((including both Euclidean and non-Euclidean goemetry)).  Vindicating that hope
-was the chief purpose of Russell and Whitehead's _Principia Mathematica_ which,
-for a time after its publication in 1910, was regarded as one of the great
-intellectual achievements of the 20th century.  Russell and Whitehead took the
-sentences of their system of symbolic logic to be expressing the propositions of
-mathematics in explicit notation. The apparent success of their system raised
-hopes that the new logical notation could explicitly express the ultimate, but
-hidden, structure of the meanings of all the sentences of ordinary langauge.
-Once this <q>logical structure</q> was made fully explicit, valid inferences and
-necessary truths could be distinguished by their syntax.
+
+
+
+???????
+The primacy of formal logic also applies to Frege's personal development.
+He developed his Begriffschrift (thought or concept script), first 
+and key semantic doctrines (such as his distinction between sense and reference)
+developed as he attempted to use his formal notation to capture the patterns of
+reasoning required in mathematics. 
+
+Frege's formal logic was the key factor in the 
+The reason for Analytic Philosophy's
+instigation?popularity?development?growth?inception?taking off
+among English speaking philosophers.
+Our ability to infer one sentence from another in ways that respected the
+validity of the inference between them
+
+could be explained by natural causal interactions with the symbols that encoded.
+Clearly the connection between these symbols and their 
+
+
+that the inferential connections between statements
+
+It offered hope of a naturalistic account of our capacity to reason.
+At the start of the movement the demand for a
+naturalistic account was perhaps chiefly motivated by more or less empiricist
+scruples against non-experiential sources of knowledge; as the movement
+progressed some analytic philosophers placed greater emphasis on reconciliation
+with scientific accounts of the world and belief formation. Both motives
+(insofar as they are distinguishable) would be satisfied by a linguistic account
+of the foundations of necessary truth that analytic philosophy promised.
+accounts of the justification of knowledge of necessary truths.
+
+allowed a range of inferences adequate the inferential logic
+
+
+=== a range of unhappy semantic doctrines ===
+The resolute distinction between predicates and subjects which underpinned his
+use of quantifiers, led Frege to maker the unhappy claim that “the concept horse
+is not a concept”
+
+Frege could also be read as supporting two at least superficially conflicting
+doctrines: that individual words and phrases had no meaning in isolation, and
+that the meanings of whole sentences were a function of the meanings of their
+parts.
+
+These doctrines,
+
+that Frege's attempt to provide a foundation
+Russell's discovery of a
+
+
+
+==== basic law V ====
+In particular basic law v guaranteed that to any open sentence (a sentence that
+was “unsaturated” or had one of its subject positions blank) there was a course
+of values that 
+
+
+
+inferential patterns that necessarily preserved truth 
+
+
+= kant -> frege offcuts =
+For their part, early Analytic philosophers thought Kant's account of
+_analyticity_, which had relied upon traditional Aristotelian theories of
+semantics((This is discussed in more detail [[????|below]])), was too limited. 
+
+A range of technical developments in formal logic
+had made it plausible that the class of analytic truths included statements of a
+variety and complexity that had previously seemed impossible. In light of these
+developments Analytic philosophers hoped Kant's account of our knowledge of
+analytic truths could be expanded and developed into an account of all
+our knowledge of necessary truths. Although disputes over various accounts of
+analyticity and the nature of the objects to be analysed were among the
+movement's main activities((it was commonly agreed that these objects either were or were related to the meanings of linguistic expressions)),
 
 With a new and seemingly rigourous way of distinguishing between metaphysical
 speculation and the solid reasoning exemplified in mathematics, the old Kantian
@@ -1655,59 +1926,68 @@ outside of the scope of their reasoning abilities.
 
 the course of nature or human existence
 
-=== Frege ===
-Though his work built upon others, and could be viewed as a 
-
-NOT SURE IF HERE OR BELOW
-Discuss the limits of Kantian/Aristotelian subject predicate logic here?
-conenct with the view of analyticity it can support
-
-
-== analytic philosophy ==
-The reason for Analytic Philosophy's popularity((among English speaking philosophers)) is also comparatively
-explicit. It offered hope of a naturalistic account of our knowledge of
-necessary truths. At the start of the movement the demand for a
-naturalistic account was perhaps chiefly motivated by more or less empiricist
-scruples against non-experiential sources of knowledge; as the movement
-progressed some analytic philosophers placed greater emphasis on reconciliation
-with scientific accounts of the world and belief formation. Both motives
-(insofar as they are distinguishable) would be satisfied by a linguistic account
-of the foundations of necessary truth that analytic philosophy promised.
-accounts of the justification of knowledge of necessary truths.
-
-
-For their part, early Analytic philosophers thought Kant's account of
-_analyticity_, which had relied upon traditional Aristotelian theories of
-semantics((This is discussed in more detail [[????|below]])), was too limited.  A range of technical developments in formal logic
-had made it plausible that the class of analytic truths included statements of a
-variety and complexity that had previously seemed impossible. In light of these
-developments Analytic philosophers hoped Kant's account of our knowledge of
-analytic truths could be expanded and developed into an account of all
-our knowledge of necessary truths. Although disputes over various accounts of
-analyticity and the nature of the objects to be analysed were among the
-movement's main activities((it was commonly agreed that these objects either were or were related to the meanings of linguistic expressions)), in the movement's early optimistic period its
-members were at least superficially unified by a general commitment to the maxim
-<q>All necessary truths are analytic</q>.
-
-????? SUGGESTED ALTERNATIVE
-Like the Kantian philosophy that preceeded it . . . . more narrowly
-circumscribed END OF PARA BELOW
-PARA BELOW NOW REPEATS EARLIER SECTION NOW SUGGEST START WITH^^^
-Analytic philosophy is the third and last of the movements since the 12th
-century to achieve such dominance among Anglo-European philosophers as to
-comprise an orthodoxy. Unlike the preceeding Aristotelian and Kantian movements
-which were largely named and deliniated by their opponents in hindsight, many
-analytic philosophers explicitly identified themselves as such.  While the
-founding figures of analytic philosophy naturally predated the the movement's
-name((just as christ was not a christian)), by the middle of the twentieth century there were a multitude of
-conferences, journals and university departments specifically catering to
-<q>analytic</q> philosophy.  Hence, the extent of the movement's membership
-is comparatively clear, as is the fact that many of those members saw themselves
-and their peers as pursuing a distinctively different form of philosophy; one
-that was more narrowly circumscribed, but set on a firmer footing and freed (it
-was hoped) from the irresoluble speculation that had marred its predecessors.
-
 === Russell ===
+Russell was responsible for both the most famous application of Frege's logic to
+solve philosophical problems, and for showing that Frege's attempts to had
+failed in the most catastrophic way possible – they were self-contradictory.
+
+
+Russell
+
+Frege's enduring objective from the first development of his Begriffsschrift
+was to provide a system capable of schematically describing all the inferential
+patterns used in mathematics, and to define the notion of number in such a way
+that all the truths of arithmetic would be theorems of his formal system. Although
+
+it was reasonable to hope that the new logic rigorously delinated
+all the patterns of inference required for mathematics((including both Euclidean and non-Euclidean goemetry)). 
+Vindicating that hope
+was the chief purpose of Russell and Whitehead's _Principia Mathematica_ which,
+for a time after its publication in 1910, was regarded as one of the great
+intellectual achievements of the 20th century.
+
+analysis
+Russell and Whitehead took the
+sentences of their system of symbolic logic to be expressing the propositions of
+mathematics in explicit notation. The apparent success of their system raised
+hopes that the new logical notation could explicitly express the ultimate, but
+hidden, structure of the meanings of all the sentences of ordinary language.
+Once this "logical structure" was made fully explicit, valid inferences and
+necessary truths could be distinguished by their syntax.
+
+
+==== contextual definition ====
+Although Frege pioneered the techniques Russell brought them to general
+attention
+
+In the hands of empiricists this allowed them to shift their empirical
+constraints on meaning from individual terms to whole sentences.
+
+Whether these sentences had meaning in isolation ambivalent. IN some places
+russell claimed, while elsewhere [USE [[wn.notes:contextual_definition]] here]
+
+Earlier empiricists such as Hume had insisted that meaningful terms
+express ideas:
+    all this creative power of the mind amounts to no more than the faculty of
+    compounding, transposing, augmenting, or diminishing the materials aﬀorded
+    us by the senses and experience.  When we think of a golden mountain, we
+    only join two consistent ideas, gold, and mountain, with which we were
+    formerly acquainted.
+	...
+	
+==== type theory ====
+the claim that
+this would render  sentence such as “The set of all sets that do not contain
+themselves does not contain itself” and “The statement is false” strictly
+unstateable in Russell's formal notation.
+
+Although this avoided the technical problem in the formal system underpinning
+Frege's _Foundations of Arithmetic_
+
+It had two significant shortcomings. First it also meant that there were some
+truths of arithmetic
+
+
 Although analytic philosophy is named for a method,
 <q>analysis</q> of meanings, rather than a founding figure in many ways Russell
 is the founding figure of analytic philosophy.
@@ -1738,11 +2018,78 @@ In Russell's hands the method of analysis found its champion.
 Though, at least in the early stages, Russell dismissed the distinction between
 necessary and contingent as a matter of psychology
 
+=== wittgenstein ===
+One of the distinctive features of contextual definition, is that is does not
+involve saying what the meaning of the defined term or phrase is. Instead an
+alternative which does not involve the defined phrase, but  is shown.
+
+In Wittgenstein's hands this distinction between saying and showing became a key
+part of semantic theory.
+
+mysterious mental entities that bridged the gap between statements and the
+arrangements of objects that they represented were dispensed with. Instead
+
+==== showing versus saying ====
+On wittgenstein
+That Frege had strayed into nonsense when he had tried to talk about concepts
+directly 
+
+at base it did not deny that there was a fundamental non-linguistic modal
+structure to the world. But that it was mirrored by our language
+But still the subjects of their thoughts assertions were the objects distributed
+in the non-euclidean space around them.
+
+==== isomorphism ====
+4.0412	For the same reason the idealist’s appeal to ‘spatial spectacles’ is
+		inadequate to explain the seeing of spatial relations, because it cannot
+		explain the multiplicity of these relations.
+Kantian - if we impose
+That would make sense if we simply wished to say that the property
+possessed/exemplified by our concepts . If the tradition 
+
+But wittgenstein offers an alternative - propositions do not have to share the
+properties they represent other objects as possessing
+
+Instead they merely have to occupy a region in the space of
+grammatically correct sentences that is isomorphic to the space of possible
+arrangements of those objects.
+
+
+= the problem of synonymy =
+In Frege the appeal had been stated, if unsteadily, but it can be traced back to
+Leibniz,
+
+two symbols have the same meaning if is is not possible for r4placing one with
+the other to change
+Wittgenstein took this to the limit and made this explicit, or at least as
+explicit as anything ever was in his early works.
+
+truth conditional semantics
+	 
+    3     A logical picture of facts is a thought.
+    2.221 What a picture represents is its sense.
+    2.222 The agreement or disagreement of its sense with reality constitutes
+          its truth or falsity.
+
+4.032 s!	It is only in so far as a proposition is logically articulated that it
+		is a picture of a situation.  (Even the proposition, ‘Ambulo’, is
+		composite: for its stem with a different ending yields a different
+		sense, and so does its ending with a different stem.)
+[! note: method of substitution applied !]
+
+right at the foundations Frege had been inspired by Leibniz' dictum
+    Eadem sunt quorum unum potest substitui alteri salva veritate
+	
+two terms are the same
+
+			quoted without reference by Frege in his
+			Review of Husserl's _Philosophie der Arithmetik_
+			fp.87 [[local:zz.texts/fregeCollection-philosophicalWritings.pdf]]
 
 vvvvvvv ROUGH NOTES vvvvvvv
 
 
-It is, to put it mildly, very plausible that learning a langauge is both a
+It is, to put it mildly, very plausible that learning a language is both a
 causal and empirical process.  We certainly appear to learn to speak and
 understand natural languages by observing our linguistic elders, attending to
 their feedback on our performances, and practicing with our peers; in doing so
@@ -1751,7 +2098,7 @@ speakers of the language in question.  If, as most analytic philosophers
 believed (like the Kantians and Aristotelians before them) learning a language
 consisted in learning the meanings of public expressions (perhaps the thoughts
 or concepts they express) and the meanings of necessary truths have some
-distinctive discernable property, then our capacity to distinguish necessary
+distinctive discernible property, then our capacity to distinguish necessary
 truths can be explained without appealing to an unnatural power of intuitive
 insight into necessity. Of course, the chief problem was not to explain our
 ability to merely _discern_ necessary truths but to explain our _knowledge_ of
@@ -1821,7 +2168,7 @@ Consider the sentence
     (1) It is raining and today is Friday.
 If one grants the fundamental claim that the capacity to use and understand
 public languages depends upon the meanings of the expressions in those
-langauges, then it difficult to deny that the meaning of (1) is a
+languages, then it difficult to deny that the meaning of (1) is a
 structural composition of the meaning of
     (2) It is raining
 and:
@@ -1849,7 +2196,7 @@ Another plausible principle of common-sense semantics that analytic philosophers
 drew upon is that that the meaning of a sentence determines the conditions under
 which that sentence is true. Sometimes, as in
 Bertrand Russell's 
-[[local:zz.texts/russell1905-onDenoting.pdf|<cite>On denoting</cite>]] 
+
 the best known
 short paper of early analytic philosophy,
 this principle is simply taken for granted, at other times as in Frege's

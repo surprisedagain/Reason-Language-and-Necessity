@@ -1,35 +1,48 @@
-:quines_errors_trail:trail_hub:
+:quines_errors:hub:
 = quine's errors =
 ====== short ======
-A consideration of various errors Quine advanced in his theory of langauge and
+A consideration of various errors Quine advanced in his theory of language and
 epistemology.
 
-Those who are already familiar with Quine's views on langauge and reason may
+Those who are already familiar with Quine's views on language and reason may
 find this a useful way to understand the version of [[semantic_holism_trail]] proposed
 in these notes, as it is a close descendant of Quine's views.
 
 = errors =
-[[#observation sentences]]
+[[observation_sentences]]
 [[#distinction between science and philosophy]]
 [[#intentional attitudes]]
-stimulus-response account of reasoning ??
 
-== introduction ==
-= This work would not have been possible without Quine's account of semantic
+=== observation sentences ===
+See [[observation_sentences]]
+
+=== behaviourism ===
+see: [[wn.notes:behaviourism]]
+leads to stimulus-response account of reasoning ??
+and rejection of ...
+
+=== intentional attitudes ===
+[[wn.notes:propositional_attitudes]]
+Of all of Quine's misapprehensions concerning holism, none is as egregious or as
+pernicious the most egregious and
+pernicious was his reliance upon reductive behaviourism to dismiss propositional
+attitudes.
+
+This work would not have been possible without Quine's account of semantic
 holism.
 It is easy to carp at minor flaws in any philosophical work.
 
 The extraordinary self-confidence to follow his insight.
 No matter how well established their philosophical pedigree or the gains made by
-being engaging with extraordinary philsoophers such as Carnap, ?????. The
+being engaging with extraordinary philosophers such as Carnap, ?????. The
 willingness to follow even to doubting , a doctrine that is so deeply counter
 intuitive that many still find it when no-one else agreees with you can never be
 taken away form quine.
 But first discoverers rarely even correctly grasp the scope and nature of their
 newly discovered continent. New discoveres rarely present their discoveries in
-tyhe simplest form. Descarets never thought to put the axes of his cartesian
+tyhe simplest form. Descartes never thought to put the axes of his cartesian
 plane at right angles. (Instead he devised a pair of axes at whatever angle
-facilitated a proof concerning a paricular family of curves he was interested
+facilitated a proof concerning a particular family of curves he was interested
 in.) Reports from new lands are seldom reliable, and their being 
 
 Like many discoverers and
@@ -87,17 +100,7 @@ perhaps the worst thing QUine did for holism, however, is that in addition
 
 = sequence =
 
-1. [[observation_sentences]]
-   There are two problems with observation sentences as Quine defines them in
-   _Word and Object_.
-   * The first concerns the connection between observation sentences and stimuli
-	 (or objects in whichever [[epistemic_bottleneck]] is under consideration)
-	 which is more diffuse than Quine claims.<br>
-	 [[penumbral_confirmation_conditions]]
-   * The second problem is one that Quine appears to recognised and struggled
-	 with throughout his later his career - intersubjective identity no two
-	 peoples bodies are shaped the same nor sensory nerves placed in the same
-	 positions
+
 2. any statement held true come what may
 3. holistic languages do not contain analytic truths`
 4. intersubjective identification of stimuli
@@ -158,23 +161,23 @@ radical translator has access to, it is just that they are not enough to
 preclude the indeterminacy of translation (or what amounts to the same, to fix
 the meanings of the sentences that are connected by those inferential roles.
 
-The class of sentences that all comptent speakers do, in fact, hold true is
-discernable. As is the class of sentences they would hold true as a result of
+The class of sentences that all competent speakers do, in fact, hold true is
+discernible. As is the class of sentences they would hold true as a result of
 any reasonably short stimulation/course of events. There are patterns in the
-senteces they hold true. They never hold true and sentence of the form 'p or q'
+sentences they hold true. They never hold true and sentence of the form 'p or q'
 with also holding ' not p' or 'not q'.
 
 So there are the inferences, in this case meaning nothing more than reliable
 patterns of assent and dissent to sentences among all competent speakers once
 their attention is drawn to such sentences, and bearing in mind the limitations
-of attention and cognitive power (i.e. judgeing a long and convoluted logical
-truth to be false does not disqualify a suggesated translation since it can be
+of attention and cognitive power (i.e. judging a long and convoluted logical
+truth to be false does not disqualify a suggested translation since it can be
 attributed to speaker error. We may need to assume, at least to start with, that
 all the speakers of the relevant community are competent, but we do not require
 them to be incapable of logical error.)
 
 (***1) what is the force of this must? Must be held true by competent speakers
-on pain of not being competent?  But all the traslator can determine is which
+on pain of not being competent?  But all the translator can determine is which
 sentences *are* held true by putative competent speakers.
 
 That there is a casual mechanism underlying these inferential patterns is almost
@@ -194,8 +197,8 @@ you think that part of the meaning of water) but we cant turn around any rely
 upon a notion of possible world here from which we can construct analytic.
 
 But is this really a second problem. Suppose we had solved the synonymy problem.
-That for rach senternce we cold identify the class of synoymous sentences and to
-nearly all effects treat that as the meaning of those sentences. trasnaltion was
+That for each sentence we cold identify the class of synonymous sentences and to
+nearly all effects treat that as the meaning of those sentences. Translation was
 determinate between these classes etc.,
 
 could we now say that the meaning of a logical compound sentence (A and B)
@@ -205,19 +208,19 @@ now could we identify inferences between these classes.
 
 why pick out logical terms - proof procedure
 It is contingent in a sense that this level of complexity is required. The world
-oculd be at a different level of complexity as could our minds
+could be at a different level of complexity as could our minds
 
-because if I did not hold tnhese my assents would not be held together by as
+because if I did not hold these my assents would not be held together by as
 proof procedure.
 I must be able to derive my assertions from a set of axioms - this is the only
 way I could do it. This will require something equivalent to first order logic.
 
-one way tpo above idea - consider the most logically detailed of all the members
+one way to above idea - consider the most logically detailed of all the members
 of a synonym class. if we deleted that one there would be some inferences we
 could not capture.
 
 ==== self evident ====
-<q>There are words</q> is also self-evident but we would hesitate to call it
+<q>There are sentences.</q> is also self-evident but we would hesitate to call it
 analytic.
 
 We make a mechanism which respects semantic properties. Those patterns are built

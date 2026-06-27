@@ -1,10 +1,12 @@
-:quines_errors_trail:draft0.0:
+:quines_errors:draft0.0:
 = observation sentences =
-=== short ===
+====== short ======
 Quine's account of observation sentences fundamentally mis-represents the
 connection between theories and their empirical contents via observation
 sentences.
 
+====== related to ======
+[[quines_errors]]
 
 == introduction ==
 Observation
@@ -12,17 +14,24 @@ Quine makes many erroneous claims about holkiwm, and the connection of theories
 with their empirical contents, but perhaps none are as devastating as the
 problems with observation sentences.
 
-Quine recognised the problem of inter-subjective identitiy of stimuli
+There are three problems with observation sentences as Quine defines them in
+_Word and Object_.
+* The first concerns the connection between observation sentences and stimuli
+	(or objects in whichever [[epistemic_bottleneck]] is under consideration)
+	which is more diffuse than Quine claims.<br>
+	[[penumbral_confirmation_conditions]]
+* The second problem is one that Quine appears to recognised and struggled
+	with throughout his later his career - intersubjective identity no two
+	peoples bodies are shaped the same nor sensory nerves placed in the same
+	positions. But the identification of observation sentences relies upon the
+	inter-subjective identification of stimuli. 
 
-Namely that the identification of observation sentences relies upon the
-inter-subjective identification of stimuli. 
+    an observation sentence is one on which all speakers of the language give
+    the same verdict when given the same concurrent stimulation.
+	[[local:zz.texts/quine1969-ontologicalRelativityAOE.pdf]]
+* The third is the use of observation sentences to connect theories with their
+	contents. This is fundamental.
 
-
-1st problem: 
-
-
-
-= overview =
 According to Quine empirical theories are connected with their con/infirmation 
 conditions via observation sentences. There are however two fundamental defects
 about Quine's account of observation sentences and how they provide this
@@ -31,7 +40,7 @@ connection.
 The first concerns Quine's claim that the sentences providing this connection
 must have fixed <q>stimulus meanings</q>. While this defect has never received
 attention such rigid connections would preclude theories from being able to
-issue testable predictionsit would, if consistently followed through, preclude
+issue testable predictions it would, if consistently followed through, preclude
 theories from having empirical content at all. On the other hand, once noted,
 this defect is easily remedied and in that sense not a fundamental problem.
 
@@ -50,110 +59,20 @@ account of how langauge is actually learnt and the kind of evidence that actual
 language learners/teachers rely upon a somewhat more complex account of the
 evidential basis for translation is required.
 
-== review of observation sentences ==
-Quine gives his most detailed and thourough definition of <q>observation
-sentence</q> in _Word and Object_.
-
 == penumbral conditions == 
-The method by which to identify observation setences (or more strictly speaking
+The method by which to identify observation sentences (or more strictly speaking
 <q>highly observational sentences</q> 
 
 two problems, one minor and readily fixed as soon as it is noticed, although it
 has 
 
-
-
-= intersubjective stimulus identity =
-
+= living without intersubjective stimulus identity =
+the correct method
 We identify situations, arrangements of objects viewed from certain perspectives
 distal stimuli if one likes that we believe causes a stimuli that 
 
-= other related cards =
-semantic holism
-
-
-
-:start:holism_trail:
-= Trials and tribulations of being a semantic holist =
-=== short ===
-A practical demonstration of the coherence of semantic holism
-
-= main =
-== introduction ==
-Occasionally I feel a deep anxiety that I will die before being able to explain
-[[semantic_holism_trail]] sufficiently clearly to do this beautiful semantic principle
-justice. Of course, any philosopher worth their salt would be delighted to have
-good reasons for believing a principle that is at once so clear, profound,
-elegant, and (not least important) true, and yet so widely disbelieved.  After
-all one of the chief joys of philosophy is the license it gives for largely
-unsuccessful attempts to foist one's opinions on more or less innocent passers
-by. The field is thus apt to attract those who enjoy the the painless suffering
-of being a lone voice in the wilderness, and I am no exception.
-
-It would, therefore, be disingenuous to count the fact that [[semantic_holism_trail]]
-and the accompanying doctrine of indeterminacy of translation are both widely
-held to be either false, self-contradictory or incoherent as a tribulation for
-those, like myself, who espouse the doctrine. 
-What
-does irritate somewhat, however, is that the very tools which critics use to
-formulate their claims that semantic holism is incoherent or self-contradictory,
-demonstrate the falsehood of their claims. For those tools provide beautifully
-clear examples of semantic holism in action, and are produced by means which
-exemplify the indeterminacy of translation. The computers and programs that
-nearly all of us use to write our essays and articles provide perfectly clear
-practical exemplars of both semantic and confirmation holism, and thereby
-demonstrate the coherence of the very doctrines that the critics use them to
-decry.
-
- Let us begin by lowering expectations. The chief purpose of this essay is to
-make perfectly clear . We cannot pass over the fact that these seemingly
-abstruse doctrines of the philosophy of langauge are vividly and concretely
-true.
-clarify first then argue for subsequently.
-It remains. AT the risk of getting ahead of ourselves
-Although the chief purpose of this essay is merely to present a clear and 
-The purpose of this essay is to clarify not to argue directly for either semantic or
-confirmation holism. Of course, at the risk of getting ahead of our argument, 
-
-why these fundamental semantic principles have been unwittingly discovered and
-exemplified by programmers accounts of 
-
-that choice of interpretation being, as QUine would be the first to admit,
-arbitrary (since doctrines 
-
-Why, _prima facie_, no practical examples are ??{to be expected}??
-
-Let us begin by noting just how far fetched, it appears that any direct examples
-of indeterminacy of translation will ever be produced in practice.
-
-Let us begin, however, by emphasising just how far-fetched it seems  for
-semantic holism implausible it seems that the doctrine of
-confirmational holism (and thence semantic holism) and the under-determinacy of
-translation is to have any direct and straightforward exemplars. Confirmation
-holism is the doctrine that whole theories are the primary objects of
-confimation (and infirmation) - and that some sentences (in perfectly good
-linguistic standing) do not have confirmation (or infirmation) conditions at
-all. If one holds that 
-
-The connection between the two is widely supposed to be obscure and dubious, as
-is each of the doctrines by themselves.
-
-=== argument against holism from compactness ===
-[[local:zz.texts/morrison2017-evidentialHolism.pdf]]
-p.4.1, 5.1, 5.2
-there is a trivial refutation and perhaps a deeper refutation
-==== trival ====
-The same thing is wrong as with the following argument. Turing machines are not
-of any greater complexity than DFA. A finite tape TM is = = DFA. Any computation
-that is performed can be performed using only a finite amount of tape therefor
-only a finite amount of tape is required
-
-Suppose we have the set of sentences describing a run through or a program. It is
-true that those sentences . As is discussed in ??{semantic holism}?? ??{what is
-evidence}?? ??{Quine's errors#not only observation sentences have empirical
-content}??
-
-
-
-= other related cards =
-
+= !!!!! =
+[!IMPORTANT!]
+This can be the first significant result.
+The inability of empiricists to distinguish "observation sentences" form
+"theoretical" sentences.

@@ -1,0 +1,94 @@
+:draft0.3:
+= stock of problems =
+====== short ====== 
+A stock of problems that are solved by confirmation/semantic holism.
+
+====== related to ====== 
+[[introspection_not_a_source_of_theoretical_knowledge]]
+[[wn.notes:descartes#cogito]]
+[[wn.notes:philosophers_dogmatism]]
+[[wn.notes:quinean_reasoning]]
+
+= main =
+=== why introspection inadmissible ===
+[[introspection_not_a_source_of_theoretical_knowledge]]
+
+=== distinction between science and philosophy ===
+my paper: a dogma of naturalism
+
+=== Cartesian skepticism ===
+driven by underdetermination from the outset, and indeterminacy is its solution
+[[wn.notes:descartes#cogito]]
+==== rough note ====
+Some critics of quinine indeterminacy of translation claim that it is simply
+scepticism rehashed, or scepticism given a linguistic turn.
+If we cannot
+prove that there is an external world on the basis of observations then nor can
+we have grounds for interpreting someone else as holding holding that there are
+external objects. This is fundamentally correct, but with a mis-emphasis. The
+thing that they car was worried about in the first place was the undetermination
+of theory by evidence. The indeterminacy of translation should be seen as a
+solution to Descartes scepticism rather than a further linguistic layer.
+
+Let me try related point about general relativity. It's commonplace for people
+to talk about space-time or sometimes even the space-time. Continuum or that
+Einstein has shown or Einstein has proposed a theory which is supported by
+people observations which shows that space and time are fused into a single four
+or five dimensional space. This can foster the illusion that there is an
+underlying set of relationships between points in this space-time continuum and
+which is the correct one, and then each one of us sees this single spacetime
+continuum from our own particular perspective. The truth is somewhat stranger
+than this. There is simply the spacetime continuum as it is seen from your
+perspective, holding certain events to be simultaneous and other ones not to be
+simultaneous some of ants to be co-located and other events not collocated and
+the space time continuum as seen from my perspective in which a subtle
+reordering and recombining of events into contemporaneous and co-spatial occurs
+and that there is no perspective on this underlying space-time continuum that is
+the correct, absolute or write one. There simply events in spacetime as they
+appeared from your perspective and events in spacetime as they appear from my
+perspective and when you, you can't describe these events without describing
+from from some perspective or other but none of these perspectives is
+fundamentally anymore neutral or preferable than any other and they disagree
+about whether certain events occur at same time or not.
+
+=== philosophers dogmatism ===
+see [[wn.notes:philosophers_dogmatism]]
+
+=== knowledge and reasoning ===
+Empiricism has traditionally had a problem with reasoning
+in order to see how bad [[wn.notes:quinean_reasoning]]
+
+=== intensional objects ===
+[[wn.notes:propositional_attitudes]]
+de dicto and de re belief
+failure of substitutivity
+
+=== quus ===
+[[quus]]
+Kripkenstein's anti dispositionalist problem
+
+
+== confirmation problems ==
+[[confirmation]] [[confirmation_holism]]
+=== non-black non-crows ===
+confirm the claim that all crows are [[black]]
+
+∀x Crow(x) ⊃ Black(x) === ∀x ¬Black(x) ⊃ ¬Crow(x)
+
+=== problem of tacking ===
+If an observation is deducible from H and hence (according to
+hypothetico-deductivism) confirms H, then it is also deducible from H ∧ T
+where T is an arbitrary tacked on clause and hence confirms H ∧ T.
+
+this is closely related to the _converse consequence condition_ due to Hempel
+which says that is E supports H, and H' entails H then E supports H'
+
+=== how theories are connected to their confirmation conditions ===
+[[quines_errors#observation sentences]]
+
+=== deOccamized theories ===
+[[wn.notes:glymour1980-theoryAndEvidence#deOccamized theories]]
+
+=== random grain of the universe === 
+not sure if this fits in RLN at all
+[[wn.notes:a_grue_solution]], [[grue_problem]]
